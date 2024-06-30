@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    <header>
+        <h1>{{ .Site.Title }}</h1>
+        <nav>
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+                <a href="{{ .URL }}" {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }}>
+                    {{ .Name }}
+                </a>
+            {{ end }}
+        </nav>
+        <button id="theme-toggle">Toggle Theme</button>
+        {{ with .OutputFormats.Get "RSS" }}
+            <a href="{{ .Permalink }}" target="_blank" rel="noopener noreferrer" title="RSS Feed">
+                <i class="fas fa-rss"></i>
+            </a>
+        {{ end }}
+    </header>
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+        <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+    </footer>
+    <script src="{{ "js/theme-switch.js" | relURL }}"></script>
+</body>
+</html>

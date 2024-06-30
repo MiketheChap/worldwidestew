@@ -1,0 +1,22 @@
+{{ define "main" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+    {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+    <p>Number of posts: {{ len .Pages }}</p>
+    {{ range $paginator.Pages }}
+        <article>
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <time>Published: {{ .Date.Format "January 2, 2006" }}</time>
+            {{ with .Params.author }}
+                <p>Author: {{ . }}</p>
+            {{ end }}
+            {{ with .Params.summary }}
+                <p>{{ . }}</p>
+            {{ else }}
+                <p>{{ .Summary }}</p>
+            {{ end }}
+            <a href="{{ .RelPermalink }}">Read more...</a>
+        </article>
+    {{ end }}
+    {{ template "_internal/pagination.html" . }}
+{{ end }}

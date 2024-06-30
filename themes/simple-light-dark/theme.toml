@@ -1,0 +1,12 @@
+name = "Simple Light Dark"
+license = "MIT"
+licenselink = "https://github.com/yourusername/simple-light-dark/blob/master/LICENSE"
+description = "A simple Hugo theme with switchable light/dark mode"
+homepage = "https://github.com/mikethechap/simple-light-dark"
+tags = ["responsive", "light", "dark", "minimal"]
+features = ["light/dark mode"]
+min_version = "0.41.0"
+
+[author]
+  name = "Mike Davis using Claude AI from Anthropic"
+  homepage = "https://yourwebsiteworldwidestew.com"

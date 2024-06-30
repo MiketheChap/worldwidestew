@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Worldwide Stew</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Worldwide Stew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/blog/my-first-blog-post/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/my-first-blog-post/</guid>
+      <description>This is my first blog post. I&amp;rsquo;ll add another one shortly.</description>
+    </item>
+    
+    <item>
+      <title>My second Blog Post</title>
+      <link>http://localhost:1313/blog/my-second-blog-post/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/my-second-blog-post/</guid>
+      <description>This is my second blog post. I&amp;rsquo;ll add another one shortly.</description>
+    </item>
+    
+    <item>
+      <title>My First Article</title>
+      <link>http://localhost:1313/my-first-post/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/my-first-post/</guid>
+      <description>This is a custom summary for my article. It will be used instead of the auto-generated summary.</description>
+    </item>
+    
+    <item>
+      <title>My Second Article</title>
+      <link>http://localhost:1313/my-second-article/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/my-second-article/</guid>
+      <description>This is my second article</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t try to create and analyze at the same time.</title>
+      <link>http://localhost:1313/blog/creativity-and-analysis-from-seth-godin/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/creativity-and-analysis-from-seth-godin/</guid>
+      <description>Creativity and analysis do different things</description>
+    </item>
+    
+  </channel>
+</rss>

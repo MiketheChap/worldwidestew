@@ -1,0 +1,15 @@
+<header>
+  <div class="header-container">
+    <div class="logo">
+      <img src="/images/logo.png" alt="Logo" width="150" height="150">
+    </div>
+    <nav class="header-nav">
+      <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Sections }}
+          <li><a href="{{ .RelPermalink }}" class="{{ if eq $currentPage.RelPermalink .RelPermalink }}active{{ end }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
+</header>

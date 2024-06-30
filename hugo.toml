@@ -1,0 +1,45 @@
+baseURL = 'https://worldwidestew.com/'
+languageCode = 'en-us'
+title = 'Worldwide Stew'
+theme = "simple-light-dark"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Deeper-Dive"
+    url = "/editorial/"
+    weight = 3
+  [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+  [[menu.main]]
+    name = "Media"
+    url = "/media/"
+    weight = 5
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss+xml"
+    baseName = "feed"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+  
+
+[params]
+  logo = "images/logo.png"
