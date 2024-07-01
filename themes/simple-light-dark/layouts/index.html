@@ -2,4 +2,13 @@
     <h1>This is {{ .Site.Title }}</h1>
     {{ .Content }}
     <!-- Add any other content specific to your homepage -->
+    <h2>Recent Posts</h2>
+<ul>
+    {{ range first 5 (where .Site.RegularPages "Type" "blog").ByDate.Reverse }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+    </li>
+    {{ end }}
+</ul>
 {{ end }}

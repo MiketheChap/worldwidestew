@@ -2,6 +2,7 @@
 title: "Don't try to create and analyze at the same time."
 author: "mike davis"
 date: "2019-05-01"
+type: blog
 description: "Creativity and analysis are different processes"
 summary: "Creativity and analysis do different things"
 draft: false
