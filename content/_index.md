@@ -1,3 +1,8 @@
+### Worldwide Stew is being refurbished. 
+#### It will take about two months to get all the old site content back. Thank you for your patience!
+
+#### Mike
+
 Cook it long and slow. Allow all the flavors to meld. Serve only when it’s ready. That’s the goal here. 
   
 Some restaurants slam meals together using a few cheap spices bought in bulk long-past their expiration date; pre-mixed sauces; and pre-cooked items. There's lots of sodium to give the illusion of flavor. In short, most restaurants create processed foods.  
