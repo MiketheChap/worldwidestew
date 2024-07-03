@@ -52,3 +52,5 @@ Here are some thoughts:
 - Spend more time with different cultures. Eat their food. See their kids. Go to their religious assemblies. Ask why you do this practice (my wife says I shouldn't ask Why questions, so be careful about Why. If you ask Why, make sure it doesn't come across as judgmental. What about your beliefs or story makes this important? What does this practice symbolize?)
 - Be less reactive. We all have trigger words and ideas. Remember that we are all on a continuum of tolerance and understanding for each idea. I'm ashamed of many beliefs and opinions I've held and acted on. I've had people from multiple races, cultures, sexual preferences, and beliefs give me a *safe landing* whereby I could safely examine my prejudices, fears, and triggers. We need to be less reactive to make a safer and better world. 
 - Stop talking about what's wrong and discuss the world we want. What can we imagine as better?
+
+{{< vimeo 55073825 >}}
