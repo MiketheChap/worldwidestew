@@ -21,4 +21,20 @@
     {{ end }}
 </ul>
 
+<h1> All Tags on Worldwide Stew</h1>
+<ul>
+  {{ range .Site.Taxonomies.tags }}
+  <li>
+    <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})
+    <ul>
+      {{ range .Pages }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </li>
+  {{ end }}
+</ul>
+
 {{ end }}
