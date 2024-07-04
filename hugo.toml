@@ -40,6 +40,7 @@ theme = "simple-light-dark"
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
   
+paginate = 5 # This will show 5 posts per page
 
 [params]
   logo = "images/logo.png"
