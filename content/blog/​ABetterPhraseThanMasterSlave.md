@@ -1,5 +1,5 @@
 ---
-title: "The Master-Slave controversy: a way forward?"
+title: "Masters and Slaves: rethinking our language"
 author: "mike davis"
 date: "2024-07-01"
 type: blog
