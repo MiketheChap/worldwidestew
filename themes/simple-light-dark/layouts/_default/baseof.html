@@ -1,49 +1,58 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Site.Title }}{{ if not .IsHome }} | {{ .Title }}{{ end }}</title>
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-    {{ with .OutputFormats.Get "RSS" }}
-    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}">
-    {{ end }}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-    {{ block "head" . }}{{ end }}
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ .Site.Title }}{{ if not .IsHome }} | {{ .Title }}{{ end }}</title>
+<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+{{ with .OutputFormats.Get "RSS" }}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink }}" title="{{ $.Site.Title }}">
+{{ end }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+<script src="/js/search.js"></script>
+{{ block "head" . }}{{ end }}
 </head>
 <body>
-    <header>
-        <div class="header-container">
-            <div class="logo-title">
-                <img src="{{ "images/logo.png" | relURL }}" alt="{{ .Site.Title }} logo" width="150" height="150">
-                <h1>{{ .Site.Title }}</h1>
-            </div>
-            <nav>
-                {{ $currentPage := . }}
-                {{ range .Site.Menus.main }}
-                <a href="{{ .URL }}" {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }}>
-                    {{ replace .Name "-" " " }}
-                </a>
-                {{ end }}
-            </nav>
-            <div class="header-controls">
-                <button id="theme-toggle">Toggle Theme</button>
-                {{ with .OutputFormats.Get "RSS" }}
-                    <a href="{{ .Permalink }}" target="_blank" rel="noopener noreferrer" title="RSS Feed">
-                        <i class="fas fa-rss"></i>
-                    </a>
-                {{ end }}
-            </div>
-        </div>
-    </header>
+<header>
+<div class="header-container">
+<div class="logo-title">
+<img src="{{ "images/logo.png" | relURL }}" alt="{{ .Site.Title }} logo" width="150" height="150">
+<h1>{{ .Site.Title }}</h1>
+</div>
+<nav>
+{{ $currentPage := . }}
+{{ range .Site.Menus.main }}
+<a href="{{ .URL }}" {{ if $currentPage.IsMenuCurrent "main" . }}class="active"{{ end }}>
+{{ replace .Name "-" " " }}
+</a>
+{{ end }}
+</nav>
+<div class="header-controls">
+<button id="theme-toggle">Toggle Theme</button>
+{{ with .OutputFormats.Get "RSS" }}
+<a href="{{ .Permalink }}" target="_blank" rel="noopener noreferrer" title="RSS Feed">
+<i class="fas fa-rss"></i>
+</a>
+{{ end }}
+</div>
+</div>
+</header>
 
-    <main>
-        {{ block "main" . }}{{ end }}
-    </main>
+<div class="search-container">
+<form id="search-form">
+<input type="text" id="search-input" placeholder="Search...">
+<button type="submit">Search</button>
+</form>
+<div id="search-results"></div>
+</div>
 
-    <footer>
-        <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
-    </footer>
-    <script src="{{ "js/theme-switch.js" | relURL }}"></script>
+<main>
+{{ block "main" . }}{{ end }}
+</main>
+<footer>
+<p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+</footer>
+<script src="{{ "js/theme-switch.js" | relURL }}"></script>
 </body>
 </html>

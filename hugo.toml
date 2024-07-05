@@ -27,7 +27,7 @@ theme = "simple-light-dark"
   [[menu.main]]
     name = "Media"
     url = "/media/"
-    weight = 5
+    weight = 5  
 
 [outputFormats]
   [outputFormats.RSS]
@@ -35,12 +35,12 @@ theme = "simple-light-dark"
     baseName = "feed"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
   
-paginate = 5 # This will show 5 posts per page
+paginate = 5 # This will show 3 posts per page
 
 [params]
   logo = "images/logo.png"

@@ -143,15 +143,169 @@ nav a:hover, nav a.active {
   color: var(--bg-color);
 }
 
-@media (max-width: 600px) {
+#autocomplete-results {
+  position: absolute;
+  background: white;
+  border: 1px solid #ddd;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#autocomplete-results li {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#autocomplete-results li:hover {
+  background: #f0f0f0;
+}
+
+mark {
+  background: yellow;
+  padding: 0 2px;
+}
+
+#search-results .search-results-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+#search-results .search-results-list li {
+  margin-bottom: 1em;
+  padding: 0.5em;
+  border-bottom: 1px solid #eee;
+  display: block;
+  width: 100%;
+}
+
+#search-results .search-results-list a {
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+#search-results .search-results-list a:hover {
+  text-decoration: underline;
+}
+
+#search-results .search-result-snippet {
+  margin: 0.5em 0 0 0;
+  font-size: 0.9em;
+  color: #666;
+  display: block;
+}
+
+#search-results {
+  margin-top: 1em;
+  padding: 1em;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.search-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+#search-form {
+  display: flex;
+  justify-content: center;
+}
+
+#search-input {
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#search-form button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#search-form button:hover {
+  background-color: #0056b3;
+}
+
+#search-results {
+  margin-top: 20px;
+}
+
+#search-results .search-results-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#search-results .search-results-list li {
+  margin-bottom: 1em;
+  padding: 0.5em;
+  border-bottom: 1px solid #eee;
+}
+
+#search-results .search-results-list a {
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  display: block;
+}
+
+#search-results .search-results-list a:hover {
+  text-decoration: underline;
+}
+
+#search-results .search-result-snippet {
+  margin: 0.5em 0 0 0;
+  font-size: 0.9em;
+  color: #666;
+}
+
+
+
+
+
+@media (max-width: 768px) {
   .logo-title img {
     width: 75px;
     height: 75px;
   }
+  
   .header-container {
     flex-direction: column;
   }
+  
   nav {
     margin-top: 1em;
+  }
+
+  .search-container {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  #search-form {
+    flex-direction: column;
+  }
+
+  #search-input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  #search-form button {
+    width: 100%;
   }
 }
