@@ -13,7 +13,7 @@ Driven by an unspeakable and unshakable certainty, the two characters find their
 
 Steven Spielberg has repeatedly tapped into the well of [awe](https://en.m.wikipedia.org/wiki/Awe). For me, none of his encounters with awe stirs me more than his [Close Encounters of the Third Kind](https://en.m.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind). Jillian - in a frightful encounter where her son goes missing - doggedly pursues him. Roy, the electrical lineman, has his own experience. Film history is marked with other *mashed potato* scenes, but none detail richly detail the effects of apparent psychosis as well as Roy’s obsession with the mountain he’s *seen*. 
 
-A little bit ago, while imagining a trip where we might pass through Wyoming, I thought I might have to visit [Devil’s Tower National Monument](https://en.m.wikipedia.org/wiki/Devils_Tower). This butte is the mythic structure Roy is modeling in his dreams and walking life. Jillian, too,is driven by thoughts of the mountain. Both Jillian and Roy arrive there separately, each to find their answers. 
+This morning, while thinking about a trip where we might pass through Wyoming, I thought I might have to visit [Devil’s Tower National Monument](https://en.m.wikipedia.org/wiki/Devils_Tower). *Close Encounters* prominently features Devil's Tower. This butte is the mythic structure Roy is modeling in his dreams, mashed potatoes, and all his waking life. Jillian, too,is driven by thoughts of the mountain. Both Jillian and Roy arrive there separately, each to find their answers. 
 
 ![Devil's Tower National Monument](/images/blog/Devils_Tower_in_Wyoming.jpg)
 
