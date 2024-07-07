@@ -1,8 +1,7 @@
 #### Worldwide Stew is being refurbished. 
-##### It will take about two months to get all the old site content back. Thank you for your patience!
 
 ##### Mike
 
-Cook it long and slow. Allow all the flavors to meld. Serve only when it’s ready. That’s what we want at Worldwide Stew. 
+All recipes evolve. They need time, practice, and multiple tastings. A little of this, some of that. No, that's too much. Worldwide Stew is just another street vendor - like all such places - wanting to serve up some joy or thought. Just for now, if I can. 
 
-While I'm refurbishing, I'll post my newest pages here: 
+While I'm refurbishing, My newest blog entries and Deeper Deives are listed below. But, there's more at the menu links above!

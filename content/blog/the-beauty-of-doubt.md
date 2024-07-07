@@ -8,4 +8,4 @@ summary: "Don't be so sure."
 ---
 Don't be so sure.
 
-We prize certainty above all. To our fault. To our poverty. 
+We prize certainty above all else. To our fault. To our poverty. 
