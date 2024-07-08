@@ -11,7 +11,7 @@
     </li>
     {{ end }}
 </ul>
-<h2>Recent Editorial Posts</h2>
+<h2>Recent Deep Dives (research and opinion)</h2>
 <ul>
     {{ range first 5 (where .Site.RegularPages "Type" "editorial").ByDate.Reverse }}
     <li>

@@ -13,7 +13,7 @@ theme = "simple-light-dark"
     url = "/blog/"
     weight = 2
   [[menu.main]]
-    name = "Deeper-Dive"
+    name = "Deep-Dives"
     url = "/editorial/"
     weight = 3
   [[menu.main]]
