@@ -13,7 +13,7 @@
             {{ with .Params.summary }}
                 <p>{{ . }}</p>
             {{ else }}
-                <p>{{ .Summary }}</p>
+                <p>Summary:{{ .Summary }}</p>
             {{ end }}
             <a href="{{ .RelPermalink }}">Read more...</a>
         </article>
