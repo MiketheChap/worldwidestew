@@ -6,14 +6,14 @@
     {{ range $paginator.Pages }}
         <article>
             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            <time>Published: {{ .Date.Format "January 2, 2006" }}</time>
+            <time><b>Published</b>: {{ .Date.Format "January 2, 2006" }}</time>
             {{ with .Params.author }}
-                <p>Author: {{ . }}</p>
+                <p><b>Author</b>: {{ . }}</p>
             {{ end }}
             {{ with .Params.summary }}
-                <p>{{ . }}</p>
+                <p><b>Summary</b>: {{ . }}</p>
             {{ else }}
-                <p>Summary:{{ .Summary }}</p>
+                <p>{{ .Summary }}</p>
             {{ end }}
             <a href="{{ .RelPermalink }}">Read more...</a>
         </article>

@@ -1,7 +1,7 @@
 ---
 title: "Just Start"
 date: 2024-07-13
-author: "Mike Davis"
+author: "Mike Davis, Th.M., BCC, CWMF"
 type: blog
 tags: ["action bias","positivity", "quote"]
 summary: "Just Start. There's many ways to say this. Today is the first day of the..."
