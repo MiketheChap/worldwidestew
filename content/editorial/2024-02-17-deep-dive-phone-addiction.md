@@ -1,5 +1,5 @@
 ---
-title: "Deep Dive: phone addctions; private equity and hospitals"
+title: "Deep Dive: phone addictions; private equity and hospitals"
 date: 2024-02-17
 tags: ["smartphones", "addiction", "private equity", "healthcare", "hospitals"]
 ---
