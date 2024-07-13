@@ -1,7 +1,7 @@
 {{ define "main" }}
     <h2>{{ .Title }}</h2>
     {{ .Content }}
-    {{ $paginator := .Paginate .Pages.ByDate.Reverse }}
+    {{ $paginator := .Paginate .Pages.ByDate.Reverse 5 }}
     <p>Number of posts: {{ len .Pages }}</p>
     {{ range $paginator.Pages }}
         <article>
