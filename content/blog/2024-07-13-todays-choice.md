@@ -1,13 +1,11 @@
 ---
-title: "Today's Choice"
+title: "Just Start"
 date: 2024-07-13
 author: "Mike Davis"
 type: blog
 tags: ["action bias","positivity", "quote"]
 summary: "Just Start. There's many ways to say this. Today is the first day of the..."
 ---
-## Just Start
-
 One of the most common frustrations with developing a regular mindfulness and positive psychology journey is to *find the time to do them*. Certainly, with our busy lifestyles, finding time to do important things is difficult. It is just here, though, where we find an opportunity. Our lives can feel like drudgery, an endless cycle from which we can't break loose. 
 
 As I've tried to develop my mindfulness practice, I'm easily distracted. One of the most helpful pieces of wisdom I've heard is this:
