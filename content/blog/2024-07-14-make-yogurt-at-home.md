@@ -21,7 +21,7 @@ Here's my recipe for making your own yogurt at home. It was substantially adapte
 
 **Tips and Equipment**
 1. Keep a timer handy AND use it
-2. I use an electric hot pad to keep the mixture warm for 9-12 hours. **Make certain you don't use a hotpad that times out!!! It will shut off automatically, and your mix will die an ignominious death.**
+2. I use an electric heating pad to keep the mixture warm for 9-12 hours. **Make certain you don't use a heating pad with auto-shutoff. It will shut off automatically, and your mix will die an ignominious death.** The one we use [is like this](https://www.amazon.com/Sunbeam-732-500-King-Heating-UltraHeatTechnology/dp/B00075M1T6/).
 3. You'll need a large Dutch oven.
 4. *You'll need a minimum 1-gallon yogurt strainer.* Cheesecloth is also possible, but it isn't easy. I use a 2-gallon one from Hatrigo, but it's no longer available. Here's a one-gallon one. Here's [a possible 1-gallon replacement](https://www.amazon.com/Bear-Greeks-separator-eco-friendly-materials/dp/B0CP3QD3YJ/ref=sr_1_6).
 
