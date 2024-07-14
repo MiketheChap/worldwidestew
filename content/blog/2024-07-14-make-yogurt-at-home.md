@@ -26,11 +26,10 @@ Here's my recipe for making your own yogurt at home. It was substantially adapte
 4. *You'll need a minimum 1-gallon yogurt strainer.* Cheesecloth is also possible, but it isn't easy. I use a 2-gallon one from Hatrigo, but it's no longer available. Here's a one-gallon one. Here's [a possible 1-gallon replacement](https://www.amazon.com/Bear-Greeks-separator-eco-friendly-materials/dp/B0CP3QD3YJ/ref=sr_1_6).
 
 **Recipe**
-1. Take a large Dutch Oven and line the bottom with ice long enough to cool it (this comes from the New York Times, not me).
-2. Put the entire amount of the whole milk in the Dutch Oven. Then, add the entire amount of the heavy cream. Bring the temperature of the milk/cream mixture up to 185 degrees. Use a spatula to stir the mixture and the bottom of the Dutch oven frequently during the cooking process. Keep a close eye on it, especially if you're making a 1-gallon batch. 
+1. Take a large Dutch Oven and line the bottom with ice long enough to cool it (this comes from the New York Times, not me). Then, pour the ice out (or save it for another use).
+2. Put the entire amount of the whole milk in the Dutch oven. Then, add the entire amount of the heavy cream. Bring the temperature of the milk/cream mixture up to 185 degrees. Use a spatula to stir the mixture and the bottom of the Dutch oven frequently during the cooking process. Keep a close eye on it, especially if you're making a 1-gallon batch. 
 3. Once it has reached 185 degrees, immediately remove the milk/cream mixture from the heat. 
-4. Remove your Skyr (or other Greek Yogurt) from the refrigerator and place in a small mixing bowl. 
-5. Let the milk/cream mixture cool to 115 degrees. 
+4. Remove your Skyr (or other Greek Yogurt) from the refrigerator and place in a small mixing bowl. Leave it out so you can have it ready when you follow step 6. 
 6. When it reaches 115 degrees, take about 1 cup of the milk/cream mix and whisk it with the Skyr yogurt. This keeps the still-warm milk/cream mixture from killing the yogurt's bacteria. This is called *tempering*. 
 7. Add the now-mixed milk/cream/yogurt mix to the big milk/cream mix and whisk it all together. Skim off the skinned milk on top. 
 8. Cover the Dutch oven with foil and a plate. 
