@@ -18,7 +18,7 @@ Barb loves her jigsaw puzzles. We have at least one completed [Harry Potter puzz
 
 I like watching her progress and process. She paces herself. She is careful to avoid letting the pieces fall. When she hits a hard place, she stops and returns later. And, when it's done, she's exuberant. 
 
-In my studies on depression, the process of healing from depression involves daily and long-term activities providing pleasure and accomplishment. In fact, this approach to depression reduction is called *behavioral activation*. It involves action, not frittering our time away in thought. Do things that give pleasure and accomplishment. 
+In my studies on depression, the process of healing from depression involves daily and long-term activities providing pleasure and accomplishment. In fact, this approach to depression reduction is called *behavior activation*. It involves action, not frittering our time away in thought. Do things that give pleasure and accomplishment. 
 
 Returning to *Hard Work*, technology promises to make our life easier. Is that always a good goal? 
 
