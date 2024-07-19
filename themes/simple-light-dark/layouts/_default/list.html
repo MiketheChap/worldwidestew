@@ -11,9 +11,9 @@
                 <p><b>Author</b>: {{ . }}</p>
             {{ end }}
             {{ with .Params.summary }}
-                <p><b>Summary</b>: {{ . }}</p>
+                <b>Summary</b>: {{ . }}
             {{ else }}
-                <p>{{ .Summary }}</p>
+                {{ .Summary }}
             {{ end }}
             <a href="{{ .RelPermalink }}">Read more...</a>
         </article>

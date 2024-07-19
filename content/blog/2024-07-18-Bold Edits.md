@@ -3,10 +3,7 @@ title: Bold Edits
 date: 2024-07-18
 author: Mike Davis
 type: blog
-tags:
-  - Courage
-  - Organizations
-  - culture
+tags: ["Courage", "Organizations", "culture"]
 summary: “Inexperienced Wikipedia editors (like myself) are reluctant to make changes on our own, especially when articles have automated warnings. Thankfully, Wikipedia endorses…”
 ---
 Though I’m a Wikipedia editor, I’m an inexperienced one. This morning, I noticed Wikipedia had posted some warnings about an article I was reading. *One link lead to another* and I came to the Wikipedia editor [Be bold](https://en.m.wikipedia.org/w/index.php?title=Wikipedia:Be_bold&diffonly=true) page. 
