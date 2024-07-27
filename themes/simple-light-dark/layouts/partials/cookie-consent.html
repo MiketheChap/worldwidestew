@@ -1,0 +1,18 @@
+<div id="cookie-consent" style="display: none;">
+    <p>This website uses cookies to ensure you get the best experience on our website. 
+       <a href="{{ "gdpr/" | relURL }}">Learn more</a></p>
+    <button id="cookie-consent-button">I understand</button>
+  </div>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      if (!localStorage.getItem('cookieConsent')) {
+        document.getElementById('cookie-consent').style.display = 'block';
+      }
+  
+      document.getElementById('cookie-consent-button').addEventListener('click', function() {
+        localStorage.setItem('cookieConsent', 'true');
+        document.getElementById('cookie-consent').style.display = 'none';
+      });
+    });
+  </script>

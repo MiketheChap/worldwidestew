@@ -54,5 +54,6 @@
 <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
 </footer>
 <script src="{{ "js/theme-switch.js" | relURL }}"></script>
+{{ partial "cookie-consent.html" . }}
 </body>
 </html>
