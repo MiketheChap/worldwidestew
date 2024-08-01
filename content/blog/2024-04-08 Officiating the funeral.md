@@ -1,0 +1,21 @@
+---
+title: "Officiating the funeral"
+author: mike davis
+date: 2024-04-08
+type: blog
+tags: ["funeral", "death"]
+summary: "I don't enjoy officiating at funerals, especially of someone I've loved. Sometimes, though, Fate..."
+---
+I’m tired of funerals. I’m often asked to officiate. When I learn someone has died, I slump. Will I be chosen to offer the parting words? 
+
+In my experience, there are four parties at the funeral: the Aggrieved, the officiant(s), the litigants (and the funeral home facilitators), and the Deceased. The Officiant in Chief is responsible to utter incomprehensible words about faith, what lies beyond (though, as yet, none of them have arrived there), and, if the gods are kind, some words of recollection about the Deceased. 
+
+Too often, the Officiant knew too little about the Deceased to recollect much that will bring comfort. She or he is there by way of formality. That’s not a bad thing. It’s human. If, by chance, the Officiant knew the person, they carry a special burden. They must distill what they knew of this person, perhaps their friend or confidante or relative, into a comforting, sensible, reflection. They need to modulate the dark, celebrate the good, avoid the whole truth, and bring comfort to the Aggrieved. In the space of about twenty, or twenty five minutes. There are those funerals, God pity those forced to listen (or, more likely, they are conjuring up that night’s dinner) where the Aggrieved must endure the sweltering outdoor service. Thankfully, Heaven’s mercy is revealed when some poor slob collapses, providing just the right comedic balance to the whole tragic affair. For a brief moment, thanks to Claude’s blinding collapse, the subsequent visit by the EMTs, the start of IVs, and the swift departure of the ambulance, the boring and tedious *message* was drawn to a close, Claude went to his *earthly* home none the worse for wear, and those who were afflicted by loss and a melodious message about the afterlife will have honored their grief and acquired a story for future Thanksgiving tables. *You remember the time Claude keeled over during the service for Uncle Ben? My God! He looked like he’d been simmered in red beets for three weeks when they finally got him loaded into the ambulance.* Everybody will be better for it. 
+
+Those who officiate - and mourn - are forced to utter words despite their certainty that whatever they say is inadequate. Like Valedictorians at graduations, their words will be forgotten. If very fortunate, there will be a general sense of nice words. Those gathered in the company of the Aggrieved do their work together, as a group. The Speaker does their grieving apart. It’s one thing to be a participant. It’s another to be the Leader. I feel this particularly strongly when I was very close to the Deceased. Frankly, leading services is hard for me. This is why part of me just wants to slump when I’m asked to officiate. My grief must take a slightly different path. I have to do two things, not just one.
+
+Still, I’ve felt frustration, bordering on anger, when I wasn’t able to officiate at the funeral of someone I’ve deeply loved. The minister says two sentences about the person, their life, and their family. They speak for forty-five minutes about Heaven, faith, and turning over one’s life to God. *What does the family need? It’s probably not this.* I can’t imagine anyone ever raising their hands that they were turning over their lives to Jesus under a sweltering Texas summer sun. It must happen, though, given the frequency with which preachers make such requests. Though I can’t imagine wanting to attend a funeral where I’ve been the Officiant, I definitely don’t want to be at one of those revival funerals. There are two things funerals should do: focus on the meaning of the Deceased’s life and bring comfort to the Aggrieved. Do that quickly, sit down, and be quiet. 
+
+Be glad to lead the funeral. Yes, it’s harder. But, you can probably do it better. 
+
+I don't enjoy officiating at funerals, especially of someone I've loved. Sometimes, though, Fate chooses the Messenger. Don't fight it. 
