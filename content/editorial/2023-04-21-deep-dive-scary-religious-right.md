@@ -1,5 +1,5 @@
 ---
-title: "Deeper Dive: Apple notifications and the Religious Right"
+title: "Deep Dive: Apple notifications and the Religious Right"
 author: "Mike Davis"
 date: "2023-04-21"
 type: editorial
