@@ -8,7 +8,7 @@ description: "A reflection on the usefulness of meditation if it doesn't bring s
 summary: "If you have a goal for meditation, make sure it's *not* MPH (Meditations per Hour) but M-ROI."
 draft: false
 ---
-If you apply to many meditation programss, you're asked about the length or your meditation experience. Kind of a *Meditations Per Hour*. I understand what they're after when they ask this. Perhaps there's no other way to get at what they want. But, what the credible programs really want is this: what difference does your meditation experience make (or Meditation Return on Investment: M-ROI)? :wink:
+If you apply to many meditation programs, you're asked about the length or your *meditation experience*. This is a kind of a *Meditations Per Hour*. I understand what they're after when they ask this. Perhaps there's no other way to get at what they want. But, what the credible programs really want is this: *what difference does your meditation experience make* (or Meditation Return on Investment: M-ROI)? :wink:
 
 The purported benefits of mindfulness are non-existent - in terms of the time spent - *if meditation offers little return on investment*. 
 
