@@ -1,6 +1,6 @@
 ---
-title: "Eventually, if we're lucky"
-date: 2024-07-18
+title: "Eventually, if we're truly lucky"
+date: 2024-08-12
 author: "Mike Davis"
 type: blog
 tags: ["Poetry", "Healing", "Relief"]
@@ -13,16 +13,17 @@ Our oft-repeated story about *What Happens Next*
 Becomes boring, tiresome  
 Even to us.  
 
-Instead, it feels like  
-Being stuck in a pinball machine  
+We've come to feel like
+Being stuck in a pinball machine,
+A game called *Broken Hopes*  
 Hit by paddle after paddle  
 As if our pain  
-Might cause the Machine to flinch. 
+Might invoke the Machine to Care.
 
 The losses,  
 The drama,  
 The illness,  
-What was wrong,  
+What was wrong, 
 How so little was right,  
 The constant state of pain,  
 The search for *The Answer*,  
@@ -38,8 +39,13 @@ We live in a Desert.
 No relief in sight,  
 Camped along an oasis,  
 Now dried and vacant. 
+Surely, there’s a pill.  
+A surgery.  
+Some release from this story.   
 
-Our Off-told Story had no luster  
+ANd, then, out of the Blue,  
+We see the truth  
+Our Off-told Story has no luster  
 in the first place. 
 Still, piece by piece,  
 And for obvious reasons.  
@@ -47,11 +53,7 @@ It became our plot,
 Our story,  
 Our quest,   
 Our search.   
-We, being strung along.  
-
-Surely, there’s a pill.  
-A surgery.  
-Some release from this story.   
+We, being strung along.   
 
 Like a hym with only one refrain,  
 I can’t,  
@@ -134,5 +136,12 @@ If we’re *truly lucky*,
 Our oft-repeated story about *What Happens Next*    
 Becomes boring, tiresome,   
 Even to us.  
+We settle into the vast beauty 
+lying before us.
+What is possible
+When we release our white-knuckled grasp
+And step into what is possible 
+When we've let go. 
 
 -- Michael Davis
+(Note: I usually post my meditations right after I write them. This one comes from specific love for the people I've visited as a chaplain and known as friends. It also derives from my own life experiences. My hesitation related to my fear that reasders would feel their pain was minimized. I would never want to minimize your pain and your experience of it. We are all on a continual spectrum of change, growth, and acceptance.)
