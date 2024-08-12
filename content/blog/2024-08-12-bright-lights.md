@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Aging (1)"
+title: "Bright Lights"
 author: "Mike Davis"
 date: "2024-08-12"
 type: blog
