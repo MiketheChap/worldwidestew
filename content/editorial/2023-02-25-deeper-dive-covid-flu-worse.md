@@ -1,5 +1,5 @@
 ---
-title: "Deeper Dive for 2024-02-25: Was COVID worse than the flu? "
+title: "Deep Dive for 2024-02-25: Was COVID worse than the flu? "
 author: "Mike Davis"
 date: "2023-02-25"
 type: editorial
