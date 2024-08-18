@@ -3,6 +3,7 @@
     {{ .Content }}
     <!-- Add any other content specific to your homepage -->
     <h2>Recent Blog Posts</h2>
+    <h4> I intend my blog posts to be motivational, hopefully triggering reflection, self-acceptance and growth.</h4>
 <ul>
     {{ range first 5 (where .Site.RegularPages "Type" "blog").ByDate.Reverse }}
     <li>
@@ -11,7 +12,8 @@
     </li>
     {{ end }}
 </ul>
-<h2>Recent Deep Dives (research and opinion)</h2>
+<h2>Recent Deep Dives posts (research and opinion)</h2>
+<h4>My Deep Dives posts are intended to highlight recent articles, areas of concern, news, cultural issues, and even fun stuff. You are more likely to be challenged here.</h4>
 <ul>
     {{ range first 5 (where .Site.RegularPages "Type" "editorial").ByDate.Reverse }}
     <li>
