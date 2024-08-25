@@ -34,13 +34,6 @@ With Mr. Wheeler's voice of surprise, they say, *But, I was wearing the juice.*
 
 **Edit**: Since posting this, the Dunning-Kruger Effect has been called into question (with good [evidentiary basis]([](https://www.nature.com/articles/s41562-021-01101-z))). The summary version of the new updates says the following. The original conclusions were thus:
 
-Certainty in the **old** Dunning-Kruger:
-1. The person who knew nothing about a subject in general feels they know about a subject (but is clearly not an expert).
-
-2. The expert in that subject generally feels s/he doesn't know enough to be considered an expert.
-
-**Edit**: Since posting this, the Dunning-Kruger Effect has been called into question (with good [evidentiary basis]([](https://www.nature.com/articles/s41562-021-01101-z))). The summary version of the new updates says the following. The original conclusions were thus:
-
 Certainty in the **new** Dunning-Kruger:
 1. The person who knew nothing about a subject in general feels they know about a subject (but is clearly not an expert).
 
