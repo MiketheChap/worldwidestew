@@ -18,3 +18,4 @@ We talked about the following:
 6. A recent study stating that ~ 60% of nurses would not include a chaplain on a consult for acute pain 
 7. And the role and needs of nurses. 
 
+Available on [Apple podcasts](https://podcasts.apple.com/us/podcast/worldwide-stew/id1765332412), Spotify, and [Acast](https://feeds.acast.com/public/shows/6477b5fbdabaa10011120b7f).
