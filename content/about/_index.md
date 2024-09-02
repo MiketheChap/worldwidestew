@@ -16,7 +16,8 @@ I'll  write about whatever suits me and - hopefully, perhaps - you: inspiration,
 
 I've tried to organize the site into big menu categories. These are important:
 1. Blog - Here, I focus on inspiration, life qualities, positive psychology, and personal growth. I'll generally avoid politics here, though not always. 
-2. About - This is stuff about me. If you hate home movies, you probably won't like this much, either. Still, there's the smallest of chances there will be something here to interest you. If not, get over it. 
+2. About - [Resources](https://worldwidestew.com/about/my-resources/) This is stuff about me. If you hate home movies, you probably won't like this much, either. Still, there's the smallest of chances there will be something here to interest you.
+    a. [Resources](https://worldwidestew.com/about/my-resources/) 
 3. Events - I'm leading meditation sessions and will be teaching classes.
 4. Media - things I've recorded you might be interested in. Some might be meaningful, some silly, some meditation sessions I've recorded and links to others.
 5. Deep Dive - In this area I share recent research psychology articles I've read, political and ethics perspectives, opinions, and even recipes. 

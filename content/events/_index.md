@@ -7,7 +7,7 @@ tags: ["mindfulness", "meditation", "positive psychology"]
 
 ---
 
-**New podcast episode coming soon** - I'm editing a podcast episode I recorded with a friend, Anthony, who's a nurse. We talk about travel, culture, nursing, and the role of chaplains (among other things). I'll post a link here when the episode has *dropped*. 
+**New podcast episode coming soon** - I'm editing a podcast episode I recorded with a friend, Anthony, who's a nurse. We talk about travel, culture, nursing, and the role of chaplains (among other things). [Here's the Apple podcasts link](https://podcasts.apple.com/us/podcast/travel-health-and-generations-with-anthony-nguyen/id1765332412?i=1000666908796)
 
 ---
 
