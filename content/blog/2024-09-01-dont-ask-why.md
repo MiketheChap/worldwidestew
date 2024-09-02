@@ -38,7 +38,9 @@ As in counseling sessions, this kind of question stops the *really important wor
 
 Be kinder to yourself. Use the *Inquisitive Why*. Not the other one. In many ways, my professor was right. Thanks, Dr. Ken! 
 
-Addendum for those in corporate settings: When something goes wrong in hospitals, they have critical incident reviews. Perhaps this process began with physician meetings called *Morbidity and Mortality Reviews*: what went wrong and how could care have been improved? 
+---
+
+**Addendum for those in corporate settings**: When something goes wrong in hospitals, they have critical incident reviews. Perhaps this process began with physician meetings called *Morbidity and Mortality Reviews*: what went wrong and how could care have been improved? 
 
 These *critical incident reviews* began to take place in hospitals, engineering, and other settings. Some came to call them *event post-mortems*. For those involved, these committees were often painful, psychologically traumatic, and - sometimes - life-altering. All too often, there was a search for *the person to blame*. 
 
