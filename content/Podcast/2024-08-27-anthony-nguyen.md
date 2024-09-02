@@ -2,7 +2,7 @@
 title: "Travel, health, and generations with Anthony Nguyen"
 author: Mike Davis, Th.M., BCC (SCA), CWMF
 date: 2024-01-28
-type: editorial
+type: media
 tags: ["chaplains", "travel", "children", "aging","generations", "nursing","healthcare", "acute pain"]
 description: "In this first interview epidode of the Worldwide Stew podcast, I interviewed my friend, Anthony Nguyen, BSN, RN. He talks about travel (joys and travails), children, aging, the elderly, how to look at travel, and the role of chaaplains in acute pain. "
 summary: "In this first interview epidode of the Worldwide Stew podcast, I interviewed my friend, Anthony Nguyen, BSN, RN. He talks about travel (joys and travails), children, aging, the elderly, how to look at travel, and the role of chaaplains in acute pain."
