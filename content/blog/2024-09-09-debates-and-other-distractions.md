@@ -1,7 +1,7 @@
 ---
 title: "Debates and other distractions"
 author: "Mike Davis"
-date: "2024-09-09"
+date: "2024-09-10"
 type: blog
 tags: ["politics", "debates"]
 description: "On the silliness of political debates."
