@@ -2,7 +2,9 @@ baseURL = 'https://worldwidestew.com/'
 languageCode = 'en-us'
 title = 'Worldwide Stew'
 theme = "simple-light-dark"
+copyright = '© 2024 Worldwide Stew, aka Michael Davis.'
 enableEmoji = true
+
 
 [menu]
   [[menu.main]]

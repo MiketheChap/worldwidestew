@@ -18,4 +18,4 @@ In these times of widespread cynicism and polarization, we should withdraw from 
 
 What we should be focused on is *change*: reflecting on our losses (thinking about September 11, 2001), what we can do - where possible - to cultivate a more respectful global community, and what we need to do *now* to avoid the painful circumstances we will face globally in the near future. In that near future, we will all be trying to acquire *starkly limited resources* (clean water, air, removal of harmful substances, provision of a healthy environment. and education that builds on humane characteristics). How can we live together in such circumstances? 
 
-We don't have an hour of electricity or neurons to waste. An hour of consideration about how we will live with greater respect, vitality, strength, and mindfulness is a far better use of our primetime hours. 
+We don't have an hour of electricity, water, or neurons to spare. An hour of consideration about how we will live with greater respect, vitality, strength, and mindfulness is a far better use of our primetime hours. 
