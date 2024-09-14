@@ -23,6 +23,6 @@ For things to be alive, they are interacting, experiencing friction, harmony, ex
 
 Physicist Carlo Rovelli lyrically writes the following in [Seven Brief Lessons on Physics](https://www.betterworldbooks.com/product/detail/seven-brief-lessons-on-physics-9780399184413):
 
->For now, this is what we know of matter: A handful of types of elementary particles, which vibrate and fluctuate constantly between existence and nonexistence and swarm in space, even when it seems that there is nothing there, combine together to infinity like the letters of a cosmic alphabet to tell the immense history of galaxies; of the innumerable stars; of sunlight; of mountains, woods, and fields of grain; of the smiling faces of the young at parties; and of the night sky studded with stars.
+>*For now, this is what we know of matter: A handful of types of elementary particles, which vibrate and fluctuate constantly between existence and nonexistence and swarm in space, even when it seems that there is nothing there, combine together to infinity like the letters of a cosmic alphabet to tell the immense history of galaxies; of the innumerable stars; of sunlight; of mountains, woods, and fields of grain; of the smiling faces of the young at parties; and of the night sky studded with stars.*
 
 Whatever else you seek, look for what’s alive, for the invisible space between the notes. That's where you'll find the music. 
