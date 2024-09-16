@@ -29,7 +29,7 @@ enableEmoji = true
     weight = 5
   [[menu.main]]
     name = "Podcast"
-    url = "/Podcast/"
+    url = "/media/"
     weight = 5  
 
 [outputFormats]
