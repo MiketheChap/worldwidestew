@@ -1,5 +1,5 @@
 ---
-title: "Michio Kaku, String Thoery, and his Goldfish"
+title: "Michio Kaku, String Theory, and his Goldfish"
 date: 2024-09-17
 author: "mike davis"
 type: blog
