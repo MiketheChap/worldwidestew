@@ -1,0 +1,43 @@
+{{- /*
+Usage example:
+
+{{< captioned-image 
+    src="/images/CMB_Timeline300_no_WMAP.jpg" 
+    alt="Timeline of the Cosmic Microwave Background" 
+    title="COBE, WMAP, and Planck missions timeline" 
+    caption="The greenish-yellow area on the left side of the image represents [brief explanation]." 
+    attr="Image credit: NASA" 
+    attrlink="https://nasa.gov/specific-image-page" 
+>}}
+
+Parameters:
+- src: path to the image file
+- alt: alternative text for accessibility
+- title: (optional) text to display on hover
+- caption: caption text to display below the image
+- attr: attribution or credit text
+- attrlink: (optional) link to the source of the image
+*/ -}}
+
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $title := .Get "title" }}
+{{ $caption := .Get "caption" }}
+{{ $attr := .Get "attr" }}
+{{ $attrlink := .Get "attrlink" }}
+
+<figure>
+  <img src="{{ $src }}" alt="{{ $alt }}" {{ with $title }}title="{{ . }}"{{ end }}>
+  <figcaption>
+    {{ with $caption }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{ with $attr }}
+      <p class="attribution">
+        {{ if $attrlink }}<a href="{{ $attrlink }}">{{ . }}</a>
+        {{ else }}{{ . }}
+        {{ end }}
+      </p>
+    {{ end }}
+  </figcaption>
+</figure>
+
+

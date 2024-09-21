@@ -21,4 +21,4 @@ But only if we can suspend our limiting beliefs long enough to ask questions. Wh
 
 P.S. When I ask about certainties, I'm not asking about certainties like: *There's someone who loves me.* I probably don't know you. But, I'm pretty certain someone loves you. Heck, as I write this, I'm sending you thoughts of kindness. In some way, you are the drop on the surface of my pond and I'm graeful for that. 
 
-So, I'm not asking you to doubt that. I am asking you to explore ideas about the world in which you live and the beliefs you hold. Tomorrow (or the next day), I'll confess to some beliefs I held (for which I feel some embarrassment). I'll tell you how Michio Kaku broke down some walls of belief. 
+So, I'm not asking you to doubt that. I am asking you to explore ideas about the world in which you live and the beliefs you hold. Tomorrow (or the next day), beliefs Kaku's book corrected. I'll tell you how Michio Kaku broke down some walls of belief. 
