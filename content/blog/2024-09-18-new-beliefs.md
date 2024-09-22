@@ -7,11 +7,13 @@ tags: ["consciousness", "certainty", “belief”]
 summary: "The ability to revise beliefs are a hallmark of intellectual honesty."
 draft: false
 ---
+### After you've completed reading this post and the [prior one]({{< ref "2024-09-17-Michio-Kaku-string-theory-and his-koi" >}}), you can take [this short quiz](https://docs.google.com/forms/d/e/1FAIpQLSf3meL7I9Tc7TsaC5WRgvtJRc_g7jIncWzkEqBt24s6e_e22g/viewform) to test your knowledge!
+
 >*In the beginning, God created the heaven and the earth.... And God saw everything that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.*
 
 The ability to revise and, when necessary, revoke former beliefs are a hallmark of intellectual honesty. Moreover, intellectual honesty is as vauable as any kind of honesty. In [yesterday's post]({{< ref "2024-09-17-Michio-Kaku-string-theory-and his-koi" >}}) , I quoted the theoretical physicist [Michio Kaku](https://mkaku.org/) ([also see the Wikipedia reference](https://en.wikipedia.org/wiki/Michio_Kaku)).
 
-I mentioned his goldfish, what they might have known if they had the consciousness to observe their surroundings. If they had been able to notice the raindrops on the surface of the pond, they might have wondered, *What's happening up there? Why is it doing that?*
+I mentioned Kaku's *mental goldfish experiment* and what his super-smart goldfish might have known if they had the consciousness to observe their surroundings. If they had been able to notice the raindrops on the surface of the pond, they might have wondered, *What's happening up there? Why is it doing that?*
 
 In the same way, Kaku caused me - a believer in Creationism - to *see the raindrops*. For humans, *the raindrops* occurred when we sent up a satellite called the WMAP satellite. The long name for the satellite was the *Wilkinson Microwave Anisotropy Probe*. Of course you know that it [takes 8 and 1/3 minutes](https://www.pbs.org/seeinginthedark/astronomy-topics/light-as-a-cosmic-time-machine.html) for the sun's rays to get to Earth. In some ways, then, light is a time machine. The light that enters our eyes from the Sun took eight minutes to enter our eyes. The same principle applies to light from the distant Universe, billions of years ago. Physicists, though, turned their attention to *microwave background radiation*: *Would the microwave background radiation reveal something about the origins of the Universe?* 
 
@@ -31,11 +33,15 @@ It was the following image - in a single half-hour of reading - that triggered a
     attrlink="https://commons.wikimedia.org/wiki/File:WMAP_2012.png" 
 >}}
 
+Some years later, the Planck Satellite was sent into space with some similar mission goals. You can see a video on the Planck survey below!
+
 For years I believed the Earth was created in six days. But, with new evidence I had to revise my beliefs. It may not seem a big leap to you, Dear Reader. But, it was to have consequences in my social connections with those who insist things (the Bible, the Constitution, social structures, etc.) are immutable and as perfect as the day they were created. 
 
-All of us should always be asking ourselves, *What would it take for me to change my belief in X*? All our beliefs should be open to revision. All of them. 
+We should routinely ask ourselves, *What would it take for me to change my belief in X*? *What else is there?* When we are willing to reconsider even our deeply held ideas, those ideas are *falsifiable*: no matter how deeply held, we are willing to consider that those ideas may be false. For people who won't let go of a belief *under any condition*, that belief is not falsifiable. All our beliefs should be open to revision. All of them. It's scary to think we might have to let go of a belief. We should acknowledge how hard it is to revise our beliefs. I've been doing that a lot in the past few years. 
 
 What do you believe that's immutable and needs revision?
+
+*We don't get extra credit for holding on to an unsustainable belief.*
 
 ---
 If you're still reading and interested, here's a couple of additional images:
