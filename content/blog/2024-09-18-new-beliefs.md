@@ -7,9 +7,9 @@ tags: ["consciousness", "certainty", “belief”]
 summary: "The ability to revise beliefs are a hallmark of intellectual honesty."
 draft: false
 ---
-### After you've completed reading this post and the [prior one]({{< ref "2024-09-17-Michio-Kaku-string-theory-and his-koi" >}}), you can take [this short quiz](https://docs.google.com/forms/d/e/1FAIpQLSf3meL7I9Tc7TsaC5WRgvtJRc_g7jIncWzkEqBt24s6e_e22g/viewform) to test your knowledge!
+### After you've completed reading this post and the [prior one]({{< ref "2024-09-17-Michio-Kaku-string-theory-and his-koi" >}}), you can take [this short, fun quiz](https://docs.google.com/forms/d/e/1FAIpQLSf3meL7I9Tc7TsaC5WRgvtJRc_g7jIncWzkEqBt24s6e_e22g/viewform) to test your knowledge!
 
->*In the beginning, God created the heaven and the earth.... And God saw everything that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.*
+>*In the beginning, God created the heaven and the earth.... And God saw everything that he had made, and, behold, it was very good.... And the evening and the morning were the sixth day.*
 
 The ability to revise and, when necessary, revoke former beliefs are a hallmark of intellectual honesty. Moreover, intellectual honesty is as vauable as any kind of honesty. In [yesterday's post]({{< ref "2024-09-17-Michio-Kaku-string-theory-and his-koi" >}}) , I quoted the theoretical physicist [Michio Kaku](https://mkaku.org/) ([also see the Wikipedia reference](https://en.wikipedia.org/wiki/Michio_Kaku)).
 

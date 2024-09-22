@@ -7,7 +7,7 @@ tags: ["consciousness", "certainty", “belief”]
 summary: "We are certain, absolutely positive, that we are right. Nothing can penetrate the Pond of our thoughts and existence. Until we see water droplets on the surface. Seeing the droplets, we might ask ourselves, what if we’re..."
 draft: false
 ---
-### After you've completed reading this post and the [next one]({{< ref "2024-09-18-new-beliefs" >}}), you can take [this short quiz](https://docs.google.com/forms/d/e/1FAIpQLSf3meL7I9Tc7TsaC5WRgvtJRc_g7jIncWzkEqBt24s6e_e22g/viewform) to test your knowledge!
+### After you've completed reading this post and the [next one]({{< ref "2024-09-18-new-beliefs" >}}), you can take [this short, fun quiz](https://docs.google.com/forms/d/e/1FAIpQLSf3meL7I9Tc7TsaC5WRgvtJRc_g7jIncWzkEqBt24s6e_e22g/viewform) to test your knowledge!
 
 We are certain - absolutely positive - we are right. For some of our beliefs, nothing can penetrate the unrippled Surface of our Pond of thoughts and existence. Until we see water droplets on that surface. Seeing the droplets, we might ask ourselves, what if we’re wrong? 
 
