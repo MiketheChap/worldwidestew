@@ -10,7 +10,7 @@ draft: false
 ---
 ### To be a better person
 1. Seth Godin, [his blog](https://www.sethgodin.com/), and all his excellent books have inspired me to be a better person. He has inspired me spiritually (though he would say he has no spiritual beliefs). If there is one blog for which I never miss a post, it is Seth's. 
-2. My family, particularly my wife Barb, my parents (now long gone), my brother (Doug), and my sisters, Lynn and Linda.  
+2. My family, particularly my wife Barb, my parents (now long gone), my brother (Doug), and my sisters (Lynn and Linda).  
 3. I won't list other folks by name but I've listed some of their initials [here]({{< ref "/blog/2023-06-03-soft-landings" >}}).
 
 ### To be more effective (but also, at times, distracted)

@@ -1,4 +1,15 @@
 <footer>
-    <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
-    <p><a href="{{ "gdpr/" | relURL }}">GDPR Compliance Statement</a></p>
-  </footer>
+    <div class="footer-content">
+        <div class="footer-info">
+            <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+            <p><a href="{{ "gdpr/" | relURL }}">GDPR Compliance Statement</a></p>
+        </div>
+        <nav class="footer-nav">
+            <ul>
+                <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+                <li><a href="{{ .Site.BaseURL }}about">About</a></li>
+                <li><a href="{{ .Site.BaseURL }}tags">Topics</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer>

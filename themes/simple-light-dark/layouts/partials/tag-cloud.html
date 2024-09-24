@@ -1,0 +1,20 @@
+{{ $minCount := 1 }}
+{{ $maxCount := 1 }}
+
+{{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+  {{ $count := .Count }}
+  {{ $minCount = cond (lt $count $minCount) $count $minCount }}
+  {{ $maxCount = cond (gt $count $maxCount) $count $maxCount }}
+{{ end }}
+
+<div class="tag-cloud">
+  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    {{ $count := .Count }}
+    {{ $weighting := div (sub (math.Log $count) (math.Log $minCount)) (sub (math.Log $maxCount) (math.Log $minCount)) }}
+    {{ $fontsize := add 0.8 (mul $weighting 1.2) }}
+    <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" 
+       style="font-size: {{ $fontsize }}rem;">
+      {{ $name }} ({{ $count }})
+    </a>
+  {{ end }}
+</div>
