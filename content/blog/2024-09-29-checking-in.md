@@ -11,7 +11,7 @@ draft: false
 
 >*Burning, Shooting. Stabbing. And, burning again. Oh, and stabbing again.* 
 
-Part of becoming more mindful is *awareness of physical sensations*.  This might be fullness/hunger, tension, anxiety (that feeling in the *pit of the stomach that something not good is coming*), or pain. Other examples are tightness in the facial muscles, neck, back, shoulders or head. There are also emotional sensations we should *check in for*. Thongs like the anxety we mentioned  earlier. Other examples are fatigue, depression, guilt, sadness, and anger. 
+Part of becoming more mindful is *awareness of physical sensations*.  This might be fullness/hunger, wanting, liking, not liking, tension, anxiety (that feeling in the *pit of the stomach that something not good is coming*), or pain. Other examples are tightness in the facial muscles, neck, back, shoulders or head. There are also emotional sensations we should *check in for*. Thongs like the anxety we mentioned  earlier. Other examples are fatigue, depression, guilt, sadness, and anger. 
 
 But, as much as we might think *checking in* has to do with negative sensations, it’s a mistake to limit it to the negative. It also has to do with positive sensations: looseness, freedom, attention, flow, awe, kindness, and gratitude. Each one of these has identified and specific variants. As an example of a positive sensation, after completing a stressful situation, we might feel *like a enormous weight was taken off.* In our modern society, we would blow right past that sensation. That would be a big mistake! We should learn to *savor it*!
 
