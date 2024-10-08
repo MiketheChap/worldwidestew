@@ -20,11 +20,16 @@ As many Living Wills and Medical Powers of Attorney as I've done, I realize I'm 
 
 With Mr. Wheeler's voice of surprise they say, \*But, I was wearing the juice.
 
-#### A further note on the DUnning-Kruger Effect. 
-Recently, studies were done clarifiying the Dunning-Kruger Effect. It seems that we all think we know lots of things about everything. That hasn't changed. But, clarify if I'm wrong, it now seems that the TRUE experts are still TRUE experts. -> In their fields. But, outside their areas of expertise? Yup, they're just like the rest of us saps. They get bit by the juice just like we do. 
-
+#### A further note on the Dunning-Kruger Effect. 
+Recently, called into question the Dunning-Kruger Effect essentially saying it *didn't require any psychological explanation. Statistical models show that this is all just an artifact*. From what I've read, new infomrmation suggests we all think we know lots of things about everything. That hasn't changed. But, it now seems that the TRUE experts are still TRUE experts in their fields. But, *outside their areas of expertise*? Yup, they're just like the rest of us saps. They get bit by the *lemon juice ignorance mistake* just like we do. 
+ 
 1. Wikipedia, [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-1. Psychology Today, [Dunning-Kruger Effect](https://www.psychologytoday.com/us/basics/dunning-kruger-effect)
-1. Poundstone, William: [Medium](https://medium.com/@littlebrown/i-wore-the-juice-the-dunning-kruger-effect-f8ac3299eb1), June 14, 2016
-1. Link \[to the actual article\](http://www.sakkyndig.com/psykologi/artvit/dunning1999.pdf
-1. Video from TED-Ed: [Why incompetent people think they're amazing](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI7IKQtv32AhXtg2oFHS3yDgcQtwJ6BAgDEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpOLmD_WVY-E&usg=AOvVaw3etzHfZ7CnV4WP7sY7YA6l)
+2. Psychology Today, [Dunning-Kruger Effect](https://www.psychologytoday.com/us/basics/dunning-kruger-effect)
+3. Poundstone, William: [Medium](https://medium.com/@littlebrown/i-wore-the-juice-the-dunning-kruger-effect-f8ac3299eb1), June 14, 2016
+4. Link \[to the actual article\](http://www.sakkyndig.com/psykologi/artvit/dunning1999.pdf
+5. Video from TED-Ed: [Why incompetent people think they're amazing](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI7IKQtv32AhXtg2oFHS3yDgcQtwJ6BAgDEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpOLmD_WVY-E&usg=AOvVaw3etzHfZ7CnV4WP7sY7YA6l)
+
+The updated research is here:
+1. This isn't reflective of the new Dunning-Kruger Effect research but it deals with the Dunning-Kruger in Health concerns. Add this to the New research and it's quite relevant. [Overconfidence in Managing Health Concerns: The Dunning–Kruger Effect and Health Literacy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9244283/). From the abstract: *Results support the presence of a DKE (Mike Davis note: DKE=Dunning-Kruger Effect) for health literacy; individuals with low health literacy reported equal or greater confidence in health knowledge than individuals with higher health literacy. Individuals with lower health literacy reported more problematic engagement in health behaviors. Low health literacy can impact engagement in health behavior and effect health outcomes, but individuals may not realize this deficit. Implications for clinical intervention include the need to address cognitive bias and enhance motivation to participate in health literacy interventions.*
+2. [A Statistical Explanation of the Dunning–Kruger Effect](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8992690/)
+3. [The Dunning-Kruger effect revisited | Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01101-z)
