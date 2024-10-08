@@ -32,7 +32,7 @@ Why am I doing this? My life’s fuse is burning. It’s well over two-thirds of
 I'm a little dubious about the promise (and premise) of *constant happiness*. For many years, I curated [a library](https://www.zotero.org/mikethechap/library) of articles about health, people, and systems. After the beginning of the pandemic, I *vowed* to learn much more. I wanted to know the answer to this question: *What things reliably support human wellness and health?* As it turned out, there *are* things that can reliably boost our ability to enjoy life and make us *happier* without the saccharine quality of modern, *sappiness*. Happiness according to the modern mentality (*dancing all the time*) is an impossible psychological stretch by my measure.
 
 #### There are more realistic targets than happiness.
-There are other words that describe *what is possible*: wise, flourishing, resilient, grateful, cheerful, kind, caring, and confident. There are other words, too! 
+There are other words that describe *what is possible*: wisdom, flourishing, resilient, grateful, cheerful, kind, caring, and confident. There are other words, too! 
 
 #### The target is more positivity and reduced suffering 
 Mostly, a more satisfying life comes down to finding things that help you feel better and doing more of those things. My belief promotes spiritual values and traditions, positive psychology (start with the good that already lives in you), mindfulness meditation practice, community, and simple, science-based interventions you can do. The idea - as psychologist Barbara Fredricksen suggested - is to *broaden and build* on your strengths and resilience.

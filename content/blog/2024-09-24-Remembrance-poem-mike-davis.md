@@ -8,7 +8,9 @@ summary: "A poem by Mike Davis about remembering the times when you had fortitud
 draft: false
 ---
 
-##### Remembrance
+#### Remembrance
+by Mike Davis
+
 There was that moment
 The instant when you were called 
 To find an unknown strength,
