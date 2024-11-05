@@ -1,10 +1,10 @@
 ---
-title: “The world I want” 
+title: "How I'd like the world to be"
 date: 2024-11-05
 author: "mike davis"
 type: blog
-tags: ["movement", “faith”, “holy war”]
-summary: “When voting the most important question we can ask is this: what kind of future world is livable for all people.”
+tags: ["movement", "faith", "holy war"]
+summary: "When voting the most important question we can ask when voting is what kind of future is livable for all people"
 draft: false
 ---
 ### The world I would like to see.
