@@ -23,4 +23,4 @@ Many in modern culture say we should treat life as a meritocracy where you reap 
 
 Our belief in our personal and national sovereignties condemns us to *Rugged Loneliness*: lives filled with suspicion, unfulfilled dreams, and an enduring pursuit of ego. *Rugged Individualism’s* great fraud - now written large in Western Culture - robs present and future generations of the crowning gem of humanity’s greatest salvation, gift and strength: our ability to cooperate. 
 
-Humans make their own choices. We can choose to ask for and give help. This is the cooperative way. Of course, we need to recognize effort and achievement. But that recognition means so much more when our employees know that we *really couldn’t have done it without them.*
+Humans make their own choices. We can choose to ask for and give help. This is the cooperative way. Of course, we need to recognize effort and achievement. But that recognition means so much more when our employees know that we *truly believe we couldn’t have done it without them.*
