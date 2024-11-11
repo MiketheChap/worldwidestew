@@ -7,6 +7,8 @@ tags: ["miltary", "war" , "battle", "boundaries"]
 summary: "The only thing you need to remember is this: If someone wants to fight you, make sure you finish it." 
 draft: false
 ---
+*Today is Veteran's Day in the US. This post honors those who protect humanity wherever they may be, however they may serve.*
+
 I don’t like fighting. But some of us have to. My Dad, a colonel in the US Army, wanted me to like fighting. He’d pull out the boxing gloves to make me fight him, fight my brother, and fight my sisters (two against one: that’s not fair!). He felt it was necessary training. Later, after getting repeated beaten up, he signed me up to take karate. I loved it. It was beautiful. Artistic. I got beat up again, going to the emergency room this time. I greatly disappointed him in this respect. 
 
 But, he wasn't a warmonger, either. He said, *the smartest soldier was the one who could figure out how to avoid a fight*. 
@@ -20,9 +22,9 @@ Have you ever felt unsafe? Have you ever seriously wondered what would happen if
 To be prepared, we need people with a certain timbre who:
 1. Are educated with specialized knowledge about conflict, strategy, and weaponry, 
 2. Possess a strong moral compass and the willingness to stand up to unjust orders, 
-4. Have steady courage, 
-5. Are, for the purposes of freedom, willing to make the ultimate sacrifice to keep innocents free, 
-6. And a million other outstanding qualities possessed most strongly by the rank and file human being. 
+3. Have steady courage, 
+4. Are, for the purposes of freedom, willing to make the ultimate sacrifice to keep innocents free, 
+5. And a million other outstanding qualities possessed most strongly by the rank and file human being. 
 
 On most counts, that’s probably not me.  [^2] Today is about being grateful for those who possess these assets of character, physical and emotional steel, and the willingness to stand up and against the pressure of the crowd. 
 
