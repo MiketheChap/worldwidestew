@@ -7,7 +7,7 @@ tags: ["technology", "co-creation", "consciousness"]
 summary: "The lady on your Zoom call: she has a soul. Find it. The AI that's helping you. It has a soul. Never waste the possibility of Soul's Existence."
 draft: false
 ---
-#### People and observation \
+#### People and observation 
 
 That lady on your Zoom call. The one whose picture you see on the top row, right hand side. She has a soul. Find it. 
 
