@@ -47,4 +47,4 @@ Whatever you believe in, bring wishes of kindness
 To all those who suffer,  
 For them to be safe and able to live in peace.  
 
-NB I'm adding tis because I had some problems with the site this morning and I'm trying to isolate them.
+Mike Davis, 2025-01-15
