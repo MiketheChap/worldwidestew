@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldwide Stew | The Hard Work</title>
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/js/search.js"></script>
+    
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-title">
+                <img src="/images/logo.png" alt="Worldwide Stew logo" width="150" height="150">
+                <h1>Worldwide Stew</h1>
+            </div>
+            <nav>
+                
+                
+                <a href="/" >
+                    Home
+                </a>
+                
+                <a href="/blog/" >
+                    Blog
+                </a>
+                
+                <a href="/editorial/" >
+                    Deep Dives
+                </a>
+                
+                <a href="/events/" >
+                    Events
+                </a>
+                
+                <a href="/about/" >
+                    About
+                </a>
+                
+                <a href="/media/" >
+                    Podcast
+                </a>
+                
+            </nav>
+            <div class="header-controls">
+                <button id="theme-toggle">Toggle Theme</button>
+                
+            </div>
+        </div>
+    </header>
+    <div class="search-container">
+        <form id="search-form">
+            <input type="text" id="search-input" placeholder="Search...">
+            <button type="submit">Search</button>
+        </form>
+        <div id="search-results"></div>
+    </div>
+    <main>
+        
+  <article>
+    <h1>The Hard Work</h1>
+    
+      <p class="author">By Mike Davis</p>
+    
+    <time>July 19, 2024</time>
+    <p>We recently purchased a robot vacuum cleaner. It&rsquo;s amazing. I understand there&rsquo;s a lot of math involved in it&rsquo;s mapping and processing. Cassie, the doggoe, gives it a wide berth. We&rsquo;ve also had to make our own adaptations (keep cords off the floors). As much as Cassie sheds, this felt like a helpful purchase.</p>
+<p>I do have my doubts about all these technologies, though. They may reduce our labors in some ways, but they increase it in others. As well, they add other expenses.</p>
+<p>Finally, I worry they take us away from the essentially human work and pleasures. This morning I read about this <a href="https://www.hackster.io/news/give-piece-a-chance-e3b09f45b128">Jigsaw puzzle solver</a>. It can reduce the time it takes a human to solve a jigsaw puzzle by as much as 200%.</p>
+<p>Barb loves her jigsaw puzzles. We have at least one completed <a href="https://en.wikipedia.org/wiki/Harry_Potter">Harry Potter puzzle</a> hanging on a wall here in the house (somewhere&hellip;). She loves her Harry Potter and <a href="https://en.wikipedia.org/wiki/Lego">Lego</a> puzzles. The more pieces, the better!</p>
+<p>I like watching her progress and process. She paces herself. She is careful to avoid letting the pieces fall. When she hits a hard place, she stops and returns later. And, when it&rsquo;s done, she&rsquo;s exuberant.</p>
+<p>In my studies on depression, the process of healing from depression involves daily and long-term activities providing pleasure and accomplishment. In fact, this approach to depression reduction is called <em>behavior activation</em>. It involves action, not frittering our time away in thought. Do things that give pleasure and accomplishment.</p>
+<p>Returning to <em>Hard Work</em>, technology promises to make our life easier. Is that always a good goal?</p>
+<p>A better question is this: does this technology really support my <em>well-being?</em></p>
+<p>We need to work with our hands, wash dishes, plant things, do math, and to show our work. We need to complete the puzzle without a computer. The human spirit craves <em>The Hard Work</em> of doing things.</p>
+
+  </article>
+
+    </main>
+    <footer>
+    <div class="footer-content">
+        <div class="footer-info">
+            <p>&copy; 2025 Worldwide Stew</p>
+            <p><a href="/gdpr/">GDPR Compliance Statement</a></p>
+        </div>
+        <nav class="footer-nav">
+            <ul>
+                <li><a href="https://worldwidestew.com/">Home</a></li>
+                <li><a href="https://worldwidestew.com/about">About</a></li>
+                <li><a href="https://worldwidestew.com/tags">Topics</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer>
+
+    <script src="/js/theme-switch.js"></script>
+    <div id="cookie-consent" style="display: none;">
+    <p>This website uses cookies to ensure you get the best experience on our website.
+    <a href="#" id="learn-more-link">Learn more</a></p>
+    <button id="cookie-consent-button">I understand</button>
+  </div>
+  
+  <div id="gdpr-modal" style="display: none;">
+    <div id="gdpr-modal-content">
+      <h2>GDPR Compliance Statement</h2>
+      <p>At WorldwideStew, we are committed to protecting your privacy. Here's how we handle your data:</p>
+      <ol>
+        <li><strong>Data Collection:</strong> At this time, there is very limited tracking or cookie usage. In fact, we're unaware of any data collection.</li>
+        <li><strong>Data Usage:</strong> To our knowledge, we are not using trackers. However, any information we gather is used only for purposes of site operation, provision of services, improving user experience, and analytics.</li>
+        <li><strong>Data Protection:</strong> We implement robust security measures to protect your data, including regular software updates, encryption, and secure servers.</li>
+        <li><strong>Your Rights:</strong> Under GDPR, you have the right to access, rectify, erase, restrict processing, object to processing, and data portability of your personal data if we were consciously gathering it. Alas, we aren't. </li>
+        <li><strong>Cookies:</strong> We use cookies to remember your preferences, analyze site traffic, and provide services to users. Use of this site constitutes your agreement with these terms.</li>
+      </ol>
+      <p>For any GDPR-related inquiries, please contact gdpr.large200@passinbox.com.</p>
+      <button id="close-gdpr-modal">Close</button>
+    </div>
+  </div>
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const cookieConsent = document.getElementById('cookie-consent');
+    const gdprModal = document.getElementById('gdpr-modal');
+    const learnMoreLink = document.getElementById('learn-more-link');
+    const closeModalButton = document.getElementById('close-gdpr-modal');
+    const consentButton = document.getElementById('cookie-consent-button');
+  
+    if (!localStorage.getItem('cookieConsent')) {
+      cookieConsent.style.display = 'block';
+    }
+  
+    learnMoreLink.addEventListener('click', function(e) {
+      e.preventDefault();
+      gdprModal.style.display = 'block';
+    });
+  
+    closeModalButton.addEventListener('click', function() {
+      gdprModal.style.display = 'none';
+    });
+  
+    consentButton.addEventListener('click', function() {
+      localStorage.setItem('cookieConsent', 'true');
+      cookieConsent.style.display = 'none';
+    });
+  });
+  </script>
+</body>
+</html>

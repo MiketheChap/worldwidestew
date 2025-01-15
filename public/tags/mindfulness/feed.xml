@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“Mindfulness” on Worldwide Stew</title>
+    <link>https://worldwidestew.com/tags/mindfulness/</link>
+    <description>Recent content in “Mindfulness” on Worldwide Stew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/mindfulness/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking in</title>
+      <link>https://worldwidestew.com/blog/2024-09-29-checking-in/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/blog/2024-09-29-checking-in/</guid>
+      <description>Describe your pain, the doctor said.</description>
+    </item>
+    
+    <item>
+      <title>I feel better moving in the morning</title>
+      <link>https://worldwidestew.com/blog/2024-09-08-my-sciatica/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/blog/2024-09-08-my-sciatica/</guid>
+      <description>My sciatica is getting painful again. It’s uncomfortable most&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

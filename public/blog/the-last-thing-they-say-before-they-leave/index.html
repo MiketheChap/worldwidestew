@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldwide Stew | The last thing they say before they leave</title>
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/js/search.js"></script>
+    
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-title">
+                <img src="/images/logo.png" alt="Worldwide Stew logo" width="150" height="150">
+                <h1>Worldwide Stew</h1>
+            </div>
+            <nav>
+                
+                
+                <a href="/" >
+                    Home
+                </a>
+                
+                <a href="/blog/" >
+                    Blog
+                </a>
+                
+                <a href="/editorial/" >
+                    Deep Dives
+                </a>
+                
+                <a href="/events/" >
+                    Events
+                </a>
+                
+                <a href="/about/" >
+                    About
+                </a>
+                
+                <a href="/media/" >
+                    Podcast
+                </a>
+                
+            </nav>
+            <div class="header-controls">
+                <button id="theme-toggle">Toggle Theme</button>
+                
+            </div>
+        </div>
+    </header>
+    <div class="search-container">
+        <form id="search-form">
+            <input type="text" id="search-input" placeholder="Search...">
+            <button type="submit">Search</button>
+        </form>
+        <div id="search-results"></div>
+    </div>
+    <main>
+        
+  <article>
+    <h1>The last thing they say before they leave</h1>
+    
+      <p class="author">By mike davis</p>
+    
+    <time>June 13, 2024</time>
+    <p>This will get briefly technical: hold tight for two sentences.</p>
+<p>In a recent article on <a href="https://www.beckerspayer.com/payer/bcbs-michigan-to-drop-weight-loss-drug-coverage.html">Becker&rsquo;s Payer Issues</a>, they reported that Blue Cross Blue Shield (BCBS) of Michigan would no longer pay for GLP-1s for weight loss. You know, drugs like Ozempic.</p>
+<blockquote>
+<p>The spokesperson cited concerns over safety, effectiveness and cost as the reasons for the decision.</p>
+</blockquote>
+<p>It&rsquo;s funny how <em>cost</em> was listed last. The first two concerns are, by almost any reckoning, unworthy of concern as compared with other common medications.</p>
+<p>When I was training as a chaplain, we were told to observe how parishioners, clients, or patients (depending on how you were taught to refer to them) would often talk about very little until they had actually gotten up to leave (or you had gotten up to leave). Sometimes, their hands would be on the doorknobmight notice the slowne. Then, they would reveal the <em>real reason</em> for the visit or conversation.</p>
+<p>In both the quote from the BCBS Michigan spokesperson <em>and</em> what we see in our most important conversations, we often wait until the last possible moment to say what we really want and need to say. It&rsquo;s hard to speak up when what we have to say is hard to say.</p>
+<p>But, if you trust the person/s to whom you are speaking, try to speak honestly and forthrightly. The sooner you speak, the sooner we can get down to solving what hurts. Don&rsquo;t assume they can <em>read your mind</em>: they can&rsquo;t.</p>
+<p>The bigger question is this: do you trust the person you&rsquo;re talking to. If you don&rsquo;t, they pay attention to your doubts. In that case, go ahead - wait until you&rsquo;re turning the door knob. If they are listening carefully, and they actually care, they might notice the slowness with which you turn the knob. <em>Hey, wait a minute. Was there something else on your mind?</em></p>
+
+  </article>
+
+    </main>
+    <footer>
+    <div class="footer-content">
+        <div class="footer-info">
+            <p>&copy; 2025 Worldwide Stew</p>
+            <p><a href="/gdpr/">GDPR Compliance Statement</a></p>
+        </div>
+        <nav class="footer-nav">
+            <ul>
+                <li><a href="https://worldwidestew.com/">Home</a></li>
+                <li><a href="https://worldwidestew.com/about">About</a></li>
+                <li><a href="https://worldwidestew.com/tags">Topics</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer>
+
+    <script src="/js/theme-switch.js"></script>
+    <div id="cookie-consent" style="display: none;">
+    <p>This website uses cookies to ensure you get the best experience on our website.
+    <a href="#" id="learn-more-link">Learn more</a></p>
+    <button id="cookie-consent-button">I understand</button>
+  </div>
+  
+  <div id="gdpr-modal" style="display: none;">
+    <div id="gdpr-modal-content">
+      <h2>GDPR Compliance Statement</h2>
+      <p>At WorldwideStew, we are committed to protecting your privacy. Here's how we handle your data:</p>
+      <ol>
+        <li><strong>Data Collection:</strong> At this time, there is very limited tracking or cookie usage. In fact, we're unaware of any data collection.</li>
+        <li><strong>Data Usage:</strong> To our knowledge, we are not using trackers. However, any information we gather is used only for purposes of site operation, provision of services, improving user experience, and analytics.</li>
+        <li><strong>Data Protection:</strong> We implement robust security measures to protect your data, including regular software updates, encryption, and secure servers.</li>
+        <li><strong>Your Rights:</strong> Under GDPR, you have the right to access, rectify, erase, restrict processing, object to processing, and data portability of your personal data if we were consciously gathering it. Alas, we aren't. </li>
+        <li><strong>Cookies:</strong> We use cookies to remember your preferences, analyze site traffic, and provide services to users. Use of this site constitutes your agreement with these terms.</li>
+      </ol>
+      <p>For any GDPR-related inquiries, please contact gdpr.large200@passinbox.com.</p>
+      <button id="close-gdpr-modal">Close</button>
+    </div>
+  </div>
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const cookieConsent = document.getElementById('cookie-consent');
+    const gdprModal = document.getElementById('gdpr-modal');
+    const learnMoreLink = document.getElementById('learn-more-link');
+    const closeModalButton = document.getElementById('close-gdpr-modal');
+    const consentButton = document.getElementById('cookie-consent-button');
+  
+    if (!localStorage.getItem('cookieConsent')) {
+      cookieConsent.style.display = 'block';
+    }
+  
+    learnMoreLink.addEventListener('click', function(e) {
+      e.preventDefault();
+      gdprModal.style.display = 'block';
+    });
+  
+    closeModalButton.addEventListener('click', function() {
+      gdprModal.style.display = 'none';
+    });
+  
+    consentButton.addEventListener('click', function() {
+      localStorage.setItem('cookieConsent', 'true');
+      cookieConsent.style.display = 'none';
+    });
+  });
+  </script>
+</body>
+</html>

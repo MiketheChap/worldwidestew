@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication on Worldwide Stew</title>
+    <link>https://worldwidestew.com/tags/communication/</link>
+    <description>Recent content in Communication on Worldwide Stew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/communication/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can I help you?</title>
+      <link>https://worldwidestew.com/blog/2024-08-18-can-i-help-you/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/blog/2024-08-18-can-i-help-you/</guid>
+      <description>Offering help is a great start. But, to really help requires at least one more step.</description>
+    </item>
+    
+    <item>
+      <title>The last thing they say before they leave</title>
+      <link>https://worldwidestew.com/blog/the-last-thing-they-say-before-they-leave/</link>
+      <pubDate>Thu, 13 Jun 2024 09:10:00 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/blog/the-last-thing-they-say-before-they-leave/</guid>
+      <description>Too often, people wait until the very last second to say what they wanted, intended, and should have said the first thing.</description>
+    </item>
+    
+  </channel>
+</rss>

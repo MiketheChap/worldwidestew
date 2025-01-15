@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldwide Stew | About Worldwide Stew</title>
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/js/search.js"></script>
+    
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-title">
+                <img src="/images/logo.png" alt="Worldwide Stew logo" width="150" height="150">
+                <h1>Worldwide Stew</h1>
+            </div>
+            <nav>
+                
+                
+                <a href="/" >
+                    Home
+                </a>
+                
+                <a href="/blog/" >
+                    Blog
+                </a>
+                
+                <a href="/editorial/" >
+                    Deep Dives
+                </a>
+                
+                <a href="/events/" >
+                    Events
+                </a>
+                
+                <a href="/about/" >
+                    About
+                </a>
+                
+                <a href="/media/" >
+                    Podcast
+                </a>
+                
+            </nav>
+            <div class="header-controls">
+                <button id="theme-toggle">Toggle Theme</button>
+                
+            </div>
+        </div>
+    </header>
+    <div class="search-container">
+        <form id="search-form">
+            <input type="text" id="search-input" placeholder="Search...">
+            <button type="submit">Search</button>
+        </form>
+        <div id="search-results"></div>
+    </div>
+    <main>
+        
+  <article>
+    <h1>About Worldwide Stew</h1>
+    
+      <p class="author">By Mike Davis</p>
+    
+    <time>September 4, 2024</time>
+    <h5 id="about-worldwide-stew">About WorldWide Stew</h5>
+<p>Worldwide Stew is the continuing vision of Mike Davis&rsquo; future. He is a Board Certified Chaplain with the Spiritual Care Association (among other certifications). We first posted on our Blogger account on September 26, 2008. I didn&rsquo;t put much there. The same may happen here. However, it seems like my goal of a daily writing practice is closer.</p>
+<p>My effort here will be brevity (admittedly quite an exercise for me), consideration, reflection, change (if our views aren&rsquo;t changing, are we still alive?), and, greater insight through the passing of time: <em>How does the stew actually taste?</em>  You and I are the judges of success. I&rsquo;m ninety-nine percent certain I will miss the mark for both of us. Part of my failures will be related to  expression of unformed (or worse, idiotic) ideas, biases, poor research, and lack of knowledge (think <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780123855220000056?via%3Dihub">the Dunning-Kruger Effect</a>).</p>
+<p>I will revisit, edit, amend, and change my posts and my life. Most thoughts here aren’t fully formed and certainly not ready for publication (I probably changed my mind shortly after putting it online!). They are my effort to keep creating and to <em>practice</em> writing.</p>
+<p>I&rsquo;ll  write about whatever suits me and - hopefully, perhaps - you: inspiration, a modicum of politics, religion (more likely spirituality), cooking, events in general, some science, and some management crap.</p>
+
+  </article>
+
+    </main>
+    <footer>
+    <div class="footer-content">
+        <div class="footer-info">
+            <p>&copy; 2025 Worldwide Stew</p>
+            <p><a href="/gdpr/">GDPR Compliance Statement</a></p>
+        </div>
+        <nav class="footer-nav">
+            <ul>
+                <li><a href="https://worldwidestew.com/">Home</a></li>
+                <li><a href="https://worldwidestew.com/about">About</a></li>
+                <li><a href="https://worldwidestew.com/tags">Topics</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer>
+
+    <script src="/js/theme-switch.js"></script>
+    <div id="cookie-consent" style="display: none;">
+    <p>This website uses cookies to ensure you get the best experience on our website.
+    <a href="#" id="learn-more-link">Learn more</a></p>
+    <button id="cookie-consent-button">I understand</button>
+  </div>
+  
+  <div id="gdpr-modal" style="display: none;">
+    <div id="gdpr-modal-content">
+      <h2>GDPR Compliance Statement</h2>
+      <p>At WorldwideStew, we are committed to protecting your privacy. Here's how we handle your data:</p>
+      <ol>
+        <li><strong>Data Collection:</strong> At this time, there is very limited tracking or cookie usage. In fact, we're unaware of any data collection.</li>
+        <li><strong>Data Usage:</strong> To our knowledge, we are not using trackers. However, any information we gather is used only for purposes of site operation, provision of services, improving user experience, and analytics.</li>
+        <li><strong>Data Protection:</strong> We implement robust security measures to protect your data, including regular software updates, encryption, and secure servers.</li>
+        <li><strong>Your Rights:</strong> Under GDPR, you have the right to access, rectify, erase, restrict processing, object to processing, and data portability of your personal data if we were consciously gathering it. Alas, we aren't. </li>
+        <li><strong>Cookies:</strong> We use cookies to remember your preferences, analyze site traffic, and provide services to users. Use of this site constitutes your agreement with these terms.</li>
+      </ol>
+      <p>For any GDPR-related inquiries, please contact gdpr.large200@passinbox.com.</p>
+      <button id="close-gdpr-modal">Close</button>
+    </div>
+  </div>
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const cookieConsent = document.getElementById('cookie-consent');
+    const gdprModal = document.getElementById('gdpr-modal');
+    const learnMoreLink = document.getElementById('learn-more-link');
+    const closeModalButton = document.getElementById('close-gdpr-modal');
+    const consentButton = document.getElementById('cookie-consent-button');
+  
+    if (!localStorage.getItem('cookieConsent')) {
+      cookieConsent.style.display = 'block';
+    }
+  
+    learnMoreLink.addEventListener('click', function(e) {
+      e.preventDefault();
+      gdprModal.style.display = 'block';
+    });
+  
+    closeModalButton.addEventListener('click', function() {
+      gdprModal.style.display = 'none';
+    });
+  
+    consentButton.addEventListener('click', function() {
+      localStorage.setItem('cookieConsent', 'true');
+      cookieConsent.style.display = 'none';
+    });
+  });
+  </script>
+</body>
+</html>

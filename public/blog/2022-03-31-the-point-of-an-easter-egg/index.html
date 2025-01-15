@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldwide Stew | The Point of an Easter Egg</title>
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/js/search.js"></script>
+    
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-title">
+                <img src="/images/logo.png" alt="Worldwide Stew logo" width="150" height="150">
+                <h1>Worldwide Stew</h1>
+            </div>
+            <nav>
+                
+                
+                <a href="/" >
+                    Home
+                </a>
+                
+                <a href="/blog/" >
+                    Blog
+                </a>
+                
+                <a href="/editorial/" >
+                    Deep Dives
+                </a>
+                
+                <a href="/events/" >
+                    Events
+                </a>
+                
+                <a href="/about/" >
+                    About
+                </a>
+                
+                <a href="/media/" >
+                    Podcast
+                </a>
+                
+            </nav>
+            <div class="header-controls">
+                <button id="theme-toggle">Toggle Theme</button>
+                
+            </div>
+        </div>
+    </header>
+    <div class="search-container">
+        <form id="search-form">
+            <input type="text" id="search-input" placeholder="Search...">
+            <button type="submit">Search</button>
+        </form>
+        <div id="search-results"></div>
+    </div>
+    <main>
+        
+  <article>
+    <h1>The Point of an Easter Egg</h1>
+    
+      <p class="author">By Mike Davis</p>
+    
+    <time>July 6, 2024</time>
+    <p>The point of an easter egg is that there&rsquo;s something surprising inside. <a href="https://en.wikipedia.org/wiki/Easter_egg_(media)">An image, a message, or a smaller program</a>. An <a href="https://en.wikipedia.org/wiki/Easter_egg">Easter egg</a> has something you don&rsquo;t expect. Recently, a developer <a href="https://www.techradar.com/news/almost-37-years-after-its-launch-someone-found-an-easter-egg-in-windows-10">found an Easter egg</a> in the very first version of Windows (Windows 1.0 nearly 37 years old). It was encrypted in the Smiley Face image. Down at the very bottom. It listed all the people who developed that feature in Windows 1.</p>
+<p>This practice - inserting hidden messages, images, or features - was frowned on at first. Later, Easter Eggs became a kind of signature: <em>I made this</em>. </p>
+<p>Easter eggs almost always bring happiness. </p>
+<p>What if we chose to regularly embed Easter eggs into our daily lives? Little things, unexpected things, that might bring people Joy? What if our communications with others surprised them and made them happy? I think we should try to make our own signature Easter eggs.</p>
+<p>Of course, the Easter egg reference harkens back to the most important event of all Christian history. The Resurrection of Christ was the biggest Easter egg of them all. The Resurrection turned the tables on whatever history might have expected. In both history and our daily lives, what is inside can save our world. Set your eyes on a few Easter eggs in the coming days and weeks. Think about something surprising and genius you could do to <em>flip the script for someone that needs it!</em></p>
+<p>Maybe tomorrow is a good day to start? <em>After all it is April fools :-).</em></p>
+<p>P.S. Like so many things in faith (any faith, I think), culture often contaminates much of the meaning. A favorite term on Wikipedia (of which I&rsquo;m a sometimes editor) is <a href="https://en.wikipedia.org/wiki/Word-sense_disambiguation">Disambiguation</a>: <em>to tease out the different possible meanings of a word</em>. I think thinking people can Disambiguate the meaning of an event from the cultural garnishings. Easter, Easter egg hunts, and Easter eggs have vastly different meanings. If you follow Christianity, hopefully you&rsquo;ll make sure that Christ remains in Christmas and the Resurrection remains in Easter.</p>
+
+  </article>
+
+    </main>
+    <footer>
+    <div class="footer-content">
+        <div class="footer-info">
+            <p>&copy; 2025 Worldwide Stew</p>
+            <p><a href="/gdpr/">GDPR Compliance Statement</a></p>
+        </div>
+        <nav class="footer-nav">
+            <ul>
+                <li><a href="https://worldwidestew.com/">Home</a></li>
+                <li><a href="https://worldwidestew.com/about">About</a></li>
+                <li><a href="https://worldwidestew.com/tags">Topics</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer>
+
+    <script src="/js/theme-switch.js"></script>
+    <div id="cookie-consent" style="display: none;">
+    <p>This website uses cookies to ensure you get the best experience on our website.
+    <a href="#" id="learn-more-link">Learn more</a></p>
+    <button id="cookie-consent-button">I understand</button>
+  </div>
+  
+  <div id="gdpr-modal" style="display: none;">
+    <div id="gdpr-modal-content">
+      <h2>GDPR Compliance Statement</h2>
+      <p>At WorldwideStew, we are committed to protecting your privacy. Here's how we handle your data:</p>
+      <ol>
+        <li><strong>Data Collection:</strong> At this time, there is very limited tracking or cookie usage. In fact, we're unaware of any data collection.</li>
+        <li><strong>Data Usage:</strong> To our knowledge, we are not using trackers. However, any information we gather is used only for purposes of site operation, provision of services, improving user experience, and analytics.</li>
+        <li><strong>Data Protection:</strong> We implement robust security measures to protect your data, including regular software updates, encryption, and secure servers.</li>
+        <li><strong>Your Rights:</strong> Under GDPR, you have the right to access, rectify, erase, restrict processing, object to processing, and data portability of your personal data if we were consciously gathering it. Alas, we aren't. </li>
+        <li><strong>Cookies:</strong> We use cookies to remember your preferences, analyze site traffic, and provide services to users. Use of this site constitutes your agreement with these terms.</li>
+      </ol>
+      <p>For any GDPR-related inquiries, please contact gdpr.large200@passinbox.com.</p>
+      <button id="close-gdpr-modal">Close</button>
+    </div>
+  </div>
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const cookieConsent = document.getElementById('cookie-consent');
+    const gdprModal = document.getElementById('gdpr-modal');
+    const learnMoreLink = document.getElementById('learn-more-link');
+    const closeModalButton = document.getElementById('close-gdpr-modal');
+    const consentButton = document.getElementById('cookie-consent-button');
+  
+    if (!localStorage.getItem('cookieConsent')) {
+      cookieConsent.style.display = 'block';
+    }
+  
+    learnMoreLink.addEventListener('click', function(e) {
+      e.preventDefault();
+      gdprModal.style.display = 'block';
+    });
+  
+    closeModalButton.addEventListener('click', function() {
+      gdprModal.style.display = 'none';
+    });
+  
+    consentButton.addEventListener('click', function() {
+      localStorage.setItem('cookieConsent', 'true');
+      cookieConsent.style.display = 'none';
+    });
+  });
+  </script>
+</body>
+</html>

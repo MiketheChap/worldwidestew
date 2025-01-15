@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Worldwide Stew | Just Start</title>
+    <link rel="stylesheet" href="/css/style.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/js/search.js"></script>
+    
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo-title">
+                <img src="/images/logo.png" alt="Worldwide Stew logo" width="150" height="150">
+                <h1>Worldwide Stew</h1>
+            </div>
+            <nav>
+                
+                
+                <a href="/" >
+                    Home
+                </a>
+                
+                <a href="/blog/" >
+                    Blog
+                </a>
+                
+                <a href="/editorial/" >
+                    Deep Dives
+                </a>
+                
+                <a href="/events/" >
+                    Events
+                </a>
+                
+                <a href="/about/" >
+                    About
+                </a>
+                
+                <a href="/media/" >
+                    Podcast
+                </a>
+                
+            </nav>
+            <div class="header-controls">
+                <button id="theme-toggle">Toggle Theme</button>
+                
+            </div>
+        </div>
+    </header>
+    <div class="search-container">
+        <form id="search-form">
+            <input type="text" id="search-input" placeholder="Search...">
+            <button type="submit">Search</button>
+        </form>
+        <div id="search-results"></div>
+    </div>
+    <main>
+        
+  <article>
+    <h1>Just Start</h1>
+    
+      <p class="author">By Mike Davis, Th.M., BCC, CWMF</p>
+    
+    <time>July 13, 2024</time>
+    <p><em>Just Start.</em> There&rsquo;s many ways to say this. <em>Today is the first day of the rest of your life</em>, is just one. They are highlighting a bias toward action and away from distraction and mindlessness.</p>
+<p>One of the most common frustrations with developing a regular mindfulness and positive psychology journey is to <em>find the time to do them</em>. Certainly, with our busy lifestyles, finding time to do important things is difficult. It is just here, though, where we find an opportunity. Our lives can feel like drudgery, an endless cycle from which we can&rsquo;t break loose.</p>
+<p>As I&rsquo;ve tried to develop my mindfulness practice, I&rsquo;m easily distracted. One of the most helpful pieces of wisdom I&rsquo;ve heard is this:</p>
+<blockquote>
+<p>Do your mindfulness practice the first minute you think of it. Stop right then and right there. Don&rsquo;t do anything else until you do that.</p>
+</blockquote>
+<p>This wisdome is in line with that of the Great psychologist Abraham Maslow (whom I wish I could be like).</p>
+<blockquote>
+<p>One can choose to go back towards safety or forward toward growth
+Growth must be chosen again and again
+Fear must be overcome again and again
+Abraham Maslow</p>
+</blockquote>
+<p>So, having decided what your step forward is today, Just Start. Right now go do it. Don&rsquo;t allow distraction to overrule this choice, this moment in your life. Go forward, not back. Move towatd life, not fear.</p>
+
+  </article>
+
+    </main>
+    <footer>
+    <div class="footer-content">
+        <div class="footer-info">
+            <p>&copy; 2025 Worldwide Stew</p>
+            <p><a href="/gdpr/">GDPR Compliance Statement</a></p>
+        </div>
+        <nav class="footer-nav">
+            <ul>
+                <li><a href="https://worldwidestew.com/">Home</a></li>
+                <li><a href="https://worldwidestew.com/about">About</a></li>
+                <li><a href="https://worldwidestew.com/tags">Topics</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer>
+
+    <script src="/js/theme-switch.js"></script>
+    <div id="cookie-consent" style="display: none;">
+    <p>This website uses cookies to ensure you get the best experience on our website.
+    <a href="#" id="learn-more-link">Learn more</a></p>
+    <button id="cookie-consent-button">I understand</button>
+  </div>
+  
+  <div id="gdpr-modal" style="display: none;">
+    <div id="gdpr-modal-content">
+      <h2>GDPR Compliance Statement</h2>
+      <p>At WorldwideStew, we are committed to protecting your privacy. Here's how we handle your data:</p>
+      <ol>
+        <li><strong>Data Collection:</strong> At this time, there is very limited tracking or cookie usage. In fact, we're unaware of any data collection.</li>
+        <li><strong>Data Usage:</strong> To our knowledge, we are not using trackers. However, any information we gather is used only for purposes of site operation, provision of services, improving user experience, and analytics.</li>
+        <li><strong>Data Protection:</strong> We implement robust security measures to protect your data, including regular software updates, encryption, and secure servers.</li>
+        <li><strong>Your Rights:</strong> Under GDPR, you have the right to access, rectify, erase, restrict processing, object to processing, and data portability of your personal data if we were consciously gathering it. Alas, we aren't. </li>
+        <li><strong>Cookies:</strong> We use cookies to remember your preferences, analyze site traffic, and provide services to users. Use of this site constitutes your agreement with these terms.</li>
+      </ol>
+      <p>For any GDPR-related inquiries, please contact gdpr.large200@passinbox.com.</p>
+      <button id="close-gdpr-modal">Close</button>
+    </div>
+  </div>
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const cookieConsent = document.getElementById('cookie-consent');
+    const gdprModal = document.getElementById('gdpr-modal');
+    const learnMoreLink = document.getElementById('learn-more-link');
+    const closeModalButton = document.getElementById('close-gdpr-modal');
+    const consentButton = document.getElementById('cookie-consent-button');
+  
+    if (!localStorage.getItem('cookieConsent')) {
+      cookieConsent.style.display = 'block';
+    }
+  
+    learnMoreLink.addEventListener('click', function(e) {
+      e.preventDefault();
+      gdprModal.style.display = 'block';
+    });
+  
+    closeModalButton.addEventListener('click', function() {
+      gdprModal.style.display = 'none';
+    });
+  
+    consentButton.addEventListener('click', function() {
+      localStorage.setItem('cookieConsent', 'true');
+      cookieConsent.style.display = 'none';
+    });
+  });
+  </script>
+</body>
+</html>

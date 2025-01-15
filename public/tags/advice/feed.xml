@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advice on Worldwide Stew</title>
+    <link>https://worldwidestew.com/tags/advice/</link>
+    <description>Recent content in Advice on Worldwide Stew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/advice/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can I help you?</title>
+      <link>https://worldwidestew.com/blog/2024-08-18-can-i-help-you/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/blog/2024-08-18-can-i-help-you/</guid>
+      <description>Offering help is a great start. But, to really help requires at least one more step.</description>
+    </item>
+    
+    <item>
+      <title>Three important skills that nobody (probably) ever taught you</title>
+      <link>https://worldwidestew.com/blog/2019-03-03-mark-manson-three-life-skills/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/blog/2019-03-03-mark-manson-three-life-skills/</guid>
+      <description>A link to excellent life advice from Mark Manson</description>
+    </item>
+    
+  </channel>
+</rss>
