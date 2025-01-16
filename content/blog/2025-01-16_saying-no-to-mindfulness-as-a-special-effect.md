@@ -1,5 +1,5 @@
 ---
-title: “Saying No to Mindfulness as a Special Effect” 
+title: 'Saying No to Mindfulness as a Special Effect'
 date: 2025-01-16
 author: "mike davis"
 type: blog
