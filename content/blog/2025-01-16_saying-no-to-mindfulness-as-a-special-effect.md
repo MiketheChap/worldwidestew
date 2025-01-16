@@ -21,7 +21,7 @@ Nor will a visit to your local confessional. We carry the price of our misbehavi
 
 There are ways to modulate the pain of our guilt: taking responsibility, make reparations (where possible), and asking forgiveness. Nothing, though, wipes the slate clean. 
 
-Let your conscience be. Do what you can to learn from the past. 
+Let your conscience be. As much as you can, thank your conscience for the work it's trying to do, for it's teaching. Pushing your conscience away only assures it's continued close presence. Do what you can to learn from the past. 
 
 But, don’t waste your money on false promises of mindfulness. Mindfulness can help. But it’s not a miracle. Indeed, I’m not sure we need miracles. At least not the twelve-minute kind, crystals, and other paraphernalia. 
 
