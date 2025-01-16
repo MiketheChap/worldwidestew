@@ -7,7 +7,11 @@ tags: ["mindfulness", "meditation", "positive psychology"]
 
 ---
 
-**New podcast episode coming soon** - I'm editing a podcast episode I recorded with a friend, Anthony, who's a nurse. We talk about travel, culture, nursing, and the role of chaplains (among other things). [Here's the Apple podcasts link](https://podcasts.apple.com/us/podcast/travel-health-and-generations-with-anthony-nguyen/id1765332412?i=1000666908796)
+**Two Minute Mindfulness Meditation on Apple Podcasts** - A Two-Minute Mindfulness Break: A brief reset for your mind and body. Find a comfortable position and focus on your breath and your body. Notice the sensations of breathing and experience open-awareness without trying to change anything. If your mind wanders, gently bring your attention back to your breath. In just two minutes, you can create a moment of calm in your busy day. Check it out **[here](https://podcasts.apple.com/us/podcast/two-minute-mindfulness-meditation/id1765332412?i=1000673695128)**. 
+
+---
+
+**Interview podcast with Anthony Nguyen about travel** - Join me as I visit with my friend, Anthony Nguyen, a nurse at Baylor Scott & White Heart and Vascular Hospital in Dallas. We talk about travel, culture, nursing, and the role of chaplains (among other things). [Here's the Apple podcasts link](https://podcasts.apple.com/us/podcast/travel-health-and-generations-with-anthony-nguyen/id1765332412?i=1000666908796)
 
 ---
 
