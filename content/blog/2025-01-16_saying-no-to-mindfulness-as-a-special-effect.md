@@ -17,7 +17,7 @@ No one can clear that conscience. It’s there and hopefully it's appropriaately
 
 Mindfulness isn’t intended to be a special effect. It helps make life a little more tolerable. That’s it. And, a twelve minute practice doesn’t do that. 
 
-Nor will a visit to your local confessional. We carry the price of our misbehaviors and mistakes in our consciences. This is good. This is human. 
+Nor will a visit to your local confessional. It may ease things a bit. When I was a chaplain, listening to people's rough edges seeemed to bring some solace. Sometimess, just naming what we've done to someone we don't know and utterly trust can be helpful. We carry the price of our misbehaviors and mistakes in our consciences. This is good. This is human. 
 
 There are ways to modulate the pain of our guilt: taking responsibility, make reparations (where possible), and asking forgiveness. Nothing, though, wipes the slate clean. 
 
