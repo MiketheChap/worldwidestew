@@ -26,3 +26,5 @@ Let your conscience be. Do what you can to learn from the past.
 But, don’t waste your money on false promises of mindfulness. Mindfulness can help. But it’s not a miracle. Indeed, I’m not sure we need miracles. At least not the twelve-minute kind, crystals, and other paraphernalia. 
 
 Unless you like the crystal and can afford it. Then, by all means buy it. But, only because the crystal makes you happy! 
+
+mike
