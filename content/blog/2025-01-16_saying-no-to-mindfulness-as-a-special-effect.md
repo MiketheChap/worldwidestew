@@ -5,7 +5,7 @@ author: "mike davis"
 type: blog
 tags: ["belief", "trust", “mindfulness”]
 summary: "In matters of mindfulness, caution is appropriate."
-draft: true
+draft: false
 ---
 In matters of popular mindfulness, caution is appropriate. 
 
