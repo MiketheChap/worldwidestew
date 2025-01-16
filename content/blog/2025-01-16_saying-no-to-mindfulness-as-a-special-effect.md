@@ -1,6 +1,6 @@
 ---
 title: “Saying No to Mindfulness as a Special Effect” 
-date: 2024-11-12
+date: 2025-01-16
 author: "mike davis"
 type: blog
 tags: ["belief", "trust", “mindfulness”]
