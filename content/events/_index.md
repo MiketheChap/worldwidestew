@@ -3,7 +3,15 @@ title: "Events and Programs"
 tags: ["mindfulness", "meditation", "positive psychology"]
 ---
 
-#### [*Just Start* Mindfulness Meditation Series - 
+#### Join us for Mindfulness Group Sessions January-March 2025
+
+From January 23-March 27, 2025, I hope to offer two sessions each week. There is no charge. One will be on Thursday mornings from 10 to 10:45 a.m. If people register for the evening session, I'll also do Thursday evening sessions from 7:30 to 8:15 p.m. If you want to sign up for these sessions, please complete [this form](https://forms.gle/UvJnRzBrt7s4b2pP9). If we don't have more than five people register for the evening session, I'll cancel it. 
+
+To learn more, [go to this link](https://docs.google.com/document/d/1qLyT_e5a_G7SPBSlexmXAhdh5M5zgMcv4sDkWwZ2s-A/edit?usp=sharing)
+
+I look forward to building a simple, connected community of learning.
+
+---
 
 **Two Minute Mindfulness Meditation on Apple Podcasts** - A Two-Minute Mindfulness Break: A brief reset for your mind and body. Find a comfortable position and focus on your breath and your body. Notice the sensations of breathing and experience open-awareness without trying to change anything. If your mind wanders, gently bring your attention back to your breath. In just two minutes, you can create a moment of calm in your busy day. Check it out **[here](https://podcasts.apple.com/us/podcast/two-minute-mindfulness-meditation/id1765332412?i=1000673695128)**. 
 
