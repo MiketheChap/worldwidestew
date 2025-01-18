@@ -3,13 +3,15 @@ title: "Events and Programs"
 tags: ["mindfulness", "meditation", "positive psychology"]
 ---
 
-#### Join us for Mindfulness Group Sessions January-March 2025
+#### Join us for Mindful Meet-Up Sessions January-March 2025
 
-From January 23-March 27, 2025, I hope to offer two sessions each week. There is no charge. One will be on Thursday mornings from 10 to 10:45 a.m. If people register for the evening session, I'll also do Thursday evening sessions from 7:30 to 8:15 p.m. If you want to sign up for these sessions, please complete [this form](https://forms.gle/UvJnRzBrt7s4b2pP9). If we don't have more than five people register for the evening session, I'll cancel it. 
+From January 23-March 27, 2025, I will offer a Mindful Meet-Up session on Thursday evenings from 7:30-8:15 PM, CT. There is *no charge*. I'd love to meet you and make a connection. If you want to sign up please complete [this form](https://forms.gle/UvJnRzBrt7s4b2pP9). If we don't have more than four people register, I'll cancel it. 
 
-To learn more, [go to this link](https://docs.google.com/document/d/1qLyT_e5a_G7SPBSlexmXAhdh5M5zgMcv4sDkWwZ2s-A/edit?usp=sharing)
+To learn more, [go to this link](https://drive.google.com/file/d/10VDyk35AwsjOGOZ3wN_MuKoAT-mob5mq/view?usp=sharing)
 
-I look forward to building a simple, connected community of learning.
+I look forward to building a simple, connected community of care and learning. 
+
+Mike Davis, Th.M., BCC(SCA), CWMF
 
 ---
 
