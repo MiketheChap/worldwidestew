@@ -1,11 +1,16 @@
 ---
-title: "Hard Times" 
+title: Hard Times
 date: 2025-01-14
-author: "mike davis"
+author: mike davis
 type: blog
-tags: ["environment", "suffering", “loss”, "courage"]
-summary: "Whatever you believe in, bring wishes of kindness to those who suffer."
+tags:
+    - environment
+    - suffering
+    - “loss”
+    - courage
+summary: Whatever you believe in, bring wishes of kindness to those who suffer.
 draft: false
+description: How do we cope with hard times? The temptation is to give up
 ---
 I have a group of dear friends, most of whom live in California. I meet with them by Zoom most weeks or as often as I can. Each person in the group makes my life better every time I see them. Their smiles radiate.
 
