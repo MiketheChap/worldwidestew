@@ -1,8 +1,8 @@
 ---
 title: Thank you for a courteous No
 description: "How we respond to others makes all the difference in a polarized world. "
-date: 2025-01-20T21:21:32.846Z
-draft: true
+date: 2025-01-21T21:21:32.846Z
+draft: false
 tags:
     - kindness
     - patience
