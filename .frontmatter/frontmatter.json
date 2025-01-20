@@ -13,6 +13,18 @@
           "required": true
         },
         {
+          "title": "Date",
+          "name": "date",
+          "type": "datetime",
+          "required": true
+        },
+        {
+          "title": "Author",
+          "name": "author",
+          "type": "string",
+          "required": true
+        },
+        {
           "title": "Type",
           "name": "type",
           "type": "string",
@@ -20,20 +32,15 @@
           "required": true
         },
         {
-          "title": "Date",
-          "name": "date",
-          "type": "datetime",
-          "required": true
-        },
-        {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
           "title": "Tags",
           "name": "tags",
           "type": "tags"
+        },
+        {
+          "title": "Summary",
+          "name": "summary",
+          "type": "string",
+          "required": true
         },
         {
           "title": "Draft",
