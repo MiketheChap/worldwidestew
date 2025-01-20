@@ -6,7 +6,7 @@ type: blog
 tags:
     - environment
     - suffering
-    - “loss”
+    - loss
     - courage
 summary: Whatever you believe in, bring wishes of kindness to those who suffer.
 draft: false
