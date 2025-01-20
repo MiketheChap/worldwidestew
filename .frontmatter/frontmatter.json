@@ -1,0 +1,232 @@
+{
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "blog",
+      "pageBundle": false,
+      "previewPath": "blog",
+      "filePrefix": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "required": true
+        },
+        {
+          "title": "Type",
+          "name": "type",
+          "type": "string",
+          "default": "blog",
+          "required": true
+        },
+        {
+          "title": "Date",
+          "name": "date",
+          "type": "datetime",
+          "required": true
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    },
+    {
+      "name": "events",
+      "pageBundle": false,
+      "previewPath": "events",
+      "filePrefix": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "required": true
+        },
+        {
+          "title": "Type",
+          "name": "type",
+          "type": "string",
+          "default": "event",
+          "required": true
+        },
+        {
+          "title": "Event Date",
+          "name": "event_date",
+          "type": "datetime",
+          "required": true
+        },
+        {
+          "title": "End Date",
+          "name": "end_date",
+          "type": "datetime"
+        },
+        {
+          "title": "Location",
+          "name": "location",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    },
+    {
+      "name": "podcast",
+      "pageBundle": false,
+      "previewPath": "podcast",
+      "filePrefix": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "required": true
+        },
+        {
+          "title": "Type",
+          "name": "type",
+          "type": "string",
+          "default": "podcast",
+          "required": true
+        },
+        {
+          "title": "Episode Number",
+          "name": "episode_number",
+          "type": "number"
+        },
+        {
+          "title": "Publication Date",
+          "name": "date",
+          "type": "datetime",
+          "required": true
+        },
+        {
+          "title": "Duration",
+          "name": "duration",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Audio URL",
+          "name": "audio_url",
+          "type": "string"
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    },
+    {
+      "name": "deep-dives",
+      "pageBundle": false,
+      "previewPath": "deep-dives",
+      "filePrefix": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "required": true
+        },
+        {
+          "title": "Type",
+          "name": "type",
+          "type": "string",
+          "default": "deep-dive",
+          "required": true
+        },
+        {
+          "title": "Date",
+          "name": "date",
+          "type": "datetime",
+          "required": true
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Topics",
+          "name": "topics",
+          "type": "tags"
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    },
+    {
+      "name": "about",
+      "pageBundle": false,
+      "previewPath": "about",
+      "filePrefix": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string",
+          "required": true
+        },
+        {
+          "title": "Type",
+          "name": "type",
+          "type": "string",
+          "default": "about",
+          "required": true
+        },
+        {
+          "title": "Last Updated",
+          "name": "last_updated",
+          "type": "datetime",
+          "required": true
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Draft",
+          "name": "draft",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313"
+}
