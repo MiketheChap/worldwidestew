@@ -1,12 +1,15 @@
 ---
-title: "You are beautiful"
-description: "A blog post about the source of true beauty. You are beautiful. You don't need anything special."
+title: You are beautiful
+description: A blog post about the source of true beauty. You are beautiful. You don't need anything special.
 date: 2025-01-19T02:15:01.080Z
-preview: "I was beautiful."
 type: blog
 draft: false
-tags: ["beauty", "self-compassion"]
-categories: ["strength","inspiration"]
+tags:
+    - beauty
+    - self-compassion
+categories:
+    - strength
+    - inspiration
 ---
 I was passing through the living room. An advertisement was on the television. I feel a special contempt for these kinds of ads. A woman had used some kind of special *formula.*" As a result os using the *preparation* she said, I *was* beautiful."
 
