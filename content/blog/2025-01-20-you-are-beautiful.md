@@ -8,7 +8,7 @@ draft: false
 tags: ["beauty", "self-compassion"]
 categories: ["strength","inspiration"]
 ---
-I was passing through the living room. An advertisement was on the television. I feel a special contempt for these kinds of ads. A woman had used some kind of special *formula." After she used the *preparation*, she said, I *was* beautiful."
+I was passing through the living room. An advertisement was on the television. I feel a special contempt for these kinds of ads. A woman had used some kind of special *formula.*" As a result os using the *preparation* she said, I *was* beautiful."
 
 No, dear lady. To the extent you're beautiful, it comes from the inside. 
 
