@@ -3,6 +3,7 @@ title: "You are beautiful"
 description: "A blog post about the source of true beauty. You are beautiful. You don't need anything special."
 date: 2025-01-19T02:15:01.080Z
 preview: "I was beautiful."
+type: blog
 draft: false
 tags: ["beauty", "self-compassion"]
 categories: ["strength","inspiration"]
