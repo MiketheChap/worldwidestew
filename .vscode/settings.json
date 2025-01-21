@@ -1,0 +1,25 @@
+{
+    "frontMatter.framework.id": "hugo",
+    "frontMatter.preview.host": "http://localhost:1313",
+    "frontMatter.content.publicFolder": "static",
+    "frontMatter.dashboard.openOnStart": true,
+    "frontMatter.content.fmHighlight": true,
+    "frontMatter.content.folders": [
+        {
+            "path": "content/blog",
+            "title": "Blog Posts"
+        },
+        {
+            "path": "content/events",
+            "title": "Events"
+        },
+        {
+            "path": "content/editorial",
+            "title": "Editorial"
+        },
+        {
+            "path": "content/media",
+            "title": "Media"
+        }
+    ]
+}
