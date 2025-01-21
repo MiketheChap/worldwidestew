@@ -5,28 +5,17 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "Blog",
+      "title": "Blog Posts",
       "path": "[[workspace]]/content/blog"
-    },
-    {
-      "title": "Editorial",
-      "path": "[[workspace]]/content/editorial"
-    },
-    {
-      "title": "Events",
-      "path": "[[workspace]]/content/events"
-    },
-    {
-      "title": "Media",
-      "path": "[[workspace]]/content/media"
     }
   ],
-  "frontMatter.git.enabled": true,
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "blog",
       "pageBundle": false,
-      "previewPath": "blog",
+      "previewPath": "content/blog",
+      "fileType": "md",
+      "fileLocation": "{{contentfolder}}/blog/{{slug}}.md",
       "fields": [
         {
           "title": "Title",
@@ -35,25 +24,24 @@
           "required": true
         },
         {
-          "title": "Author",
-          "name": "author",
-          "type": "string",
-          "required": true,
-          "default": "Mike Davis"
-        },
-        {
-          "title": "Publishing date",
-          "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true,
-          "required": true
-        },
-        {
           "title": "Type",
           "name": "type",
           "type": "string",
           "default": "blog",
+          "required": true
+        },
+        {
+          "title": "Author",
+          "name": "author",
+          "type": "string",
+          "default": "Mike Davis",
+          "required": true
+        },
+        {
+          "title": "Date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
           "required": true
         },
         {
@@ -73,9 +61,9 @@
           "type": "categories"
         },
         {
-          "title": "Is in draft",
+          "title": "Draft",
           "name": "draft",
-          "type": "draft",
+          "type": "boolean",
           "default": true
         }
       ]
