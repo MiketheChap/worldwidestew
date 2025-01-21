@@ -1,14 +1,20 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"[markdown]": {
-		}
-	}
+    "folders": [
+        {
+            "path": ".."
+        },
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "[markdown]": {},
+        "json.schemas": [],
+        "frontMatter.preview.host": null,
+        "frontMatter.content.publicFolder": "",
+        "frontMatter.framework.id": "hugo",
+        "frontMatter.content.snippets": {
+            "preview": false
+        }
+    }
 }
