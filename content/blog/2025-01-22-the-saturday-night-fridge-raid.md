@@ -1,7 +1,7 @@
 ---
 title: The Saturday Night Monster
 description: Late on Saturday nights, the most frightening monster of all enters our home, dragging me to the fridge...
-date: 2025-01-23T22:29:11.713Z
+date: 2025-01-22T22:29:11.713Z
 draft: false
 type: blog
 tags:
