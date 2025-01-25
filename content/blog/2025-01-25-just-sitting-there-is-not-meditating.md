@@ -13,8 +13,7 @@ categories:
 Just sitting there is not meditating. 
 
 I know. I've excused my sitting there countless times so I could cross off that day's meditation. Our penchant for checking off items from our lists is fascinating. In reality, I could have been excused truly wanting to be with what was real and then whatever happened, happened. 
-
-<!-- readmore -->
+<!--more-->
 
 On the other hand.
 
