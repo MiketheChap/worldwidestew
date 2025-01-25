@@ -1,6 +1,6 @@
 ---
 title: Just sitting there is not meditating
-description: Just sitting there is not meditating. I know. I've pardoned this form of...
+description: 
 date: 2025-01-25T02:30:34.977Z
 preview: ""
 draft: false
