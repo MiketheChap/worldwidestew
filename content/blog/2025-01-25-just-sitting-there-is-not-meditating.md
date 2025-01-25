@@ -14,6 +14,8 @@ Just sitting there is not meditating.
 
 I know. I've excused my sitting there countless times so I could cross off that day's meditation. It's fascinating our penchant for checking off items on our lists. In reality, I could have been excused truly wanting to be with what was real and then what happened, happened. 
 
+<!-- readmore -->
+
 On the other hand.
 
 Sitting there, standing there, or even lying down there with *the intention* of meditating - even if you *do it poorly or get distracted or fall asleep or any of a million other things* - is still in the meditation zone. Why? Because I showed up with intention. 
