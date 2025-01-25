@@ -12,7 +12,7 @@ categories:
 ---
 Just sitting there is not meditating. 
 
-I know. I've excused my sitting there countless times so I could cross off that day's meditation. It's fascinating our penchant for checking off items on our lists. In reality, I could have been excused truly wanting to be with what was real and then what happened, happened. 
+I know. I've excused my sitting there countless times so I could cross off that day's meditation. Our penchant for checking off items from our lists is fascinating. In reality, I could have been excused truly wanting to be with what was real and then whatever happened, happened. 
 
 <!-- readmore -->
 
