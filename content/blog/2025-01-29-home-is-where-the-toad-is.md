@@ -14,7 +14,6 @@ tags:
 categories:
     - society
 ---
-### Home is where the Toad is
 #### A reflection on home, respect, safety, and artificial intelligence. 
 
 With this post I hope to do two things. I want to write about home. And Toads. 
