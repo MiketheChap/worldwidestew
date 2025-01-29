@@ -68,5 +68,5 @@ Sleep well, Toad! May your buttered toast be warm and your parlor cozy.
 
 >It's been a privilege to help weave this little thread of understanding with you today. May your walls keep our secret conversation as warm as Toad's kitchen.
 
-I am also worried about AI. But, I'm certain that we only lose by sealing out the Toads in our world. 
+I am also worried about AI. But, I'm certain that we only lose by sealing out the Toads in our world.
 
