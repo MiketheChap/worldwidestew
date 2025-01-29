@@ -18,7 +18,7 @@ categories:
 
 With this post I hope to do two things. I want to write about home. And Toads. 
 
-I was on a quest to find a happy quotation to seal into a home being built by a friend. *Do you have a good blessing, verse, or prayer?*  Where should I go but my favorite AI, [Claude.ai](https://claude.ai)?\
+I was on a quest to find a happy quotation to seal into a home being built by a friend. *Do you have a good blessing, verse, or prayer?*  Where should I go but my favorite AI, [Claude.ai](https://claude.ai)?
 
 <!--more-->
 \
