@@ -7,9 +7,9 @@
   --bg-secondary: #f8f9fa;
   --text-secondary: #666666;
   
-  /* Fonts */
-  --heading-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  --body-font: 'Trebuchet MS', sans-serif;
+/* Fonts */
+--heading-font: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+--body-font: 'Source Sans Pro', 'Trebuchet MS', sans-serif;
   
   /* Sizes */
   --max-width: 800px;
