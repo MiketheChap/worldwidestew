@@ -3,7 +3,7 @@ title: Why can't we be friends?
 description: "Cooperation is necessary for survival. Dogs know that. Bonobos know that. Why can't we figure it out. "
 date: 2025-02-04T22:18:27.765Z
 preview: /images/6_bonobos_WHCalvin_IMG_1341.jpg
-draft: true
+draft: false
 tags:
     - cooperation
     - peace
