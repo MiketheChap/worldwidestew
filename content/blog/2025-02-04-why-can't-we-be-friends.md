@@ -33,6 +33,14 @@ But, there is another way. Let's return to animals.
 
 While chimps are violent outside their groups, another ape - similar to the chimpanzee - reveals a better way. Called a bonobo, like dogs, they want cooperation. Unlike chimps, they extend their cooperation to other groups of bonobos. Those who are the best at cooperation take the lead to find the best cooperators in the other group. And, they start grooming and sharing from there on. 
 
+{{< figure
+  src="/images/6_bonobos_WHCalvin_IMG_1341.jpg"
+  alt="A photograph of 6 bonobos."
+  link="https://en.wikipedia.org/wiki/Bonobo"
+  caption="Courtesy, Wcalvin at English Wikipedia, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  class="ma0 w-75"
+>}}
+
 > "For bonobos, cooperation is important because it is proof of love," says Suzy Kwetuenda, who's in charge of animal welfare at Lola ya Bonobo, a bonobo rescue and rehabilitation sanctuary in the DRC. She wasn't involved in the study, but she says the new findings are consistent with what she's observed. Among bonobos, "the most important thing is to be stable, to be in good understanding — more than everything."
 
 Is the wish for cooperation some sort of New Age ideal for which there is no basis in reality? I don't think so. 
