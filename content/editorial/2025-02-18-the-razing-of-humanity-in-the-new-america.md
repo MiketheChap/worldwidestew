@@ -1,9 +1,9 @@
 ---
-title: The Razing of Humanity in the New America
+title: The Loss of Humanity in the New America
 description: Under Donald Trump and Republicans, the days of caring about America and humanity are quickly dwindling
 date: 2025-02-18T20:56:21.281Z
 preview: /images/Giovanni_Battista_Tiepolo_-_St_Jacobus_in_Budapest.jpg
-draft: false
+draft: true
 tags:
     - Christianity
     - faith
