@@ -23,8 +23,7 @@ categories:
   class="ma0 w-75"
 >}}
 
-
->Saint James the Moor-slayer (Spanish: Santiago Matamoros) is the name given to the representation (painting, sculpture, etc.) of the apostle [James the Great](https://en.wikipedia.org/wiki/James_the_Great), as a legendary, miraculous figure who appeared at the also legendary [Battle of Clavijo](https://en.wikipedia.org/wiki/Battle_of_Clavijo), helping the Christians conquer the Muslim [Moors](https://en.wikipedia.org/wiki/Moors). - from the Wikipedia entry [James Matamoros](https://en.wikipedia.org/wiki/James_Matamoros)
+>"Saint James the Moor-slayer (Spanish: Santiago Matamoros) is the name given to the representation (painting, sculpture, etc.) of the apostle [James the Great](https://en.wikipedia.org/wiki/James_the_Great), as a legendary, miraculous figure who appeared at the also legendary [Battle of Clavijo](https://en.wikipedia.org/wiki/Battle_of_Clavijo), helping the Christians conquer the Muslim [Moors](https://en.wikipedia.org/wiki/Moors)." - from the Wikipedia entry [James Matamoros](https://en.wikipedia.org/wiki/James_Matamoros)
 
 The Trump Administration has no regard for the Rule of Law or the kind of nation that the Founders of the United States intended. The eradication of US Aid programs, the removal of thousands of people's jobs, the despotic behaviors of Administration officials, the abandonment of cases filed to protect the least protected people, and the crossing of the boundaries between Church and State (again, an idea held sacred by the Founders) portend a future where Republican leaders have created a totalitarian state. Republican Congressional leaders like John Cornyn arrogantly and scornfully ignore [constituent's concerns](https://x.com/JohnCornyn/status/1887271813828276442?mx=2). [^1]
 
