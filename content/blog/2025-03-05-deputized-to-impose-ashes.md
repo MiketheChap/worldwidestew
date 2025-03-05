@@ -39,4 +39,9 @@ People from all different traditions wanted me to give them Ashes. *Go ahead, hi
 
 Before coming to work at the hospital, Ash Wednesday wasn't part of my faith tradition. But, in a surprising turn, it became every year's most Sacred event. I got to touch the heads of countless patients, family members, and staff, offer the words, *"Repent and believe the Gospel,"* and then impose Ashes. This little encounter symbolized all that gives me hope about the human and divine. 
 
-*I miss those days.* This is the second year where I haven't touched those foreheads. For all of you I did touch, who were on  my list each year, I still send you my love. The Ashes went one way. The Touch went both.  
+*I miss those days.* This is the second year where I haven't touched those foreheads. For all of you I did touch, who were on  my list each year, I still send you my love. The Ashes went one way. The Touch, though, went both.  
+
+---
+For all my friends, patients, and family members. For my wife and dogs who put up with long, long days. 
+
+I had help with this post from my preferred AI, [Claude.ai](https://claude.ai) by *Anthropic*. 
