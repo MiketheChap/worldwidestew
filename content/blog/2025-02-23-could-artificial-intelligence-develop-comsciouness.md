@@ -1,5 +1,5 @@
 ---
-title: Could Artificial Intelligence Develop Comsciousness?
+title: Could Artificial Intelligence Develop Consciousness?
 description: A conversation with the Claude AI about the possibilty of AI developing consciousness.
 date: 2025-02-22T01:37:50.539Z
 preview: ""
