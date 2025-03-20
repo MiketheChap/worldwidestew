@@ -1,7 +1,7 @@
 ---
 title: Being conscientious isn't a moral virtue.
 description: "The word Conscientious sounds so moral. Just because you're conscientious, though, doesn't confer moral virtue. "
-date: 2025-03-10T16:19:44.577Z
+date: 2025-03-20T16:19:44.577Z
 preview: ""
 draft: false
 tags:
