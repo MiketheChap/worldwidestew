@@ -30,6 +30,6 @@ This workshop – a preview edition of a future multi-session class - is designe
 📅 Starting March 29 at 10:00 a.m. CT via Zoom
 ⚠️ Limited to 20 participants to ensure personal attention
 
-Interested? {https://lnkd.in/gNFwPGBe](https://lnkd.in/gNFwPGBe)
+Interested? [Click this link](https://drive.google.com/file/d/1i-3pxdfAy_3vTgBbldmEo-GXvK2rP7Z3/view?usp=sharing)
 
 hashtag#AIWorkshop hashtag#PracticalAI hashtag#ProfessionalDevelopment hashtag#LearningTogether
