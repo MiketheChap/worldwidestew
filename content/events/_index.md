@@ -3,7 +3,7 @@ title: "Events and Programs"
 tags: ["mindfulness", "meditation", "positive psychology"]
 ---
 
-## 🚀 ANNOUNCING: "AI for the Rest of Us" - A Hands-On Workshop (BETA) - see the linnk below for more information
+## 🚀 ANNOUNCING: "AI for the Rest of Us" - A Hands-On Workshop (BETA) - see the link below for more information
 
 Tired of theoretical AI classes? Join me for a practical, interactive workshop focused on using AI tools in your daily life and work!
 
