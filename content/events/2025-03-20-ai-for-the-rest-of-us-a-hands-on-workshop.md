@@ -13,7 +13,11 @@ tags:
 categories:
     - society
 ---
-🚀 ANNOUNCING: "AI for the Rest of Us" - A Hands-On Workshop (BETA)
+🚀 REGISTRATION for this even has closed. I will announce a repeat class again soon. Watch here for news.
+
+We 
+
+ANNOUNCING: "AI for the Rest of Us" - A Hands-On Workshop (BETA)
 
 Tired of theoretical AI classes? Join me for a practical, interactive workshop focused on using AI tools in your daily life and work!
 
