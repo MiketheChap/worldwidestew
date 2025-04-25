@@ -3,15 +3,15 @@ title: "AI for the Rest of Us: A Hands-On Workshop"
 description: "An announcement about the new beta AI class. "
 date: 2025-03-20T18:02:30.449Z
 preview: ""
-draft: true
+draft: false
 tags:
-    - Artificial Intelligence
-    - co-creation
-    - education
-    - seminar
-    - technology
+  - Artificial Intelligence
+  - co-creation
+  - education
+  - seminar
+  - technology
 categories:
-    - society
+  - society
 ---
 🚀 REGISTRATION for this even has closed. I will announce a repeat class again soon. Watch here for news.
 
