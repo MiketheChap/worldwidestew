@@ -3,8 +3,7 @@ title: "Events and Programs"
 tags: ["mindfulness", "meditation", "positive psychology"]
 ---
 
-## 🚀 Registration for this event is closed. Watch here for the next event
-ANNOUNCING: "AI for the Rest of Us" - A Hands-On Workshop (BETA) - see the link below for more information
+## 🚀Coming Soon!: "AI for the Rest of Us" - A Hands-On Workshop - see the link below for more information
 
 Tired of theoretical AI classes? Join me for a practical, interactive workshop focused on using AI tools in your daily life and work!
 
@@ -18,11 +17,11 @@ What makes this workshop different:
 
 This workshop – a preview edition of a future multi-session class - is designed for regular people who want practical results - whether you're looking to streamline work, boost creativity, or just understand how to use these powerful tools effectively.
 
-## Join us for Mindful Meet-Up Sessions January-March 2025
+## Join us for Mindful Meet-Up Sessions April-June 2025
 
-From January 23-March 27, 2025, I will offer a Mindful Meet-Up session on Thursday evenings from 7:30-8:15 PM, CT. There is *no charge*. I'd love to meet you and make a connection. If you want to sign up please complete [this form](https://forms.gle/UvJnRzBrt7s4b2pP9). If we don't have more than four people register, I'll cancel it. 
+From April-June, 2025, I will offer a Mindful Meet-Up session on Thursday mornings from 10-10:45 am (CT). There is *no charge*. I'd love to meet you and make a connection. If you want to sign up please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeof3vuYw4yRPNNPv4yTXFRKMTmOWHcJ3cN1cLRjjFPViuYRg/viewform?usp=sharing). The group size is limited to twenty people. 
 
-To learn more, [go to this link](https://drive.google.com/file/d/10VDyk35AwsjOGOZ3wN_MuKoAT-mob5mq/view?usp=sharing)
+To learn more, [go to this link](https://drive.google.com/file/d/1Q9ouEu-_s22pAD5P1AAyDu1rWlzFH99a/view?usp=drive_link)
 
 I look forward to building a simple, connected community of care and learning. 
 

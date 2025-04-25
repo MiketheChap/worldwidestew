@@ -3,7 +3,7 @@ title: "AI for the Rest of Us: A Hands-On Workshop"
 description: "An announcement about the new beta AI class. "
 date: 2025-03-20T18:02:30.449Z
 preview: ""
-draft: false
+draft: true
 tags:
     - Artificial Intelligence
     - co-creation
@@ -15,25 +15,22 @@ categories:
 ---
 🚀 REGISTRATION for this even has closed. I will announce a repeat class again soon. Watch here for news.
 
-We 
 
-ANNOUNCING: "AI for the Rest of Us" - A Hands-On Workshop (BETA)
+🚀  ANNOUNCING TWO SESSIONS: "AI for the Rest of Us" - A Hands-On Workshop
 
-Tired of theoretical AI classes? Join me for a practical, interactive workshop focused on using AI tools in your daily life and work!
+"AI for the Rest of Us" - It's Not Just About Work Tasks
 
-What makes this workshop different:
-- Learn by doing, not just listening
-- Work on real projects that matter to YOU
-- Small-group practice sessions in a supportive environment
-- Focus on immediate, practical applications
-- No technical background required
-- "Show and Tell" your AI homework successes!
+I've been reflecting on what makes our upcoming AI workshop truly special, and I wanted to share more about the journey we'll take together...
+This isn't just another "productivity hack" class. We're going beyond *working smarter* to explore how AI can enhance your creative endeavors and personal growth.
+In our workshop, you'll:
+✨ Master the "Magic Prompt Conversation Flow" - a technique that breaks you out of limited thinking about what AI "should" be doing
+✨ Progress from giving basic commands to engaging in true collaborative exchanges
+✨ Participate in guided "Knowledge Expeditions" where you and AI explore topics you're curious about.
+✨ Experience group "Idea Volleys" where we collectively build on each other's creative concepts
+✨ Discover how to shift perspectives and see problems through new lenses
 
-This workshop – a preview edition of a future multi-session class - is designed for regular people who want practical results - whether you're looking to streamline work, boost creativity, or just understand how to use these powerful tools effectively. AI has been part of my daily workflow for well over a year now. I use it to plan trips, to find recipes for forgotten dishes, to help with my writing, and to explore ideas about living life better. And, AI is helping me to prepare for our time together every step of the way! I was sharing my sense of Imposter Syndrome a few minutes ago and it told me: Trust your experience and remember that your participants are there because they want the approachable, practical perspective you're offering. You've got this! Maybe you need this kind of help?
-
-📅 Starting March 29 at 10:00 a.m. CT via Zoom
-⚠️ Limited to 20 participants to ensure personal attention
-
-Interested? [Click this link](https://drive.google.com/file/d/1i-3pxdfAy_3vTgBbldmEo-GXvK2rP7Z3/view?usp=sharing)
+The beauty of learning in a group setting is witnessing how others approach the same tools in completely different ways. One person might use AI to design a garden, while another explores family recipes, and someone else crafts a children's story. Whatever sparks your curiosity - creative writing, learning new subjects, exploring ideas, or yes, even work projects - you'll gain approaches that transform how you interact with AI.
+I'm capping this workshop at 20 people to ensure our collaborative environment thrives. A few spots have been claimed, with room for more curious minds!
+📅 Starting March 29 at 10:00 a.m. CT via Zoom 👉 Register here: https://lnkd.in/gNFwPGBe
 
 hashtag#AIWorkshop hashtag#PracticalAI hashtag#ProfessionalDevelopment hashtag#LearningTogether

@@ -1,6 +1,6 @@
 ---
 title: What matters to me?
-description: "What matters to me is a great place to start? What matters to another is another place to begin. One hand washes the other. "
+description: "What matters to me is a great place to start. What matters to another is another place to begin. One hand washes the other. "
 date: 2025-04-02T19:22:49.994Z
 preview: ""
 draft: false
@@ -14,7 +14,7 @@ tags:
 categories:
     - inspiration
 ---
-Asking *Why am I here?* is probably wasting time. It's like a termite trying to eat a sequoia. 
+Asking *Why am I here?* is probably wasting time. It's like a termite trying to eat a sequoia. It's too big and carries little action. 
 
 You're probably better off asking two other questions:
 - What things matter to me?
