@@ -1,5 +1,5 @@
 ---
-title: 2025-04-28_satisfaction-or-your-money-back
+title: "Satisfaction or Your Money Back"
 description: ""
 date: 2025-04-28T02:24:39.249Z
 preview: ""
