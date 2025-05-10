@@ -3,7 +3,7 @@ title: Beliefs Worth Examining
 description: ""
 date: 2025-05-10T13:36:24.586Z
 preview: /images/1280px-WMAP_2012.png
-draft: true
+draft: false
 tags:
     - beliefs
     - evolution
