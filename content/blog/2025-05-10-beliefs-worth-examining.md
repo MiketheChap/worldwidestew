@@ -24,7 +24,7 @@ What would your belief system - your religion and politics, for example - have t
 
 Decades ago I believed in almost every facet of the Christian Nationalist dream, including their beliefs about sexuality. I ignored the human experience, following ideology instead. Then, as a chaplain in training, I sat by a gay man who lost his partner moments before. His racking sobs revealed his overwhelming grief. *Wait*, I thought. *He really loved his partner. This relationship wasn't the perversion I was told it was. There was more love in that room than in my own "straight" marriage. It was love. Pure love.* It was the beginning of the collapse of my walls of belief about human sexuality. My former beliefs still cast long shadows. 
 
-As it often does, life poked other holes in my *belief balloon*. I was a Creationist. I ignored the problems with Creationism. Then, I learned about the microwave background radiation that fills all of space. The satellite pictures are below. By analyzing patterns in this primordial radiation, scientists can estimate the age of the Universe and understand its early conditions. My beliefs about evolution rapidly *deflated*.
+As it often does, life poked other holes in my *belief balloon*. I was a Creationist. I ignored the problems with Creationism. Then, I learned about the microwave background radiation that fills all of space. The satellite pictures are below. By analyzing patterns in this primordial radiation, scientists can estimate the age of the Universe and understand its early conditions. My beliefs in Creationism rapidly *deflated*.
 
 {{< captioned-image 
     src="/images/Cosmic_Microwave_Background.jpeg" 
