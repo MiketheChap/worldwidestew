@@ -3,7 +3,7 @@ title: And then they came for me
 description: ""
 date: 2025-06-14T17:56:35.991Z
 preview: ""
-draft: fascism
+draft: false
 tags:
     - authoritarianism
     - fascism
