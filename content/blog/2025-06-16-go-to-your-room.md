@@ -1,5 +1,5 @@
 ---
-title: Go to your room
+title: Go to Your Room
 description: ""
 date: 2025-06-17T00:15:53.479Z
 preview: ""
@@ -8,7 +8,7 @@ tags:
     - disagreement
     - people
     - relationships
-    - strif
+    - strife
     - coping
 categories:
     - inspiration
