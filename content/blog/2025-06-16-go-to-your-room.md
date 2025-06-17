@@ -3,7 +3,7 @@ title: Go to your room
 description: ""
 date: 2025-06-17T00:15:53.479Z
 preview: ""
-draft: true
+draft: false
 tags:
     - disagreement
     - people
