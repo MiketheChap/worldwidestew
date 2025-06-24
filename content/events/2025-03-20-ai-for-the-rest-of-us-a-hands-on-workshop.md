@@ -13,7 +13,7 @@ tags:
 categories:
   - society
 ---
-🚀 REGISTRATION for this even has closed. New sessions will coming in July and August. I'll announce the dates soon. 
+🚀 REGISTRATION for the **May session has closed***. New sessions will coming in July and August 2025. I'll announce the dates soon. 
 
 
 🚀  ANNOUNCING TWO SESSIONS: "AI for the Rest of Us" - A Hands-On Workshop
@@ -31,6 +31,6 @@ In our workshop, you'll:
 
 The beauty of learning in a group setting is witnessing how others approach the same tools in completely different ways. One person might use AI to design a garden, while another explores family recipes, and someone else crafts a children's story. Whatever sparks your curiosity - creative writing, learning new subjects, exploring ideas, or yes, even work projects - you'll gain approaches that transform how you interact with AI.
 I'm capping this workshop at 20 people to ensure our collaborative environment thrives. A few spots have been claimed, with room for more curious minds!
-📅 Starting March 29 at 10:00 a.m. CT via Zoom 👉 More information [here](https://drive.google.com/file/d/1i-3pxdfAy_3vTgBbldmEo-GXvK2rP7Z3/view?usp=sharing)
+📅 July and August dates will be announced here soon. They are held via Zoom 👉 More information [here](https://drive.google.com/file/d/1i-3pxdfAy_3vTgBbldmEo-GXvK2rP7Z3/view?usp=sharing)
 
 hashtag#AIWorkshop hashtag#PracticalAI hashtag#ProfessionalDevelopment hashtag#LearningTogether
