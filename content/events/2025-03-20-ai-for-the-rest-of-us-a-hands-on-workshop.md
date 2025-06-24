@@ -13,7 +13,7 @@ tags:
 categories:
   - society
 ---
-🚀 REGISTRATION for the **May session has closed***. New sessions will coming in July and August 2025. I'll announce the dates soon. 
+🚀 REGISTRATION for the **May session has closed**. New sessions will coming in July and August 2025. I'll announce the dates soon. 
 
 
 🚀  ANNOUNCING TWO SESSIONS: "AI for the Rest of Us" - A Hands-On Workshop
