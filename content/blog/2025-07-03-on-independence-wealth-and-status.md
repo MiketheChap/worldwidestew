@@ -28,8 +28,6 @@ There is no reason to believe this trickle-down story. There is no empirical dat
 
 Also, our cherished beliefs in our success based on our own traits and qualities - apart from luck - is also flawed. Every person who believes they earned their success fails to recognize the chances, encounters and events that altered the outcomes that brought them their wealth. Quite simply, they got lucky. Those who believe they earned it are delusional. Enjoy the Veritasium video below where *hero narratives* are shown for what they are: false.
 
-{{< youtube 3LopI4YeC4I&t=494s >}}
-
 We don't have to subscribe to this trickle-down template. None of use got where we're at because of our charm, brilliance, energy, leadership, or hard work. Nor should we believe our value is based on our bank balance, or the nature of our work in life. The truth is that we all need to adjust our self-appraisal. In fact, nature is constantly trying to teach us to adjust our self-appraisal. The wealthy become terminally ill and die just like the rest of us (despite the money they super rich boy-children funnel into life-extension schemes). We are all actively dying right now.
 
 However, by living with courage, kindness, and refusing others definitions of ourselves, we change the status of society and ourselves. 
