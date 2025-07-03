@@ -1,7 +1,7 @@
 ---
 title: On Independence, wealth, and status
 description: ""
-date: 2025-07-04T02:16:15.374Z
+date: 2025-07-03T02:16:15.374Z
 preview: ""
 draft: false
 tags:
