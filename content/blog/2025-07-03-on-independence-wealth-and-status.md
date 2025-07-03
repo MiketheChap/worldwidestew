@@ -15,7 +15,9 @@ categories:
     - society
 ---
 
-It's Indepenence Day in the United States. As a nation, the United States seems less independent than at any time in our history. In this post, I wanted to talk about how a country's economic policies promote or removes freedoms. This post starts with a policy that swept America away: *Trickle-down Economics*. Trickle-down economics came into public discussion during the United States Presidency of Ronald Reagan. It promised that great wealth trickles down to the poor. *Don't saddle the wealthy or corporations with taxes. Give them more money and it will trickle down to the impoverished*, the story went. It sounded good. For years, I believed it, too. 
+It's Indepenence Day in the United States. As a nation, the United States seems less independent than at any time in our history. 
+
+In this post, I wanted to talk about how a country's economic policies promote or removes freedoms. This post starts with a policy that swept America away: *Trickle-down Economics*. Trickle-down economics came into public discussion during the United States Presidency of Ronald Reagan. It promised that great wealth trickles down to the poor. *Don't saddle the wealthy or corporations with taxes. Give them more money and it will trickle down to the impoverished*, the story went. It sounded good. For years, I believed it, too. 
 
 Here's the thing: with this idea, when people become wealthy it's because they have lived better, more industrious lives than the rest of society. They earned their status and they deserve their wealth.  They're the heros, because they are *meritful*. They have earned their prominence in society. On the other hand, the poor survive through their dependence and reliance on the beneficence of the rich. People who have fewer resources are dependent on the people who have more resources. Obvious right? 
 
