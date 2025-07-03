@@ -46,11 +46,11 @@ A friend told me about this great quote from Eleanor Roosevelt:
 
 When you choose to subscribe to the wealth of your own identity, you are truly independent. Despite America's horrific slide into  totalitarianism and destruction of human dignity, there was a time when we celebrated Independence Day for good reasons. Whatever changes have come over us, whatever delusions we now believe, the founders whose ideas we have rejected were correct in their appraisal of human value: 
 
-```html
+
 <blockquote>
 <p>*We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.*</p> <cite> - Preamble to the Declaration of Independence of the United States of America</cite>
 </blockquote>
-```
+
 
 >*We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain >unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.* -Preamble to the Declaration of Independence of the United States of America
 
