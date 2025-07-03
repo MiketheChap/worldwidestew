@@ -51,4 +51,4 @@ When you choose to subscribe to the *wealth of your own identity*, you are truly
 
 >*We hold these truths to be self-evident, that **all men** are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.* -Preamble to the Declaration of Independence of the United States of America
 
-Whatever your status, take time to *own* these words for yourself. You don't have to believe in a creator. You just have to believe in yourself as equal with others. ￼
+Whatever your status, take time to *own* these words for yourself. You don't have to believe in a Creator to be endowed with these rights. You are born with them. So, on this Independence Day, claim your own worth. 
