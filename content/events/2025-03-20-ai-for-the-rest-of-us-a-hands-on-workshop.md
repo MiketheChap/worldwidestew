@@ -1,7 +1,7 @@
 ---
 title: "AI for the Rest of Us: A Hands-On Workshop"
 description: "An announcement about the new beta AI class. "
-date: 2025-03-20T18:02:30.449Z
+date: 2025-07-04T18:02:30.449Z
 preview: ""
 draft: false
 tags:
