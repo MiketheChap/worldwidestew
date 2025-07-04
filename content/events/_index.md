@@ -3,11 +3,9 @@ title: "Events and Programs"
 tags: ["mindfulness", "meditation", "positive psychology"]
 ---
 
-#### 🚀[New July and August 2025 Sessions Coming Soon!: "AI for the Rest of Us" - A Hands-On Workshop](https://worldwidestew.com/events/2025-03-20-ai-for-the-rest-of-us-a-hands-on-workshop/)
+#### 🚀[New July and August 2025 Sessions Coming Soon!: "AI for the Rest of Us" - A Hands-On Workshop](https://worldwidestew.com/events/2025-03-20-ai-for-the-rest-of-us-a-hands-on-workshop/) - You don't need to be a genius to find incredible everyday benefits from AI. But, you do need to use caution. Join me for a practical, interactive workshop focused on using AI tools wisely for your personal growth, daily life, and work!
 
-Tired of theoretical AI classes? Join me for a practical, interactive workshop focused on using AI tools in your daily life and work!
-
----
+--- 
 
 #### 🕯️ 🍃 [July-September 2025 - Sign up for free Mindful Meet-Up sessions: July-September 2025]({{< ref "2024-09-21-just-start-mindfulness.md" >}})
 
