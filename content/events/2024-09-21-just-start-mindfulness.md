@@ -1,5 +1,5 @@
 ---
-title: "April - June 2025 Mindfulness Group Sessions"
+title: "Free July-September 2025 Positively Mindful Group Sessions"
 date: 2024-09-21
 author: "Mike Davis, Th.M., BCC, CWMF, Certified Mindfulness Mentor"
 type: events
@@ -7,14 +7,10 @@ tags: ["mindfulness", "meditation"]
 summary: "Information on Mindfulness Meet-Up Sessions: Updated April 11, 2025"
 draft: false
 ---
-#### Join us for Mindful Meet-Up Sessions January-March 2025
-Thank you for visiting *Worldwide Stew's Mindfulness Meet-Up page*. 
+## 🕯️ 🍃 Sign up for free Mindful Meet-Up sessions: July-September 2025
+Sign up for *free* Positively Mindful Meet-ups. I host these sessions on Thursday mornings from 10-10:45 am (CT). I'd love to meet you and make a connection. The sessions are intended to be comfortable for anyone without regard to religion or political persuasion. They focus on staying positive, but not naive. If you want to sign up please complete [this form](https://forms.gle/29TnAF3PLrosZktU6). The group size is limited to fifteen people. 
 
-From April 3 - June 26, 2025, I will offer a Mindful Meet-Up session on Thursday mornings from 10:00-10:45 AM (CT). There is *no charge*. I'd love to meet you and make a connection. If you want to sign up please complete [this form](https://forms.gle/rtFLTcqv7ShoKBrk6). If we don't have more than four people register, I'll cancel it. 
+To learn more, [go to this link](https://drive.google.com/file/d/1PFjS9j_ASe-WWmvDsT2Nq8wQRQeZ5qZ-/view?usp=sharing)
 
-To learn more, [go to this link](https://drive.google.com/file/d/1Q9ouEu-_s22pAD5P1AAyDu1rWlzFH99a/view?usp=sharing)
-
-I look forward to building a simple, connected community of beauty, kindness, and care. 
-
-Mike Davis, Th.M., BCC(SCA), CWMF, Certified Mindfulness Mentor
+Mike Davis, Th.M., BCC(SCA), [Certified Workplace Mindfulness Facilitator (Mindful Leader)](https://www.credential.net/f537eded-cc25-4f5a-ae40-9941fbb344f6#acc.O2rBEsAq)
 
