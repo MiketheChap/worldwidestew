@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Effort on Worldwide Stew</title>
+    <link>https://worldwidestew.com/tags/effort/</link>
+    <description>Recent content in Effort on Worldwide Stew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Fri, 17 Jan 2025 21:41:46 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/effort/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is a test</title>
+      <link>https://worldwidestew.com/blog/2025-01-17-this-is-a-test/</link>
+      <pubDate>Fri, 17 Jan 2025 21:41:46 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/blog/2025-01-17-this-is-a-test/</guid>
+      <description>We all need to try new things. And, make mistakes. Then, try again.</description>
+    </item>
+    
+  </channel>
+</rss>
