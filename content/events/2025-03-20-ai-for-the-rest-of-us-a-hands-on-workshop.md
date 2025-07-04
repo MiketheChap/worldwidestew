@@ -1,7 +1,8 @@
 ---
 title: "AI for the Rest of Us: A Hands-On Workshop"
 description: "An announcement about the new beta AI class. "
-date: 2025-07-04T18:02:30.449Z
+date: 2024-03-20T18:02:30.449Z
+lastmod: 2024-07-04T15:30:00Z  # When last modified
 preview: ""
 draft: false
 tags:
