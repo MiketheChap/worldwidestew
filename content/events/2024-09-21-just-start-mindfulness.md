@@ -1,6 +1,7 @@
 ---
 title: "Free July-September 2025 Positively Mindful Group Sessions"
 date: 2024-09-21
+lastmod: 2025-07-04T15:30:00Z  # When last modified
 author: "Mike Davis, Th.M., BCC, CWMF, Certified Mindfulness Facilitator"
 type: events
 tags: ["mindfulness", "meditation"]
