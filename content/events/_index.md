@@ -19,9 +19,9 @@ This workshop – a preview edition of a future multi-session class - is designe
 
 See more information [here](https://worldwidestew.com/events/2025-03-20-ai-for-the-rest-of-us-a-hands-on-workshop/S)
 
---
+---
 
-## 🕯️ 🍃 [July-September 2025 - Sign up for free Mindful Meet-Up sessions: July-September 2025]({{< ref "2024-09-21-just-start-mindfulness.md" >}})
+#### 🕯️ 🍃 [July-September 2025 - Sign up for free Mindful Meet-Up sessions: July-September 2025]({{< ref "2024-09-21-just-start-mindfulness.md" >}})
 
 ---
 
