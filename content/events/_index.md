@@ -19,15 +19,9 @@ This workshop – a preview edition of a future multi-session class - is designe
 
 See more information [here](https://worldwidestew.com/events/2025-03-20-ai-for-the-rest-of-us-a-hands-on-workshop/S)
 
-## Join us for Mindful Meet-Up Sessions April-June 2025
+--
 
-From April-June, 2025, I will offer a Mindful Meet-Up session on Thursday mornings from 10-10:45 am (CT). There is *no charge*. I'd love to meet you and make a connection. If you want to sign up please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeof3vuYw4yRPNNPv4yTXFRKMTmOWHcJ3cN1cLRjjFPViuYRg/viewform?usp=sharing). The group size is limited to twenty people. 
-
-To learn more, [go to this link](https://drive.google.com/file/d/1Q9ouEu-_s22pAD5P1AAyDu1rWlzFH99a/view?usp=drive_link)
-
-I look forward to building a simple, connected community of care and learning. 
-
-Mike Davis, Th.M., BCC(SCA), CWMF
+## 🕯️ 🍃 [July-September 2025 - Sign up for free Mindful Meet-Up sessions: July-September 2025]({{< ref "2024-09-21-just-start-mindfulness.md" >}})
 
 ---
 
