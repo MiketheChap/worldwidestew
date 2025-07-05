@@ -1,6 +1,17 @@
 ---
-title: "Events and Programs"
-tags: ["mindfulness", "meditation", "positive psychology"]
+title: Events and Programs
+tags:
+    - ai
+    - Artificial Intelligence
+    - classes
+    - events
+    - learning
+    - meditation
+    - mindfulness
+    - positive psychology
+    - education
+categories:
+    - learning
 ---
 
 ##### 🚀 [New August 2025 Sessions of "AI for the Rest of Us" - A Hands-On Workshops](https://worldwidestew.com/events/2025-03-20-ai-for-the-rest-of-us-a-hands-on-workshop/) - I'll be hosting new *AI for the Rest of Us: Hands-On Workshops* on August 2, 9, and 16, from 9:30-11:00 AM (CT). For August only, we are offering them at $25.00 (USD). Please click the link above for more information.
