@@ -19,10 +19,11 @@ categories:
 
 🚀  ANNOUNCING three new "AI for the Rest of Us": Hands-On Workshops: August 2, 9, and 16, 2025. 
 
-<!--more-->
-
 I've been reflecting on what makes our upcoming AI workshop truly special. I wanted to share more about the journey we'll take together...
+
 This isn't just another "productivity hack" class. We're going beyond *working smarter* to exploring how AI can enhance your creative endeavors and personal growth.
+
+<!--more-->
 In our workshop, you'll:
 ✨ Master the "Magic Prompt Conversation Flow" - a technique that transforms our limited thinking about what AI "should" be
 ✨ Progress from giving basic commands to engaging in true collaborative exchanges
