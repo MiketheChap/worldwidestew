@@ -12,9 +12,9 @@ tags:
 categories:
     - inspiration
 ---
-#### Nothing else matters
+Nothing else matters
 By Mike Davis 
-(N.B. playing with Hugo Shortcodes to get teh formatting correct. )
+(N.B. playing with Hugo Shortcodes to get the formatting correct. )
 {{< poem >}}
 Yesterday...
 After the dog's bath.
