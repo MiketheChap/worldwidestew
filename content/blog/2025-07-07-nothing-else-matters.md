@@ -15,37 +15,38 @@ categories:
 #### Nothing else matters
 By Mike Davis 
 
-Yesterday...  
-After the dog's bath.  
-My wife ambled her way to the garage door.  
-I let our dog down her ramp  
-And out of the car.  
-
-I watched our dog  
-Follow her Momma  
-To the door.  
-
-While my wife unlocked the door  
-I watched them both  
-From the car.  
-Both my girls.  
-The Beauties I live for.  
-
-My feelings in that moment    
-Were all gratitude  
-For it's simplicity  
-Nothing else mattered.  
-
-No event could eclipse  
-That picture in my mind.  
-That was all there was.  
-The expanse of my World,  
-Was funneled   
-Into 63 cubic feet.  
-But 63 cubic feet  
-Were more expansive  
-Than all the Universe.  
-
-Only a fleeting capture of photons,  
-Filtered into an optic nerve,  
-Gratitude distilled in a millisecond.
+Yesterday...<br>
+After the dog's bath.<br>
+My wife ambled her way to the garage door.<br>
+I let our dog down her ramp<br>
+And out of the car.<br>
+<br>
+I watched our dog<br>
+Follow her Momma<br>
+To the door.<br>
+<br>
+While my wife unlocked the door<br> 
+I watched them both<br>
+From the car.<br>  
+Both my girls.<br>  
+The Beauties I live for.<br>  
+<br>
+My feelings in that moment<br>    
+Were all gratitude<br> 
+For it's simplicity<br>  
+Nothing else mattered.<br>  
+<br>
+No event could eclipse<br> 
+That picture in my mind.<br>  
+That was all there was<br>
+Right then.<br>  
+The expanse of my World,<br>  
+Was funneled<br>  
+Into 63 cubic feet.<br>  
+But 63 cubic feet<br>  
+Were more expansive<br>  
+Than all the Universe.<br>  
+<br>
+Only a fleeting cluster of photons,<br>  
+Filtered into an optic nerve,<br>  
+Gratitude distilled in a millisecond.<br>
