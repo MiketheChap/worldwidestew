@@ -14,7 +14,7 @@ categories:
 ---
 #### Nothing else matters
 By Mike Davis 
-
+(N.B. playing with Hugo Shortcodes to get teh formatting correct. )
 {{< poem >}}
 Yesterday...
 After the dog's bath.
