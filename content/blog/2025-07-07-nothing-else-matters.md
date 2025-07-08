@@ -37,7 +37,7 @@ Were all gratitude
 For it's simplicity
 Nothing else mattered.
 
-No event could eclipse<
+No event could eclipse
 That picture in my mind. 
 That was all there was
 Right then.
