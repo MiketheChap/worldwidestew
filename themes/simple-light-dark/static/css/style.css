@@ -20,7 +20,6 @@
   --text-secondary: #666666;
 }
 
-body { background-color: red !important; }
 
 .poem {
   white-space: pre-line;
