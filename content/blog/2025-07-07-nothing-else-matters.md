@@ -45,7 +45,7 @@ Right then.
 The expanse of my World,
 Was funneled
 Into 63 cubic feet. 
-But 63 cubic feet
+But those 63 cubic feet
 Were more expansive
 Than all the Universe.
 
