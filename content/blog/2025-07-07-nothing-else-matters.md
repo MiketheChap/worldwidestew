@@ -13,7 +13,7 @@ categories:
     - inspiration
 ---
 Nothing else matters
-By Mike Davis 
+By Mike Davis, Th.M. <-I just added this because I'm trying to figure out why some of my code isn't showing up on the web page.
 (N.B. playing with Hugo Shortcodes to get the formatting correct. )
 {{< poem >}}
 Yesterday...
@@ -51,3 +51,5 @@ Than all the Universe.
 Only a fleeting cluster of photons, 
 Filtered into an optic nerve,
 Gratitude distilled in a millisecond.
+
+{{< /poem >}}
