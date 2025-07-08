@@ -7,22 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Thu, 03 Jul 2025 02:16:15 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/categories/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Jul 2025 17:11:42 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/categories/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inspiration</title>
+      <link>https://worldwidestew.com/categories/inspiration/</link>
+      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/categories/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://worldwidestew.com/categories/learning/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/categories/learning/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Society</title>
       <link>https://worldwidestew.com/categories/society/</link>
       <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
       
       <guid>https://worldwidestew.com/categories/society/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inspiration</title>
-      <link>https://worldwidestew.com/categories/inspiration/</link>
-      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/inspiration/</guid>
       <description></description>
     </item>
     
