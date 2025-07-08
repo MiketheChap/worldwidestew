@@ -13,8 +13,8 @@ categories:
     - inspiration
 ---
 Nothing else matters
-By Mike Davis, Th.M. <-I just added this because I'm trying to figure out why some of my code isn't showing up on the web page.
-(N.B. playing with Hugo Shortcodes to get the formatting correct. )
+By Mike Davis, Th.M. 
+
 {{< poem >}}
 Yesterday...
 After the dog's bath.
