@@ -35,8 +35,8 @@ Why do this in a workshop? Well, it's just more fun! The beauty of learning in a
 I'm capping this workshop at 15 people to ensure our collaborative environment thrives.
 📅 Here are the information pages for those dates. They are held via Zoom. 
 
-- 👉 August 2, 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1i-3pxdfAy_3vTgBbldmEo-GXvK2rP7Z3/view?usp=sharing)
-- 👉 August 9 - 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1i-3pxdfAy_3vTgBbldmEo-GXvK2rP7Z3/view?usp=sharing)
-- 👉 August 16 - 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1i-3pxdfAy_3vTgBbldmEo-GXvK2rP7Z3/view?usp=sharing)
+- 👉 August 2, 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1RqFmppQ6QGwBrecpsUpCcFpnJ21Ianrf/view?usp=drive_link)  |  [Register Here](https://forms.gle/8SkPhTffHJR9BjFu6)
+- 👉 August 9 - 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1RqFmppQ6QGwBrecpsUpCcFpnJ21Ianrf/view?usp=drive_link)  |  [Register Here](https://docs.google.com/forms/d/17514YMWQCPZMqecutm4XC3eZ6aQficTCfZU2ePn2iVo/edit)
+- 👉 August 16 - 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1RqFmppQ6QGwBrecpsUpCcFpnJ21Ianrf/view?usp=drive_link)  |  [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSfuOS2kPzs31X29x8aPv47yRF-m1s6sCTnlyknTVIdSJYHxfg/viewform)
 
 hashtag#AIWorkshop hashtag#PracticalAI hashtag#ProfessionalDevelopment hashtag#LearningTogether
