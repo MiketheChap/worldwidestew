@@ -17,7 +17,7 @@ categories:
   - learning
 ---
 
-🚀  ANNOUNCING three new "AI for the Rest of Us": Hands-On Workshops: August 2, 9, and 16, 2025. 
+🚀  ANNOUNCING three new "AI for the Rest of Us": Hands-On Workshops: August 2, 9, and 23, 2025. 
 
 I've been reflecting on what makes our upcoming AI workshop truly special. I wanted to share more about the journey we'll take together...
 <!--more-->
@@ -37,6 +37,6 @@ I'm capping this workshop at 15 people to ensure our collaborative environment t
 
 - 👉 August 2, 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1RqFmppQ6QGwBrecpsUpCcFpnJ21Ianrf/view?usp=drive_link)  |  [Register Here](https://forms.gle/8SkPhTffHJR9BjFu6)
 - 👉 August 9 - 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1RqFmppQ6QGwBrecpsUpCcFpnJ21Ianrf/view?usp=drive_link)  |  [Register Here](https://docs.google.com/forms/d/17514YMWQCPZMqecutm4XC3eZ6aQficTCfZU2ePn2iVo/edit)
-- 👉 August 16 - 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1RqFmppQ6QGwBrecpsUpCcFpnJ21Ianrf/view?usp=drive_link)  |  [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSfuOS2kPzs31X29x8aPv47yRF-m1s6sCTnlyknTVIdSJYHxfg/viewform)
+- 👉 August 23 - 9:30 - 11:00 am (CT) - More information [here](https://drive.google.com/file/d/1RqFmppQ6QGwBrecpsUpCcFpnJ21Ianrf/view?usp=drive_link)  |  [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSfuOS2kPzs31X29x8aPv47yRF-m1s6sCTnlyknTVIdSJYHxfg/viewform)
 
 hashtag#AIWorkshop hashtag#PracticalAI hashtag#ProfessionalDevelopment hashtag#LearningTogether
