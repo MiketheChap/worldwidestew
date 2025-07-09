@@ -24,12 +24,12 @@ I've been reflecting on what makes our upcoming AI workshop truly special. I wan
 This isn't just another "productivity hack" class. We're going beyond *working smarter* to exploring how AI can enhance your creative endeavors and personal growth.
 
 In our workshop, you'll:
-- ✨ Master the "Magic Prompt Conversation Flow" - a technique that transforms our limited thinking about what AI "should" be
-- ✨ Progress from giving basic commands to engaging in true collaborative exchanges
-- ✨ Participate in guided "Knowledge Expeditions" where you and AI explore topics you're curious about.
-- ✨ Experience group "Idea Volleys" where we collectively build on each other's creative concepts
-- ✨ Discover how to shift perspectives and see problems through new lenses
-- ✨ Learn how to use AI mindfully from someone who's spent time learning mindfulness. 
+- Master the "Magic Prompt Conversation Flow" - a technique that transforms our limited thinking about what AI "should" be
+- Progress from giving basic commands to engaging in true collaborative exchanges
+- Participate in guided "Knowledge Expeditions" where you and AI explore topics you're curious about.
+- Experience group "Idea Volleys" where we collectively build on each other's creative concepts
+- Discover how to shift perspectives and see problems through new lenses
+- Learn how to use AI mindfully from someone who's spent time learning mindfulness. 
 
 Why do this in a workshop? Well, it's just more fun! The beauty of learning in a group setting is witnessing how others approach the same tools in completely different ways. One person uses AI to design a garden, while another explores family recipes, and someone else crafts a children's story. Whatever scratches your itches, AI has something to offer.
 I'm capping this workshop at 15 people to ensure our collaborative environment thrives.
