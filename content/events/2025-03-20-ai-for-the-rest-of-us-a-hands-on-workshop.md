@@ -17,7 +17,7 @@ categories:
   - learning
 ---
 
-🚀  ANNOUNCING three new "AI for the Rest of Us": Hands-On Workshops: August 2, 9, and 23, 2025. 
+🚀  ANNOUNCING three new "AI for the Rest of Us": Hands-On Workshops: August 2, 9, and 23, 2025. The cost is $50.00. Limited scholarships are available based on the number of fully paid enrollments. 
 
 I've been reflecting on what makes our upcoming AI workshop truly special. I wanted to share more about the journey we'll take together...
 <!--more-->
