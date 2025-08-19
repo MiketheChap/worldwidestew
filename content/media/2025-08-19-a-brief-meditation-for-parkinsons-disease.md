@@ -3,7 +3,7 @@ title: A brief meditation for Parkinsons Disease
 description: ""
 date: 2025-08-19T20:55:08.413Z
 preview: ""
-draft: true
+draft: false
 tags:
     - motor neuron
     - Parkinsons
