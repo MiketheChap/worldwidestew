@@ -20,7 +20,7 @@ It's hard for me to write about this because I often feel unkind to myself. I'm 
 
 Self-compassion and self-kindness are not the same as self-indulgence (though we may appropriately and appropriately indulge ourselves at times). 
 
-Mindfulness gurus love their formulaic self-compassion meditations.[^1] Me? I loathe them, even if they are embedded in mindfulness history. Sometimes, because I know it does help some people and people are different, even I lead these types of self-compassion meditations. I think there are ways to do self-compassion meditations that avoid the *game-playing* involved in traditional self-compassion meditations. That's what I want to highlight now.
+Mindfulness gurus love their formulaic self-compassion meditations.[^1] Me? I loathe them, even if they are embedded in mindfulness history. Sometimes, because I know it does help some people and people are different, I lead these types of self-compassion meditations. I think there are ways to do self-compassion meditations that avoid the *game-playing* involved in traditional self-compassion meditations. That's what I want to highlight now.
 
 Alternatives to the *tricky self-compassion meditation are based on the fact that you are *not* your self-protected ego, the body-thing that you identify with. You are the humany thing that feels pain and lives in fear of what others think. So, starting from there, here's some alternatives to deliver kindness to *that person*. 
 - Apply lotion to your body
@@ -32,4 +32,9 @@ We need to find a way to care for ourselves *in our skin*. The people around us 
 
 
 
-[^1]: Think of someone you love and trust and how special you are to them. Think of someone else you love and trust and how special you are to them. Surprise, *now think of yourself with love and kindness!* Did you see what they did there? Ir reeally snuck up on you, didn't it. The first time I heard one of those I was filled with disgust.
+[^1]: This is the kind of formula that's commonly used: *Think of someone you love and trust and how special you are to them. Send them a wish of love and kindness. Great. Now, think of someone else you love and trust and how special you are to them. Send them good wishes. Now, like a cool switchback you'd never expect, think of yourself with love and kindness!* Did you see what they did there? It reeally snuck up on you, didn't it. They manipulated your self-judgmental self into being kind to yourself. The first time I heard one of those I was filled with disgust. It felt like some kind of psychological game. On the other hand, there's one thing that's formulaic that I love and which patients almost always give me opportunity to do with them. It's not a prayer exactly. It's a *wish*. 
+
+May you be healthy
+May you be happy
+May you live with ease
+May you live in peace
