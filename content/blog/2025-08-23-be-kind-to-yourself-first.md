@@ -32,7 +32,7 @@ We need to find a way to care for ourselves *in our skin*. The people around us 
 
 
 
-[^1]: This is the kind of formula that's commonly used: *Think of someone you love and trust and how special you are to them. Send them a wish of love and kindness. Great. Now, think of someone else you love and trust and how special you are to them. Send them good wishes. Now, like a cool switchback you'd never expect, think of yourself with love and kindness!* Did you see what they did there? It reeally snuck up on you, didn't it. They manipulated your self-judgmental self into being kind to yourself. The first time I heard one of those I was filled with disgust. It felt like some kind of psychological game. On the other hand, there's one thing that's formulaic that I love and which patients almost always give me opportunity to do with them. It's not a prayer exactly. It's a *wish*. 
+[^1]: This is the kind of formula that's commonly used: *Think of someone you love and trust and how special you are to them. Send them a wish of love and kindness. Great. Now, think of someone else you love and trust and how special you are to them. Send them good wishes. Now, like a cool switchback you'd never expect, think of yourself with love and kindness!* Did you see what they did there? It really snuck up on you, didn't it. They manipulated your self-judgmental self into being kind to yourself. The first time I heard one of those I was filled with disgust. It felt like some kind of psychological game. On the other hand, there's one thing that's formulaic that I love and which patients almost always give me opportunity to do with them. It's not a prayer exactly. It's a *wish*. 
 
 May you be healthy
 May you be happy
