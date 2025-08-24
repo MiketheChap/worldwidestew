@@ -32,10 +32,10 @@ We need to find a way to care for ourselves *in our skin*. The people around us 
 
 There's one thing that's formulaic that I love and which patients almost always give me opportunity to do with them. It's not a prayer exactly. It's a *wish*, often called a *metta prayer.*
 
-May you be healthy  
-May you be happy  
-May you live with ease  
-May you live in peace  
+**May you be healthy**    
+**May you be happy**    
+**May you live with ease**    
+**May you live in peace**  
 
 
 
