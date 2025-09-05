@@ -20,7 +20,7 @@ Many years ago, Einstein predicted we should be able to hear gravitational waves
 Well, after a long and rocky road, Einstein's descendants created those galactic stethoscope-microphones. Two of them actually. They are called the [**Laser Interferometer Gravitational-Wave Observatory** (**LIGO**)](https://en.wikipedia.org/wiki/LIGO). They both look a little like this: 
 
 {{< captioned-image 
-    src="/static/images/LIGO_Hanford_aerial_05.jpg" 
+    src="/images/LIGO_Hanford_aerial_05.jpg" 
     alt="Aerial view of the LIGO Hanford, Washington Observatory" 
     title="The Ligo Laboratory in Handford, Washington showing both perpendicular legs of this new kind of telescope" 
     caption="The Ligo Laboratory in Handford, Washington showing both perpendicular legs of this new kind of telescope" 
