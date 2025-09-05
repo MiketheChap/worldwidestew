@@ -42,5 +42,5 @@ You probably want to meditate as badly as I hope you will. But, the goal constan
 
 If you can't summon five minutes, then you can't and shouldn't do that. So, what can you do? Really. It doesn't matter what that time frame is, what can you *actually do*? Now, you know what your personal meditation prescription is. If you can't do that, refine again. Like any medicine, you keep titrating it until you get to the does that works.
 
-[^1]- Burkeman, Oliver. Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts (p. 11). (Function). Kindle Edition. 
+[^1]: Burkeman, Oliver. Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts (p. 11). Kindle Edition. 
 
