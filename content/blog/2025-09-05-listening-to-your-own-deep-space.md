@@ -28,8 +28,6 @@ Well, after a long and rocky road, Einstein's descendants created those galactic
     attrlink="https://commons.wikimedia.org/wiki/File:LIGO_Hanford_aerial_05.jpg" 
 >}}
 
-Photo preview courtesy: LIGO Laboratory, Public domain, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LIGO_Hanford_aerial_05.jpg) 
-
 On the morning of September 14, 2015, a technician was on duty in each control room. Everything was humming away. Decades of hopes awaiting a response that looked like it would never arrive. Suddenly, there it was. The Chirp they had awaited all these years. You can listen to the _chirp_ [here](https://www.youtube.com/watch?app=desktop&v=dP6ZWew83_Q). A "sighted telescope" later confirmed the telltale "chirp" sound: two black holes were colliding at precisely that time.  Last week, I talked about _the ego_. In fact, the ego functions a bit like an internal _LIGO._ The ego is humanity's most powerful listening device. Go to any leadership seminar and you'll probably hear the words emotional intelligence thrown around. But learning to listen to your ego _is_ emotional intelligence - it's building your own personal detection system for the gravitational waves of your inner life. 
 #### How to Build Your Own LIGO
 LIGO is a stethoscope for the Universe. Your *ego awareness* is an _Ego-LIGO_ for your _life experiences_. Maybe it's the moment before we speak in a meeting, the split second when someone cuts us off in traffic, or that flash of comparison when scrolling through social media. Each event becomes a potential listening station for the subtle "chirps" of ego activity: they are your Ego-LIGO's personal _Chirp sound_. Here's some important tools to make sure you're Ego-LIGO is fine-tuned to your experience: 
