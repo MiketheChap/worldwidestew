@@ -40,7 +40,7 @@ You probably want to meditate as badly as I hope you will. But, the goal constan
 
  >What you could have done instead was to forget about the whole project of ‘becoming a meditator,’ and focus solely on sitting down to meditate. Once. For five minutes. [^1] 
 
-If you can't summon five minutes, then you can't and shouldn't do that. So, what can you do? Really. It doesn't matter what that time frame is, what can you *actually do*? Now, you know what your personal meditation prescription is. If you can't do that, refine again. Like any medicine, you keep titrating it until you get to the does that works.
+If five minutes isn't realistic, then you can't and shouldn't try for five minutes. So, what can you do? Really. It doesn't matter what that time frame is, what can you *actually do*? Now, you know what your personal meditation prescription is. If you can't do that, refine again. Like any medicine, you keep titrating it until you get to the does that works.
 
 There's lots more about LIGO [here](https://www.ligo.caltech.edu/)
 
