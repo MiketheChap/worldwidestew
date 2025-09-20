@@ -33,6 +33,7 @@ On the other hand, our single mom also sees and love the idea that *elegance* un
 We need each other. We and our children need geocoronas, measurements of grams versus cups, and the sensual heat of gossamer cloaks. Whether they are in space or in our living rooms. 
 
 Our future awaits us on the dance floor, starlight all around, the gossamer cloak hand in hand with a beguilded scientist. 
+
 ---
 
 This post is my work. Where I have used other sources, I have credited them. I have used AI collaboratively - working back and forth - to expand on my ideas. I could not have written this as well without learning much about writing from AI. AI is teaching me. I am unapologetic about my use of AI. 
