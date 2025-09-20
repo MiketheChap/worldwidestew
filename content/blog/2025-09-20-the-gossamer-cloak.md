@@ -28,7 +28,7 @@ Then, when a pandemic comes along, our inability to establish a shared vocabular
 
 The chef who measures every component on a scale must appreciate the longing beauty of a single Mom trying to put nourishing and fun food on the table for her son at the end of a long day. Sometimes, when she can, she sits on the living room sofa and watches the cooking programs looking for *what she can do*? She doesn't care about converting weights into grams. She just wants to feel alive. 
 
-On the other hand, our single mom also sees and love the idea that *elegance* unfolds from nuance, poetry from precision. She imagines wearing her own *gossamer cloak on a special evening where everything is scintilating, beatiful, and alive*. 
+On the other hand, our single mom also sees and love the idea that *elegance* unfolds from nuance, poetry from precision. She imagines wearing her own *gossamer cloak on a special evening where everything is scintilating, beautiful, and alive*. 
 
 We need each other. We and our children need geocoronas, measurements of grams versus cups, and the sensual heat of gossamer cloaks. Whether they are in space or in our living rooms. 
 
