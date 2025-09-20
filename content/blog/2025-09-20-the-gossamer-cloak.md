@@ -32,7 +32,7 @@ On the other hand, our single mom also sees and love the idea that *elegance* un
 
 We need each other. We and our children need geocoronas, measurements of grams versus cups, and the sensual heat of gossamer cloaks. Whether they are in space or in our living rooms. 
 
-Our future awaits us on the dance floor, starlight all around, the beauty in the gossamer cloak hand in hand with a beguilded scientist. 
+Our future awaits us on the dance floor, starlight all around, the beauty in the gossamer cloak hand in hand with a beguiled scientist. 
 
 ---
 
