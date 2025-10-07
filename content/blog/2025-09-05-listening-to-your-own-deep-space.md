@@ -15,6 +15,8 @@ categories:
 ---
 #### You, too, have Deep Space. You should be listening to it
 
+Reader Note: If you prefer, you can listen to this on the Worldwide Stew podcast page. This episode is [available on Apple podcasts](https://podcasts.apple.com/us/podcast/listening-to-your-own-deep-space/id1765332412?i=1000730448543). After reading this page or listening to the podcast episode, check out what you learned with a short quiz [here](https://forms.gle/FukYQvUCKW9fwADr7). 
+
 Many years ago, Einstein predicted we should be able to hear gravitational waves: *big events that happened in outer space*. But, how could you possibly hear something like that? Some of you probably keep a stethoscope handy, right? You use it hear the pulsations in your body, like a heartbeat. Maybe, Einstein and later astrophysicists thought, we could do something like creating a stethoscope so big we could capture sounds from many light years away? What would it look like? 
 
 Well, after a long and rocky road, Einstein's descendants created those galactic stethoscope-microphones. Two of them actually. They are called the [**Laser Interferometer Gravitational-Wave Observatory** (**LIGO**)](https://en.wikipedia.org/wiki/LIGO). They both look a little like this: 
