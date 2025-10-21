@@ -17,7 +17,7 @@ categories:
     - psychology
     - inspiration
 ---
-We just added a new podcast epissode, Listening to Your Own Deep Space. This episode is [available on Apple podcasts](https://podcasts.apple.com/us/podcast/listening-to-your-own-deep-space/id1765332412?i=1000730448543).
+We just added a new podcast episode, Listening to Your Own Deep Space. This episode is [available on Apple podcasts](https://podcasts.apple.com/us/podcast/listening-to-your-own-deep-space/id1765332412?i=1000730448543).
 
 If you prefer to read my blog post that came out before the podcast, you can check it out [here](https://worldwidestew.com/blog/2025-09-05-listening-to-your-own-deep-space/). 
 

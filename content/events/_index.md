@@ -18,7 +18,7 @@ categories:
 
 --- 
 
-##### 🕯️ 🍃 [July-September 2025 - Sign up for free Mindful Meet-Up sessions: July-September 2025]({{< ref "2024-09-21-just-start-mindfulness.md" >}})
+##### 🕯️ 🍃 [October-December 2025 - Sign up for free Positively Mindful Meet-Up sessions: October-December 2025]({{< ref "2024-09-21-just-start-mindfulness.md" >}})
 
 ---
 
