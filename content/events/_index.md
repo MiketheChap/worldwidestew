@@ -14,11 +14,12 @@ categories:
     - learning
 ---
 
-##### 🚀 [New August 2025 Sessions of "AI for the Rest of Us" - A Hands-On Workshops](https://worldwidestew.com/events/2025-03-20-ai-for-the-rest-of-us-a-hands-on-workshop/) - I'll be hosting new *AI for the Rest of Us: Hands-On Workshops* on August 2, 9, and 16, from 9:30-11:00 AM (CT). For August only, we are offering them at $50.00 (USD). Please click the link above for more information.
+
+##### 🚀 [Announcing January 2026 sessions of our new class Collaborating with AI: A Hands-On Workshop for the Cautiously Curious](https://worldwidestew.com/events/2025-03-20-ai-for-the-rest-of-us-a-hands-on-workshop/) - I'll be hosting new *AI for the Rest of Us: Hands-On Workshops* on August 2, 9, and 16, from 9:30-11:00 AM (CT). For August only, we are offering them at $50.00 (USD). Please click the link above for more information.
 
 --- 
 
-##### 🕯️ 🍃 [October-December 2025 - Sign up for free Positively Mindful Meet-Up sessions: October-December 2025]({{< ref "2024-09-21-just-start-mindfulness.md" >}})
+##### 🕯️ 🍃 [October-December 2025 - Sign up for the free Positively Mindful Meet-Up sessions: October-December 2025]({{< ref "2024-09-21-just-start-mindfulness.md" >}})
 
 ---
 
