@@ -4,7 +4,6 @@ author: Michael Davis, ThM, CWMF
 date: 2022-04-02
 type: blog
 keywords: ["mindfulness", "meditation", "kindness", "work"]
-summary: "The point of mindfulness is that we learn to focus our attention with kindness and without the sense of working."
 summary: "Working too hard at mindfulness meditation with little success? Maybe you've missed the point. Actually, points."
 ---
 
