@@ -19,7 +19,7 @@ I think I was unfailingly gentle with patients, let them rant, and tolerated the
 
 Sometimes, however, there was *no release*. There was no slowing down. It was only one long, continuous rant. These patients required a different touch. When their statement of rage went on without lessening or changing tone, I knew something else was necessary. I needed **teeth**. 
 
-*Stop right there. You are allowed to feel angry and frustrated. We need to hear you and try to understand you. You *aren't allowed* to create fear for other patients and my co-workers. by your loud voice, threats, and aggressive movements. You are not allowed to raise your voice at us make threatening comments or gestures. You aren't allowed to use profanity at us. If you continue in this way, the police will be called and they will treat you very differently. Now, **Stop.**
+*Stop right there. You are allowed to feel angry and frustrated. We need to hear you and try to understand you. You *aren't allowed* to create fear for other patients and my co-workers. You are not allowed to raise your voice at us or make threatening comments or gestures. You aren't allowed to use profanity at us. If you do that, the police will be called and they will treat you very differently. Now, **Stop.**
 
 It took a long time to be comfortable with *having teeth*. It's not easy to feel comfortable with my own fear of the discomfort of being around anger. As a child, I regularly saw rage and it frightened me. 
 
