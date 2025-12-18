@@ -221,7 +221,7 @@ His approach: treat you as thoughtful adults who deserve honest information, not
 
 Follow for more resources:
 - [LinkedIn]
-- [Other social media]
+
 
 ---
 
