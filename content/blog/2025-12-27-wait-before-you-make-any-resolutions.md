@@ -15,7 +15,7 @@ categories:
     - inspiration
     - psychology
 ---
-#### Wait before you make any resolutions
+
 Wait before you make any resolutions. If you don't, your *resolutions* make may cost you time, vital energy, money, and hope about your ability to change.
 
 The making of resolutions is a time-worn transition between years. Usually, we on our deficits, and then creating a grocery list of needed changes. If we listen to advertisers, it almost *literally* turns into a *shopping list*.  Who we are wasn’t good enough. So, *voila*, we've bought a laundry list of *things or apps* we've been told will help us feel better about ourselves.
@@ -26,8 +26,6 @@ Buddhism has a pointed metaphor about the suffering that attends our modern stat
 
 >Wanting is characterized as a *Hungry Ghost*, a ghost with an enormous belly and tiny pinhole mouth, who can never eat enough to satisfy his endless need. When this demon or difficulty arises, simply name it as “wanting” or “grasping” and begin to study its power in your life.
 
-Is focusing on our status, addiction, deficits the best starting point? Aren't these the realms of the *hungry ghosts*?
-
-If we *must* make a list of changes, is focusing on deficits the best starting point? What are other options? 
+Are we really helping ourselves by making our starting point our fixations, status, addictions, and/or our deficits? Aren't there better starting options that don't increase our suffering?
 
 Tomorrow we'll explore a different way of thinking about our resolutions. We'll suggest that there's a least one more better place to start than forging into two months of broken resolutions and the deepening self-judgement that comes with them. 
