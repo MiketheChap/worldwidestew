@@ -18,7 +18,7 @@ categories:
 
 Wait before you make any resolutions. If you don't, your *resolutions* make may cost you time, vital energy, money, and hope about your ability to change.
 
-The making of resolutions is a time-worn transition between years. Usually, we on our deficits, and then creating a grocery list of needed changes. If we listen to advertisers, it almost *literally* turns into a *shopping list*.  Who we are wasn’t good enough. So, *voila*, we've bought a laundry list of *things or apps* we've been told will help us feel better about ourselves.
+The making of resolutions is a time-worn transition marking the beginning of a new year. Usually, we focus on our deficits, and then create a grocery list of needed changes. If we listen to advertisers, it almost *literally* turns into a *shopping list*.  Who we are wasn’t good enough. So, *voila*, we've bought a laundry list of *things or apps* we've been told will help us feel better about ourselves.
 
 I gave up on resolutions years ago. Building resolutions based on my failings always led to an even greater sense of failure. Why do that to myself? In case you think you're better than me in this respect, studies suggest that *resolution brain* almost always leads to less confidence and more depression. Why do that to myself, I concluded? 
 
