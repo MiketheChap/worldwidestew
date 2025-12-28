@@ -9,7 +9,7 @@ tags:
     - Buddhism
     - change
     - hope
-    - reesolution
+    - resolution
     - purpose
 categories:
     - inspiration
