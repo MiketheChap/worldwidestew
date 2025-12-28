@@ -3,7 +3,7 @@ title: When industry focuses on human inadequacies
 description: ""
 date: 2025-12-28T16:44:56.330Z
 preview: ""
-draft: true
+draft: false
 tags:
     - deodorant
     - humanity
