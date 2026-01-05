@@ -29,3 +29,5 @@ Buddhism has a pointed metaphor about the suffering that attends our modern stat
 Are we really helping ourselves by making our starting point our fixations, status, addictions, and/or our deficits? Aren't there better starting options that don't increase our suffering?
 
 Tomorrow we'll explore a different way of thinking about our resolutions. We'll suggest that there's a least one more better place to start than forging into two months of broken resolutions and the deepening self-judgement that comes with them. 
+
+I originated this post. I used [Claude.ai](https://claude.ai) to help me make it more palatable for you, Dear Reader. 

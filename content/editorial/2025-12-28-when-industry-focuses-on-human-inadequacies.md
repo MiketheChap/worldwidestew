@@ -24,12 +24,11 @@ Yesterday, on my blog, I suggested some reasons that *resolution brain* lets us 
 - It promotes suffering by triggering loss of hope and depression when resolutions fail 
 - It highlights our sense of *not enough*: we don't have enough, we aren't enough, and incites the *Hungry Ghost* of wanting more.
 
-Today, I want to highlight a few of the more insidious ways that *resolution brain* betrays us. 
+Today, I want to highlight a few of the more insidious ways that *resolution brain* can betray us. 
 - The Resolution Industry is manufactured. The self-improvement industry is active all year long. We aren't good enough:  in some way our eating, smell, possessions, exercise, and clothing, are inadequate. We are constantly told that we aren't good enough. 
-- I've been particularly troubled by the appeals to young people who are automatically inclined toward self-comparison. So,   newly created intimate deodorants and cleansers suggest that the most personal aspects of a person are themselves inadequate. In response, people begin an entirely new addiction to environmentally invasive products. Some of these products may harm the body's natural biome. 
-- The New Year's timing. Using our inadequacies to promote sales on the New Year transition is particularly galling. 
-- Many sellers hypocritically tell us that we're all beautiful, immediately turning around and suggesting other areas of inadequacy.
-- The Resolution Industry creates false urgency and crisis. They tell us this with the *specific intent* of inciting *fight or flight* thinking. 
+- Business co-opt our shame, inadequacies, and fears of missing out to wedge us into making big changes at the New Year transition. We buy subscriptions, new clothing, exercise gear, and books hoping to find *the secrets* that will helpus change. 
+- While some advertisers tell us we're all beautiful, they just as quickly, and hypocritically,  turn around tell us something else we need to be *complete*. 
+- The Resolution Industry creates false urgency and crisis. They tell us this with the *intent* of inciting *fight or flight* thinking. 
 
 What to do in response to this *psychological ghost lighting*? 
 - Teach our children (and ourselves) to act from strength
