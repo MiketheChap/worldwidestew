@@ -99,7 +99,9 @@ function initAutocomplete() {
       const li = document.createElement('li');
       li.textContent = match.title;
       li.addEventListener('click', function() {
-        window.location.href = match.permalink;
+        searchInput.value = match.title;
+        performSearch(match.title);
+        autocompleteResults.innerHTML = '';
       });
       autocompleteResults.appendChild(li);
     });

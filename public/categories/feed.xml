@@ -7,31 +7,76 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Mon, 07 Jul 2025 17:11:42 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/categories/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 14:44:21 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/categories/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inspiration</title>
       <link>https://worldwidestew.com/categories/inspiration/</link>
-      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
+      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
       
       <guid>https://worldwidestew.com/categories/inspiration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning</title>
-      <link>https://worldwidestew.com/categories/learning/</link>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <title>Psychology</title>
+      <link>https://worldwidestew.com/categories/psychology/</link>
+      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
       
-      <guid>https://worldwidestew.com/categories/learning/</guid>
+      <guid>https://worldwidestew.com/categories/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanity</title>
+      <link>https://worldwidestew.com/categories/humanity/</link>
+      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/categories/humanity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength</title>
+      <link>https://worldwidestew.com/categories/strength/</link>
+      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/categories/strength/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Society</title>
       <link>https://worldwidestew.com/categories/society/</link>
-      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
+      <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
       
       <guid>https://worldwidestew.com/categories/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://worldwidestew.com/categories/learning/</link>
+      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/categories/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time</title>
+      <link>https://worldwidestew.com/categories/time/</link>
+      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/categories/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://worldwidestew.com/categories/health/</link>
+      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
+      
+      <guid>https://worldwidestew.com/categories/health/</guid>
       <description></description>
     </item>
     
@@ -77,15 +122,6 @@
       <pubDate>Fri, 25 Apr 2025 01:05:11 +0000</pubDate>
       
       <guid>https://worldwidestew.com/categories/self-awareness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strength</title>
-      <link>https://worldwidestew.com/categories/strength/</link>
-      <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/strength/</guid>
       <description></description>
     </item>
     
