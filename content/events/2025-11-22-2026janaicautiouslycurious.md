@@ -1,5 +1,5 @@
 ---
-title: Collaborating with AI - A Hands-On Workshop for the Cautiously Curious
+title: Collaborating with AI - A Hands-On Workshop for the Cautious
 description: ""
 date: 2025-11-22T21:59:45.875Z
 preview: ""
