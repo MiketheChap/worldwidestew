@@ -3,7 +3,7 @@ title: Verbal Order Read Back
 description: ""
 date: 2026-01-08T21:20:52.708Z
 preview: ""
-draft: true
+draft: false
 tags:
     - communication
     - clarity
