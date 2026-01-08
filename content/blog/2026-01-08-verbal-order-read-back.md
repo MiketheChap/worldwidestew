@@ -11,7 +11,7 @@ categories:
     - inspiration
     - psychology
 ---
-When a doctor or Advance Practice Provider (like a Physician Assitant or Nurse Practitioner)issues a verbal order, the person taking the order is usuaqlly supposed to read it back to confirm understanding. Clinicians often feel its unncessary: *We're in a hurry.We've got things to do.*
+When a doctor or Advance Practice Provider (like a Physician Assitant or Nurse Practitioner)issues a verbal order, the person taking the order is usually supposed to read it back to confirm understanding. Clinicians often feel its unncessary: *We're in a hurry.We've got things to do.*
 
 Verbal order readback (VORB) is an invitation. It’s an invitation to reduce confusion or dispel doubts. With VORB, the person *receiving* the order and the person *giving* the order have the opportunity to *dance*. *Do you understand what I want? Do I understand what you’re reporting?* We get to do this before we step on each other’s toes. Or, more importantly, before we hurt the patient or family.
 
