@@ -2,10 +2,8 @@ baseURL = 'https://worldwidestew.com/'
 languageCode = 'en-us'
 title = 'Worldwide Stew'
 theme = "simple-light-dark"
-copyright = '© 2024 Worldwide Stew, aka Michael Davis.'
+copyright = '© 2026 Worldwide Stew, aka Michael Davis.'
 enableEmoji = true
-
-
 [menu]
   [[menu.main]]
     name = "Home"
@@ -28,15 +26,17 @@ enableEmoji = true
     url = "/about/"
     weight = 5
   [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
+  [[menu.main]]
     name = "Podcast"
     url = "/media/"
-    weight = 5  
-
+    weight = 7  
 [outputFormats]
   [outputFormats.RSS]
     mediatype = "application/rss+xml"
     baseName = "feed"
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
@@ -44,6 +44,5 @@ enableEmoji = true
   term = ["HTML", "RSS"]
   
 paginate = 5 # This will show 5 posts per page
-
 [params]
   logo = "images/logo.png"
