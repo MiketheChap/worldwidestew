@@ -15,4 +15,4 @@ Please fill out the form below and I'll get back to you soon.
 
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqsx31AgMUw6DoI-iNO2Uv7zoIKFIAWXK4duH1IyxCPrNOIw/viewform?usp=dialog" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+{{< googleform src="https://docs.google.com/forms/d/e/1FAIpQLSdqsx31AgMUw6DoI-iNO2Uv7zoIKFIAWXK4duH1IyxCPrNOIw/viewform?embedded=true" >}}
