@@ -34,7 +34,7 @@ For these people, I'm eternally grateful. They gave me a *soft landing* when I d
 
 When you are stalling or your flaps are failing, pray there's someone there to help you safely land.
 
-I'm looking at you, SI, CS, AS, JAC, and many others.
+I'm looking at you, SI, CS, AS, JAC, and many others. (Updated on February 3, 2026 to include DG and BD. Every time I turn around, I realize there were so many! So, I'll add more as I'm reminded of them.)
 
 Thank you for being one of my soft landings. For seeing me. For accepting me. 
 
