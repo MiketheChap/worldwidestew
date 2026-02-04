@@ -8,7 +8,7 @@ description: "Change is hard. It's easier when a cadre of understanding and gent
 summary: "Sometimes our beliefs - our certainties - come crashing down around us. How we weather those storms is dependent on the people..."
 draft: false
 ---
-Though thankfully very rare, sometimes during a flight, the engine stalls or the flaps stop working. Pilots of all planes train for these kinds of emergencies: stalls, problems with the flaps, bird strikes, instrument failures, and many others. 
+Though thankfully very rare, sometimes during a flight, the engine stalls or the flaps stop working. All pilots train for emergencies: stalls, problems with the flaps, bird strikes, instrument failures, and many others. 
 
 Similarly, our beliefs - our certainties - sometimes come crashing down around us. How we weather those storms is dependent on people who give us *soft landings*.
 
