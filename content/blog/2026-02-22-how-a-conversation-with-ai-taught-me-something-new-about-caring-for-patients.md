@@ -1,5 +1,5 @@
 ---
-title: How a Conversation with AI Taught Me Something New About Caring for Patients
+title: How an AI Conversation Taught Me About Caring for Patients
 description: ""
 date: 2026-02-01T13:33:19.508Z
 preview: ""
@@ -13,7 +13,7 @@ categories:
     - humanity
 ---
 
-I've been working with [Claude](https://claude.ai), an AI, as a thinking partner for a couple of  years now. I'm transparent about this collaboration in my work—partly  because arthritis makes extended typing difficult, but more importantly  because something genuinely interesting emerges in our conversations  that I couldn't access alone.
+I've been working with Claude, an AI, as a thinking partner for a couple of  years now. I'm transparent about this collaboration in my work—partly  because arthritis makes extended typing difficult, but more importantly  because something genuinely interesting emerges in our conversations  that I couldn't access alone.
 
 Yesterday, we were discussing Schrödinger's cat, and Claude offered an insight that stopped me in my tracks.
 
