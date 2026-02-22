@@ -3,9 +3,14 @@ title: I am not so special
 description: ""
 date: 2026-02-04T12:42:28.222Z
 preview: ""
-draft: true
-tags: []
-categories: []
+draft: false
+tags:
+    - psychology
+    - specialness
+    - existential perspective
+categories:
+    - humanity
+    - inspiration
 ---
 [Guru](https://www.merriam-webster.com/dictionary/guru) (*noun*)
 1: a personal religious teacher and spiritual guide in Hinduis
@@ -24,6 +29,8 @@ He referenced my verbatim report of the death of a newborn. Chaplains routinely 
 
 *We have a lot of chaplains available during the day shift. Can't you ask for help? Or, are you above that? Do you have some specialness that lifts you above the rest of us?*
 
-Psychiatrist Irvin Yalom described our *belief in our specialness* as one of the most pernicious and prevalent human struggles. He was right. My Supervisor reminded me of both my faulty belief and the perfect course of action: *ask for help*. As long as we believe in our *specialness* we lose our ability to see other options. In our efforts to *save face* or preserve *our status* by not asking for help, we are driving *under the influence* of our *specialness*. 
+Psychiatrist Irvin Yalom described our *belief in our specialness* as one of the most pernicious and prevalent human struggles. He was right. My Supervisor reminded me of both my faulty belief and the perfect course of action: *Ask for help*. In our efforts to *save face* or preserve *our status* by not asking for help, we are driving *under the influence* of our *specialness*. 
 
 We're all struggling. No one is above the fray. We all need help one time or another. We all *drop the ball*. 
+
+We are not *so special*. 
