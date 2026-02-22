@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Worldwide Stew'
 theme = "simple-light-dark"
 copyright = '© 2026 Worldwide Stew, aka Michael Davis.'
+[author]
+  name = "Michael Davis"
+  email = "worldwide@worldwidestew.com"
 enableEmoji = true
 [menu]
   [[menu.main]]
