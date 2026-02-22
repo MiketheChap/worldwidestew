@@ -1,7 +1,7 @@
 ---
 title: I am not so special
 description: ""
-date: 2026-02-03T12:42:28.222Z
+date: 2026-02-04T12:42:28.222Z
 preview: ""
 draft: true
 tags: []
@@ -20,7 +20,7 @@ This is a continuing riff on *gurus* and *specialness*. Today, I wanted to write
 
 *What's so special about you that you can't be touched by that sort of grief*, said my Chaplain Supervisor? 
 
-He referenced my verbatim report of the death of a newborn. Chaplains routinely write verbatim reports where they explore moments -- in many cases, the actual spoken words -- where they were challenged by difficult ministry events. The death of a newborn shook me to my core. In my *verbatim* I wondered how I could provide any *good* care to the family if I was caught up in my own grief (we had a son on the way at the time).
+He referenced my verbatim report of the death of a newborn. Chaplains routinely write *verbatim reports*.  In those reports they explore moments -- in most cases, the actual spoken words -- of patient, family, or staff visits. We reported circumstances where we were challenged by difficult ministry events. The death of a newborn shook me to my core. In my *verbatim* I wondered how I could provide any *good* care to the family if I was caught up in my own grief (we had a son on the way at the time).
 
 *We have a lot of chaplains available during the day shift. Can't you ask for help? Or, are you above that? Do you have some specialness that lifts you above the rest of us?*
 
