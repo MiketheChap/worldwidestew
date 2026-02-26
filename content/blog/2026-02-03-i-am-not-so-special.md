@@ -33,4 +33,4 @@ Psychiatrist Irvin Yalom described our *belief in our specialness* as one of the
 
 We're all struggling. No one is above the fray. We all need help one time or another. We all *drop the ball*. 
 
-We are not *so special*. 
+We are not *so special*. We can, and should, ask for help. We all need unexpected assistance. In fact, we need regular assistance even if we can't recognize it: regular accountability meetings with trusted peer. Hearing my supervisor affirm the wisdom of knowing my limits, instead of leaving me bruised, felt liberating. Be yourself. Experience life. 
