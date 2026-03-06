@@ -3,7 +3,7 @@ title: Mindfulness and mindfulness meditation
 description: ""
 date: 2026-03-06T23:52:46.542Z
 preview: ""
-draft: true
+draft: false
 tags:
     - meditation
     - mindfulness
