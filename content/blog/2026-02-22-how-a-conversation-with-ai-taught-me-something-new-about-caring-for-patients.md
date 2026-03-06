@@ -13,7 +13,7 @@ categories:
     - humanity
 ---
 
-I've been working with Claude, an AI, as a thinking partner for a couple of  years now. I'm transparent about this collaboration in my work—partly  because arthritis makes extended typing difficult, but more importantly  because something genuinely interesting emerges in our conversations  that I couldn't access alone.
+I've been using [Claude.ai](https://claude.ai) (an AI by Anthropic) as a thinking partner for a couple of years now. I'm transparent about this collaboration in my work, partly  because arthritis makes extended typing difficult, but more importantly because something genuinely interesting emerges in our conversations that I couldn't access alone.
 
 Yesterday, we were discussing Schrödinger's cat, and Claude offered an insight that stopped me in my tracks.
 
