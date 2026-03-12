@@ -16,4 +16,4 @@ categories:
 ---
 This was for my brotheer's Birthday. It was created by [Claude.ai](https://claude.ai) based on an original idea by me. I wanted to share it with readers.
 
-{{< claude-artifact src="https://claude.site/public/artifacts/7a6922bf-5189-4ccc-b44f-ad0e3e872ae9/embed" >}}
+<iframe src="{{ .Get "src" }}" title="Claude Artifact" width="{{ .Get "width" | default "100%" }}" height="{{ .Get "height" | default "600" }}" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
