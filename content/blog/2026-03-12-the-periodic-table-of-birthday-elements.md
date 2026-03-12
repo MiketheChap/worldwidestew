@@ -14,6 +14,6 @@ categories:
     - humanity
     - inspiration
 ---
-This was for my brotheer's Birthday. It was created by [Claude.ai](https://claude.ai) based on an original idea by me. I wanted to share it with readers.
+This was for my brother's Birthday. It was created by [Claude.ai](https://claude.ai) based on an original idea by me. I wanted to share it with readers.
 
 <iframe src="{{ .Get "src" }}" title="Claude Artifact" width="{{ .Get "width" | default "100%" }}" height="{{ .Get "height" | default "600" }}" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
