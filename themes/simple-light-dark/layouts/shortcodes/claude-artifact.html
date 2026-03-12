@@ -1,0 +1,14 @@
+<iframe 
+  src="{{ .Get "src" }}" 
+  title="Claude Artifact" 
+  width="{{ .Get "width" | default "100%" }}" 
+  height="{{ .Get "height" | default "600" }}" 
+  frameborder="0" 
+  allow="clipboard-write" 
+  allowfullscreen>
+</iframe>
+```
+
+3. Then in your Markdown post, use it like this:
+```
+{{< claude-artifact src="https://claude.site/public/artifacts/7a6922bf-5189-4ccc-b44f-ad0e3e872ae9/embed" >}}
