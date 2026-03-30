@@ -50,7 +50,7 @@ One more thing: this applies to health care systems and insurance companies, too
 
 ──────────────
 
-🙏 A personal thank-you to Nancy, my boss for many years. She supported my narrative medicine practice, gave me the floor when others were reluctant to — because I was "just a chaplain" — and sent me to the Narrative Medicine workshop at Columbia. One of the best experiences of my career.
+🙏 A personal thank-you to Nancy, my boss for many years. She supported my narrative medicine practice, gave me the floor when others were reluctant to — because they viewed my role as  "just a chaplain" — and sent me to the Narrative Medicine workshop at Columbia. One of the best experiences of my career.
 
 This post was reviewed for formatting and minor corrections by Claude.ai by Anthropic. Claude contributed about 5% of the content here. 
 
