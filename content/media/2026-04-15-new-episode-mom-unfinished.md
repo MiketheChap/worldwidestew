@@ -15,9 +15,13 @@ categories:
     - humanity
 ---
 
-I just published my latest podcast episode. In it, I tell a little about my background in working with death, dying, and grief. I recite a poem I just wrote, Mom, Unfinished. 
+I just published my latest podcast episode. In it, I tell a little about my background in working with death, dying, and grief. I recite a poem I just wrote, *Mom, Unfinished*. 
+
+You can listen to all the WorldwideStew podcasts wherever you get your podcasts. Here's a [direct link to the most recent episode](https://shows.acast.com/worldwide-stew/episodes/mom-unfinished).
 
 I hope you like it!
+
+---
 
 Hi, it's Mike. It's good to see you. I wrote a poem for you, and I'll read it shortly. But I wanted to tell you briefly why I wrote it, to give you some context. I've spent my professional life caring for those who are sick and in many cases dying. And I've been at the bedsides of the sick and dying for well over 30 years. First in chaplain training, then for 12 years working in hospice, starting during the AIDS epidemic. And then for the last 19 years in cardiovascular care. There are also the personal losses that I've experienced on my own. So I know a lot about death, dying, and in the poem I'll be sharing, Mom, Unfinished. I wanted to try to capture the experience of going to a death at a patient's home when I was working in hospice. During those days, I was on call every six weeks, 24-7. Some nights were completely exhausting. But as I hope you'll see, they did have moments of unforgettable reward. Hi, I'm Mike Davis, and this is Worldwide Stew. 
 
@@ -27,7 +31,8 @@ So how can I describe my experience of caring for dying people and their familie
 
 Still, there was something very special about those days. Whatever I gave, and it was a lot, I found untold volumes of goodness in death's passing light. And now, without further ado, 
 
-### Mom Unfinished! 
+### Mom Unfinished
+by Michael Davis
 
 Had they told me about the hours of sleep 
 I would miss, awakened in the night,   
