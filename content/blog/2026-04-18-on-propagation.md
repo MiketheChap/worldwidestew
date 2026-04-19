@@ -7,6 +7,7 @@ draft: false
 tags:
     - life
     - relationships
+    - nature
     - aging
 categories:
     - inspiration
