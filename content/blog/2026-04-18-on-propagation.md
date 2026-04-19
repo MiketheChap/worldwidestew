@@ -17,7 +17,7 @@ About a month to eight weeks after their arrival around a hundred and fifty baby
 
 But, I rarely see them after that. Then last week, Barb saw one on a decorative light out front. 
 
-<img src="/images/praying-mantis.jpg" alt="Praying mantis" >
+![Newly hatched praying mantis]<img src="/images/praying-mantis.jpg" alt="Praying mantis" >
 
 Their release makes me feel alive. Seeing them after they've been loose for a while further deepens my joy in life. 
 
