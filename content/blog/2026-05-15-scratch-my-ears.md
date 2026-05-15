@@ -34,9 +34,7 @@ Then, as if for the most perfect moment in life,
 Hers or mine, she enjoys the scruffle of her ears.  
 The day begins.  
 The day begins.  
-
 &nbsp;
-
 It's not all perfection.  
 *Wait.*  
 *Don't bark.*  
@@ -52,9 +50,7 @@ Walks, like flights to space, held because of rain.
 Sickness of man or dog.  
 More tired now.  
 More stops along the way.  
-
 &nbsp;
-
 *Scratch my ears.*  
 *Why must it be so hard all the time*, I wonder?  
 There. Now, swing your legs over the side of the bed.  
@@ -72,11 +68,8 @@ Then,
 Scratch their ears.  
 The day is waiting.  
 All are waiting. 
-
 &nbsp;
 &nbsp;
-
 by Michael Davis   
-
 
 &copy; 2026 Michael Davis. All Rights Reserved.

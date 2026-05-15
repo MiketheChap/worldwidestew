@@ -4,6 +4,10 @@ title = 'Worldwide Stew'
 theme = "simple-light-dark"
 copyright = '© 2026 Worldwide Stew, aka Michael Davis.'
 enableEmoji = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
 [menu]
   [[menu.main]]
     name = "Home"
