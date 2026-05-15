@@ -68,8 +68,8 @@ Then,
 Scratch their ears.  
 The day is waiting.  
 All are waiting. 
-<br>>
-<br>>
+<br>
+<br>
 by Michael Davis   
 <br>
 &copy; 2026 Michael Davis. All Rights Reserved.
