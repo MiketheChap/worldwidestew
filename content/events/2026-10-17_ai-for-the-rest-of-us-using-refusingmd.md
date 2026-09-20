@@ -15,6 +15,12 @@ categories: [events]
 💻 **Online via Zoom | Small group, max 25 participants**
 💲 **$75 per person**
 
+### Register
+
+👉 [**Sign up here**](https://pci.jotform.com/form/261734901895163)
+
+Full refund available up to 24 hours before the workshop start time.
+
 ---
 
 ## You've heard the alarming news. Now what?
