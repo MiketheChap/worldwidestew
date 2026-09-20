@@ -48,7 +48,7 @@ Please arrive with:
 
 ## Register Below
 
-[jotform id="XXXXXXXXXXXX"]
+👉 [**Sign up here**](https://pci.jotform.com/form/261734901895163)
 
 ---
 
