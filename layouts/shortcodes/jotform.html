@@ -1,0 +1,7 @@
+<iframe
+  src="https://form.jotform.com/{{ .Get 0 }}"
+  width="100%"
+  height="{{ with .Get 1 }}{{ . }}{{ else }}800{{ end }}"
+  style="border:none;"
+  title="Event registration form">
+</iframe>
