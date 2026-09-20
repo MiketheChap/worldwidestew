@@ -15,7 +15,7 @@ categories:
 ---
 
 
-# AI for the Rest of Us: A Hands-On Workshop
+# AI for the Rest of Us: Using (and Refusing)
 ## New sessions coming soon
 
 *A live, Zoom-based session for curious beginners and lifelong learners*
