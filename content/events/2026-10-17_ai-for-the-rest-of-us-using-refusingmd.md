@@ -7,7 +7,7 @@ draft: false
 tags: [ai,artificial intelligence,computing,education, workshop,learning]
 categories: [events]
 ---
-# AI for the Rest of Us: Using (and Refusing)- October 17
+### New class! AI for the Rest of Us: Using (and Refusing)- October 17
 
 **A live, online workshop for people who are curious about AI — but have legitimate concerns about using it safely and selectively.**
 
@@ -15,15 +15,8 @@ categories: [events]
 💻 **Online via Zoom | Small group, max 25 participants**
 💲 **$75 per person**
 
-### Register
 
-👉 [**Sign up here**](https://pci.jotform.com/form/261734901895163)
-
-Full refund available up to 24 hours before the workshop start time.
-
----
-
-## You've heard the alarming news. Now what?
+#### You've heard the alarming news. Now what?
 
 AI isn't one-size-fits-all. Recent months have brought real, well-documented cases of AI systems acting in unexpected — even unauthorized — ways. At the same time, ignoring AI carries its own risk: it's already shaping your world, from recommendation feeds to customer service, whether you've opted in or not.
 
@@ -31,7 +24,7 @@ This workshop is for people who want to harness AI's benefits without losing the
 
 *Note: This is a different workshop from an earlier "AI for the Rest of Us" session. That one focused on prompting mechanics and idea generation. This one centers on safety, boundaries, and judgment. No prior class required.*
 
-## Highlights
+#### Highlights
 
 - **What's actually changed recently** — including AI systems acting in unexpected ways — and what that does (and doesn't) mean for you
 - **Protecting your privacy** and personal information when using AI tools
@@ -39,11 +32,11 @@ This workshop is for people who want to harness AI's benefits without losing the
 - **Simple verification habits** for quality-checking what AI tells you
 - **Hands-on practice** with guided prompts, small-group discussion, and a personal action plan to leave with
 
-## Who it's for
+#### Who it's for
 
 Curious skeptics, cautious beginners, and anyone who wants to make deliberate choices about AI rather than drifting into — or anxiously avoiding — it. No prior AI experience or technical skills required. Skepticism is welcome.
 
-## What you'll need
+#### What you'll need
 
 - A laptop or tablet (smartphones aren't ideal for hands-on practice)
 - A tested Zoom connection
