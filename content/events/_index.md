@@ -49,10 +49,6 @@ Please arrive with:
 ## Register Below
 
 [jotform id="XXXXXXXXXXXX"]
----
-
-
-##### 🕯️ 🍃 A Two-Minute Mindfulness Break: It's a brief reset for your mind and body. Check it out **[here](https://podcasts.apple.com/us/podcast/two-minute-mindfulness-meditation/id1765332412?i=1000673695128)**. 
 
 ---
 
