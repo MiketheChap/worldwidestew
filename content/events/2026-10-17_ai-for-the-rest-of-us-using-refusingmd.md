@@ -7,8 +7,6 @@ draft: false
 tags: [ai,artificial intelligence,computing,education, workshop,learning]
 categories: [events]
 ---
-### New class! AI for the Rest of Us: Using (and Refusing)- October 17
-
 **A live, online workshop for people who are curious about AI — but have legitimate concerns about using it safely and selectively.**
 
 📅 **October 17, 2026 | 9:00–10:30 AM Central Time**
