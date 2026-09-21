@@ -1,5 +1,5 @@
 ---
-title: 2026-10-17_AI-for-the-rest-of-us-using-refusing.md
+title: New Class! AI for the Rest of Us - Using (and Refusing)
 description: ""
 date: 2026-09-20T03:24:43.930Z
 preview: ""
