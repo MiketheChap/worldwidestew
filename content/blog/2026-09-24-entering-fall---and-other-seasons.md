@@ -17,9 +17,9 @@ categories:
     - humanity
     - inspiration
 ---
-If it's Tuesday, it's Fall! With the conditions of the world (and, at least for me, money being tight), I'm feeling a bit of stress. Are you? 
+If it's Tuesday, it's Fall! With the conditions of the world (and, at least for me, money being a bit tight), I'm feeling some stress. 
       
-With new seasons, we're always trying to *make our way through* (this seems even more true this year). 
+With new seasons, we're always trying to *make our way through* (this seems even more true this year). Maybe you can identify with some of the ways I'm trying to *make it through* this season:
 
 Here are some of my more recent seasons: 
 
