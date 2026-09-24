@@ -34,6 +34,6 @@ Are you experiencing any seasonal changes? What are they? Are you able to name t
 
 We pursue clarity, mindfulness, insight, wisdom, and creativity like they are modules we can just *bolt on*. But, it doesn't work like that. We aren't machines. We occur in time, in seasons. Even the seasons aren't *bolt-on* components: they ebb and flow from one day to the next, coming and going with uncertainty.
       
-We all have these seasons. The unfolding from one to another is variegated and choppy. Rather then fight the ebb and flow or our seasons, we could see these slow changes like our children: they are all different and they are partly what we make of them. Moreover, we might even explore how integrate seasons into life and and societies. As we witness changes in our environment, we might ask *What does the Easrth need? How do we meet it's need?* 
+We all have these seasons. The unfolding from one to another is variegated and choppy. Rather then fight the ebb and flow or our seasons, we could see these slow changes like our children: they are all different and they are partly what we make of them. Moreover, we might even explore how integrate seasons into life and and societies. As we witness changes in our environment, we might ask *What does the Earth need? How do we meet it's need?* 
 
 Care, tolerance, rest, work, sleep, rhythm, and repair are all words that are consistent with honoring whatever season is upon us.
