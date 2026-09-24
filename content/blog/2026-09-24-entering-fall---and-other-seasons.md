@@ -5,7 +5,6 @@ date: 2026-09-22T14:07:52.791Z
 preview: ""
 draft: false
 tags:
-    - hope
     - meditation
     - mindfulness
     - personal growth
@@ -14,7 +13,6 @@ tags:
     - self-reflection
     - tai chi
     - time
-    - qigong
 categories:
     - humanity
     - inspiration
