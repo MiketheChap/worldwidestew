@@ -3,7 +3,7 @@ title: Replay Versus Reality
 description: ""
 date: 2026-10-26T17:28:10.026Z
 preview: ""
-draft: true
+draft: false
 tags:
     - attention
     - attentiveness
