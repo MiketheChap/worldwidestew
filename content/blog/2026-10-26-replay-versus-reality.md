@@ -58,7 +58,7 @@ The goal is to be *alive* in this moment, experiencing the active stream of vari
 
 Knowing we will make mistakes.
 
-On seeing our mistakes, we own them. No, we cannot relive them. We can only try and do better next time.
+On recognizing (not simply seeing) our mistakes, we own them. No, we cannot relive them. We can only try and do better next time.
 
 We are alive only to the extent that we're experiencing. Instant replay is often a detour from the lived moment. It easily becomes the default. 
 
