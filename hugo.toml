@@ -61,10 +61,11 @@ paginate = 5 # This will show 5 posts per page
 
 
 # Availability banner (added Nov 2026): shows a "meet with me" link on the site.
-# Set enabled = false to hide it AND then Refresh the page on GitHub.
 [params.availability]
-  enabled = true
+  availableNow = true
   message = "I'm available to meet with you right now on end-to-end encrypted Proton Meet."
   linkText = "Join me on Proton Meet"
-  lobbyNote = "You'll wait in the Lobby until I let you in."
   url = "https://meet.proton.me/join/id-4JMMPJFH48#pwd-VW49SieAY3rp"
+  scheduleMessage = "Prefer a time that suits you?"
+  scheduleText = "Book a time with me"
+  scheduleUrl = "https://cal.com/mikethechap"

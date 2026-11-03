@@ -1,5 +1,6 @@
 {{ with .Site.Params.availability }}
-  {{ if .enabled }}
+  {{ $a := . }}
+  {{ if or $a.availableNow $a.scheduleUrl }}
   <style>
     .availability-banner {
       background-color: var(--bg-secondary);
@@ -10,21 +11,27 @@
       padding: var(--spacing-medium) var(--spacing-large);
       margin-bottom: var(--spacing-large);
     }
+    .availability-row + .availability-row {
+      margin-top: 0.6rem;
+    }
     .availability-banner a {
       font-weight: bold;
       margin: 0 0.5rem;
     }
-    .availability-lobby {
-      display: block;
-      font-size: 0.95em;
-      color: var(--text-secondary);
-      margin-top: 0.3rem;
-    }
   </style>
   <div class="availability-banner" role="status">
-    <span class="availability-message">{{ .message }}</span>
-    <a href="{{ .url }}" target="_blank" rel="noopener">{{ .linkText }}</a>
-    {{ with .lobbyNote }}<span class="availability-lobby">{{ . }}</span>{{ end }}
+    {{ if $a.availableNow }}
+    <div class="availability-row">
+      <span>{{ $a.message }}</span>
+      <a href="{{ $a.url }}" target="_blank" rel="noopener">{{ $a.linkText }}</a>
+    </div>
+    {{ end }}
+    {{ with $a.scheduleUrl }}
+    <div class="availability-row">
+      {{ with $a.scheduleMessage }}<span>{{ . }}</span>{{ end }}
+      <a href="{{ . }}" target="_blank" rel="noopener">{{ $a.scheduleText }}</a>
+    </div>
+    {{ end }}
   </div>
   {{ end }}
 {{ end }}
