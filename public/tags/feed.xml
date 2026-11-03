@@ -2,2691 +2,2990 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 14:44:21 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sat, 31 Oct 2026 17:15:03 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Health</title>
-      <link>https://worldwidestew.com/tags/health/</link>
-      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Movement</title>
-      <link>https://worldwidestew.com/tags/movement/</link>
-      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/movement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Positive Psychology</title>
-      <link>https://worldwidestew.com/tags/positive-psychology/</link>
-      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/positive-psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Commercialism</title>
-      <link>https://worldwidestew.com/tags/commercialism/</link>
-      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/commercialism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deodorant</title>
-      <link>https://worldwidestew.com/tags/deodorant/</link>
-      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/deodorant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Humanity</title>
-      <link>https://worldwidestew.com/tags/humanity/</link>
-      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/humanity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inadequacy</title>
-      <link>https://worldwidestew.com/tags/inadequacy/</link>
-      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/inadequacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psychology</title>
-      <link>https://worldwidestew.com/tags/psychology/</link>
-      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shame</title>
-      <link>https://worldwidestew.com/tags/shame/</link>
-      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/shame/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smell</title>
-      <link>https://worldwidestew.com/tags/smell/</link>
-      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/smell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Addiction</title>
-      <link>https://worldwidestew.com/tags/addiction/</link>
-      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/addiction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Buddhism</title>
-      <link>https://worldwidestew.com/tags/buddhism/</link>
-      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/buddhism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Change</title>
-      <link>https://worldwidestew.com/tags/change/</link>
-      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/change/</guid>
+      <title>Fear</title>
+      <link>http://localhost:1313/tags/fear/</link>
+      <pubDate>Sat, 31 Oct 2026 17:15:03 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/fear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hope</title>
-      <link>https://worldwidestew.com/tags/hope/</link>
-      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/hope/</guid>
+      <link>http://localhost:1313/tags/hope/</link>
+      <pubDate>Sat, 31 Oct 2026 17:15:03 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/hope/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Purpose</title>
-      <link>https://worldwidestew.com/tags/purpose/</link>
-      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/purpose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resolution</title>
-      <link>https://worldwidestew.com/tags/resolution/</link>
-      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/resolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Courage</title>
-      <link>https://worldwidestew.com/tags/courage/</link>
-      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/courage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inventiveness</title>
-      <link>https://worldwidestew.com/tags/inventiveness/</link>
-      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/inventiveness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resistance</title>
-      <link>https://worldwidestew.com/tags/resistance/</link>
-      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/resistance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resourcefulness</title>
-      <link>https://worldwidestew.com/tags/resourcefulness/</link>
-      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/resourcefulness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Body</title>
-      <link>https://worldwidestew.com/tags/body/</link>
-      <pubDate>Thu, 18 Dec 2025 16:55:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/body/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mindfulness</title>
-      <link>https://worldwidestew.com/tags/mindfulness/</link>
-      <pubDate>Thu, 18 Dec 2025 16:55:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/mindfulness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Care</title>
-      <link>https://worldwidestew.com/tags/self-care/</link>
-      <pubDate>Thu, 18 Dec 2025 16:55:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/self-care/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Compassion</title>
-      <link>https://worldwidestew.com/tags/self-compassion/</link>
-      <pubDate>Thu, 18 Dec 2025 16:55:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/self-compassion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boundaries</title>
-      <link>https://worldwidestew.com/tags/boundaries/</link>
-      <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/boundaries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inspiration</title>
-      <link>https://worldwidestew.com/tags/inspiration/</link>
-      <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/inspiration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strength</title>
-      <link>https://worldwidestew.com/tags/strength/</link>
-      <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/strength/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meditation</title>
-      <link>https://worldwidestew.com/tags/meditation/</link>
-      <pubDate>Tue, 25 Nov 2025 17:28:57 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/meditation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Presence</title>
-      <link>https://worldwidestew.com/tags/presence/</link>
-      <pubDate>Tue, 25 Nov 2025 17:28:57 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/presence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Silence</title>
-      <link>https://worldwidestew.com/tags/silence/</link>
-      <pubDate>Tue, 25 Nov 2025 17:28:57 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/silence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ai</title>
-      <link>https://worldwidestew.com/tags/ai/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://worldwidestew.com/tags/artificial-intelligence/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Classes</title>
-      <link>https://worldwidestew.com/tags/classes/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/classes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://worldwidestew.com/tags/education/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/education/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>https://worldwidestew.com/tags/events/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>https://worldwidestew.com/tags/learning/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Awareness</title>
-      <link>https://worldwidestew.com/tags/awareness/</link>
-      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/awareness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Consciousness</title>
-      <link>https://worldwidestew.com/tags/consciousness/</link>
-      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/consciousness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ego</title>
-      <link>https://worldwidestew.com/tags/ego/</link>
-      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ego/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Einstein</title>
-      <link>https://worldwidestew.com/tags/einstein/</link>
-      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/einstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emotional Intelligence</title>
-      <link>https://worldwidestew.com/tags/emotional-intelligence/</link>
-      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/emotional-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gravitational Waves</title>
-      <link>https://worldwidestew.com/tags/gravitational-waves/</link>
-      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/gravitational-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mental Health</title>
-      <link>https://worldwidestew.com/tags/mental-health/</link>
-      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science</title>
-      <link>https://worldwidestew.com/tags/science/</link>
-      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collaboration</title>
-      <link>https://worldwidestew.com/tags/collaboration/</link>
-      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/collaboration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cooperation</title>
-      <link>https://worldwidestew.com/tags/cooperation/</link>
-      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/cooperation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guardrail</title>
-      <link>https://worldwidestew.com/tags/guardrail/</link>
-      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/guardrail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Safety</title>
-      <link>https://worldwidestew.com/tags/safety/</link>
-      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/safety/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Art</title>
-      <link>https://worldwidestew.com/tags/art/</link>
-      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beauty</title>
-      <link>https://worldwidestew.com/tags/beauty/</link>
-      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/beauty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poetry</title>
-      <link>https://worldwidestew.com/tags/poetry/</link>
-      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Precision</title>
-      <link>https://worldwidestew.com/tags/precision/</link>
-      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/precision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vocabulary</title>
-      <link>https://worldwidestew.com/tags/vocabulary/</link>
-      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/vocabulary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Space</title>
-      <link>https://worldwidestew.com/tags/space/</link>
-      <pubDate>Fri, 05 Sep 2025 21:37:50 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Telescope</title>
-      <link>https://worldwidestew.com/tags/telescope/</link>
-      <pubDate>Fri, 05 Sep 2025 21:37:50 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/telescope/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dark Matter</title>
-      <link>https://worldwidestew.com/tags/dark-matter/</link>
-      <pubDate>Wed, 03 Sep 2025 20:43:20 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/dark-matter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compassion Meditation</title>
-      <link>https://worldwidestew.com/tags/compassion-meditation/</link>
-      <pubDate>Sat, 23 Aug 2025 19:14:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/compassion-meditation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kindness</title>
-      <link>https://worldwidestew.com/tags/kindness/</link>
-      <pubDate>Sat, 23 Aug 2025 19:14:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/kindness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lovingkindness</title>
-      <link>https://worldwidestew.com/tags/lovingkindness/</link>
-      <pubDate>Sat, 23 Aug 2025 19:14:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/lovingkindness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motor Neuron</title>
-      <link>https://worldwidestew.com/tags/motor-neuron/</link>
-      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/motor-neuron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parkinsons</title>
-      <link>https://worldwidestew.com/tags/parkinsons/</link>
-      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/parkinsons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Acceptance</title>
-      <link>https://worldwidestew.com/tags/self-acceptance/</link>
-      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/self-acceptance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support</title>
-      <link>https://worldwidestew.com/tags/support/</link>
-      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/support/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Connection</title>
-      <link>https://worldwidestew.com/tags/connection/</link>
-      <pubDate>Sun, 20 Jul 2025 12:41:29 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/connection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relatonships</title>
-      <link>https://worldwidestew.com/tags/relatonships/</link>
-      <pubDate>Sun, 20 Jul 2025 12:41:29 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/relatonships/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sociality</title>
-      <link>https://worldwidestew.com/tags/sociality/</link>
-      <pubDate>Sun, 20 Jul 2025 12:41:29 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/sociality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Family</title>
-      <link>https://worldwidestew.com/tags/family/</link>
-      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/family/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gratitude</title>
-      <link>https://worldwidestew.com/tags/gratitude/</link>
-      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/gratitude/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joy</title>
-      <link>https://worldwidestew.com/tags/joy/</link>
-      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/joy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poem</title>
-      <link>https://worldwidestew.com/tags/poem/</link>
-      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dependence</title>
-      <link>https://worldwidestew.com/tags/dependence/</link>
-      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/dependence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Independence</title>
-      <link>https://worldwidestew.com/tags/independence/</link>
-      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/independence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Status</title>
-      <link>https://worldwidestew.com/tags/status/</link>
-      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/status/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Value</title>
-      <link>https://worldwidestew.com/tags/value/</link>
-      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/value/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wealth</title>
-      <link>https://worldwidestew.com/tags/wealth/</link>
-      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/wealth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Worth</title>
-      <link>https://worldwidestew.com/tags/worth/</link>
-      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/worth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coping</title>
-      <link>https://worldwidestew.com/tags/coping/</link>
-      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/coping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disagreement</title>
-      <link>https://worldwidestew.com/tags/disagreement/</link>
-      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/disagreement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>People</title>
-      <link>https://worldwidestew.com/tags/people/</link>
-      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relationships</title>
-      <link>https://worldwidestew.com/tags/relationships/</link>
-      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/relationships/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Strife</title>
-      <link>https://worldwidestew.com/tags/strife/</link>
-      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/strife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authoritarianism</title>
-      <link>https://worldwidestew.com/tags/authoritarianism/</link>
-      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/authoritarianism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compassion</title>
-      <link>https://worldwidestew.com/tags/compassion/</link>
-      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/compassion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fascism</title>
-      <link>https://worldwidestew.com/tags/fascism/</link>
-      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/fascism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Freedom</title>
-      <link>https://worldwidestew.com/tags/freedom/</link>
-      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/freedom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liberty</title>
-      <link>https://worldwidestew.com/tags/liberty/</link>
-      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/liberty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://worldwidestew.com/tags/politics/</link>
-      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authoritarian</title>
-      <link>https://worldwidestew.com/tags/authoritarian/</link>
-      <pubDate>Thu, 12 Jun 2025 00:54:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/authoritarian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dictatorship</title>
-      <link>https://worldwidestew.com/tags/dictatorship/</link>
-      <pubDate>Thu, 12 Jun 2025 00:54:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/dictatorship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Service</title>
-      <link>https://worldwidestew.com/tags/service/</link>
-      <pubDate>Thu, 12 Jun 2025 00:54:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Community</title>
-      <link>https://worldwidestew.com/tags/community/</link>
-      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Democracy</title>
-      <link>https://worldwidestew.com/tags/democracy/</link>
-      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/democracy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Media</title>
-      <link>https://worldwidestew.com/tags/media/</link>
-      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://worldwidestew.com/tags/news/</link>
-      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Public</title>
-      <link>https://worldwidestew.com/tags/public/</link>
-      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/public/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Attention</title>
-      <link>https://worldwidestew.com/tags/attention/</link>
-      <pubDate>Thu, 15 May 2025 01:51:12 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distraction</title>
-      <link>https://worldwidestew.com/tags/distraction/</link>
-      <pubDate>Thu, 15 May 2025 01:51:12 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/distraction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Focus</title>
-      <link>https://worldwidestew.com/tags/focus/</link>
-      <pubDate>Thu, 15 May 2025 01:51:12 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/focus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beliefs</title>
-      <link>https://worldwidestew.com/tags/beliefs/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/beliefs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolution</title>
-      <link>https://worldwidestew.com/tags/evolution/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Faith</title>
-      <link>https://worldwidestew.com/tags/faith/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/faith/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Falsifiability</title>
-      <link>https://worldwidestew.com/tags/falsifiability/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/falsifiability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Falsifiable</title>
-      <link>https://worldwidestew.com/tags/falsifiable/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/falsifiable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ideology</title>
-      <link>https://worldwidestew.com/tags/ideology/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ideology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sexuality</title>
-      <link>https://worldwidestew.com/tags/sexuality/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/sexuality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spirituality</title>
-      <link>https://worldwidestew.com/tags/spirituality/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/spirituality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Truth</title>
-      <link>https://worldwidestew.com/tags/truth/</link>
-      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/truth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethical Behavior</title>
-      <link>https://worldwidestew.com/tags/ethical-behavior/</link>
-      <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ethical-behavior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ethics</title>
-      <link>https://worldwidestew.com/tags/ethics/</link>
-      <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ethics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Government</title>
-      <link>https://worldwidestew.com/tags/government/</link>
-      <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Society</title>
-      <link>https://worldwidestew.com/tags/society/</link>
-      <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/society/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Character</title>
-      <link>https://worldwidestew.com/tags/character/</link>
-      <pubDate>Mon, 28 Apr 2025 02:24:39 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/character/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economy</title>
-      <link>https://worldwidestew.com/tags/economy/</link>
-      <pubDate>Mon, 28 Apr 2025 02:24:39 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/economy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trust</title>
-      <link>https://worldwidestew.com/tags/trust/</link>
-      <pubDate>Mon, 28 Apr 2025 02:24:39 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/trust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Action Bias</title>
-      <link>https://worldwidestew.com/tags/action-bias/</link>
-      <pubDate>Fri, 25 Apr 2025 01:05:11 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/action-bias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithms</title>
-      <link>https://worldwidestew.com/tags/algorithms/</link>
-      <pubDate>Fri, 25 Apr 2025 01:05:11 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/algorithms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bias</title>
-      <link>https://worldwidestew.com/tags/bias/</link>
-      <pubDate>Fri, 25 Apr 2025 01:05:11 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/bias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Care</title>
-      <link>https://worldwidestew.com/tags/care/</link>
-      <pubDate>Wed, 02 Apr 2025 19:22:49 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/care/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Helping</title>
-      <link>https://worldwidestew.com/tags/helping/</link>
-      <pubDate>Wed, 02 Apr 2025 19:22:49 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/helping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Questions</title>
-      <link>https://worldwidestew.com/tags/questions/</link>
-      <pubDate>Wed, 02 Apr 2025 19:22:49 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/questions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conscientious</title>
-      <link>https://worldwidestew.com/tags/conscientious/</link>
-      <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/conscientious/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dedication</title>
-      <link>https://worldwidestew.com/tags/dedication/</link>
-      <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/dedication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Values</title>
-      <link>https://worldwidestew.com/tags/values/</link>
-      <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/values/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>https://worldwidestew.com/tags/work/</link>
-      <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chaplain</title>
-      <link>https://worldwidestew.com/tags/chaplain/</link>
-      <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/chaplain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chaplaincy</title>
-      <link>https://worldwidestew.com/tags/chaplaincy/</link>
-      <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/chaplaincy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Religion</title>
-      <link>https://worldwidestew.com/tags/religion/</link>
-      <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/religion/</guid>
+      <title>Humanity</title>
+      <link>http://localhost:1313/tags/humanity/</link>
+      <pubDate>Sat, 31 Oct 2026 17:15:03 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/humanity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ritual</title>
-      <link>https://worldwidestew.com/tags/ritual/</link>
-      <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ritual/</guid>
+      <link>http://localhost:1313/tags/ritual/</link>
+      <pubDate>Sat, 31 Oct 2026 17:15:03 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ritual/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Self-Awareness</title>
-      <link>https://worldwidestew.com/tags/self-awareness/</link>
-      <pubDate>Tue, 25 Feb 2025 13:06:18 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/self-awareness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wisdom</title>
-      <link>https://worldwidestew.com/tags/wisdom/</link>
-      <pubDate>Tue, 25 Feb 2025 13:06:18 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/wisdom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Animals</title>
-      <link>https://worldwidestew.com/tags/animals/</link>
-      <pubDate>Sat, 22 Feb 2025 01:37:50 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/animals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anthropology</title>
-      <link>https://worldwidestew.com/tags/anthropology/</link>
-      <pubDate>Sat, 22 Feb 2025 01:37:50 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/anthropology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Citizenship</title>
-      <link>https://worldwidestew.com/tags/citizenship/</link>
-      <pubDate>Fri, 14 Feb 2025 22:18:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/citizenship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obedience</title>
-      <link>https://worldwidestew.com/tags/obedience/</link>
-      <pubDate>Fri, 14 Feb 2025 22:18:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/obedience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsibility</title>
-      <link>https://worldwidestew.com/tags/responsibility/</link>
-      <pubDate>Fri, 14 Feb 2025 22:18:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/responsibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peace</title>
-      <link>https://worldwidestew.com/tags/peace/</link>
-      <pubDate>Tue, 04 Feb 2025 22:18:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/peace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tribalism</title>
-      <link>https://worldwidestew.com/tags/tribalism/</link>
-      <pubDate>Tue, 04 Feb 2025 22:18:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/tribalism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Humanism</title>
-      <link>https://worldwidestew.com/tags/humanism/</link>
-      <pubDate>Sun, 02 Feb 2025 03:28:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/humanism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Love</title>
-      <link>https://worldwidestew.com/tags/love/</link>
-      <pubDate>Sun, 02 Feb 2025 03:28:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/love/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>https://worldwidestew.com/tags/home/</link>
-      <pubDate>Wed, 29 Jan 2025 00:23:01 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Respect</title>
-      <link>https://worldwidestew.com/tags/respect/</link>
-      <pubDate>Wed, 29 Jan 2025 00:23:01 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/respect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discipline</title>
-      <link>https://worldwidestew.com/tags/discipline/</link>
-      <pubDate>Wed, 22 Jan 2025 22:29:11 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/discipline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Control</title>
-      <link>https://worldwidestew.com/tags/self-control/</link>
-      <pubDate>Wed, 22 Jan 2025 22:29:11 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/self-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patience</title>
-      <link>https://worldwidestew.com/tags/patience/</link>
-      <pubDate>Mon, 20 Jan 2025 21:21:32 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/patience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polarization</title>
-      <link>https://worldwidestew.com/tags/polarization/</link>
-      <pubDate>Mon, 20 Jan 2025 21:21:32 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/polarization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tolerance</title>
-      <link>https://worldwidestew.com/tags/tolerance/</link>
-      <pubDate>Mon, 20 Jan 2025 21:21:32 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/tolerance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effort</title>
-      <link>https://worldwidestew.com/tags/effort/</link>
-      <pubDate>Fri, 17 Jan 2025 21:41:46 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/effort/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resilience</title>
-      <link>https://worldwidestew.com/tags/resilience/</link>
-      <pubDate>Fri, 17 Jan 2025 21:41:46 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/resilience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Mindfulness”</title>
-      <link>https://worldwidestew.com/tags/mindfulness/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/mindfulness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Belief</title>
-      <link>https://worldwidestew.com/tags/belief/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/belief/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Environment</title>
-      <link>https://worldwidestew.com/tags/environment/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/environment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Loss</title>
-      <link>https://worldwidestew.com/tags/loss/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/loss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suffering</title>
-      <link>https://worldwidestew.com/tags/suffering/</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/suffering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-Creation</title>
-      <link>https://worldwidestew.com/tags/co-creation/</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/co-creation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Technology</title>
-      <link>https://worldwidestew.com/tags/technology/</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authentic</title>
-      <link>https://worldwidestew.com/tags/authentic/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/authentic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cynicism</title>
-      <link>https://worldwidestew.com/tags/cynicism/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/cynicism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individual</title>
-      <link>https://worldwidestew.com/tags/individual/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/individual/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal</title>
-      <link>https://worldwidestew.com/tags/personal/</link>
-      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Battle</title>
-      <link>https://worldwidestew.com/tags/battle/</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/battle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Miltary</title>
-      <link>https://worldwidestew.com/tags/miltary/</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/miltary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>War</title>
-      <link>https://worldwidestew.com/tags/war/</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/war/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conceit</title>
-      <link>https://worldwidestew.com/tags/conceit/</link>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/conceit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Individualism</title>
-      <link>https://worldwidestew.com/tags/individualism/</link>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/individualism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Holy War</title>
-      <link>https://worldwidestew.com/tags/holy-war/</link>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/holy-war/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>”Ease&#34;</title>
-      <link>https://worldwidestew.com/tags/ease/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ease/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comfort</title>
-      <link>https://worldwidestew.com/tags/comfort/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/comfort/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leadership</title>
-      <link>https://worldwidestew.com/tags/leadership/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/leadership/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pain</title>
-      <link>https://worldwidestew.com/tags/pain/</link>
-      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/pain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Adversity”</title>
-      <link>https://worldwidestew.com/tags/adversity/</link>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/adversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Belief”</title>
-      <link>https://worldwidestew.com/tags/belief/</link>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/belief/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Certainty</title>
-      <link>https://worldwidestew.com/tags/certainty/</link>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/certainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Relationship”</title>
-      <link>https://worldwidestew.com/tags/relationship/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/relationship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dogs</title>
-      <link>https://worldwidestew.com/tags/dogs/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/dogs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Debates</title>
-      <link>https://worldwidestew.com/tags/debates/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/debates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>https://worldwidestew.com/tags/history/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Remembrance</title>
-      <link>https://worldwidestew.com/tags/remembrance/</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/remembrance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Articles</title>
-      <link>https://worldwidestew.com/tags/articles/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Help</title>
-      <link>https://worldwidestew.com/tags/help/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/help/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Podcast</title>
-      <link>https://worldwidestew.com/tags/podcast/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reading</title>
-      <link>https://worldwidestew.com/tags/reading/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://worldwidestew.com/tags/research/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://worldwidestew.com/tags/resources/</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Counseling</title>
-      <link>https://worldwidestew.com/tags/counseling/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/counseling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Therapy</title>
-      <link>https://worldwidestew.com/tags/therapy/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/therapy/</guid>
+      <title>Attention</title>
+      <link>http://localhost:1313/tags/attention/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/attention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Attentiveness</title>
-      <link>https://worldwidestew.com/tags/attentiveness/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/attentiveness/</guid>
+      <link>http://localhost:1313/tags/attentiveness/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/attentiveness/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Flourishing</title>
-      <link>https://worldwidestew.com/tags/flourishing/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/flourishing/</guid>
+      <title>Courage</title>
+      <link>http://localhost:1313/tags/courage/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/courage/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Meaning</title>
-      <link>https://worldwidestew.com/tags/meaning/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/meaning/</guid>
+      <title>Focus</title>
+      <link>http://localhost:1313/tags/focus/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/focus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspiration</title>
+      <link>http://localhost:1313/tags/inspiration/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judgment</title>
+      <link>http://localhost:1313/tags/judgment/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/judgment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meditation</title>
+      <link>http://localhost:1313/tags/meditation/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindfulness</title>
+      <link>http://localhost:1313/tags/mindfulness/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/mindfulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Growth</title>
+      <link>http://localhost:1313/tags/personal-growth/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/personal-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasons</title>
+      <link>http://localhost:1313/tags/seasons/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/seasons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasons of Life</title>
+      <link>http://localhost:1313/tags/seasons-of-life/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/seasons-of-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Reflection</title>
+      <link>http://localhost:1313/tags/self-reflection/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/self-reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tai Chi</title>
+      <link>http://localhost:1313/tags/tai-chi/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/tai-chi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time</title>
-      <link>https://worldwidestew.com/tags/time/</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/time/</guid>
+      <link>http://localhost:1313/tags/time/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/time/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Advice</title>
-      <link>https://worldwidestew.com/tags/advice/</link>
-      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/advice/</guid>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Communication</title>
-      <link>https://worldwidestew.com/tags/communication/</link>
-      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/communication/</guid>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Aging</title>
-      <link>https://worldwidestew.com/tags/aging/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/aging/</guid>
+      <title>Classes</title>
+      <link>http://localhost:1313/tags/classes/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/classes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Benefits</title>
-      <link>https://worldwidestew.com/tags/benefits/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/benefits/</guid>
+      <title>Computing</title>
+      <link>http://localhost:1313/tags/computing/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/computing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Clarity</title>
-      <link>https://worldwidestew.com/tags/clarity/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/clarity/</guid>
+      <title>Education</title>
+      <link>http://localhost:1313/tags/education/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Healing</title>
-      <link>https://worldwidestew.com/tags/healing/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/healing/</guid>
+      <title>Events</title>
+      <link>http://localhost:1313/tags/events/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/events/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Relief</title>
-      <link>https://worldwidestew.com/tags/relief/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/relief/</guid>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Understanding</title>
-      <link>https://worldwidestew.com/tags/understanding/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/understanding/</guid>
+      <title>Positive Psychology</title>
+      <link>http://localhost:1313/tags/positive-psychology/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/positive-psychology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Awe</title>
-      <link>https://worldwidestew.com/tags/awe/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/awe/</guid>
+      <title>Workshop</title>
+      <link>http://localhost:1313/tags/workshop/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/workshop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quality</title>
-      <link>https://worldwidestew.com/tags/quality/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/quality/</guid>
+      <title>Action</title>
+      <link>http://localhost:1313/tags/action/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/action/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Usefulness</title>
-      <link>https://worldwidestew.com/tags/usefulness/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/usefulness/</guid>
+      <title>Animals</title>
+      <link>http://localhost:1313/tags/animals/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/animals/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Buffer</title>
-      <link>https://worldwidestew.com/tags/buffer/</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/buffer/</guid>
+      <title>Canine</title>
+      <link>http://localhost:1313/tags/canine/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/canine/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gaps</title>
-      <link>https://worldwidestew.com/tags/gaps/</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/gaps/</guid>
+      <title>Complexity</title>
+      <link>http://localhost:1313/tags/complexity/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/complexity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Margins</title>
-      <link>https://worldwidestew.com/tags/margins/</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/margins/</guid>
+      <title>Connection</title>
+      <link>http://localhost:1313/tags/connection/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/connection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Labor</title>
-      <link>https://worldwidestew.com/tags/labor/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/labor/</guid>
+      <title>Dog</title>
+      <link>http://localhost:1313/tags/dog/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/dog/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shortcuts</title>
-      <link>https://worldwidestew.com/tags/shortcuts/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/shortcuts/</guid>
+      <title>Gentleness</title>
+      <link>http://localhost:1313/tags/gentleness/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/gentleness/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Culture</title>
-      <link>https://worldwidestew.com/tags/culture/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/culture/</guid>
+      <title>Poetry</title>
+      <link>http://localhost:1313/tags/poetry/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/poetry/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Organizations</title>
-      <link>https://worldwidestew.com/tags/organizations/</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/organizations/</guid>
+      <title>Relationship</title>
+      <link>http://localhost:1313/tags/relationship/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/relationship/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Positivity</title>
-      <link>https://worldwidestew.com/tags/positivity/</link>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/positivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quote</title>
-      <link>https://worldwidestew.com/tags/quote/</link>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/quote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recipe</title>
-      <link>https://worldwidestew.com/tags/recipe/</link>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/recipe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yogurt</title>
-      <link>https://worldwidestew.com/tags/yogurt/</link>
-      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/yogurt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Accomplishment</title>
-      <link>https://worldwidestew.com/tags/accomplishment/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/accomplishment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Priorities</title>
-      <link>https://worldwidestew.com/tags/priorities/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/priorities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Success</title>
-      <link>https://worldwidestew.com/tags/success/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/success/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creativity</title>
-      <link>https://worldwidestew.com/tags/creativity/</link>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/creativity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Surprise</title>
-      <link>https://worldwidestew.com/tags/surprise/</link>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/surprise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Terror</title>
-      <link>https://worldwidestew.com/tags/terror/</link>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/terror/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unexpected</title>
-      <link>https://worldwidestew.com/tags/unexpected/</link>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/unexpected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wonder</title>
-      <link>https://worldwidestew.com/tags/wonder/</link>
-      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/wonder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Racism</title>
-      <link>https://worldwidestew.com/tags/racism/</link>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/racism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthcare</title>
-      <link>https://worldwidestew.com/tags/healthcare/</link>
-      <pubDate>Thu, 13 Jun 2024 09:10:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/healthcare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Honesty</title>
-      <link>https://worldwidestew.com/tags/honesty/</link>
-      <pubDate>Thu, 13 Jun 2024 09:10:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/honesty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prosperity</title>
-      <link>https://worldwidestew.com/tags/prosperity/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/prosperity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Waste</title>
-      <link>https://worldwidestew.com/tags/waste/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/waste/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anxiety</title>
-      <link>https://worldwidestew.com/tags/anxiety/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/anxiety/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crisis</title>
-      <link>https://worldwidestew.com/tags/crisis/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/crisis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Depression</title>
-      <link>https://worldwidestew.com/tags/depression/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/depression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Risk</title>
-      <link>https://worldwidestew.com/tags/risk/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/risk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suicide</title>
-      <link>https://worldwidestew.com/tags/suicide/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/suicide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suicide Crisis Syndrome</title>
-      <link>https://worldwidestew.com/tags/suicide-crisis-syndrome/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/suicide-crisis-syndrome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syndrome</title>
-      <link>https://worldwidestew.com/tags/syndrome/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/syndrome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hospitals</title>
-      <link>https://worldwidestew.com/tags/hospitals/</link>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/hospitals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vacation</title>
-      <link>https://worldwidestew.com/tags/vacation/</link>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/vacation/</guid>
+      <title>Simplicity</title>
+      <link>http://localhost:1313/tags/simplicity/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/simplicity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Death</title>
-      <link>https://worldwidestew.com/tags/death/</link>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/death/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Funeral</title>
-      <link>https://worldwidestew.com/tags/funeral/</link>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/funeral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seminar</title>
-      <link>https://worldwidestew.com/tags/seminar/</link>
-      <pubDate>Wed, 20 Mar 2024 18:02:30 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/seminar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Private Equity</title>
-      <link>https://worldwidestew.com/tags/private-equity/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/private-equity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smartphones</title>
-      <link>https://worldwidestew.com/tags/smartphones/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/smartphones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calling</title>
-      <link>https://worldwidestew.com/tags/calling/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/calling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chores</title>
-      <link>https://worldwidestew.com/tags/chores/</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/chores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Acute Pain</title>
-      <link>https://worldwidestew.com/tags/acute-pain/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/acute-pain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Apple</title>
-      <link>https://worldwidestew.com/tags/apple/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/apple/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chaplains</title>
-      <link>https://worldwidestew.com/tags/chaplains/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/chaplains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Children</title>
-      <link>https://worldwidestew.com/tags/children/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/children/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disease</title>
-      <link>https://worldwidestew.com/tags/disease/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/disease/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generations</title>
-      <link>https://worldwidestew.com/tags/generations/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/generations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Illness</title>
-      <link>https://worldwidestew.com/tags/illness/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/illness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IOS</title>
-      <link>https://worldwidestew.com/tags/ios/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nursing</title>
-      <link>https://worldwidestew.com/tags/nursing/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/nursing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plastics</title>
-      <link>https://worldwidestew.com/tags/plastics/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/plastics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>https://worldwidestew.com/tags/travel/</link>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Chaplains”</title>
-      <link>https://worldwidestew.com/tags/chaplains/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/chaplains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Coffins”</title>
-      <link>https://worldwidestew.com/tags/coffins/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/coffins/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Counselors”</title>
-      <link>https://worldwidestew.com/tags/counselors/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/counselors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Ethical Behavior”</title>
-      <link>https://worldwidestew.com/tags/ethical-behavior/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ethical-behavior/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Psychiatry”</title>
-      <link>https://worldwidestew.com/tags/psychiatry/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/psychiatry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Texas”</title>
-      <link>https://worldwidestew.com/tags/texas/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/texas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Ubuntu”</title>
-      <link>https://worldwidestew.com/tags/ubuntu/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Doubt</title>
-      <link>https://worldwidestew.com/tags/doubt/</link>
-      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/doubt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Notifications</title>
-      <link>https://worldwidestew.com/tags/notifications/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/notifications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Religious Right</title>
-      <link>https://worldwidestew.com/tags/religious-right/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/religious-right/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theocracy</title>
-      <link>https://worldwidestew.com/tags/theocracy/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/theocracy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Totalitarianism</title>
-      <link>https://worldwidestew.com/tags/totalitarianism/</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/totalitarianism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kefir-Water</title>
-      <link>https://worldwidestew.com/tags/kefir-water/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/kefir-water/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obesity</title>
-      <link>https://worldwidestew.com/tags/obesity/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/obesity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Criticism</title>
-      <link>https://worldwidestew.com/tags/self-criticism/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/self-criticism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weight</title>
-      <link>https://worldwidestew.com/tags/weight/</link>
-      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/weight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Embarassment</title>
-      <link>https://worldwidestew.com/tags/embarassment/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/embarassment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Odor</title>
-      <link>https://worldwidestew.com/tags/odor/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/odor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sensation</title>
-      <link>https://worldwidestew.com/tags/sensation/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/sensation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detransitioners</title>
-      <link>https://worldwidestew.com/tags/detransitioners/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/detransitioners/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workplace Wellness</title>
-      <link>https://worldwidestew.com/tags/workplace-wellness/</link>
-      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/workplace-wellness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COVID</title>
-      <link>https://worldwidestew.com/tags/covid/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flu</title>
-      <link>https://worldwidestew.com/tags/flu/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/flu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influenza</title>
-      <link>https://worldwidestew.com/tags/influenza/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/influenza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pandemic</title>
-      <link>https://worldwidestew.com/tags/pandemic/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/pandemic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Five</title>
-      <link>https://worldwidestew.com/tags/big-five/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/big-five/</guid>
+      <link>http://localhost:1313/tags/death/</link>
+      <pubDate>Wed, 15 Apr 2026 21:51:59 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/death/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dying</title>
-      <link>https://worldwidestew.com/tags/dying/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/dying/</guid>
+      <link>http://localhost:1313/tags/dying/</link>
+      <pubDate>Wed, 15 Apr 2026 21:51:59 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/dying/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hexaco</title>
-      <link>https://worldwidestew.com/tags/hexaco/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/hexaco/</guid>
+      <title>Grief</title>
+      <link>http://localhost:1313/tags/grief/</link>
+      <pubDate>Wed, 15 Apr 2026 21:51:59 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/grief/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Personality</title>
-      <link>https://worldwidestew.com/tags/personality/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/personality/</guid>
+      <title>Life Review</title>
+      <link>http://localhost:1313/tags/life-review/</link>
+      <pubDate>Wed, 15 Apr 2026 21:51:59 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/life-review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Personality Assessment</title>
-      <link>https://worldwidestew.com/tags/personality-assessment/</link>
-      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/personality-assessment/</guid>
+      <title>Sorrow</title>
+      <link>http://localhost:1313/tags/sorrow/</link>
+      <pubDate>Wed, 15 Apr 2026 21:51:59 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/sorrow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Animal Sentience</title>
-      <link>https://worldwidestew.com/tags/animal-sentience/</link>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/animal-sentience/</guid>
+      <title>Consciousness</title>
+      <link>http://localhost:1313/tags/consciousness/</link>
+      <pubDate>Tue, 31 Mar 2026 13:26:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/consciousness/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FODMAP</title>
-      <link>https://worldwidestew.com/tags/fodmap/</link>
-      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/fodmap/</guid>
+      <title>Distraction</title>
+      <link>http://localhost:1313/tags/distraction/</link>
+      <pubDate>Tue, 31 Mar 2026 13:26:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/distraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Email</title>
+      <link>http://localhost:1313/tags/email/</link>
+      <pubDate>Tue, 31 Mar 2026 13:26:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/email/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inbox</title>
+      <link>http://localhost:1313/tags/inbox/</link>
+      <pubDate>Tue, 31 Mar 2026 13:26:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/inbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>http://localhost:1313/tags/politics/</link>
+      <pubDate>Tue, 31 Mar 2026 13:26:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychology</title>
+      <link>http://localhost:1313/tags/psychology/</link>
+      <pubDate>Sun, 15 Mar 2026 02:14:23 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Awareness</title>
+      <link>http://localhost:1313/tags/self-awareness/</link>
+      <pubDate>Sun, 15 Mar 2026 02:14:23 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/self-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wisdom</title>
+      <link>http://localhost:1313/tags/wisdom/</link>
+      <pubDate>Sun, 15 Mar 2026 02:14:23 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/wisdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging</title>
+      <link>http://localhost:1313/tags/aging/</link>
+      <pubDate>Thu, 12 Mar 2026 22:49:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/aging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birthday</title>
+      <link>http://localhost:1313/tags/birthday/</link>
+      <pubDate>Thu, 12 Mar 2026 22:49:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/birthday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elders</title>
+      <link>http://localhost:1313/tags/elders/</link>
+      <pubDate>Thu, 12 Mar 2026 22:49:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/elders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mortality</title>
+      <link>http://localhost:1313/tags/mortality/</link>
+      <pubDate>Thu, 12 Mar 2026 22:49:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindfulness Meditation</title>
+      <link>http://localhost:1313/tags/mindfulness-meditation/</link>
+      <pubDate>Fri, 06 Mar 2026 23:52:46 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/mindfulness-meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practice</title>
+      <link>http://localhost:1313/tags/practice/</link>
+      <pubDate>Fri, 06 Mar 2026 23:52:46 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/practice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>http://localhost:1313/tags/science/</link>
+      <pubDate>Thu, 05 Mar 2026 16:32:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Existential Perspective</title>
+      <link>http://localhost:1313/tags/existential-perspective/</link>
+      <pubDate>Wed, 04 Feb 2026 12:42:28 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/existential-perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specialness</title>
+      <link>http://localhost:1313/tags/specialness/</link>
+      <pubDate>Wed, 04 Feb 2026 12:42:28 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/specialness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:1313/tags/healthcare/</link>
+      <pubDate>Sun, 01 Feb 2026 13:33:19 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patients</title>
+      <link>http://localhost:1313/tags/patients/</link>
+      <pubDate>Sun, 01 Feb 2026 13:33:19 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/patients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight</title>
+      <link>http://localhost:1313/tags/flight/</link>
+      <pubDate>Thu, 15 Jan 2026 02:12:20 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/flight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>https://worldwidestew.com/tags/nature/</link>
+      <link>http://localhost:1313/tags/nature/</link>
+      <pubDate>Thu, 15 Jan 2026 02:12:20 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poem</title>
+      <link>http://localhost:1313/tags/poem/</link>
+      <pubDate>Thu, 15 Jan 2026 02:12:20 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change</title>
+      <link>http://localhost:1313/tags/change/</link>
+      <pubDate>Mon, 12 Jan 2026 13:17:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deficit</title>
+      <link>http://localhost:1313/tags/deficit/</link>
+      <pubDate>Mon, 12 Jan 2026 13:17:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/deficit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hungry Ghost</title>
+      <link>http://localhost:1313/tags/hungry-ghost/</link>
+      <pubDate>Mon, 12 Jan 2026 13:17:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/hungry-ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>http://localhost:1313/tags/podcast/</link>
+      <pubDate>Mon, 12 Jan 2026 13:17:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolutions</title>
+      <link>http://localhost:1313/tags/resolutions/</link>
+      <pubDate>Mon, 12 Jan 2026 13:17:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/resolutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clarity</title>
+      <link>http://localhost:1313/tags/clarity/</link>
+      <pubDate>Thu, 08 Jan 2026 21:20:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/clarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://localhost:1313/tags/communication/</link>
+      <pubDate>Thu, 08 Jan 2026 21:20:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/tags/health/</link>
+      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movement</title>
+      <link>http://localhost:1313/tags/movement/</link>
+      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commercialism</title>
+      <link>http://localhost:1313/tags/commercialism/</link>
+      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/commercialism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deodorant</title>
+      <link>http://localhost:1313/tags/deodorant/</link>
+      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/deodorant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inadequacy</title>
+      <link>http://localhost:1313/tags/inadequacy/</link>
+      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/inadequacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shame</title>
+      <link>http://localhost:1313/tags/shame/</link>
+      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/shame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smell</title>
+      <link>http://localhost:1313/tags/smell/</link>
+      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/smell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Addiction</title>
+      <link>http://localhost:1313/tags/addiction/</link>
+      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/addiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buddhism</title>
+      <link>http://localhost:1313/tags/buddhism/</link>
+      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/buddhism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Purpose</title>
+      <link>http://localhost:1313/tags/purpose/</link>
+      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/purpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resolution</title>
+      <link>http://localhost:1313/tags/resolution/</link>
+      <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inventiveness</title>
+      <link>http://localhost:1313/tags/inventiveness/</link>
+      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/inventiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistance</title>
+      <link>http://localhost:1313/tags/resistance/</link>
+      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/resistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resourcefulness</title>
+      <link>http://localhost:1313/tags/resourcefulness/</link>
+      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/resourcefulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Body</title>
+      <link>http://localhost:1313/tags/body/</link>
+      <pubDate>Thu, 18 Dec 2025 16:55:45 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/body/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Care</title>
+      <link>http://localhost:1313/tags/self-care/</link>
+      <pubDate>Thu, 18 Dec 2025 16:55:45 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/self-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Compassion</title>
+      <link>http://localhost:1313/tags/self-compassion/</link>
+      <pubDate>Thu, 18 Dec 2025 16:55:45 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/self-compassion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundaries</title>
+      <link>http://localhost:1313/tags/boundaries/</link>
+      <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/boundaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength</title>
+      <link>http://localhost:1313/tags/strength/</link>
+      <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/strength/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presence</title>
+      <link>http://localhost:1313/tags/presence/</link>
+      <pubDate>Tue, 25 Nov 2025 17:28:57 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/presence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silence</title>
+      <link>http://localhost:1313/tags/silence/</link>
+      <pubDate>Tue, 25 Nov 2025 17:28:57 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/silence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awareness</title>
+      <link>http://localhost:1313/tags/awareness/</link>
+      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ego</title>
+      <link>http://localhost:1313/tags/ego/</link>
+      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Einstein</title>
+      <link>http://localhost:1313/tags/einstein/</link>
+      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/einstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional Intelligence</title>
+      <link>http://localhost:1313/tags/emotional-intelligence/</link>
+      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/emotional-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Waves</title>
+      <link>http://localhost:1313/tags/gravitational-waves/</link>
+      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/gravitational-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health</title>
+      <link>http://localhost:1313/tags/mental-health/</link>
+      <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/tags/collaboration/</link>
+      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cooperation</title>
+      <link>http://localhost:1313/tags/cooperation/</link>
+      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/cooperation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guardrail</title>
+      <link>http://localhost:1313/tags/guardrail/</link>
+      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/guardrail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety</title>
+      <link>http://localhost:1313/tags/safety/</link>
+      <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>http://localhost:1313/tags/art/</link>
+      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beauty</title>
+      <link>http://localhost:1313/tags/beauty/</link>
+      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/beauty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision</title>
+      <link>http://localhost:1313/tags/precision/</link>
+      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/precision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vocabulary</title>
+      <link>http://localhost:1313/tags/vocabulary/</link>
+      <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/vocabulary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>http://localhost:1313/tags/space/</link>
+      <pubDate>Fri, 05 Sep 2025 21:37:50 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telescope</title>
+      <link>http://localhost:1313/tags/telescope/</link>
+      <pubDate>Fri, 05 Sep 2025 21:37:50 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/telescope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark Matter</title>
+      <link>http://localhost:1313/tags/dark-matter/</link>
+      <pubDate>Wed, 03 Sep 2025 20:43:20 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/dark-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compassion Meditation</title>
+      <link>http://localhost:1313/tags/compassion-meditation/</link>
+      <pubDate>Sat, 23 Aug 2025 19:14:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/compassion-meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kindness</title>
+      <link>http://localhost:1313/tags/kindness/</link>
+      <pubDate>Sat, 23 Aug 2025 19:14:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/kindness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lovingkindness</title>
+      <link>http://localhost:1313/tags/lovingkindness/</link>
+      <pubDate>Sat, 23 Aug 2025 19:14:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/lovingkindness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motor Neuron</title>
+      <link>http://localhost:1313/tags/motor-neuron/</link>
+      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/motor-neuron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parkinsons</title>
+      <link>http://localhost:1313/tags/parkinsons/</link>
+      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/parkinsons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Acceptance</title>
+      <link>http://localhost:1313/tags/self-acceptance/</link>
+      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/self-acceptance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>http://localhost:1313/tags/support/</link>
+      <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relatonships</title>
+      <link>http://localhost:1313/tags/relatonships/</link>
+      <pubDate>Sun, 20 Jul 2025 12:41:29 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/relatonships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociality</title>
+      <link>http://localhost:1313/tags/sociality/</link>
+      <pubDate>Sun, 20 Jul 2025 12:41:29 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/sociality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>http://localhost:1313/tags/family/</link>
+      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gratitude</title>
+      <link>http://localhost:1313/tags/gratitude/</link>
+      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/gratitude/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joy</title>
+      <link>http://localhost:1313/tags/joy/</link>
+      <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/joy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependence</title>
+      <link>http://localhost:1313/tags/dependence/</link>
+      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/dependence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Independence</title>
+      <link>http://localhost:1313/tags/independence/</link>
+      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/independence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status</title>
+      <link>http://localhost:1313/tags/status/</link>
+      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value</title>
+      <link>http://localhost:1313/tags/value/</link>
+      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/value/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wealth</title>
+      <link>http://localhost:1313/tags/wealth/</link>
+      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/wealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Worth</title>
+      <link>http://localhost:1313/tags/worth/</link>
+      <pubDate>Thu, 03 Jul 2025 02:16:15 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/worth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coping</title>
+      <link>http://localhost:1313/tags/coping/</link>
+      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/coping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disagreement</title>
+      <link>http://localhost:1313/tags/disagreement/</link>
+      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/disagreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://localhost:1313/tags/people/</link>
+      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationships</title>
+      <link>http://localhost:1313/tags/relationships/</link>
+      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/relationships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strife</title>
+      <link>http://localhost:1313/tags/strife/</link>
+      <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/strife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoritarianism</title>
+      <link>http://localhost:1313/tags/authoritarianism/</link>
+      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/authoritarianism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compassion</title>
+      <link>http://localhost:1313/tags/compassion/</link>
+      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/compassion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fascism</title>
+      <link>http://localhost:1313/tags/fascism/</link>
+      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/fascism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freedom</title>
+      <link>http://localhost:1313/tags/freedom/</link>
+      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/freedom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liberty</title>
+      <link>http://localhost:1313/tags/liberty/</link>
+      <pubDate>Sat, 14 Jun 2025 17:56:35 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/liberty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authoritarian</title>
+      <link>http://localhost:1313/tags/authoritarian/</link>
+      <pubDate>Thu, 12 Jun 2025 00:54:53 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/authoritarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dictatorship</title>
+      <link>http://localhost:1313/tags/dictatorship/</link>
+      <pubDate>Thu, 12 Jun 2025 00:54:53 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/dictatorship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>http://localhost:1313/tags/service/</link>
+      <pubDate>Thu, 12 Jun 2025 00:54:53 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>http://localhost:1313/tags/community/</link>
+      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democracy</title>
+      <link>http://localhost:1313/tags/democracy/</link>
+      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/democracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>http://localhost:1313/tags/media/</link>
+      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public</title>
+      <link>http://localhost:1313/tags/public/</link>
+      <pubDate>Wed, 11 Jun 2025 01:48:45 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/public/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beliefs</title>
+      <link>http://localhost:1313/tags/beliefs/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/beliefs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution</title>
+      <link>http://localhost:1313/tags/evolution/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faith</title>
+      <link>http://localhost:1313/tags/faith/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/faith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Falsifiability</title>
+      <link>http://localhost:1313/tags/falsifiability/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/falsifiability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Falsifiable</title>
+      <link>http://localhost:1313/tags/falsifiable/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/falsifiable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ideology</title>
+      <link>http://localhost:1313/tags/ideology/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ideology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sexuality</title>
+      <link>http://localhost:1313/tags/sexuality/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/sexuality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spirituality</title>
+      <link>http://localhost:1313/tags/spirituality/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/spirituality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Truth</title>
+      <link>http://localhost:1313/tags/truth/</link>
+      <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/truth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethical Behavior</title>
+      <link>http://localhost:1313/tags/ethical-behavior/</link>
+      <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ethical-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>http://localhost:1313/tags/ethics/</link>
+      <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Government</title>
+      <link>http://localhost:1313/tags/government/</link>
+      <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/government/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society</title>
+      <link>http://localhost:1313/tags/society/</link>
+      <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character</title>
+      <link>http://localhost:1313/tags/character/</link>
+      <pubDate>Mon, 28 Apr 2025 02:24:39 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/character/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>http://localhost:1313/tags/economy/</link>
+      <pubDate>Mon, 28 Apr 2025 02:24:39 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust</title>
+      <link>http://localhost:1313/tags/trust/</link>
+      <pubDate>Mon, 28 Apr 2025 02:24:39 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Bias</title>
+      <link>http://localhost:1313/tags/action-bias/</link>
+      <pubDate>Fri, 25 Apr 2025 01:05:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/action-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithms</title>
+      <link>http://localhost:1313/tags/algorithms/</link>
+      <pubDate>Fri, 25 Apr 2025 01:05:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias</title>
+      <link>http://localhost:1313/tags/bias/</link>
+      <pubDate>Fri, 25 Apr 2025 01:05:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Care</title>
+      <link>http://localhost:1313/tags/care/</link>
+      <pubDate>Wed, 02 Apr 2025 19:22:49 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helping</title>
+      <link>http://localhost:1313/tags/helping/</link>
+      <pubDate>Wed, 02 Apr 2025 19:22:49 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/helping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>http://localhost:1313/tags/questions/</link>
+      <pubDate>Wed, 02 Apr 2025 19:22:49 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conscientious</title>
+      <link>http://localhost:1313/tags/conscientious/</link>
+      <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/conscientious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dedication</title>
+      <link>http://localhost:1313/tags/dedication/</link>
+      <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/dedication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Values</title>
+      <link>http://localhost:1313/tags/values/</link>
+      <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/values/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1313/tags/work/</link>
+      <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaplain</title>
+      <link>http://localhost:1313/tags/chaplain/</link>
+      <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/chaplain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaplaincy</title>
+      <link>http://localhost:1313/tags/chaplaincy/</link>
+      <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/chaplaincy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>http://localhost:1313/tags/religion/</link>
+      <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthropology</title>
+      <link>http://localhost:1313/tags/anthropology/</link>
+      <pubDate>Sat, 22 Feb 2025 01:37:50 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/anthropology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citizenship</title>
+      <link>http://localhost:1313/tags/citizenship/</link>
+      <pubDate>Fri, 14 Feb 2025 22:18:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/citizenship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obedience</title>
+      <link>http://localhost:1313/tags/obedience/</link>
+      <pubDate>Fri, 14 Feb 2025 22:18:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/obedience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Responsibility</title>
+      <link>http://localhost:1313/tags/responsibility/</link>
+      <pubDate>Fri, 14 Feb 2025 22:18:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/responsibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peace</title>
+      <link>http://localhost:1313/tags/peace/</link>
+      <pubDate>Tue, 04 Feb 2025 22:18:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/peace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tribalism</title>
+      <link>http://localhost:1313/tags/tribalism/</link>
+      <pubDate>Tue, 04 Feb 2025 22:18:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/tribalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humanism</title>
+      <link>http://localhost:1313/tags/humanism/</link>
+      <pubDate>Sun, 02 Feb 2025 03:28:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/humanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Love</title>
+      <link>http://localhost:1313/tags/love/</link>
+      <pubDate>Sun, 02 Feb 2025 03:28:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://localhost:1313/tags/home/</link>
+      <pubDate>Wed, 29 Jan 2025 00:23:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Respect</title>
+      <link>http://localhost:1313/tags/respect/</link>
+      <pubDate>Wed, 29 Jan 2025 00:23:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/respect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discipline</title>
+      <link>http://localhost:1313/tags/discipline/</link>
+      <pubDate>Wed, 22 Jan 2025 22:29:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/discipline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Control</title>
+      <link>http://localhost:1313/tags/self-control/</link>
+      <pubDate>Wed, 22 Jan 2025 22:29:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/self-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patience</title>
+      <link>http://localhost:1313/tags/patience/</link>
+      <pubDate>Mon, 20 Jan 2025 21:21:32 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/patience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polarization</title>
+      <link>http://localhost:1313/tags/polarization/</link>
+      <pubDate>Mon, 20 Jan 2025 21:21:32 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/polarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tolerance</title>
+      <link>http://localhost:1313/tags/tolerance/</link>
+      <pubDate>Mon, 20 Jan 2025 21:21:32 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/tolerance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effort</title>
+      <link>http://localhost:1313/tags/effort/</link>
+      <pubDate>Fri, 17 Jan 2025 21:41:46 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/effort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience</title>
+      <link>http://localhost:1313/tags/resilience/</link>
+      <pubDate>Fri, 17 Jan 2025 21:41:46 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Mindfulness”</title>
+      <link>http://localhost:1313/tags/mindfulness/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/mindfulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belief</title>
+      <link>http://localhost:1313/tags/belief/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/belief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment</title>
+      <link>http://localhost:1313/tags/environment/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loss</title>
+      <link>http://localhost:1313/tags/loss/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suffering</title>
+      <link>http://localhost:1313/tags/suffering/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/suffering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Creation</title>
+      <link>http://localhost:1313/tags/co-creation/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/co-creation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentic</title>
+      <link>http://localhost:1313/tags/authentic/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/authentic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cynicism</title>
+      <link>http://localhost:1313/tags/cynicism/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/cynicism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual</title>
+      <link>http://localhost:1313/tags/individual/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/individual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/tags/personal/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Battle</title>
+      <link>http://localhost:1313/tags/battle/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/battle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miltary</title>
+      <link>http://localhost:1313/tags/miltary/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/miltary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>War</title>
+      <link>http://localhost:1313/tags/war/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceit</title>
+      <link>http://localhost:1313/tags/conceit/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/conceit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individualism</title>
+      <link>http://localhost:1313/tags/individualism/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/individualism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holy War</title>
+      <link>http://localhost:1313/tags/holy-war/</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/holy-war/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>”Ease&#34;</title>
+      <link>http://localhost:1313/tags/ease/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comfort</title>
+      <link>http://localhost:1313/tags/comfort/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/comfort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>http://localhost:1313/tags/leadership/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pain</title>
+      <link>http://localhost:1313/tags/pain/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Adversity”</title>
+      <link>http://localhost:1313/tags/adversity/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/adversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Belief”</title>
+      <link>http://localhost:1313/tags/belief/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/belief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Certainty</title>
+      <link>http://localhost:1313/tags/certainty/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/certainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Relationship”</title>
+      <link>http://localhost:1313/tags/relationship/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/relationship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dogs</title>
+      <link>http://localhost:1313/tags/dogs/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/dogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debates</title>
+      <link>http://localhost:1313/tags/debates/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/debates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remembrance</title>
+      <link>http://localhost:1313/tags/remembrance/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/remembrance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/tags/articles/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Help</title>
+      <link>http://localhost:1313/tags/help/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>http://localhost:1313/tags/reading/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/tags/resources/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Counseling</title>
+      <link>http://localhost:1313/tags/counseling/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/counseling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Therapy</title>
+      <link>http://localhost:1313/tags/therapy/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/therapy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flourishing</title>
+      <link>http://localhost:1313/tags/flourishing/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/flourishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaning</title>
+      <link>http://localhost:1313/tags/meaning/</link>
+      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/meaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice</title>
+      <link>http://localhost:1313/tags/advice/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/advice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits</title>
+      <link>http://localhost:1313/tags/benefits/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/benefits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healing</title>
+      <link>http://localhost:1313/tags/healing/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/healing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relief</title>
+      <link>http://localhost:1313/tags/relief/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/relief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding</title>
+      <link>http://localhost:1313/tags/understanding/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awe</title>
+      <link>http://localhost:1313/tags/awe/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/awe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>http://localhost:1313/tags/quality/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usefulness</title>
+      <link>http://localhost:1313/tags/usefulness/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/usefulness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffer</title>
+      <link>http://localhost:1313/tags/buffer/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/buffer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaps</title>
+      <link>http://localhost:1313/tags/gaps/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/gaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margins</title>
+      <link>http://localhost:1313/tags/margins/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/margins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor</title>
+      <link>http://localhost:1313/tags/labor/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/labor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcuts</title>
+      <link>http://localhost:1313/tags/shortcuts/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/shortcuts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/tags/culture/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizations</title>
+      <link>http://localhost:1313/tags/organizations/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/organizations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Positivity</title>
+      <link>http://localhost:1313/tags/positivity/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/positivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quote</title>
+      <link>http://localhost:1313/tags/quote/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/quote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recipe</title>
+      <link>http://localhost:1313/tags/recipe/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/recipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yogurt</title>
+      <link>http://localhost:1313/tags/yogurt/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/yogurt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplishment</title>
+      <link>http://localhost:1313/tags/accomplishment/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/accomplishment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priorities</title>
+      <link>http://localhost:1313/tags/priorities/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/priorities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Success</title>
+      <link>http://localhost:1313/tags/success/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/success/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creativity</title>
+      <link>http://localhost:1313/tags/creativity/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/creativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surprise</title>
+      <link>http://localhost:1313/tags/surprise/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/surprise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terror</title>
+      <link>http://localhost:1313/tags/terror/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/terror/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unexpected</title>
+      <link>http://localhost:1313/tags/unexpected/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/unexpected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wonder</title>
+      <link>http://localhost:1313/tags/wonder/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/wonder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racism</title>
+      <link>http://localhost:1313/tags/racism/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/racism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honesty</title>
+      <link>http://localhost:1313/tags/honesty/</link>
+      <pubDate>Thu, 13 Jun 2024 09:10:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/honesty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prosperity</title>
+      <link>http://localhost:1313/tags/prosperity/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/prosperity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waste</title>
+      <link>http://localhost:1313/tags/waste/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/waste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anxiety</title>
+      <link>http://localhost:1313/tags/anxiety/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crisis</title>
+      <link>http://localhost:1313/tags/crisis/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression</title>
+      <link>http://localhost:1313/tags/depression/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>http://localhost:1313/tags/risk/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suicide</title>
+      <link>http://localhost:1313/tags/suicide/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/suicide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suicide Crisis Syndrome</title>
+      <link>http://localhost:1313/tags/suicide-crisis-syndrome/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/suicide-crisis-syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syndrome</title>
+      <link>http://localhost:1313/tags/syndrome/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/syndrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hospitals</title>
+      <link>http://localhost:1313/tags/hospitals/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/hospitals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vacation</title>
+      <link>http://localhost:1313/tags/vacation/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/vacation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funeral</title>
+      <link>http://localhost:1313/tags/funeral/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/funeral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Equity</title>
+      <link>http://localhost:1313/tags/private-equity/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/private-equity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartphones</title>
+      <link>http://localhost:1313/tags/smartphones/</link>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/smartphones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calling</title>
+      <link>http://localhost:1313/tags/calling/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/calling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chores</title>
+      <link>http://localhost:1313/tags/chores/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/chores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acute Pain</title>
+      <link>http://localhost:1313/tags/acute-pain/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/acute-pain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>http://localhost:1313/tags/apple/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaplains</title>
+      <link>http://localhost:1313/tags/chaplains/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/chaplains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children</title>
+      <link>http://localhost:1313/tags/children/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disease</title>
+      <link>http://localhost:1313/tags/disease/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/disease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generations</title>
+      <link>http://localhost:1313/tags/generations/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/generations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illness</title>
+      <link>http://localhost:1313/tags/illness/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/illness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IOS</title>
+      <link>http://localhost:1313/tags/ios/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nursing</title>
+      <link>http://localhost:1313/tags/nursing/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/nursing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plastics</title>
+      <link>http://localhost:1313/tags/plastics/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/plastics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/tags/travel/</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Chaplains”</title>
+      <link>http://localhost:1313/tags/chaplains/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/chaplains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Coffins”</title>
+      <link>http://localhost:1313/tags/coffins/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/coffins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Counselors”</title>
+      <link>http://localhost:1313/tags/counselors/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/counselors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Ethical Behavior”</title>
+      <link>http://localhost:1313/tags/ethical-behavior/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ethical-behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Psychiatry”</title>
+      <link>http://localhost:1313/tags/psychiatry/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/psychiatry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Texas”</title>
+      <link>http://localhost:1313/tags/texas/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/texas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Ubuntu”</title>
+      <link>http://localhost:1313/tags/ubuntu/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doubt</title>
+      <link>http://localhost:1313/tags/doubt/</link>
+      <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/doubt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notifications</title>
+      <link>http://localhost:1313/tags/notifications/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/notifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religious Right</title>
+      <link>http://localhost:1313/tags/religious-right/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/religious-right/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theocracy</title>
+      <link>http://localhost:1313/tags/theocracy/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/theocracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Totalitarianism</title>
+      <link>http://localhost:1313/tags/totalitarianism/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/totalitarianism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kefir-Water</title>
+      <link>http://localhost:1313/tags/kefir-water/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/kefir-water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obesity</title>
+      <link>http://localhost:1313/tags/obesity/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/obesity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Criticism</title>
+      <link>http://localhost:1313/tags/self-criticism/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/self-criticism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weight</title>
+      <link>http://localhost:1313/tags/weight/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/weight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embarassment</title>
+      <link>http://localhost:1313/tags/embarassment/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/embarassment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odor</title>
+      <link>http://localhost:1313/tags/odor/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/odor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensation</title>
+      <link>http://localhost:1313/tags/sensation/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/sensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detransitioners</title>
+      <link>http://localhost:1313/tags/detransitioners/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/detransitioners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workplace Wellness</title>
+      <link>http://localhost:1313/tags/workplace-wellness/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/workplace-wellness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID</title>
+      <link>http://localhost:1313/tags/covid/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flu</title>
+      <link>http://localhost:1313/tags/flu/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/flu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influenza</title>
+      <link>http://localhost:1313/tags/influenza/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/influenza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandemic</title>
+      <link>http://localhost:1313/tags/pandemic/</link>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/pandemic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Five</title>
+      <link>http://localhost:1313/tags/big-five/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/big-five/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hexaco</title>
+      <link>http://localhost:1313/tags/hexaco/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/hexaco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personality</title>
+      <link>http://localhost:1313/tags/personality/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/personality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personality Assessment</title>
+      <link>http://localhost:1313/tags/personality-assessment/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/personality-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Animal Sentience</title>
+      <link>http://localhost:1313/tags/animal-sentience/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/nature/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/animal-sentience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FODMAP</title>
+      <link>http://localhost:1313/tags/fodmap/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/fodmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PTSD</title>
-      <link>https://worldwidestew.com/tags/ptsd/</link>
+      <link>http://localhost:1313/tags/ptsd/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ptsd/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ptsd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wanting</title>
-      <link>https://worldwidestew.com/tags/wanting/</link>
+      <link>http://localhost:1313/tags/wanting/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/wanting/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/wanting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Sat, 26 Nov 2022 16:49:39 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emotions</title>
-      <link>https://worldwidestew.com/tags/emotions/</link>
+      <link>http://localhost:1313/tags/emotions/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/emotions/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/emotions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genomics</title>
-      <link>https://worldwidestew.com/tags/genomics/</link>
+      <link>http://localhost:1313/tags/genomics/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/genomics/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/genomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PPE</title>
-      <link>https://worldwidestew.com/tags/ppe/</link>
+      <link>http://localhost:1313/tags/ppe/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/ppe/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/ppe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stress</title>
-      <link>https://worldwidestew.com/tags/stress/</link>
+      <link>http://localhost:1313/tags/stress/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/stress/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/stress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy</title>
-      <link>https://worldwidestew.com/tags/energy/</link>
+      <link>http://localhost:1313/tags/energy/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/energy/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/energy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cognitive Distortions</title>
-      <link>https://worldwidestew.com/tags/cognitive-distortions/</link>
+      <link>http://localhost:1313/tags/cognitive-distortions/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/cognitive-distortions/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/cognitive-distortions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limits</title>
-      <link>https://worldwidestew.com/tags/limits/</link>
+      <link>http://localhost:1313/tags/limits/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/limits/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/limits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protection</title>
-      <link>https://worldwidestew.com/tags/protection/</link>
+      <link>http://localhost:1313/tags/protection/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/protection/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/protection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fortitude</title>
-      <link>https://worldwidestew.com/tags/fortitude/</link>
+      <link>http://localhost:1313/tags/fortitude/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/fortitude/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/fortitude/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grit</title>
-      <link>https://worldwidestew.com/tags/grit/</link>
+      <link>http://localhost:1313/tags/grit/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/grit/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/grit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persistence</title>
-      <link>https://worldwidestew.com/tags/persistence/</link>
+      <link>http://localhost:1313/tags/persistence/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/persistence/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/persistence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impermanence</title>
-      <link>https://worldwidestew.com/tags/impermanence/</link>
+      <link>http://localhost:1313/tags/impermanence/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/tags/impermanence/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/tags/impermanence/</guid>
       <description></description>
     </item>
     

@@ -2,28 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Purpose on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/purpose/</link>
+    <link>http://localhost:1313/tags/purpose/</link>
     <description>Recent content in Purpose on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sat, 27 Dec 2025 03:52:54 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/purpose/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sat, 27 Dec 2025 03:52:54 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/purpose/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wait before you make any resolutions</title>
-      <link>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</link>
+      <link>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</link>
       <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</guid>
       <description>Wait before you make any resolutions. If you don&amp;rsquo;t, your resolutions make may cost you time, vital energy, money, and hope about your ability to change.
 The making of resolutions is a time-worn transition marking the beginning of a new year. Usually, we focus on our deficits, and then create a grocery list of needed changes. If we listen to advertisers, it almost literally turns into a shopping list. Who we are wasn’t good enough.</description>
     </item>
     
     <item>
       <title>What matters to me?</title>
-      <link>https://worldwidestew.com/blog/2025-04-02-what-is-your-work/</link>
+      <link>http://localhost:1313/blog/2025-04-02-what-is-your-work/</link>
       <pubDate>Wed, 02 Apr 2025 19:22:49 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-04-02-what-is-your-work/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-04-02-what-is-your-work/</guid>
       <description>Asking Why am I here? is probably wasting time. It&amp;rsquo;s like a termite trying to eat a sequoia. It&amp;rsquo;s too big and carries little action.
 You&amp;rsquo;re probably better off asking two other questions:
 What things matter to me? What things matter to the people I care about? There&amp;rsquo;s a host of other questions you can (and should) ask. But these are awesome places to start or reset. Begin with either one, then tackle the other one.</description>
@@ -31,19 +33,19 @@ What things matter to me? What things matter to the people I care about? There&a
     
     <item>
       <title>Your chore list</title>
-      <link>https://worldwidestew.com/blog/2024-01-29-your-chore-list/</link>
+      <link>http://localhost:1313/blog/2024-01-29-your-chore-list/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-01-29-your-chore-list/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-01-29-your-chore-list/</guid>
       <description>We look forward to retirement as though the work just goes away. Rethink that plan.</description>
     </item>
     
     <item>
       <title>The glass is empty</title>
-      <link>https://worldwidestew.com/blog/2022-04-20-the-glass-is-empty/</link>
+      <link>http://localhost:1313/blog/2022-04-20-the-glass-is-empty/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2022-04-20-the-glass-is-empty/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2022-04-20-the-glass-is-empty/</guid>
       <description>The longer we live, the more apparent our wasted energy and time becomes. The alternative is focus and attention.</description>
     </item>
     

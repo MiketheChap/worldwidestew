@@ -4,6 +4,8 @@ title = 'Worldwide Stew'
 theme = "simple-light-dark"
 copyright = '© 2026 Worldwide Stew, aka Michael Davis.'
 enableEmoji = true
+# the following line was moved here and is a fix from the previous version. 
+paginate = 5 # This will show 5 posts per page
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -36,20 +38,33 @@ enableEmoji = true
   [[menu.main]]
     name = "Podcast"
     url = "/media/"
-    weight = 7  
+    weight = 7
+
 [outputFormats]
   [outputFormats.RSS]
     mediatype = "application/rss+xml"
     baseName = "feed"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
-  
-paginate = 5 # This will show 5 posts per page
+
 [params]
   logo = "images/logo.png"
   [params.author]
     name = "Michael Davis"
     email = "worldwide@worldwidestew.com"
+
+# I removed the paginate 
+
+
+# Availability banner (added Nov 2026): shows a "meet with me" link on the site.
+# Set enabled = false to hide it AND then Refresh the page on GitHub.
+[params.availability]
+  enabled = false
+  message = "I'm available to meet with you right now on end-to-end encrypted Proton Meet."
+  linkText = "Join me on Proton Meet"
+  lobbyNote = "You'll wait in the Lobby until I let you in."
+  url = "https://meet.proton.me/join/id-4JMMPJFH48#pwd-VW49SieAY3rp"

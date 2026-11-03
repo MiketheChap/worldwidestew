@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Battle on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/battle/</link>
+    <link>http://localhost:1313/tags/battle/</link>
     <description>Recent content in Battle on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/battle/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/battle/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The people who say No</title>
-      <link>https://worldwidestew.com/blog/2024-11-11-the-people-who-say-no/</link>
+      <link>http://localhost:1313/blog/2024-11-11-the-people-who-say-no/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-11-11-the-people-who-say-no/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-11-11-the-people-who-say-no/</guid>
       <description>The only thing you need to remember is this: If someone wants to fight you, make sure you finish it.</description>
     </item>
     

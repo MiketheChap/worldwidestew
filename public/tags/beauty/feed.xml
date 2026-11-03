@@ -2,28 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beauty on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/beauty/</link>
+    <link>http://localhost:1313/tags/beauty/</link>
     <description>Recent content in Beauty on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sat, 20 Sep 2025 20:15:26 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/beauty/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sat, 20 Sep 2025 20:15:26 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/beauty/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Gossamer Cloak</title>
-      <link>https://worldwidestew.com/blog/2025-09-20-the-gossamer-cloak/</link>
+      <link>http://localhost:1313/blog/2025-09-20-the-gossamer-cloak/</link>
       <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-09-20-the-gossamer-cloak/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-09-20-the-gossamer-cloak/</guid>
       <description>I beg you tp keep reading for just a minute.
 This coming week NASA plans to send three projects into space. One of them is the Carruthers Geocorona Observatory. This mission wants to better understand our outer atmosphere. This knowledge will help us understand changes that occur in the area just before we get to &amp;ldquo;outer space.&amp;rdquo; Scientists call this the geocorona. Scientists love big words. And, Of course, they need a very specific definition they all know and understand.</description>
     </item>
     
     <item>
       <title>You are beautiful</title>
-      <link>https://worldwidestew.com/blog/2025-01-20-you-are-beautiful/</link>
+      <link>http://localhost:1313/blog/2025-01-20-you-are-beautiful/</link>
       <pubDate>Sun, 19 Jan 2025 02:15:01 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-01-20-you-are-beautiful/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-01-20-you-are-beautiful/</guid>
       <description>I was passing through the living room. An advertisement was on the television. I feel a special contempt for these kinds of ads. A woman had used some kind of special formula.&amp;quot; As a result os using the preparation she said, I was beautiful.&amp;quot;
 No, dear lady. To the extent you&amp;rsquo;re beautiful, it comes from the inside.
 In the many years I cared for very sick people, I saw many of them when they regarded themselves as ugly.</description>
@@ -31,10 +33,10 @@ In the many years I cared for very sick people, I saw many of them when they reg
     
     <item>
       <title>Awe in a song</title>
-      <link>https://worldwidestew.com/blog/2024-07-06-awe-in-a-song/</link>
+      <link>http://localhost:1313/blog/2024-07-06-awe-in-a-song/</link>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-07-06-awe-in-a-song/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-07-06-awe-in-a-song/</guid>
       <description>Driven by an unspeakable and unshakable certainty, the two characters find their separate paths to each other. And, to something both more terrifying and more wondrous than anything imaginable. What’s more? They must make decisions about what they’ve witnessed.</description>
     </item>
     

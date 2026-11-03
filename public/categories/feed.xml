@@ -2,135 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Worldwide Stew</title>
-    <link>https://worldwidestew.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 14:44:21 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/categories/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Inspiration</title>
-      <link>https://worldwidestew.com/categories/inspiration/</link>
-      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/inspiration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psychology</title>
-      <link>https://worldwidestew.com/categories/psychology/</link>
-      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/psychology/</guid>
-      <description></description>
-    </item>
-    
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sat, 31 Oct 2026 17:15:03 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Humanity</title>
-      <link>https://worldwidestew.com/categories/humanity/</link>
-      <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/humanity/</guid>
+      <link>http://localhost:1313/categories/humanity/</link>
+      <pubDate>Sat, 31 Oct 2026 17:15:03 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/humanity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Strength</title>
-      <link>https://worldwidestew.com/categories/strength/</link>
-      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/strength/</guid>
+      <title>Inspiration</title>
+      <link>http://localhost:1313/categories/inspiration/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/inspiration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Society</title>
-      <link>https://worldwidestew.com/categories/society/</link>
-      <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/society/</guid>
+      <title>Events</title>
+      <link>http://localhost:1313/categories/events/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning</title>
-      <link>https://worldwidestew.com/categories/learning/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/learning/</guid>
+      <link>http://localhost:1313/categories/learning/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychology</title>
+      <link>http://localhost:1313/categories/psychology/</link>
+      <pubDate>Tue, 31 Mar 2026 13:26:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:1313/categories/healthcare/</link>
+      <pubDate>Mon, 30 Mar 2026 01:35:23 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/healthcare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>http://localhost:1313/categories/podcast/</link>
+      <pubDate>Mon, 12 Jan 2026 13:17:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strength</title>
+      <link>http://localhost:1313/categories/strength/</link>
+      <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/strength/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society</title>
+      <link>http://localhost:1313/categories/society/</link>
+      <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/society/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time</title>
-      <link>https://worldwidestew.com/categories/time/</link>
+      <link>http://localhost:1313/categories/time/</link>
       <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/time/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health</title>
-      <link>https://worldwidestew.com/categories/health/</link>
+      <link>http://localhost:1313/categories/health/</link>
       <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/health/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beliefs</title>
-      <link>https://worldwidestew.com/categories/beliefs/</link>
+      <link>http://localhost:1313/categories/beliefs/</link>
       <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/beliefs/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/beliefs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Truth</title>
-      <link>https://worldwidestew.com/categories/truth/</link>
+      <link>http://localhost:1313/categories/truth/</link>
       <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/truth/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/truth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morality</title>
-      <link>https://worldwidestew.com/categories/morality/</link>
+      <link>http://localhost:1313/categories/morality/</link>
       <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/morality/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/morality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relationships</title>
-      <link>https://worldwidestew.com/categories/relationships/</link>
+      <link>http://localhost:1313/categories/relationships/</link>
       <pubDate>Sat, 10 May 2025 00:39:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/relationships/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/relationships/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Awareness</title>
-      <link>https://worldwidestew.com/categories/self-awareness/</link>
+      <link>http://localhost:1313/categories/self-awareness/</link>
       <pubDate>Fri, 25 Apr 2025 01:05:11 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/self-awareness/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/self-awareness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wisdom</title>
-      <link>https://worldwidestew.com/categories/wisdom/</link>
+      <link>http://localhost:1313/categories/wisdom/</link>
       <pubDate>Sat, 25 Jan 2025 02:30:34 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/categories/wisdom/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/categories/wisdom/</guid>
       <description></description>
     </item>
     

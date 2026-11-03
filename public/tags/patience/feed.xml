@@ -2,27 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patience on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/patience/</link>
+    <link>http://localhost:1313/tags/patience/</link>
     <description>Recent content in Patience on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 21:21:32 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/patience/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 21:21:32 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/patience/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thank you for a courteous No</title>
-      <link>https://worldwidestew.com/blog/2025-01-20-thank-you-for-a-courteous-no/</link>
+      <link>http://localhost:1313/blog/2025-01-20-thank-you-for-a-courteous-no/</link>
       <pubDate>Mon, 20 Jan 2025 21:21:32 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-01-20-thank-you-for-a-courteous-no/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-01-20-thank-you-for-a-courteous-no/</guid>
       <description>How we respond to the needs of others dictates our futures. We are all ready for a fight. Is this really the only option?</description>
     </item>
     
     <item>
       <title>Where&#39;s my treat?</title>
-      <link>https://worldwidestew.com/blog/2024-08-24-wheres-my-treat/</link>
+      <link>http://localhost:1313/blog/2024-08-24-wheres-my-treat/</link>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-08-24-wheres-my-treat/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-08-24-wheres-my-treat/</guid>
       <description>Whatever is going on now, it won&amp;rsquo;t&amp;hellip;</description>
     </item>
     

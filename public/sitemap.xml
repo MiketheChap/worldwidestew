@@ -3,7 +3,823 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://worldwidestew.com/</loc>
+      <loc>http://localhost:1313/</loc>
+      
+        <lastmod>2026-11-03T00:55:54+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/editorial/</loc>
+      
+        <lastmod>2026-11-03T00:55:54+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/fear/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-11-01-fear---not-loathing/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/hope/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/humanity/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/humanity/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/ritual/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/</loc>
+      
+        <lastmod>2026-10-31T17:15:03+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/attention/</loc>
+      
+        <lastmod>2026-10-26T17:28:10+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/attentiveness/</loc>
+      
+        <lastmod>2026-10-26T17:28:10+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/courage/</loc>
+      
+        <lastmod>2026-10-26T17:28:10+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/focus/</loc>
+      
+        <lastmod>2026-10-26T17:28:10+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/inspiration/</loc>
+      
+        <lastmod>2026-10-26T17:28:10+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/inspiration/</loc>
+      
+        <lastmod>2026-10-26T17:28:10+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/judgment/</loc>
+      
+        <lastmod>2026-10-26T17:28:10+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-10-26-replay-versus-reality/</loc>
+      
+        <lastmod>2026-10-26T17:28:10+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-09-24-entering-fall---and-other-seasons/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/meditation/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/mindfulness/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/personal-growth/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/seasons/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/seasons-of-life/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/self-reflection/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/tai-chi/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/time/</loc>
+      
+        <lastmod>2026-09-22T14:07:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/ai/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/classes/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/computing/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/education/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/events/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/events/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/events/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/learning/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/learning/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/events/2026-10-17_ai-for-the-rest-of-us-using-refusingmd/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/positive-psychology/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/workshop/</loc>
+      
+        <lastmod>2026-09-20T03:24:43+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/action/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/animals/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/canine/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/complexity/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/connection/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/dog/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/gentleness/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/poetry/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/relationship/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-05-15-scratch-my-ears/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/simplicity/</loc>
+      
+        <lastmod>2026-05-15T11:22:18+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/death/</loc>
+      
+        <lastmod>2026-04-15T21:51:59+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/dying/</loc>
+      
+        <lastmod>2026-04-15T21:51:59+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/grief/</loc>
+      
+        <lastmod>2026-04-15T21:51:59+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/life-review/</loc>
+      
+        <lastmod>2026-04-15T21:51:59+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/media/</loc>
+      
+        <lastmod>2026-04-15T21:51:59+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/media/2026-04-15-new-episode-mom-unfinished/</loc>
+      
+        <lastmod>2026-04-15T21:51:59+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/sorrow/</loc>
+      
+        <lastmod>2026-04-15T21:51:59+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/consciousness/</loc>
+      
+        <lastmod>2026-03-31T13:26:01+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/distraction/</loc>
+      
+        <lastmod>2026-03-31T13:26:01+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/email/</loc>
+      
+        <lastmod>2026-03-31T13:26:01+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/inbox/</loc>
+      
+        <lastmod>2026-03-31T13:26:01+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/politics/</loc>
+      
+        <lastmod>2026-03-31T13:26:01+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/psychology/</loc>
+      
+        <lastmod>2026-03-31T13:26:01+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-03-31-centering-our-attention/</loc>
+      
+        <lastmod>2026-03-31T13:26:01+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/healthcare/</loc>
+      
+        <lastmod>2026-03-30T01:35:23+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-03-30-you-have-the-floor/</loc>
+      
+        <lastmod>2026-03-30T01:35:23+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-03-15-go-sit-in-the-corner/</loc>
+      
+        <lastmod>2026-03-15T02:14:23+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/psychology/</loc>
+      
+        <lastmod>2026-03-15T02:14:23+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/self-awareness/</loc>
+      
+        <lastmod>2026-03-15T02:14:23+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/wisdom/</loc>
+      
+        <lastmod>2026-03-15T02:14:23+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/aging/</loc>
+      
+        <lastmod>2026-03-12T22:49:04+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/birthday/</loc>
+      
+        <lastmod>2026-03-12T22:49:04+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/elders/</loc>
+      
+        <lastmod>2026-03-12T22:49:04+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/mortality/</loc>
+      
+        <lastmod>2026-03-12T22:49:04+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-03-12-the-periodic-table-of-birthday-elements/</loc>
+      
+        <lastmod>2026-03-12T22:49:04+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-03-05-mindfulness-versus-mindfulness-meditation/</loc>
+      
+        <lastmod>2026-03-06T23:52:46+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/mindfulness-meditation/</loc>
+      
+        <lastmod>2026-03-06T23:52:46+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/practice/</loc>
+      
+        <lastmod>2026-03-06T23:52:46+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-03-05-do-we-ever-really-say-goodbye/</loc>
+      
+        <lastmod>2026-03-05T16:32:04+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/science/</loc>
+      
+        <lastmod>2026-03-05T16:32:04+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/existential-perspective/</loc>
+      
+        <lastmod>2026-02-04T12:42:28+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-02-03-i-am-not-so-special/</loc>
+      
+        <lastmod>2026-02-04T12:42:28+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/specialness/</loc>
+      
+        <lastmod>2026-02-04T12:42:28+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/healthcare/</loc>
+      
+        <lastmod>2026-02-01T13:33:19+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-02-22-how-a-conversation-with-ai-taught-me-something-new-about-caring-for-patients/</loc>
+      
+        <lastmod>2026-02-01T13:33:19+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/patients/</loc>
+      
+        <lastmod>2026-02-01T13:33:19+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/flight/</loc>
+      
+        <lastmod>2026-01-15T02:12:20+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-01-15-just-fly/</loc>
+      
+        <lastmod>2026-01-15T02:12:20+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/nature/</loc>
+      
+        <lastmod>2026-01-15T02:12:20+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/poem/</loc>
+      
+        <lastmod>2026-01-15T02:12:20+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/change/</loc>
+      
+        <lastmod>2026-01-12T13:17:11+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/deficit/</loc>
+      
+        <lastmod>2026-01-12T13:17:11+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/hungry-ghost/</loc>
+      
+        <lastmod>2026-01-12T13:17:11+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/podcast/</loc>
+      
+        <lastmod>2026-01-12T13:17:11+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/categories/podcast/</loc>
+      
+        <lastmod>2026-01-12T13:17:11+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/resolutions/</loc>
+      
+        <lastmod>2026-01-12T13:17:11+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/media/2026-01-12-resolutions-and-the-hungry-ghost-podcast-transcript/</loc>
+      
+        <lastmod>2026-01-12T13:17:11+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/clarity/</loc>
+      
+        <lastmod>2026-01-08T21:20:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/communication/</loc>
+      
+        <lastmod>2026-01-08T21:20:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/blog/2026-01-08-verbal-order-read-back/</loc>
+      
+        <lastmod>2026-01-08T21:20:52+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/health/</loc>
       
         <lastmod>2026-01-05T14:44:21+00:00</lastmod>
       
@@ -11,7 +827,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/</loc>
+      <loc>http://localhost:1313/tags/movement/</loc>
       
         <lastmod>2026-01-05T14:44:21+00:00</lastmod>
       
@@ -19,7 +835,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/</loc>
+      <loc>http://localhost:1313/blog/2026-01-05-stretch/</loc>
       
         <lastmod>2026-01-05T14:44:21+00:00</lastmod>
       
@@ -27,63 +843,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/health/</loc>
-      
-        <lastmod>2026-01-05T14:44:21+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/categories/inspiration/</loc>
-      
-        <lastmod>2026-01-05T14:44:21+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/movement/</loc>
-      
-        <lastmod>2026-01-05T14:44:21+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/positive-psychology/</loc>
-      
-        <lastmod>2026-01-05T14:44:21+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/categories/psychology/</loc>
-      
-        <lastmod>2026-01-05T14:44:21+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/blog/2026-01-05-stretch/</loc>
-      
-        <lastmod>2026-01-05T14:44:21+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/</loc>
-      
-        <lastmod>2026-01-05T14:44:21+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/commercialism/</loc>
+      <loc>http://localhost:1313/tags/commercialism/</loc>
       
         <lastmod>2025-12-28T16:44:56+00:00</lastmod>
       
@@ -91,7 +851,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/</loc>
+      <loc>http://localhost:1313/tags/deodorant/</loc>
       
         <lastmod>2025-12-28T16:44:56+00:00</lastmod>
       
@@ -99,7 +859,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/deodorant/</loc>
+      <loc>http://localhost:1313/tags/inadequacy/</loc>
       
         <lastmod>2025-12-28T16:44:56+00:00</lastmod>
       
@@ -107,7 +867,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/humanity/</loc>
+      <loc>http://localhost:1313/tags/shame/</loc>
       
         <lastmod>2025-12-28T16:44:56+00:00</lastmod>
       
@@ -115,7 +875,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/humanity/</loc>
+      <loc>http://localhost:1313/tags/smell/</loc>
       
         <lastmod>2025-12-28T16:44:56+00:00</lastmod>
       
@@ -123,7 +883,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/inadequacy/</loc>
+      <loc>http://localhost:1313/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</loc>
       
         <lastmod>2025-12-28T16:44:56+00:00</lastmod>
       
@@ -131,39 +891,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/psychology/</loc>
-      
-        <lastmod>2025-12-28T16:44:56+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/shame/</loc>
-      
-        <lastmod>2025-12-28T16:44:56+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/smell/</loc>
-      
-        <lastmod>2025-12-28T16:44:56+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</loc>
-      
-        <lastmod>2025-12-28T16:44:56+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/addiction/</loc>
+      <loc>http://localhost:1313/tags/addiction/</loc>
       
         <lastmod>2025-12-27T03:52:54+00:00</lastmod>
       
@@ -171,7 +899,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/buddhism/</loc>
+      <loc>http://localhost:1313/tags/buddhism/</loc>
       
         <lastmod>2025-12-27T03:52:54+00:00</lastmod>
       
@@ -179,7 +907,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/change/</loc>
+      <loc>http://localhost:1313/tags/purpose/</loc>
       
         <lastmod>2025-12-27T03:52:54+00:00</lastmod>
       
@@ -187,7 +915,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/hope/</loc>
+      <loc>http://localhost:1313/tags/resolution/</loc>
       
         <lastmod>2025-12-27T03:52:54+00:00</lastmod>
       
@@ -195,7 +923,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/purpose/</loc>
+      <loc>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</loc>
       
         <lastmod>2025-12-27T03:52:54+00:00</lastmod>
       
@@ -203,23 +931,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/resolution/</loc>
-      
-        <lastmod>2025-12-27T03:52:54+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</loc>
-      
-        <lastmod>2025-12-27T03:52:54+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/courage/</loc>
+      <loc>http://localhost:1313/tags/inventiveness/</loc>
       
         <lastmod>2025-12-19T23:36:27+00:00</lastmod>
       
@@ -227,7 +939,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/inventiveness/</loc>
+      <loc>http://localhost:1313/blog/2025-12-19-making-do-with-what-you-have/</loc>
       
         <lastmod>2025-12-19T23:36:27+00:00</lastmod>
       
@@ -235,7 +947,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-12-19-making-do-with-what-you-have/</loc>
+      <loc>http://localhost:1313/tags/resistance/</loc>
       
         <lastmod>2025-12-19T23:36:27+00:00</lastmod>
       
@@ -243,7 +955,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/resistance/</loc>
+      <loc>http://localhost:1313/tags/resourcefulness/</loc>
       
         <lastmod>2025-12-19T23:36:27+00:00</lastmod>
       
@@ -251,7 +963,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/resourcefulness/</loc>
+      <loc>http://localhost:1313/categories/strength/</loc>
       
         <lastmod>2025-12-19T23:36:27+00:00</lastmod>
       
@@ -259,15 +971,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/strength/</loc>
-      
-        <lastmod>2025-12-19T23:36:27+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/body/</loc>
+      <loc>http://localhost:1313/tags/body/</loc>
       
         <lastmod>2025-12-18T16:55:45+00:00</lastmod>
       
@@ -275,7 +979,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-12-18-lotion/</loc>
+      <loc>http://localhost:1313/blog/2025-12-18-lotion/</loc>
       
         <lastmod>2025-12-18T16:55:45+00:00</lastmod>
       
@@ -283,7 +987,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/mindfulness/</loc>
+      <loc>http://localhost:1313/tags/self-care/</loc>
       
         <lastmod>2025-12-18T16:55:45+00:00</lastmod>
       
@@ -291,7 +995,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/self-care/</loc>
+      <loc>http://localhost:1313/tags/self-compassion/</loc>
       
         <lastmod>2025-12-18T16:55:45+00:00</lastmod>
       
@@ -299,15 +1003,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/self-compassion/</loc>
-      
-        <lastmod>2025-12-18T16:55:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/boundaries/</loc>
+      <loc>http://localhost:1313/tags/boundaries/</loc>
       
         <lastmod>2025-11-28T15:45:08+00:00</lastmod>
       
@@ -315,7 +1011,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-11-28-having-teeth/</loc>
+      <loc>http://localhost:1313/blog/2025-11-28-having-teeth/</loc>
       
         <lastmod>2025-11-28T15:45:08+00:00</lastmod>
       
@@ -323,7 +1019,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/inspiration/</loc>
+      <loc>http://localhost:1313/categories/society/</loc>
       
         <lastmod>2025-11-28T15:45:08+00:00</lastmod>
       
@@ -331,7 +1027,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/society/</loc>
+      <loc>http://localhost:1313/tags/strength/</loc>
       
         <lastmod>2025-11-28T15:45:08+00:00</lastmod>
       
@@ -339,15 +1035,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/strength/</loc>
-      
-        <lastmod>2025-11-28T15:45:08+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/meditation/</loc>
+      <loc>http://localhost:1313/tags/presence/</loc>
       
         <lastmod>2025-11-25T17:28:57+00:00</lastmod>
       
@@ -355,7 +1043,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/presence/</loc>
+      <loc>http://localhost:1313/tags/silence/</loc>
       
         <lastmod>2025-11-25T17:28:57+00:00</lastmod>
       
@@ -363,7 +1051,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/silence/</loc>
+      <loc>http://localhost:1313/blog/2025-11-24-the-power-of-muting/</loc>
       
         <lastmod>2025-11-25T17:28:57+00:00</lastmod>
       
@@ -371,79 +1059,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-11-24-the-power-of-muting/</loc>
-      
-        <lastmod>2025-11-25T17:28:57+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/ai/</loc>
-      
-        <lastmod>2025-11-22T21:59:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/artificial-intelligence/</loc>
-      
-        <lastmod>2025-11-22T21:59:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/classes/</loc>
-      
-        <lastmod>2025-11-22T21:59:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/education/</loc>
-      
-        <lastmod>2025-11-22T21:59:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/events/</loc>
-      
-        <lastmod>2025-11-22T21:59:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/events/</loc>
-      
-        <lastmod>2025-11-22T21:59:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/learning/</loc>
-      
-        <lastmod>2025-11-22T21:59:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/categories/learning/</loc>
-      
-        <lastmod>2025-11-22T21:59:45+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/awareness/</loc>
+      <loc>http://localhost:1313/tags/awareness/</loc>
       
         <lastmod>2025-10-07T04:23:25+00:00</lastmod>
       
@@ -451,7 +1067,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/consciousness/</loc>
+      <loc>http://localhost:1313/tags/ego/</loc>
       
         <lastmod>2025-10-07T04:23:25+00:00</lastmod>
       
@@ -459,7 +1075,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ego/</loc>
+      <loc>http://localhost:1313/tags/einstein/</loc>
       
         <lastmod>2025-10-07T04:23:25+00:00</lastmod>
       
@@ -467,7 +1083,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/einstein/</loc>
+      <loc>http://localhost:1313/tags/emotional-intelligence/</loc>
       
         <lastmod>2025-10-07T04:23:25+00:00</lastmod>
       
@@ -475,7 +1091,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/emotional-intelligence/</loc>
+      <loc>http://localhost:1313/tags/gravitational-waves/</loc>
       
         <lastmod>2025-10-07T04:23:25+00:00</lastmod>
       
@@ -483,7 +1099,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/gravitational-waves/</loc>
+      <loc>http://localhost:1313/media/2025-10-07-listening-to-your-own-deep-space/</loc>
       
         <lastmod>2025-10-07T04:23:25+00:00</lastmod>
       
@@ -491,7 +1107,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/media/2025-10-07-listening-to-your-own-deep-space/</loc>
+      <loc>http://localhost:1313/tags/mental-health/</loc>
       
         <lastmod>2025-10-07T04:23:25+00:00</lastmod>
       
@@ -499,31 +1115,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/media/</loc>
-      
-        <lastmod>2025-10-07T04:23:25+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/mental-health/</loc>
-      
-        <lastmod>2025-10-07T04:23:25+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/science/</loc>
-      
-        <lastmod>2025-10-07T04:23:25+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/about/</loc>
+      <loc>http://localhost:1313/about/</loc>
       
         <lastmod>2025-09-25T21:18:04+00:00</lastmod>
       
@@ -531,7 +1123,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/collaboration/</loc>
+      <loc>http://localhost:1313/tags/collaboration/</loc>
       
         <lastmod>2025-09-25T21:18:04+00:00</lastmod>
       
@@ -539,7 +1131,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/cooperation/</loc>
+      <loc>http://localhost:1313/tags/cooperation/</loc>
       
         <lastmod>2025-09-25T21:18:04+00:00</lastmod>
       
@@ -547,7 +1139,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/guardrail/</loc>
+      <loc>http://localhost:1313/tags/guardrail/</loc>
       
         <lastmod>2025-09-25T21:18:04+00:00</lastmod>
       
@@ -555,7 +1147,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/about/2025-09-25-my-ai-partnership-why-and-how/</loc>
+      <loc>http://localhost:1313/about/2025-09-25-my-ai-partnership-why-and-how/</loc>
       
         <lastmod>2025-09-25T21:18:04+00:00</lastmod>
       
@@ -563,7 +1155,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/safety/</loc>
+      <loc>http://localhost:1313/tags/safety/</loc>
       
         <lastmod>2025-09-25T21:18:04+00:00</lastmod>
       
@@ -571,7 +1163,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/time/</loc>
+      <loc>http://localhost:1313/categories/time/</loc>
       
         <lastmod>2025-09-25T21:18:04+00:00</lastmod>
       
@@ -579,7 +1171,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/art/</loc>
+      <loc>http://localhost:1313/tags/art/</loc>
       
         <lastmod>2025-09-20T20:15:26+00:00</lastmod>
       
@@ -587,7 +1179,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/beauty/</loc>
+      <loc>http://localhost:1313/tags/beauty/</loc>
       
         <lastmod>2025-09-20T20:15:26+00:00</lastmod>
       
@@ -595,7 +1187,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/poetry/</loc>
+      <loc>http://localhost:1313/tags/precision/</loc>
       
         <lastmod>2025-09-20T20:15:26+00:00</lastmod>
       
@@ -603,7 +1195,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/precision/</loc>
+      <loc>http://localhost:1313/blog/2025-09-20-the-gossamer-cloak/</loc>
       
         <lastmod>2025-09-20T20:15:26+00:00</lastmod>
       
@@ -611,7 +1203,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-09-20-the-gossamer-cloak/</loc>
+      <loc>http://localhost:1313/tags/vocabulary/</loc>
       
         <lastmod>2025-09-20T20:15:26+00:00</lastmod>
       
@@ -619,15 +1211,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/vocabulary/</loc>
-      
-        <lastmod>2025-09-20T20:15:26+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/blog/2025-09-05-listening-to-your-own-deep-space/</loc>
+      <loc>http://localhost:1313/blog/2025-09-05-listening-to-your-own-deep-space/</loc>
       
         <lastmod>2025-09-05T21:37:50+00:00</lastmod>
       
@@ -635,7 +1219,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/space/</loc>
+      <loc>http://localhost:1313/tags/space/</loc>
       
         <lastmod>2025-09-05T21:37:50+00:00</lastmod>
       
@@ -643,7 +1227,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/telescope/</loc>
+      <loc>http://localhost:1313/tags/telescope/</loc>
       
         <lastmod>2025-09-05T21:37:50+00:00</lastmod>
       
@@ -651,7 +1235,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/dark-matter/</loc>
+      <loc>http://localhost:1313/tags/dark-matter/</loc>
       
         <lastmod>2025-09-03T20:43:20+00:00</lastmod>
       
@@ -659,7 +1243,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-09-03-your-ego-is-essential/</loc>
+      <loc>http://localhost:1313/blog/2025-09-03-your-ego-is-essential/</loc>
       
         <lastmod>2025-09-03T20:43:20+00:00</lastmod>
       
@@ -667,7 +1251,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-08-23-be-kind-to-yourself-first/</loc>
+      <loc>http://localhost:1313/blog/2025-08-23-be-kind-to-yourself-first/</loc>
       
         <lastmod>2025-08-23T19:14:24+00:00</lastmod>
       
@@ -675,7 +1259,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/compassion-meditation/</loc>
+      <loc>http://localhost:1313/tags/compassion-meditation/</loc>
       
         <lastmod>2025-08-23T19:14:24+00:00</lastmod>
       
@@ -683,7 +1267,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/kindness/</loc>
+      <loc>http://localhost:1313/tags/kindness/</loc>
       
         <lastmod>2025-08-23T19:14:24+00:00</lastmod>
       
@@ -691,7 +1275,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/lovingkindness/</loc>
+      <loc>http://localhost:1313/tags/lovingkindness/</loc>
       
         <lastmod>2025-08-23T19:14:24+00:00</lastmod>
       
@@ -699,7 +1283,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/media/2025-08-19-a-brief-meditation-for-parkinsons-disease/</loc>
+      <loc>http://localhost:1313/media/2025-08-19-a-brief-meditation-for-parkinsons-disease/</loc>
       
         <lastmod>2025-08-19T20:55:08+00:00</lastmod>
       
@@ -707,7 +1291,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/health/</loc>
+      <loc>http://localhost:1313/categories/health/</loc>
       
         <lastmod>2025-08-19T20:55:08+00:00</lastmod>
       
@@ -715,7 +1299,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/motor-neuron/</loc>
+      <loc>http://localhost:1313/tags/motor-neuron/</loc>
       
         <lastmod>2025-08-19T20:55:08+00:00</lastmod>
       
@@ -723,7 +1307,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/parkinsons/</loc>
+      <loc>http://localhost:1313/tags/parkinsons/</loc>
       
         <lastmod>2025-08-19T20:55:08+00:00</lastmod>
       
@@ -731,7 +1315,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/self-acceptance/</loc>
+      <loc>http://localhost:1313/tags/self-acceptance/</loc>
       
         <lastmod>2025-08-19T20:55:08+00:00</lastmod>
       
@@ -739,7 +1323,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/support/</loc>
+      <loc>http://localhost:1313/tags/support/</loc>
       
         <lastmod>2025-08-19T20:55:08+00:00</lastmod>
       
@@ -747,7 +1331,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/connection/</loc>
+      <loc>http://localhost:1313/blog/2025-07-20-never-waste-an-elevator-trip/</loc>
       
         <lastmod>2025-07-20T12:41:29+00:00</lastmod>
       
@@ -755,7 +1339,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-07-20-never-waste-an-elevator-trip/</loc>
+      <loc>http://localhost:1313/tags/relatonships/</loc>
       
         <lastmod>2025-07-20T12:41:29+00:00</lastmod>
       
@@ -763,7 +1347,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/relatonships/</loc>
+      <loc>http://localhost:1313/tags/sociality/</loc>
       
         <lastmod>2025-07-20T12:41:29+00:00</lastmod>
       
@@ -771,15 +1355,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/sociality/</loc>
-      
-        <lastmod>2025-07-20T12:41:29+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/family/</loc>
+      <loc>http://localhost:1313/tags/family/</loc>
       
         <lastmod>2025-07-07T17:11:42+00:00</lastmod>
       
@@ -787,7 +1363,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/gratitude/</loc>
+      <loc>http://localhost:1313/tags/gratitude/</loc>
       
         <lastmod>2025-07-07T17:11:42+00:00</lastmod>
       
@@ -795,7 +1371,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/joy/</loc>
+      <loc>http://localhost:1313/tags/joy/</loc>
       
         <lastmod>2025-07-07T17:11:42+00:00</lastmod>
       
@@ -803,7 +1379,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-07-07-nothing-else-matters/</loc>
+      <loc>http://localhost:1313/blog/2025-07-07-nothing-else-matters/</loc>
       
         <lastmod>2025-07-07T17:11:42+00:00</lastmod>
       
@@ -811,23 +1387,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/poem/</loc>
-      
-        <lastmod>2025-07-07T17:11:42+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/events/2024-09-21-just-start-mindfulness/</loc>
-      
-        <lastmod>2025-07-04T15:30:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/dependence/</loc>
+      <loc>http://localhost:1313/tags/dependence/</loc>
       
         <lastmod>2025-07-03T02:16:15+00:00</lastmod>
       
@@ -835,7 +1395,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/independence/</loc>
+      <loc>http://localhost:1313/tags/independence/</loc>
       
         <lastmod>2025-07-03T02:16:15+00:00</lastmod>
       
@@ -843,7 +1403,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-07-03-on-independence-wealth-and-status/</loc>
+      <loc>http://localhost:1313/blog/2025-07-03-on-independence-wealth-and-status/</loc>
       
         <lastmod>2025-07-03T02:16:15+00:00</lastmod>
       
@@ -851,7 +1411,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/status/</loc>
+      <loc>http://localhost:1313/tags/status/</loc>
       
         <lastmod>2025-07-03T02:16:15+00:00</lastmod>
       
@@ -859,7 +1419,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/value/</loc>
+      <loc>http://localhost:1313/tags/value/</loc>
       
         <lastmod>2025-07-03T02:16:15+00:00</lastmod>
       
@@ -867,7 +1427,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/wealth/</loc>
+      <loc>http://localhost:1313/tags/wealth/</loc>
       
         <lastmod>2025-07-03T02:16:15+00:00</lastmod>
       
@@ -875,7 +1435,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/worth/</loc>
+      <loc>http://localhost:1313/tags/worth/</loc>
       
         <lastmod>2025-07-03T02:16:15+00:00</lastmod>
       
@@ -883,7 +1443,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/coping/</loc>
+      <loc>http://localhost:1313/tags/coping/</loc>
       
         <lastmod>2025-06-17T00:15:53+00:00</lastmod>
       
@@ -891,7 +1451,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/disagreement/</loc>
+      <loc>http://localhost:1313/tags/disagreement/</loc>
       
         <lastmod>2025-06-17T00:15:53+00:00</lastmod>
       
@@ -899,7 +1459,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-06-16-go-to-your-room/</loc>
+      <loc>http://localhost:1313/blog/2025-06-16-go-to-your-room/</loc>
       
         <lastmod>2025-06-17T00:15:53+00:00</lastmod>
       
@@ -907,7 +1467,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/people/</loc>
+      <loc>http://localhost:1313/tags/people/</loc>
       
         <lastmod>2025-06-17T00:15:53+00:00</lastmod>
       
@@ -915,7 +1475,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/relationships/</loc>
+      <loc>http://localhost:1313/tags/relationships/</loc>
       
         <lastmod>2025-06-17T00:15:53+00:00</lastmod>
       
@@ -923,7 +1483,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/strife/</loc>
+      <loc>http://localhost:1313/tags/strife/</loc>
       
         <lastmod>2025-06-17T00:15:53+00:00</lastmod>
       
@@ -931,7 +1491,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-06-14-and-then-they-came-for-me/</loc>
+      <loc>http://localhost:1313/blog/2025-06-14-and-then-they-came-for-me/</loc>
       
         <lastmod>2025-06-14T17:56:35+00:00</lastmod>
       
@@ -939,7 +1499,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/authoritarianism/</loc>
+      <loc>http://localhost:1313/tags/authoritarianism/</loc>
       
         <lastmod>2025-06-14T17:56:35+00:00</lastmod>
       
@@ -947,7 +1507,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/compassion/</loc>
+      <loc>http://localhost:1313/tags/compassion/</loc>
       
         <lastmod>2025-06-14T17:56:35+00:00</lastmod>
       
@@ -955,7 +1515,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/fascism/</loc>
+      <loc>http://localhost:1313/tags/fascism/</loc>
       
         <lastmod>2025-06-14T17:56:35+00:00</lastmod>
       
@@ -963,7 +1523,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/freedom/</loc>
+      <loc>http://localhost:1313/tags/freedom/</loc>
       
         <lastmod>2025-06-14T17:56:35+00:00</lastmod>
       
@@ -971,7 +1531,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/liberty/</loc>
+      <loc>http://localhost:1313/tags/liberty/</loc>
       
         <lastmod>2025-06-14T17:56:35+00:00</lastmod>
       
@@ -979,15 +1539,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/politics/</loc>
-      
-        <lastmod>2025-06-14T17:56:35+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/blog/2025-06-13-and-then-they-came-for-me/</loc>
+      <loc>http://localhost:1313/blog/2025-06-13-and-then-they-came-for-me/</loc>
       
         <lastmod>2025-06-13T00:20:16+00:00</lastmod>
       
@@ -995,7 +1547,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/authoritarian/</loc>
+      <loc>http://localhost:1313/tags/authoritarian/</loc>
       
         <lastmod>2025-06-12T00:54:53+00:00</lastmod>
       
@@ -1003,7 +1555,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/dictatorship/</loc>
+      <loc>http://localhost:1313/tags/dictatorship/</loc>
       
         <lastmod>2025-06-12T00:54:53+00:00</lastmod>
       
@@ -1011,7 +1563,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2025-06-13-gavin-newsome-on-the-trump-administration-and-democracy/</loc>
+      <loc>http://localhost:1313/editorial/2025-06-13-gavin-newsome-on-the-trump-administration-and-democracy/</loc>
       
         <lastmod>2025-06-12T00:54:53+00:00</lastmod>
       
@@ -1019,7 +1571,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/service/</loc>
+      <loc>http://localhost:1313/tags/service/</loc>
       
         <lastmod>2025-06-12T00:54:53+00:00</lastmod>
       
@@ -1027,7 +1579,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/community/</loc>
+      <loc>http://localhost:1313/tags/community/</loc>
       
         <lastmod>2025-06-11T01:48:45+00:00</lastmod>
       
@@ -1035,7 +1587,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/democracy/</loc>
+      <loc>http://localhost:1313/tags/democracy/</loc>
       
         <lastmod>2025-06-11T01:48:45+00:00</lastmod>
       
@@ -1043,7 +1595,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/media/</loc>
+      <loc>http://localhost:1313/tags/media/</loc>
       
         <lastmod>2025-06-11T01:48:45+00:00</lastmod>
       
@@ -1051,7 +1603,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/news/</loc>
+      <loc>http://localhost:1313/tags/news/</loc>
       
         <lastmod>2025-06-11T01:48:45+00:00</lastmod>
       
@@ -1059,7 +1611,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/public/</loc>
+      <loc>http://localhost:1313/tags/public/</loc>
       
         <lastmod>2025-06-11T01:48:45+00:00</lastmod>
       
@@ -1067,7 +1619,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2025-06-11-save-public-media/</loc>
+      <loc>http://localhost:1313/editorial/2025-06-11-save-public-media/</loc>
       
         <lastmod>2025-06-11T01:48:45+00:00</lastmod>
       
@@ -1075,7 +1627,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/attention/</loc>
+      <loc>http://localhost:1313/blog/2025-05-15-distractions-attention-and-focus/</loc>
       
         <lastmod>2025-05-15T01:51:12+00:00</lastmod>
       
@@ -1083,31 +1635,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/distraction/</loc>
-      
-        <lastmod>2025-05-15T01:51:12+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/blog/2025-05-15-distractions-attention-and-focus/</loc>
-      
-        <lastmod>2025-05-15T01:51:12+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/focus/</loc>
-      
-        <lastmod>2025-05-15T01:51:12+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/beliefs/</loc>
+      <loc>http://localhost:1313/tags/beliefs/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1115,7 +1643,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/beliefs/</loc>
+      <loc>http://localhost:1313/categories/beliefs/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1123,7 +1651,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-05-10-beliefs-worth-examining/</loc>
+      <loc>http://localhost:1313/blog/2025-05-10-beliefs-worth-examining/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1131,7 +1659,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/evolution/</loc>
+      <loc>http://localhost:1313/tags/evolution/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1139,7 +1667,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/faith/</loc>
+      <loc>http://localhost:1313/tags/faith/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1147,7 +1675,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/falsifiability/</loc>
+      <loc>http://localhost:1313/tags/falsifiability/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1155,7 +1683,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/falsifiable/</loc>
+      <loc>http://localhost:1313/tags/falsifiable/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1163,7 +1691,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ideology/</loc>
+      <loc>http://localhost:1313/tags/ideology/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1171,7 +1699,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/sexuality/</loc>
+      <loc>http://localhost:1313/tags/sexuality/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1179,7 +1707,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/spirituality/</loc>
+      <loc>http://localhost:1313/tags/spirituality/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1187,7 +1715,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/truth/</loc>
+      <loc>http://localhost:1313/tags/truth/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1195,7 +1723,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/truth/</loc>
+      <loc>http://localhost:1313/categories/truth/</loc>
       
         <lastmod>2025-05-10T13:36:24+00:00</lastmod>
       
@@ -1203,7 +1731,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ethical-behavior/</loc>
+      <loc>http://localhost:1313/tags/ethical-behavior/</loc>
       
         <lastmod>2025-05-10T00:39:24+00:00</lastmod>
       
@@ -1211,7 +1739,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ethics/</loc>
+      <loc>http://localhost:1313/tags/ethics/</loc>
       
         <lastmod>2025-05-10T00:39:24+00:00</lastmod>
       
@@ -1219,7 +1747,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/government/</loc>
+      <loc>http://localhost:1313/tags/government/</loc>
       
         <lastmod>2025-05-10T00:39:24+00:00</lastmod>
       
@@ -1227,7 +1755,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/morality/</loc>
+      <loc>http://localhost:1313/categories/morality/</loc>
       
         <lastmod>2025-05-10T00:39:24+00:00</lastmod>
       
@@ -1235,7 +1763,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/relationships/</loc>
+      <loc>http://localhost:1313/categories/relationships/</loc>
       
         <lastmod>2025-05-10T00:39:24+00:00</lastmod>
       
@@ -1243,7 +1771,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/society/</loc>
+      <loc>http://localhost:1313/tags/society/</loc>
       
         <lastmod>2025-05-10T00:39:24+00:00</lastmod>
       
@@ -1251,7 +1779,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-05-10-the-obligations-of-witnessing/</loc>
+      <loc>http://localhost:1313/blog/2025-05-10-the-obligations-of-witnessing/</loc>
       
         <lastmod>2025-05-10T00:39:24+00:00</lastmod>
       
@@ -1259,7 +1787,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/character/</loc>
+      <loc>http://localhost:1313/tags/character/</loc>
       
         <lastmod>2025-04-28T02:24:39+00:00</lastmod>
       
@@ -1267,7 +1795,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/economy/</loc>
+      <loc>http://localhost:1313/tags/economy/</loc>
       
         <lastmod>2025-04-28T02:24:39+00:00</lastmod>
       
@@ -1275,7 +1803,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-04-28-2025-04-28satisfaction-or-your-money-back/</loc>
+      <loc>http://localhost:1313/blog/2025-04-28-2025-04-28satisfaction-or-your-money-back/</loc>
       
         <lastmod>2025-04-28T02:24:39+00:00</lastmod>
       
@@ -1283,7 +1811,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/trust/</loc>
+      <loc>http://localhost:1313/tags/trust/</loc>
       
         <lastmod>2025-04-28T02:24:39+00:00</lastmod>
       
@@ -1291,7 +1819,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/action-bias/</loc>
+      <loc>http://localhost:1313/tags/action-bias/</loc>
       
         <lastmod>2025-04-25T01:05:11+00:00</lastmod>
       
@@ -1299,7 +1827,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/algorithms/</loc>
+      <loc>http://localhost:1313/tags/algorithms/</loc>
       
         <lastmod>2025-04-25T01:05:11+00:00</lastmod>
       
@@ -1307,7 +1835,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/bias/</loc>
+      <loc>http://localhost:1313/tags/bias/</loc>
       
         <lastmod>2025-04-25T01:05:11+00:00</lastmod>
       
@@ -1315,7 +1843,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/self-awareness/</loc>
+      <loc>http://localhost:1313/categories/self-awareness/</loc>
       
         <lastmod>2025-04-25T01:05:11+00:00</lastmod>
       
@@ -1323,7 +1851,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-04-25-when-algorithms-go-wrong/</loc>
+      <loc>http://localhost:1313/blog/2025-04-25-when-algorithms-go-wrong/</loc>
       
         <lastmod>2025-04-25T01:05:11+00:00</lastmod>
       
@@ -1331,7 +1859,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/care/</loc>
+      <loc>http://localhost:1313/tags/care/</loc>
       
         <lastmod>2025-04-02T19:22:49+00:00</lastmod>
       
@@ -1339,7 +1867,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/helping/</loc>
+      <loc>http://localhost:1313/tags/helping/</loc>
       
         <lastmod>2025-04-02T19:22:49+00:00</lastmod>
       
@@ -1347,7 +1875,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/questions/</loc>
+      <loc>http://localhost:1313/tags/questions/</loc>
       
         <lastmod>2025-04-02T19:22:49+00:00</lastmod>
       
@@ -1355,7 +1883,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-04-02-what-is-your-work/</loc>
+      <loc>http://localhost:1313/blog/2025-04-02-what-is-your-work/</loc>
       
         <lastmod>2025-04-02T19:22:49+00:00</lastmod>
       
@@ -1363,7 +1891,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-03-10-being-conscientious-isnt-a-moral-virtue/</loc>
+      <loc>http://localhost:1313/blog/2025-03-10-being-conscientious-isnt-a-moral-virtue/</loc>
       
         <lastmod>2025-03-20T16:19:44+00:00</lastmod>
       
@@ -1371,7 +1899,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/conscientious/</loc>
+      <loc>http://localhost:1313/tags/conscientious/</loc>
       
         <lastmod>2025-03-20T16:19:44+00:00</lastmod>
       
@@ -1379,7 +1907,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/dedication/</loc>
+      <loc>http://localhost:1313/tags/dedication/</loc>
       
         <lastmod>2025-03-20T16:19:44+00:00</lastmod>
       
@@ -1387,7 +1915,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/values/</loc>
+      <loc>http://localhost:1313/tags/values/</loc>
       
         <lastmod>2025-03-20T16:19:44+00:00</lastmod>
       
@@ -1395,7 +1923,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/work/</loc>
+      <loc>http://localhost:1313/tags/work/</loc>
       
         <lastmod>2025-03-20T16:19:44+00:00</lastmod>
       
@@ -1403,7 +1931,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/chaplain/</loc>
+      <loc>http://localhost:1313/tags/chaplain/</loc>
       
         <lastmod>2025-03-05T22:11:41+00:00</lastmod>
       
@@ -1411,7 +1939,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/chaplaincy/</loc>
+      <loc>http://localhost:1313/tags/chaplaincy/</loc>
       
         <lastmod>2025-03-05T22:11:41+00:00</lastmod>
       
@@ -1419,7 +1947,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-03-05-deputized-to-impose-ashes/</loc>
+      <loc>http://localhost:1313/blog/2025-03-05-deputized-to-impose-ashes/</loc>
       
         <lastmod>2025-03-05T22:11:41+00:00</lastmod>
       
@@ -1427,7 +1955,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/religion/</loc>
+      <loc>http://localhost:1313/tags/religion/</loc>
       
         <lastmod>2025-03-05T22:11:41+00:00</lastmod>
       
@@ -1435,15 +1963,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ritual/</loc>
-      
-        <lastmod>2025-03-05T22:11:41+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/blog/2025-02-25-finding-wisdom-beyond-desperation/</loc>
+      <loc>http://localhost:1313/blog/2025-02-25-finding-wisdom-beyond-desperation/</loc>
       
         <lastmod>2025-02-25T13:06:18+00:00</lastmod>
       
@@ -1451,23 +1971,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/self-awareness/</loc>
-      
-        <lastmod>2025-02-25T13:06:18+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/wisdom/</loc>
-      
-        <lastmod>2025-02-25T13:06:18+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/animals/</loc>
+      <loc>http://localhost:1313/tags/anthropology/</loc>
       
         <lastmod>2025-02-22T01:37:50+00:00</lastmod>
       
@@ -1475,7 +1979,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/anthropology/</loc>
+      <loc>http://localhost:1313/blog/2025-02-23-could-artificial-intelligence-develop-comsciouness/</loc>
       
         <lastmod>2025-02-22T01:37:50+00:00</lastmod>
       
@@ -1483,15 +1987,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-02-23-could-artificial-intelligence-develop-comsciouness/</loc>
-      
-        <lastmod>2025-02-22T01:37:50+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/citizenship/</loc>
+      <loc>http://localhost:1313/tags/citizenship/</loc>
       
         <lastmod>2025-02-14T22:18:27+00:00</lastmod>
       
@@ -1499,7 +1995,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-02-14-no-sir/</loc>
+      <loc>http://localhost:1313/blog/2025-02-14-no-sir/</loc>
       
         <lastmod>2025-02-14T22:18:27+00:00</lastmod>
       
@@ -1507,7 +2003,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/obedience/</loc>
+      <loc>http://localhost:1313/tags/obedience/</loc>
       
         <lastmod>2025-02-14T22:18:27+00:00</lastmod>
       
@@ -1515,7 +2011,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/responsibility/</loc>
+      <loc>http://localhost:1313/tags/responsibility/</loc>
       
         <lastmod>2025-02-14T22:18:27+00:00</lastmod>
       
@@ -1523,7 +2019,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/peace/</loc>
+      <loc>http://localhost:1313/tags/peace/</loc>
       
         <lastmod>2025-02-04T22:18:27+00:00</lastmod>
       
@@ -1531,7 +2027,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/tribalism/</loc>
+      <loc>http://localhost:1313/tags/tribalism/</loc>
       
         <lastmod>2025-02-04T22:18:27+00:00</lastmod>
       
@@ -1539,7 +2035,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-02-04-why-cant-we-be-friends/</loc>
+      <loc>http://localhost:1313/blog/2025-02-04-why-cant-we-be-friends/</loc>
       
         <lastmod>2025-02-04T22:18:27+00:00</lastmod>
       
@@ -1547,7 +2043,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/humanism/</loc>
+      <loc>http://localhost:1313/tags/humanism/</loc>
       
         <lastmod>2025-02-02T03:28:27+00:00</lastmod>
       
@@ -1555,7 +2051,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/love/</loc>
+      <loc>http://localhost:1313/tags/love/</loc>
       
         <lastmod>2025-02-02T03:28:27+00:00</lastmod>
       
@@ -1563,7 +2059,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-02-02-veni-vidi-vici/</loc>
+      <loc>http://localhost:1313/blog/2025-02-02-veni-vidi-vici/</loc>
       
         <lastmod>2025-02-02T03:28:27+00:00</lastmod>
       
@@ -1571,7 +2067,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/home/</loc>
+      <loc>http://localhost:1313/tags/home/</loc>
       
         <lastmod>2025-01-29T00:23:01+00:00</lastmod>
       
@@ -1579,7 +2075,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-29-home-is-where-the-toad-is/</loc>
+      <loc>http://localhost:1313/blog/2025-01-29-home-is-where-the-toad-is/</loc>
       
         <lastmod>2025-01-29T00:23:01+00:00</lastmod>
       
@@ -1587,7 +2083,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/respect/</loc>
+      <loc>http://localhost:1313/tags/respect/</loc>
       
         <lastmod>2025-01-29T00:23:01+00:00</lastmod>
       
@@ -1595,7 +2091,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-25-just-sitting-there-is-not-meditating/</loc>
+      <loc>http://localhost:1313/blog/2025-01-25-just-sitting-there-is-not-meditating/</loc>
       
         <lastmod>2025-01-25T02:30:34+00:00</lastmod>
       
@@ -1603,7 +2099,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/categories/wisdom/</loc>
+      <loc>http://localhost:1313/categories/wisdom/</loc>
       
         <lastmod>2025-01-25T02:30:34+00:00</lastmod>
       
@@ -1611,7 +2107,15 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/discipline/</loc>
+      <loc>http://localhost:1313/contact/</loc>
+      
+        <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/tags/discipline/</loc>
       
         <lastmod>2025-01-22T22:29:11+00:00</lastmod>
       
@@ -1619,7 +2123,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/self-control/</loc>
+      <loc>http://localhost:1313/tags/self-control/</loc>
       
         <lastmod>2025-01-22T22:29:11+00:00</lastmod>
       
@@ -1627,7 +2131,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-22-the-saturday-night-fridge-raid/</loc>
+      <loc>http://localhost:1313/blog/2025-01-22-the-saturday-night-fridge-raid/</loc>
       
         <lastmod>2025-01-22T22:29:11+00:00</lastmod>
       
@@ -1635,7 +2139,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-21-why-are-you-writing/</loc>
+      <loc>http://localhost:1313/blog/2025-01-21-why-are-you-writing/</loc>
       
         <lastmod>2025-01-21T16:38:18+00:00</lastmod>
       
@@ -1643,7 +2147,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/patience/</loc>
+      <loc>http://localhost:1313/tags/patience/</loc>
       
         <lastmod>2025-01-20T21:21:32+00:00</lastmod>
       
@@ -1651,7 +2155,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/polarization/</loc>
+      <loc>http://localhost:1313/tags/polarization/</loc>
       
         <lastmod>2025-01-20T21:21:32+00:00</lastmod>
       
@@ -1659,7 +2163,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-20-thank-you-for-a-courteous-no/</loc>
+      <loc>http://localhost:1313/blog/2025-01-20-thank-you-for-a-courteous-no/</loc>
       
         <lastmod>2025-01-20T21:21:32+00:00</lastmod>
       
@@ -1667,7 +2171,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/tolerance/</loc>
+      <loc>http://localhost:1313/tags/tolerance/</loc>
       
         <lastmod>2025-01-20T21:21:32+00:00</lastmod>
       
@@ -1675,7 +2179,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-20-you-are-beautiful/</loc>
+      <loc>http://localhost:1313/blog/2025-01-20-you-are-beautiful/</loc>
       
         <lastmod>2025-01-19T02:15:01+00:00</lastmod>
       
@@ -1683,7 +2187,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/effort/</loc>
+      <loc>http://localhost:1313/tags/effort/</loc>
       
         <lastmod>2025-01-17T21:41:46+00:00</lastmod>
       
@@ -1691,7 +2195,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/resilience/</loc>
+      <loc>http://localhost:1313/tags/resilience/</loc>
       
         <lastmod>2025-01-17T21:41:46+00:00</lastmod>
       
@@ -1699,7 +2203,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-17-this-is-a-test/</loc>
+      <loc>http://localhost:1313/blog/2025-01-17-this-is-a-test/</loc>
       
         <lastmod>2025-01-17T21:41:46+00:00</lastmod>
       
@@ -1707,7 +2211,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/mindfulness/</loc>
+      <loc>http://localhost:1313/tags/mindfulness/</loc>
       
         <lastmod>2025-01-16T00:00:00+00:00</lastmod>
       
@@ -1715,7 +2219,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/belief/</loc>
+      <loc>http://localhost:1313/tags/belief/</loc>
       
         <lastmod>2025-01-16T00:00:00+00:00</lastmod>
       
@@ -1723,7 +2227,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-16_saying-no-to-mindfulness-as-a-special-effect/</loc>
+      <loc>http://localhost:1313/blog/2025-01-16_saying-no-to-mindfulness-as-a-special-effect/</loc>
       
         <lastmod>2025-01-16T00:00:00+00:00</lastmod>
       
@@ -1731,7 +2235,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/environment/</loc>
+      <loc>http://localhost:1313/tags/environment/</loc>
       
         <lastmod>2025-01-14T00:00:00+00:00</lastmod>
       
@@ -1739,7 +2243,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2025-01-14-hard-times/</loc>
+      <loc>http://localhost:1313/blog/2025-01-14-hard-times/</loc>
       
         <lastmod>2025-01-14T00:00:00+00:00</lastmod>
       
@@ -1747,7 +2251,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/loss/</loc>
+      <loc>http://localhost:1313/tags/loss/</loc>
       
         <lastmod>2025-01-14T00:00:00+00:00</lastmod>
       
@@ -1755,7 +2259,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/suffering/</loc>
+      <loc>http://localhost:1313/tags/suffering/</loc>
       
         <lastmod>2025-01-14T00:00:00+00:00</lastmod>
       
@@ -1763,7 +2267,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/co-creation/</loc>
+      <loc>http://localhost:1313/tags/co-creation/</loc>
       
         <lastmod>2024-11-20T00:00:00+00:00</lastmod>
       
@@ -1771,7 +2275,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/technology/</loc>
+      <loc>http://localhost:1313/tags/technology/</loc>
       
         <lastmod>2024-11-20T00:00:00+00:00</lastmod>
       
@@ -1779,7 +2283,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-11-20-the-lady-on-the-zoom-call/</loc>
+      <loc>http://localhost:1313/blog/2024-11-20-the-lady-on-the-zoom-call/</loc>
       
         <lastmod>2024-11-20T00:00:00+00:00</lastmod>
       
@@ -1787,7 +2291,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/authentic/</loc>
+      <loc>http://localhost:1313/tags/authentic/</loc>
       
         <lastmod>2024-11-15T00:00:00+00:00</lastmod>
       
@@ -1795,7 +2299,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/cynicism/</loc>
+      <loc>http://localhost:1313/tags/cynicism/</loc>
       
         <lastmod>2024-11-15T00:00:00+00:00</lastmod>
       
@@ -1803,7 +2307,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/individual/</loc>
+      <loc>http://localhost:1313/tags/individual/</loc>
       
         <lastmod>2024-11-15T00:00:00+00:00</lastmod>
       
@@ -1811,7 +2315,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-11-15-make-it-personal/</loc>
+      <loc>http://localhost:1313/blog/2024-11-15-make-it-personal/</loc>
       
         <lastmod>2024-11-15T00:00:00+00:00</lastmod>
       
@@ -1819,7 +2323,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/personal/</loc>
+      <loc>http://localhost:1313/tags/personal/</loc>
       
         <lastmod>2024-11-15T00:00:00+00:00</lastmod>
       
@@ -1827,7 +2331,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/battle/</loc>
+      <loc>http://localhost:1313/tags/battle/</loc>
       
         <lastmod>2024-11-11T00:00:00+00:00</lastmod>
       
@@ -1835,7 +2339,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/miltary/</loc>
+      <loc>http://localhost:1313/tags/miltary/</loc>
       
         <lastmod>2024-11-11T00:00:00+00:00</lastmod>
       
@@ -1843,7 +2347,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-11-11-the-people-who-say-no/</loc>
+      <loc>http://localhost:1313/blog/2024-11-11-the-people-who-say-no/</loc>
       
         <lastmod>2024-11-11T00:00:00+00:00</lastmod>
       
@@ -1851,7 +2355,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/war/</loc>
+      <loc>http://localhost:1313/tags/war/</loc>
       
         <lastmod>2024-11-11T00:00:00+00:00</lastmod>
       
@@ -1859,7 +2363,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/conceit/</loc>
+      <loc>http://localhost:1313/tags/conceit/</loc>
       
         <lastmod>2024-11-09T00:00:00+00:00</lastmod>
       
@@ -1867,7 +2371,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/individualism/</loc>
+      <loc>http://localhost:1313/tags/individualism/</loc>
       
         <lastmod>2024-11-09T00:00:00+00:00</lastmod>
       
@@ -1875,7 +2379,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-11-09-the-rise-and-fall-of-rugged-individualism/</loc>
+      <loc>http://localhost:1313/blog/2024-11-09-the-rise-and-fall-of-rugged-individualism/</loc>
       
         <lastmod>2024-11-09T00:00:00+00:00</lastmod>
       
@@ -1883,7 +2387,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/holy-war/</loc>
+      <loc>http://localhost:1313/tags/holy-war/</loc>
       
         <lastmod>2024-11-05T00:00:00+00:00</lastmod>
       
@@ -1891,7 +2395,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-11-05-how-i-want-the-world-to-be/</loc>
+      <loc>http://localhost:1313/blog/2024-11-05-how-i-want-the-world-to-be/</loc>
       
         <lastmod>2024-11-05T00:00:00+00:00</lastmod>
       
@@ -1899,7 +2403,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ease/</loc>
+      <loc>http://localhost:1313/tags/ease/</loc>
       
         <lastmod>2024-09-29T00:00:00+00:00</lastmod>
       
@@ -1907,7 +2411,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-29-checking-in/</loc>
+      <loc>http://localhost:1313/blog/2024-09-29-checking-in/</loc>
       
         <lastmod>2024-09-29T00:00:00+00:00</lastmod>
       
@@ -1915,7 +2419,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/comfort/</loc>
+      <loc>http://localhost:1313/tags/comfort/</loc>
       
         <lastmod>2024-09-29T00:00:00+00:00</lastmod>
       
@@ -1923,7 +2427,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/leadership/</loc>
+      <loc>http://localhost:1313/tags/leadership/</loc>
       
         <lastmod>2024-09-29T00:00:00+00:00</lastmod>
       
@@ -1931,7 +2435,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/pain/</loc>
+      <loc>http://localhost:1313/tags/pain/</loc>
       
         <lastmod>2024-09-29T00:00:00+00:00</lastmod>
       
@@ -1939,7 +2443,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/adversity/</loc>
+      <loc>http://localhost:1313/tags/adversity/</loc>
       
         <lastmod>2024-09-25T00:00:00+00:00</lastmod>
       
@@ -1947,7 +2451,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-24-remembrance-poem-mike-davis/</loc>
+      <loc>http://localhost:1313/blog/2024-09-24-remembrance-poem-mike-davis/</loc>
       
         <lastmod>2024-09-25T00:00:00+00:00</lastmod>
       
@@ -1955,7 +2459,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/belief/</loc>
+      <loc>http://localhost:1313/tags/belief/</loc>
       
         <lastmod>2024-09-17T00:00:00+00:00</lastmod>
       
@@ -1963,7 +2467,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/certainty/</loc>
+      <loc>http://localhost:1313/tags/certainty/</loc>
       
         <lastmod>2024-09-17T00:00:00+00:00</lastmod>
       
@@ -1971,7 +2475,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-17-michio-kaku-string-theory-and-his-koi/</loc>
+      <loc>http://localhost:1313/blog/2024-09-17-michio-kaku-string-theory-and-his-koi/</loc>
       
         <lastmod>2024-09-17T00:00:00+00:00</lastmod>
       
@@ -1979,7 +2483,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-18-new-beliefs/</loc>
+      <loc>http://localhost:1313/blog/2024-09-18-new-beliefs/</loc>
       
         <lastmod>2024-09-17T00:00:00+00:00</lastmod>
       
@@ -1987,7 +2491,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/relationship/</loc>
+      <loc>http://localhost:1313/tags/relationship/</loc>
       
         <lastmod>2024-09-15T00:00:00+00:00</lastmod>
       
@@ -1995,7 +2499,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/dogs/</loc>
+      <loc>http://localhost:1313/tags/dogs/</loc>
       
         <lastmod>2024-09-15T00:00:00+00:00</lastmod>
       
@@ -2003,7 +2507,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-15-companions/</loc>
+      <loc>http://localhost:1313/blog/2024-09-15-companions/</loc>
       
         <lastmod>2024-09-15T00:00:00+00:00</lastmod>
       
@@ -2011,7 +2515,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-14-the-tuning-fork/</loc>
+      <loc>http://localhost:1313/blog/2024-09-14-the-tuning-fork/</loc>
       
         <lastmod>2024-09-14T00:00:00+00:00</lastmod>
       
@@ -2019,7 +2523,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/debates/</loc>
+      <loc>http://localhost:1313/tags/debates/</loc>
       
         <lastmod>2024-09-11T00:00:00+00:00</lastmod>
       
@@ -2027,7 +2531,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-11-debates-and-other-distractions/</loc>
+      <loc>http://localhost:1313/blog/2024-09-11-debates-and-other-distractions/</loc>
       
         <lastmod>2024-09-11T00:00:00+00:00</lastmod>
       
@@ -2035,7 +2539,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/history/</loc>
+      <loc>http://localhost:1313/tags/history/</loc>
       
         <lastmod>2024-09-11T00:00:00+00:00</lastmod>
       
@@ -2043,7 +2547,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/remembrance/</loc>
+      <loc>http://localhost:1313/tags/remembrance/</loc>
       
         <lastmod>2024-09-11T00:00:00+00:00</lastmod>
       
@@ -2051,7 +2555,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-11-resilient-remembrance/</loc>
+      <loc>http://localhost:1313/blog/2024-09-11-resilient-remembrance/</loc>
       
         <lastmod>2024-09-11T00:00:00+00:00</lastmod>
       
@@ -2059,7 +2563,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-08-my-sciatica/</loc>
+      <loc>http://localhost:1313/blog/2024-09-08-my-sciatica/</loc>
       
         <lastmod>2024-09-08T00:00:00+00:00</lastmod>
       
@@ -2067,7 +2571,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/about/about-worldwide-stew/</loc>
+      <loc>http://localhost:1313/about/about-worldwide-stew/</loc>
       
         <lastmod>2024-09-04T00:00:00+00:00</lastmod>
       
@@ -2075,7 +2579,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/articles/</loc>
+      <loc>http://localhost:1313/tags/articles/</loc>
       
         <lastmod>2024-09-04T00:00:00+00:00</lastmod>
       
@@ -2083,7 +2587,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2024-09-04-deep-dive/</loc>
+      <loc>http://localhost:1313/editorial/2024-09-04-deep-dive/</loc>
       
         <lastmod>2024-09-04T00:00:00+00:00</lastmod>
       
@@ -2091,7 +2595,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/help/</loc>
+      <loc>http://localhost:1313/tags/help/</loc>
       
         <lastmod>2024-09-04T00:00:00+00:00</lastmod>
       
@@ -2099,7 +2603,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/about/mikes-story/</loc>
+      <loc>http://localhost:1313/about/mikes-story/</loc>
       
         <lastmod>2024-09-04T00:00:00+00:00</lastmod>
       
@@ -2107,7 +2611,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/podcast/</loc>
+      <loc>http://localhost:1313/tags/reading/</loc>
       
         <lastmod>2024-09-04T00:00:00+00:00</lastmod>
       
@@ -2115,7 +2619,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/reading/</loc>
+      <loc>http://localhost:1313/tags/research/</loc>
       
         <lastmod>2024-09-04T00:00:00+00:00</lastmod>
       
@@ -2123,7 +2627,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/research/</loc>
+      <loc>http://localhost:1313/tags/resources/</loc>
       
         <lastmod>2024-09-04T00:00:00+00:00</lastmod>
       
@@ -2131,15 +2635,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/resources/</loc>
-      
-        <lastmod>2024-09-04T00:00:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/about/my-resources/</loc>
+      <loc>http://localhost:1313/about/my-resources/</loc>
       
         <lastmod>2024-09-02T00:00:00+00:00</lastmod>
       
@@ -2147,7 +2643,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/counseling/</loc>
+      <loc>http://localhost:1313/tags/counseling/</loc>
       
         <lastmod>2024-09-01T00:00:00+00:00</lastmod>
       
@@ -2155,7 +2651,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-09-01-dont-ask-why/</loc>
+      <loc>http://localhost:1313/blog/2024-09-01-dont-ask-why/</loc>
       
         <lastmod>2024-09-01T00:00:00+00:00</lastmod>
       
@@ -2163,7 +2659,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/therapy/</loc>
+      <loc>http://localhost:1313/tags/therapy/</loc>
       
         <lastmod>2024-09-01T00:00:00+00:00</lastmod>
       
@@ -2171,7 +2667,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-08-24-wheres-my-treat/</loc>
+      <loc>http://localhost:1313/blog/2024-08-24-wheres-my-treat/</loc>
       
         <lastmod>2024-08-24T00:00:00+00:00</lastmod>
       
@@ -2179,7 +2675,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/attentiveness/</loc>
+      <loc>http://localhost:1313/tags/flourishing/</loc>
       
         <lastmod>2024-08-21T00:00:00+00:00</lastmod>
       
@@ -2187,7 +2683,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/flourishing/</loc>
+      <loc>http://localhost:1313/tags/meaning/</loc>
       
         <lastmod>2024-08-21T00:00:00+00:00</lastmod>
       
@@ -2195,7 +2691,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/meaning/</loc>
+      <loc>http://localhost:1313/blog/2024-08-21-651-weeks-to-live/</loc>
       
         <lastmod>2024-08-21T00:00:00+00:00</lastmod>
       
@@ -2203,23 +2699,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-08-21-651-weeks-to-live/</loc>
-      
-        <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/time/</loc>
-      
-        <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/advice/</loc>
+      <loc>http://localhost:1313/tags/advice/</loc>
       
         <lastmod>2024-08-18T00:00:00+00:00</lastmod>
       
@@ -2227,7 +2707,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-08-18-can-i-help-you/</loc>
+      <loc>http://localhost:1313/blog/2024-08-18-can-i-help-you/</loc>
       
         <lastmod>2024-08-18T00:00:00+00:00</lastmod>
       
@@ -2235,15 +2715,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/communication/</loc>
-      
-        <lastmod>2024-08-18T00:00:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/aging/</loc>
+      <loc>http://localhost:1313/tags/benefits/</loc>
       
         <lastmod>2024-08-12T00:00:00+00:00</lastmod>
       
@@ -2251,7 +2723,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/benefits/</loc>
+      <loc>http://localhost:1313/blog/2024-08-12-bright-lights/</loc>
       
         <lastmod>2024-08-12T00:00:00+00:00</lastmod>
       
@@ -2259,7 +2731,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-08-12-bright-lights/</loc>
+      <loc>http://localhost:1313/blog/2024-07-19-eventually-if-we-are-lucky/</loc>
       
         <lastmod>2024-08-12T00:00:00+00:00</lastmod>
       
@@ -2267,7 +2739,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/clarity/</loc>
+      <loc>http://localhost:1313/tags/healing/</loc>
       
         <lastmod>2024-08-12T00:00:00+00:00</lastmod>
       
@@ -2275,7 +2747,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-07-19-eventually-if-we-are-lucky/</loc>
+      <loc>http://localhost:1313/tags/relief/</loc>
       
         <lastmod>2024-08-12T00:00:00+00:00</lastmod>
       
@@ -2283,7 +2755,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/healing/</loc>
+      <loc>http://localhost:1313/tags/understanding/</loc>
       
         <lastmod>2024-08-12T00:00:00+00:00</lastmod>
       
@@ -2291,23 +2763,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/relief/</loc>
-      
-        <lastmod>2024-08-12T00:00:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/understanding/</loc>
-      
-        <lastmod>2024-08-12T00:00:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/awe/</loc>
+      <loc>http://localhost:1313/tags/awe/</loc>
       
         <lastmod>2024-08-11T00:00:00+00:00</lastmod>
       
@@ -2315,7 +2771,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-08-13-something-spiritual/</loc>
+      <loc>http://localhost:1313/blog/2024-08-13-something-spiritual/</loc>
       
         <lastmod>2024-08-11T00:00:00+00:00</lastmod>
       
@@ -2323,7 +2779,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-08-05-meditations-chicken-egg-problem/</loc>
+      <loc>http://localhost:1313/blog/2024-08-05-meditations-chicken-egg-problem/</loc>
       
         <lastmod>2024-08-08T00:00:00+00:00</lastmod>
       
@@ -2331,7 +2787,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/quality/</loc>
+      <loc>http://localhost:1313/tags/quality/</loc>
       
         <lastmod>2024-08-08T00:00:00+00:00</lastmod>
       
@@ -2339,7 +2795,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/usefulness/</loc>
+      <loc>http://localhost:1313/tags/usefulness/</loc>
       
         <lastmod>2024-08-08T00:00:00+00:00</lastmod>
       
@@ -2347,7 +2803,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/buffer/</loc>
+      <loc>http://localhost:1313/tags/buffer/</loc>
       
         <lastmod>2024-07-26T00:00:00+00:00</lastmod>
       
@@ -2355,7 +2811,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/gaps/</loc>
+      <loc>http://localhost:1313/tags/gaps/</loc>
       
         <lastmod>2024-07-26T00:00:00+00:00</lastmod>
       
@@ -2363,7 +2819,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/margins/</loc>
+      <loc>http://localhost:1313/tags/margins/</loc>
       
         <lastmod>2024-07-26T00:00:00+00:00</lastmod>
       
@@ -2371,7 +2827,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/gdpr/</loc>
+      <loc>http://localhost:1313/gdpr/</loc>
       
         <lastmod>2024-07-26T00:00:00+00:00</lastmod>
       
@@ -2379,7 +2835,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-07-26-wide-margins/</loc>
+      <loc>http://localhost:1313/blog/2024-07-26-wide-margins/</loc>
       
         <lastmod>2024-07-26T00:00:00+00:00</lastmod>
       
@@ -2387,7 +2843,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/labor/</loc>
+      <loc>http://localhost:1313/tags/labor/</loc>
       
         <lastmod>2024-07-19T00:00:00+00:00</lastmod>
       
@@ -2395,7 +2851,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/shortcuts/</loc>
+      <loc>http://localhost:1313/tags/shortcuts/</loc>
       
         <lastmod>2024-07-19T00:00:00+00:00</lastmod>
       
@@ -2403,7 +2859,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-07-19-the-hard-work/</loc>
+      <loc>http://localhost:1313/blog/2024-07-19-the-hard-work/</loc>
       
         <lastmod>2024-07-19T00:00:00+00:00</lastmod>
       
@@ -2411,7 +2867,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-07-18-bold-edits/</loc>
+      <loc>http://localhost:1313/blog/2024-07-18-bold-edits/</loc>
       
         <lastmod>2024-07-18T00:00:00+00:00</lastmod>
       
@@ -2419,7 +2875,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/culture/</loc>
+      <loc>http://localhost:1313/tags/culture/</loc>
       
         <lastmod>2024-07-18T00:00:00+00:00</lastmod>
       
@@ -2427,7 +2883,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/organizations/</loc>
+      <loc>http://localhost:1313/tags/organizations/</loc>
       
         <lastmod>2024-07-18T00:00:00+00:00</lastmod>
       
@@ -2435,7 +2891,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-07-13-todays-choice/</loc>
+      <loc>http://localhost:1313/blog/2024-07-13-todays-choice/</loc>
       
         <lastmod>2024-07-13T00:00:00+00:00</lastmod>
       
@@ -2443,7 +2899,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-07-14-make-yogurt-at-home/</loc>
+      <loc>http://localhost:1313/blog/2024-07-14-make-yogurt-at-home/</loc>
       
         <lastmod>2024-07-13T00:00:00+00:00</lastmod>
       
@@ -2451,7 +2907,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/positivity/</loc>
+      <loc>http://localhost:1313/tags/positivity/</loc>
       
         <lastmod>2024-07-13T00:00:00+00:00</lastmod>
       
@@ -2459,7 +2915,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/quote/</loc>
+      <loc>http://localhost:1313/tags/quote/</loc>
       
         <lastmod>2024-07-13T00:00:00+00:00</lastmod>
       
@@ -2467,7 +2923,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/recipe/</loc>
+      <loc>http://localhost:1313/tags/recipe/</loc>
       
         <lastmod>2024-07-13T00:00:00+00:00</lastmod>
       
@@ -2475,7 +2931,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/yogurt/</loc>
+      <loc>http://localhost:1313/tags/yogurt/</loc>
       
         <lastmod>2024-07-13T00:00:00+00:00</lastmod>
       
@@ -2483,7 +2939,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/accomplishment/</loc>
+      <loc>http://localhost:1313/tags/accomplishment/</loc>
       
         <lastmod>2024-07-10T00:00:00+00:00</lastmod>
       
@@ -2491,7 +2947,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/priorities/</loc>
+      <loc>http://localhost:1313/tags/priorities/</loc>
       
         <lastmod>2024-07-10T00:00:00+00:00</lastmod>
       
@@ -2499,7 +2955,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/success/</loc>
+      <loc>http://localhost:1313/tags/success/</loc>
       
         <lastmod>2024-07-10T00:00:00+00:00</lastmod>
       
@@ -2507,7 +2963,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/winning-at-the-shooting-range/</loc>
+      <loc>http://localhost:1313/blog/winning-at-the-shooting-range/</loc>
       
         <lastmod>2024-07-10T00:00:00+00:00</lastmod>
       
@@ -2515,7 +2971,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-07-06-awe-in-a-song/</loc>
+      <loc>http://localhost:1313/blog/2024-07-06-awe-in-a-song/</loc>
       
         <lastmod>2024-07-06T00:00:00+00:00</lastmod>
       
@@ -2523,7 +2979,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/creativity/</loc>
+      <loc>http://localhost:1313/tags/creativity/</loc>
       
         <lastmod>2024-07-06T00:00:00+00:00</lastmod>
       
@@ -2531,7 +2987,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/surprise/</loc>
+      <loc>http://localhost:1313/tags/surprise/</loc>
       
         <lastmod>2024-07-06T00:00:00+00:00</lastmod>
       
@@ -2539,7 +2995,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/terror/</loc>
+      <loc>http://localhost:1313/tags/terror/</loc>
       
         <lastmod>2024-07-06T00:00:00+00:00</lastmod>
       
@@ -2547,7 +3003,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2022-03-31-the-point-of-an-easter-egg/</loc>
+      <loc>http://localhost:1313/blog/2022-03-31-the-point-of-an-easter-egg/</loc>
       
         <lastmod>2024-07-06T00:00:00+00:00</lastmod>
       
@@ -2555,7 +3011,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/unexpected/</loc>
+      <loc>http://localhost:1313/tags/unexpected/</loc>
       
         <lastmod>2024-07-06T00:00:00+00:00</lastmod>
       
@@ -2563,7 +3019,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/wonder/</loc>
+      <loc>http://localhost:1313/tags/wonder/</loc>
       
         <lastmod>2024-07-06T00:00:00+00:00</lastmod>
       
@@ -2571,7 +3027,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/abetterphrasethanmasterslave/</loc>
+      <loc>http://localhost:1313/blog/abetterphrasethanmasterslave/</loc>
       
         <lastmod>2024-07-01T00:00:00+00:00</lastmod>
       
@@ -2579,7 +3035,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/racism/</loc>
+      <loc>http://localhost:1313/tags/racism/</loc>
       
         <lastmod>2024-07-01T00:00:00+00:00</lastmod>
       
@@ -2587,7 +3043,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/the-truth-about-my-new-love/</loc>
+      <loc>http://localhost:1313/blog/the-truth-about-my-new-love/</loc>
       
         <lastmod>2024-06-30T00:00:00+00:00</lastmod>
       
@@ -2595,7 +3051,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/healthcare/</loc>
+      <loc>http://localhost:1313/tags/honesty/</loc>
       
         <lastmod>2024-06-13T09:10:00+00:00</lastmod>
       
@@ -2603,7 +3059,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/honesty/</loc>
+      <loc>http://localhost:1313/blog/the-last-thing-they-say-before-they-leave/</loc>
       
         <lastmod>2024-06-13T09:10:00+00:00</lastmod>
       
@@ -2611,15 +3067,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/the-last-thing-they-say-before-they-leave/</loc>
-      
-        <lastmod>2024-06-13T09:10:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/blog/2024-05-28-where-will-that-thing-live-in-3-years/</loc>
+      <loc>http://localhost:1313/blog/2024-05-28-where-will-that-thing-live-in-3-years/</loc>
       
         <lastmod>2024-05-28T00:00:00+00:00</lastmod>
       
@@ -2627,7 +3075,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/prosperity/</loc>
+      <loc>http://localhost:1313/tags/prosperity/</loc>
       
         <lastmod>2024-05-28T00:00:00+00:00</lastmod>
       
@@ -2635,7 +3083,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/waste/</loc>
+      <loc>http://localhost:1313/tags/waste/</loc>
       
         <lastmod>2024-05-28T00:00:00+00:00</lastmod>
       
@@ -2643,7 +3091,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/anxiety/</loc>
+      <loc>http://localhost:1313/tags/anxiety/</loc>
       
         <lastmod>2024-05-19T00:00:00+00:00</lastmod>
       
@@ -2651,7 +3099,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/crisis/</loc>
+      <loc>http://localhost:1313/tags/crisis/</loc>
       
         <lastmod>2024-05-19T00:00:00+00:00</lastmod>
       
@@ -2659,7 +3107,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2024-05-19-deep-dive/</loc>
+      <loc>http://localhost:1313/editorial/2024-05-19-deep-dive/</loc>
       
         <lastmod>2024-05-19T00:00:00+00:00</lastmod>
       
@@ -2667,7 +3115,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/depression/</loc>
+      <loc>http://localhost:1313/tags/depression/</loc>
       
         <lastmod>2024-05-19T00:00:00+00:00</lastmod>
       
@@ -2675,7 +3123,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/risk/</loc>
+      <loc>http://localhost:1313/tags/risk/</loc>
       
         <lastmod>2024-05-19T00:00:00+00:00</lastmod>
       
@@ -2683,7 +3131,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/suicide/</loc>
+      <loc>http://localhost:1313/tags/suicide/</loc>
       
         <lastmod>2024-05-19T00:00:00+00:00</lastmod>
       
@@ -2691,7 +3139,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/suicide-crisis-syndrome/</loc>
+      <loc>http://localhost:1313/tags/suicide-crisis-syndrome/</loc>
       
         <lastmod>2024-05-19T00:00:00+00:00</lastmod>
       
@@ -2699,7 +3147,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/syndrome/</loc>
+      <loc>http://localhost:1313/tags/syndrome/</loc>
       
         <lastmod>2024-05-19T00:00:00+00:00</lastmod>
       
@@ -2707,7 +3155,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2024-04-28-deep-dive/</loc>
+      <loc>http://localhost:1313/editorial/2024-04-28-deep-dive/</loc>
       
         <lastmod>2024-04-28T00:00:00+00:00</lastmod>
       
@@ -2715,7 +3163,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/hospitals/</loc>
+      <loc>http://localhost:1313/tags/hospitals/</loc>
       
         <lastmod>2024-04-28T00:00:00+00:00</lastmod>
       
@@ -2723,7 +3171,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/on-the-end-of-a-family-vacation/</loc>
+      <loc>http://localhost:1313/blog/on-the-end-of-a-family-vacation/</loc>
       
         <lastmod>2024-04-16T00:00:00+00:00</lastmod>
       
@@ -2731,7 +3179,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/vacation/</loc>
+      <loc>http://localhost:1313/tags/vacation/</loc>
       
         <lastmod>2024-04-16T00:00:00+00:00</lastmod>
       
@@ -2739,7 +3187,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/death/</loc>
+      <loc>http://localhost:1313/tags/funeral/</loc>
       
         <lastmod>2024-04-08T00:00:00+00:00</lastmod>
       
@@ -2747,7 +3195,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/funeral/</loc>
+      <loc>http://localhost:1313/blog/2024-04-08-officiating-the-funeral/</loc>
       
         <lastmod>2024-04-08T00:00:00+00:00</lastmod>
       
@@ -2755,31 +3203,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-04-08-officiating-the-funeral/</loc>
-      
-        <lastmod>2024-04-08T00:00:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/events/2025-03-20-ai-for-the-rest-of-us-a-hands-on-workshop/</loc>
-      
-        <lastmod>2024-07-04T15:30:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/seminar/</loc>
-      
-        <lastmod>2024-07-04T15:30:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/editorial/2024-02-17-deep-dive-phone-addiction/</loc>
+      <loc>http://localhost:1313/editorial/2024-02-17-deep-dive-phone-addiction/</loc>
       
         <lastmod>2024-02-17T00:00:00+00:00</lastmod>
       
@@ -2787,7 +3211,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/private-equity/</loc>
+      <loc>http://localhost:1313/tags/private-equity/</loc>
       
         <lastmod>2024-02-17T00:00:00+00:00</lastmod>
       
@@ -2795,7 +3219,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/smartphones/</loc>
+      <loc>http://localhost:1313/tags/smartphones/</loc>
       
         <lastmod>2024-02-17T00:00:00+00:00</lastmod>
       
@@ -2803,7 +3227,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2024-02-04-deep-dive-copy/</loc>
+      <loc>http://localhost:1313/editorial/2024-02-04-deep-dive-copy/</loc>
       
         <lastmod>2024-02-04T00:00:00+00:00</lastmod>
       
@@ -2811,7 +3235,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/calling/</loc>
+      <loc>http://localhost:1313/tags/calling/</loc>
       
         <lastmod>2024-01-29T00:00:00+00:00</lastmod>
       
@@ -2819,7 +3243,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/chores/</loc>
+      <loc>http://localhost:1313/tags/chores/</loc>
       
         <lastmod>2024-01-29T00:00:00+00:00</lastmod>
       
@@ -2827,7 +3251,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2024-01-29-your-chore-list/</loc>
+      <loc>http://localhost:1313/blog/2024-01-29-your-chore-list/</loc>
       
         <lastmod>2024-01-29T00:00:00+00:00</lastmod>
       
@@ -2835,7 +3259,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/acute-pain/</loc>
+      <loc>http://localhost:1313/tags/acute-pain/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2843,7 +3267,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/apple/</loc>
+      <loc>http://localhost:1313/tags/apple/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2851,7 +3275,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/chaplains/</loc>
+      <loc>http://localhost:1313/tags/chaplains/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2859,7 +3283,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/children/</loc>
+      <loc>http://localhost:1313/tags/children/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2867,7 +3291,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2024-01-28-deep-dive/</loc>
+      <loc>http://localhost:1313/editorial/2024-01-28-deep-dive/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2875,7 +3299,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/disease/</loc>
+      <loc>http://localhost:1313/tags/disease/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2883,7 +3307,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/generations/</loc>
+      <loc>http://localhost:1313/tags/generations/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2891,7 +3315,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/illness/</loc>
+      <loc>http://localhost:1313/tags/illness/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2899,7 +3323,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ios/</loc>
+      <loc>http://localhost:1313/tags/ios/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2907,7 +3331,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/nursing/</loc>
+      <loc>http://localhost:1313/tags/nursing/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2915,7 +3339,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/plastics/</loc>
+      <loc>http://localhost:1313/tags/plastics/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2923,7 +3347,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/travel/</loc>
+      <loc>http://localhost:1313/tags/travel/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2931,7 +3355,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/media/2024-08-27-anthony-nguyen/</loc>
+      <loc>http://localhost:1313/media/2024-08-27-anthony-nguyen/</loc>
       
         <lastmod>2024-01-28T00:00:00+00:00</lastmod>
       
@@ -2939,7 +3363,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2024-01-21-deep-dive/</loc>
+      <loc>http://localhost:1313/editorial/2024-01-21-deep-dive/</loc>
       
         <lastmod>2024-01-21T00:00:00+00:00</lastmod>
       
@@ -2947,7 +3371,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/chaplains/</loc>
+      <loc>http://localhost:1313/tags/chaplains/</loc>
       
         <lastmod>2024-01-12T00:00:00+00:00</lastmod>
       
@@ -2955,7 +3379,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/coffins/</loc>
+      <loc>http://localhost:1313/tags/coffins/</loc>
       
         <lastmod>2024-01-12T00:00:00+00:00</lastmod>
       
@@ -2963,7 +3387,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/counselors/</loc>
+      <loc>http://localhost:1313/tags/counselors/</loc>
       
         <lastmod>2024-01-12T00:00:00+00:00</lastmod>
       
@@ -2971,7 +3395,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ethical-behavior/</loc>
+      <loc>http://localhost:1313/tags/ethical-behavior/</loc>
       
         <lastmod>2024-01-12T00:00:00+00:00</lastmod>
       
@@ -2979,7 +3403,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/psychiatry/</loc>
+      <loc>http://localhost:1313/tags/psychiatry/</loc>
       
         <lastmod>2024-01-12T00:00:00+00:00</lastmod>
       
@@ -2987,7 +3411,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/texas/</loc>
+      <loc>http://localhost:1313/tags/texas/</loc>
       
         <lastmod>2024-01-12T00:00:00+00:00</lastmod>
       
@@ -2995,7 +3419,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ubuntu/</loc>
+      <loc>http://localhost:1313/tags/ubuntu/</loc>
       
         <lastmod>2024-01-12T00:00:00+00:00</lastmod>
       
@@ -3003,7 +3427,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2024-01-12-deep-dive/</loc>
+      <loc>http://localhost:1313/editorial/2024-01-12-deep-dive/</loc>
       
         <lastmod>2024-01-12T00:00:00+00:00</lastmod>
       
@@ -3011,7 +3435,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/doubt/</loc>
+      <loc>http://localhost:1313/tags/doubt/</loc>
       
         <lastmod>2023-06-03T00:00:00+00:00</lastmod>
       
@@ -3019,7 +3443,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2023-06-03-soft-landings/</loc>
+      <loc>http://localhost:1313/blog/2023-06-03-soft-landings/</loc>
       
         <lastmod>2023-06-03T00:00:00+00:00</lastmod>
       
@@ -3027,7 +3451,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/the-beauty-of-doubt/</loc>
+      <loc>http://localhost:1313/blog/the-beauty-of-doubt/</loc>
       
         <lastmod>2023-06-03T00:00:00+00:00</lastmod>
       
@@ -3035,7 +3459,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2023-04-21-deep-dive-scary-religious-right/</loc>
+      <loc>http://localhost:1313/editorial/2023-04-21-deep-dive-scary-religious-right/</loc>
       
         <lastmod>2023-04-21T00:00:00+00:00</lastmod>
       
@@ -3043,7 +3467,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/notifications/</loc>
+      <loc>http://localhost:1313/tags/notifications/</loc>
       
         <lastmod>2023-04-21T00:00:00+00:00</lastmod>
       
@@ -3051,7 +3475,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/religious-right/</loc>
+      <loc>http://localhost:1313/tags/religious-right/</loc>
       
         <lastmod>2023-04-21T00:00:00+00:00</lastmod>
       
@@ -3059,7 +3483,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/theocracy/</loc>
+      <loc>http://localhost:1313/tags/theocracy/</loc>
       
         <lastmod>2023-04-21T00:00:00+00:00</lastmod>
       
@@ -3067,7 +3491,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/totalitarianism/</loc>
+      <loc>http://localhost:1313/tags/totalitarianism/</loc>
       
         <lastmod>2023-04-21T00:00:00+00:00</lastmod>
       
@@ -3075,7 +3499,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2023-03-25-weight-shame-water-kefir/</loc>
+      <loc>http://localhost:1313/editorial/2023-03-25-weight-shame-water-kefir/</loc>
       
         <lastmod>2023-03-25T00:00:00+00:00</lastmod>
       
@@ -3083,7 +3507,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/kefir-water/</loc>
+      <loc>http://localhost:1313/tags/kefir-water/</loc>
       
         <lastmod>2023-03-25T00:00:00+00:00</lastmod>
       
@@ -3091,7 +3515,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/obesity/</loc>
+      <loc>http://localhost:1313/tags/obesity/</loc>
       
         <lastmod>2023-03-25T00:00:00+00:00</lastmod>
       
@@ -3099,7 +3523,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/self-criticism/</loc>
+      <loc>http://localhost:1313/tags/self-criticism/</loc>
       
         <lastmod>2023-03-25T00:00:00+00:00</lastmod>
       
@@ -3107,7 +3531,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/weight/</loc>
+      <loc>http://localhost:1313/tags/weight/</loc>
       
         <lastmod>2023-03-25T00:00:00+00:00</lastmod>
       
@@ -3115,7 +3539,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2023-03-19-shame-smell/</loc>
+      <loc>http://localhost:1313/editorial/2023-03-19-shame-smell/</loc>
       
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
       
@@ -3123,7 +3547,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/embarassment/</loc>
+      <loc>http://localhost:1313/tags/embarassment/</loc>
       
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
       
@@ -3131,7 +3555,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/odor/</loc>
+      <loc>http://localhost:1313/tags/odor/</loc>
       
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
       
@@ -3139,7 +3563,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/sensation/</loc>
+      <loc>http://localhost:1313/tags/sensation/</loc>
       
         <lastmod>2023-03-19T00:00:00+00:00</lastmod>
       
@@ -3147,7 +3571,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2023-03-11_deep_dive/</loc>
+      <loc>http://localhost:1313/editorial/2023-03-11_deep_dive/</loc>
       
         <lastmod>2023-03-11T00:00:00+00:00</lastmod>
       
@@ -3155,7 +3579,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/detransitioners/</loc>
+      <loc>http://localhost:1313/tags/detransitioners/</loc>
       
         <lastmod>2023-03-11T00:00:00+00:00</lastmod>
       
@@ -3163,7 +3587,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/workplace-wellness/</loc>
+      <loc>http://localhost:1313/tags/workplace-wellness/</loc>
       
         <lastmod>2023-03-11T00:00:00+00:00</lastmod>
       
@@ -3171,7 +3595,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/covid/</loc>
+      <loc>http://localhost:1313/tags/covid/</loc>
       
         <lastmod>2023-02-25T00:00:00+00:00</lastmod>
       
@@ -3179,7 +3603,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2023-02-25-deeper-dive-covid-flu-worse/</loc>
+      <loc>http://localhost:1313/editorial/2023-02-25-deeper-dive-covid-flu-worse/</loc>
       
         <lastmod>2023-02-25T00:00:00+00:00</lastmod>
       
@@ -3187,7 +3611,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/flu/</loc>
+      <loc>http://localhost:1313/tags/flu/</loc>
       
         <lastmod>2023-02-25T00:00:00+00:00</lastmod>
       
@@ -3195,7 +3619,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/influenza/</loc>
+      <loc>http://localhost:1313/tags/influenza/</loc>
       
         <lastmod>2023-02-25T00:00:00+00:00</lastmod>
       
@@ -3203,7 +3627,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/pandemic/</loc>
+      <loc>http://localhost:1313/tags/pandemic/</loc>
       
         <lastmod>2023-02-25T00:00:00+00:00</lastmod>
       
@@ -3211,7 +3635,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/big-five/</loc>
+      <loc>http://localhost:1313/tags/big-five/</loc>
       
         <lastmod>2023-02-17T00:00:00+00:00</lastmod>
       
@@ -3219,7 +3643,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2023-02-17_deepdive/</loc>
+      <loc>http://localhost:1313/editorial/2023-02-17_deepdive/</loc>
       
         <lastmod>2023-02-17T00:00:00+00:00</lastmod>
       
@@ -3227,7 +3651,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2023-03-04-deep-dive-myers-briggs/</loc>
+      <loc>http://localhost:1313/editorial/2023-03-04-deep-dive-myers-briggs/</loc>
       
         <lastmod>2023-02-17T00:00:00+00:00</lastmod>
       
@@ -3235,7 +3659,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/dying/</loc>
+      <loc>http://localhost:1313/tags/hexaco/</loc>
       
         <lastmod>2023-02-17T00:00:00+00:00</lastmod>
       
@@ -3243,7 +3667,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/hexaco/</loc>
+      <loc>http://localhost:1313/tags/personality/</loc>
       
         <lastmod>2023-02-17T00:00:00+00:00</lastmod>
       
@@ -3251,7 +3675,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/personality/</loc>
+      <loc>http://localhost:1313/tags/personality-assessment/</loc>
       
         <lastmod>2023-02-17T00:00:00+00:00</lastmod>
       
@@ -3259,15 +3683,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/personality-assessment/</loc>
-      
-        <lastmod>2023-02-17T00:00:00+00:00</lastmod>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://worldwidestew.com/tags/animal-sentience/</loc>
+      <loc>http://localhost:1313/tags/animal-sentience/</loc>
       
         <lastmod>2022-12-12T00:00:00+00:00</lastmod>
       
@@ -3275,7 +3691,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2022-12-12-deep-dive/</loc>
+      <loc>http://localhost:1313/editorial/2022-12-12-deep-dive/</loc>
       
         <lastmod>2022-12-12T00:00:00+00:00</lastmod>
       
@@ -3283,7 +3699,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/fodmap/</loc>
+      <loc>http://localhost:1313/tags/fodmap/</loc>
       
         <lastmod>2022-12-12T00:00:00+00:00</lastmod>
       
@@ -3291,7 +3707,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/nature/</loc>
+      <loc>http://localhost:1313/tags/ptsd/</loc>
       
         <lastmod>2022-12-12T00:00:00+00:00</lastmod>
       
@@ -3299,7 +3715,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ptsd/</loc>
+      <loc>http://localhost:1313/tags/wanting/</loc>
       
         <lastmod>2022-12-12T00:00:00+00:00</lastmod>
       
@@ -3307,15 +3723,23 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/wanting/</loc>
+      <loc>http://localhost:1313/tags/life/</loc>
       
-        <lastmod>2022-12-12T00:00:00+00:00</lastmod>
+        <lastmod>2022-11-26T16:49:39+00:00</lastmod>
       
       
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2022-10-30-deep-dive/</loc>
+      <loc>http://localhost:1313/blog/2026-04-18-on-propagation/</loc>
+      
+        <lastmod>2022-11-26T16:49:39+00:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:1313/editorial/2022-10-30-deep-dive/</loc>
       
         <lastmod>2022-10-30T00:00:00+00:00</lastmod>
       
@@ -3323,7 +3747,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/emotions/</loc>
+      <loc>http://localhost:1313/tags/emotions/</loc>
       
         <lastmod>2022-10-30T00:00:00+00:00</lastmod>
       
@@ -3331,7 +3755,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/genomics/</loc>
+      <loc>http://localhost:1313/tags/genomics/</loc>
       
         <lastmod>2022-10-30T00:00:00+00:00</lastmod>
       
@@ -3339,7 +3763,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/ppe/</loc>
+      <loc>http://localhost:1313/tags/ppe/</loc>
       
         <lastmod>2022-10-30T00:00:00+00:00</lastmod>
       
@@ -3347,7 +3771,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/stress/</loc>
+      <loc>http://localhost:1313/tags/stress/</loc>
       
         <lastmod>2022-10-30T00:00:00+00:00</lastmod>
       
@@ -3355,7 +3779,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/energy/</loc>
+      <loc>http://localhost:1313/tags/energy/</loc>
       
         <lastmod>2022-04-20T00:00:00+00:00</lastmod>
       
@@ -3363,7 +3787,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2022-04-20-the-glass-is-empty/</loc>
+      <loc>http://localhost:1313/blog/2022-04-20-the-glass-is-empty/</loc>
       
         <lastmod>2022-04-20T00:00:00+00:00</lastmod>
       
@@ -3371,7 +3795,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/cognitive-distortions/</loc>
+      <loc>http://localhost:1313/tags/cognitive-distortions/</loc>
       
         <lastmod>2022-04-05T00:00:00+00:00</lastmod>
       
@@ -3379,7 +3803,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/limits/</loc>
+      <loc>http://localhost:1313/tags/limits/</loc>
       
         <lastmod>2022-04-05T00:00:00+00:00</lastmod>
       
@@ -3387,7 +3811,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2022-04-05-the-dunning-kruger-effect-certainty/</loc>
+      <loc>http://localhost:1313/blog/2022-04-05-the-dunning-kruger-effect-certainty/</loc>
       
         <lastmod>2022-04-05T00:00:00+00:00</lastmod>
       
@@ -3395,7 +3819,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2022-04-05-the-limts-of-certainty/</loc>
+      <loc>http://localhost:1313/blog/2022-04-05-the-limts-of-certainty/</loc>
       
         <lastmod>2022-04-05T00:00:00+00:00</lastmod>
       
@@ -3403,7 +3827,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/protection/</loc>
+      <loc>http://localhost:1313/tags/protection/</loc>
       
         <lastmod>2022-04-04T00:00:00+00:00</lastmod>
       
@@ -3411,7 +3835,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2022-04-04-the-nature-of-protection/</loc>
+      <loc>http://localhost:1313/blog/2022-04-04-the-nature-of-protection/</loc>
       
         <lastmod>2022-04-04T00:00:00+00:00</lastmod>
       
@@ -3419,7 +3843,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2022-02-04-the-point-of-mindfulness/</loc>
+      <loc>http://localhost:1313/blog/2022-02-04-the-point-of-mindfulness/</loc>
       
         <lastmod>2022-04-02T00:00:00+00:00</lastmod>
       
@@ -3427,7 +3851,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2022-04-01-the-same-old-battles/</loc>
+      <loc>http://localhost:1313/blog/2022-04-01-the-same-old-battles/</loc>
       
         <lastmod>2022-04-01T00:00:00+00:00</lastmod>
       
@@ -3435,7 +3859,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/fortitude/</loc>
+      <loc>http://localhost:1313/tags/fortitude/</loc>
       
         <lastmod>2022-04-01T00:00:00+00:00</lastmod>
       
@@ -3443,7 +3867,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/grit/</loc>
+      <loc>http://localhost:1313/tags/grit/</loc>
       
         <lastmod>2022-04-01T00:00:00+00:00</lastmod>
       
@@ -3451,7 +3875,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/persistence/</loc>
+      <loc>http://localhost:1313/tags/persistence/</loc>
       
         <lastmod>2022-04-01T00:00:00+00:00</lastmod>
       
@@ -3459,7 +3883,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/tags/impermanence/</loc>
+      <loc>http://localhost:1313/tags/impermanence/</loc>
       
         <lastmod>2022-03-27T00:00:00+00:00</lastmod>
       
@@ -3467,7 +3891,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2022-03-27-on-impermanence/</loc>
+      <loc>http://localhost:1313/blog/2022-03-27-on-impermanence/</loc>
       
         <lastmod>2022-03-27T00:00:00+00:00</lastmod>
       
@@ -3475,7 +3899,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2022-03-08-false-claims-about-mrna-vaccines/</loc>
+      <loc>http://localhost:1313/editorial/2022-03-08-false-claims-about-mrna-vaccines/</loc>
       
         <lastmod>2022-03-08T00:00:00+00:00</lastmod>
       
@@ -3483,7 +3907,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/creativity-and-analysis-from-seth-godin/</loc>
+      <loc>http://localhost:1313/blog/creativity-and-analysis-from-seth-godin/</loc>
       
         <lastmod>2019-05-01T00:00:00+00:00</lastmod>
       
@@ -3491,7 +3915,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2019-03-19-what-this-site-is-for/</loc>
+      <loc>http://localhost:1313/blog/2019-03-19-what-this-site-is-for/</loc>
       
         <lastmod>2019-03-19T00:00:00+00:00</lastmod>
       
@@ -3499,7 +3923,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/blog/2019-03-03-mark-manson-three-life-skills/</loc>
+      <loc>http://localhost:1313/blog/2019-03-03-mark-manson-three-life-skills/</loc>
       
         <lastmod>2019-03-03T00:00:00+00:00</lastmod>
       
@@ -3507,7 +3931,7 @@
     </url>
   
     <url>
-      <loc>https://worldwidestew.com/editorial/2024-11-13-christian-nationalism-and-public-schools/</loc>
+      <loc>http://localhost:1313/editorial/2024-11-13-christian-nationalism-and-public-schools/</loc>
       
       
     </url>

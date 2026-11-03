@@ -2,64 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Change on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/change/</link>
+    <link>http://localhost:1313/tags/change/</link>
     <description>Recent content in Change on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sat, 27 Dec 2025 03:52:54 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/change/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Mon, 12 Jan 2026 13:17:11 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/change/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolutions and the Hungry Ghost Podcast Transcript</title>
+      <link>http://localhost:1313/media/2026-01-12-resolutions-and-the-hungry-ghost-podcast-transcript/</link>
+      <pubDate>Mon, 12 Jan 2026 13:17:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/media/2026-01-12-resolutions-and-the-hungry-ghost-podcast-transcript/</guid>
+      <description>Resolutions and The Hungry Ghost This is the transcript first of a three part podcast of a series on Resolutions, Intentions, and serious behavior change. There are some edits (not enough, I fea). Lead in I have a jaded relationship with resolutions, which I guess means I have a jaded relationship with January, [chuckles] and upcoming to January every year. It&amp;rsquo;s because of the idea of resolutions, like this is something we&amp;rsquo;re supposed to do, that we have to do.</description>
+    </item>
+    
     <item>
       <title>Wait before you make any resolutions</title>
-      <link>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</link>
+      <link>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</link>
       <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</guid>
       <description>Wait before you make any resolutions. If you don&amp;rsquo;t, your resolutions make may cost you time, vital energy, money, and hope about your ability to change.
 The making of resolutions is a time-worn transition marking the beginning of a new year. Usually, we focus on our deficits, and then create a grocery list of needed changes. If we listen to advertisers, it almost literally turns into a shopping list. Who we are wasn’t good enough.</description>
     </item>
     
     <item>
       <title>This is a test</title>
-      <link>https://worldwidestew.com/blog/2025-01-17-this-is-a-test/</link>
+      <link>http://localhost:1313/blog/2025-01-17-this-is-a-test/</link>
       <pubDate>Fri, 17 Jan 2025 21:41:46 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-01-17-this-is-a-test/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-01-17-this-is-a-test/</guid>
       <description>We all need to try new things. And, make mistakes. Then, try again.</description>
     </item>
     
     <item>
       <title>Where&#39;s my treat?</title>
-      <link>https://worldwidestew.com/blog/2024-08-24-wheres-my-treat/</link>
+      <link>http://localhost:1313/blog/2024-08-24-wheres-my-treat/</link>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-08-24-wheres-my-treat/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-08-24-wheres-my-treat/</guid>
       <description>Whatever is going on now, it won&amp;rsquo;t&amp;hellip;</description>
     </item>
     
     <item>
       <title>Soft Landings</title>
-      <link>https://worldwidestew.com/blog/2023-06-03-soft-landings/</link>
+      <link>http://localhost:1313/blog/2023-06-03-soft-landings/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2023-06-03-soft-landings/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2023-06-03-soft-landings/</guid>
       <description>Sometimes our beliefs - our certainties - come crashing down around us. How we weather those storms is dependent on the people&amp;hellip;</description>
     </item>
     
     <item>
       <title>The Nature of Protection</title>
-      <link>https://worldwidestew.com/blog/2022-04-04-the-nature-of-protection/</link>
+      <link>http://localhost:1313/blog/2022-04-04-the-nature-of-protection/</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2022-04-04-the-nature-of-protection/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2022-04-04-the-nature-of-protection/</guid>
       <description>Sometimes, we borrow the means to hide. Sometimes, they work. Other times, they don&amp;rsquo;t. The effort to protect ourselves seems forced by evolution. Maybe, though, we can do better. My profanity evolution&amp;hellip;</description>
     </item>
     
     <item>
       <title>On impermanance</title>
-      <link>https://worldwidestew.com/blog/2022-03-27-on-impermanence/</link>
+      <link>http://localhost:1313/blog/2022-03-27-on-impermanence/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2022-03-27-on-impermanence/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2022-03-27-on-impermanence/</guid>
       <description>An irrigation repair turns into an exploration on trees, dogs, and&amp;hellip;</description>
     </item>
     

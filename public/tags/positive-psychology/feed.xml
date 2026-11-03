@@ -2,30 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Positive Psychology on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/positive-psychology/</link>
+    <link>http://localhost:1313/tags/positive-psychology/</link>
     <description>Recent content in Positive Psychology on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 14:44:21 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/positive-psychology/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sun, 20 Sep 2026 03:24:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/positive-psychology/feed.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Stretch</title>
-      <link>https://worldwidestew.com/blog/2026-01-05-stretch/</link>
-      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2026-01-05-stretch/</guid>
-      <description>Cassie, let’s go for a walk.
-Cassie, our dog responds more slowly than usual. She usually gets to the door first. She&amp;rsquo;s feeling lazy this morning. Finally, at another beckon, she arises. But, as she does, she takes a long, deep stretch. Her body lengthens. She twists like her body is a towel being wrung out. Then, she releases a full-body shake.
-Now, she was ready to go. Our walk could begin.</description>
+      <title>Events and Programs</title>
+      <link>http://localhost:1313/events/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/events/</guid>
+      <description>Opportunities </description>
     </item>
     
     <item>
-      <title>Events and Programs</title>
-      <link>https://worldwidestew.com/events/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/events/</guid>
-      <description>🚀 Announcing January 2026 sessions of our new class Collaborating with AI: A Hands-On Workshop for the Cautiously Curious - I&amp;rsquo;ll be hosting new AI for the Rest of Us: Hands-On Workshops on August 2, 9, and 16, from 9:30-11:00 AM (CT). For August only, we are offering them at $50.00 (USD). Please click the link above for more information. 🕯️ 🍃 October-December 2025 - Sign up for the free Positively Mindful Meet-Up sessions: October-December 2025 🕯️ 🍃 A Two-Minute Mindfulness Break: It&amp;rsquo;s a brief reset for your mind and body.</description>
+      <title>Go sit in the corner</title>
+      <link>http://localhost:1313/blog/2026-03-15-go-sit-in-the-corner/</link>
+      <pubDate>Sun, 15 Mar 2026 02:14:23 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-15-go-sit-in-the-corner/</guid>
+      <description>Time out. Go sit in the corner.
+I still feel the sting of hearing my Mom say that.
+I don&amp;rsquo;t need to sit in any corner.
+Time out was a punishment. It&amp;rsquo;s no wonder we try to push through everything: we don&amp;rsquo;t have time for time out. Time out suggests we&amp;rsquo;re not in control.
+Sitting in the corner is good medicine for the insanity of our lives and world. Our negative reaction to it is a hand-me-down from our past.</description>
+    </item>
+    
+    <item>
+      <title>Stretch</title>
+      <link>http://localhost:1313/blog/2026-01-05-stretch/</link>
+      <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-01-05-stretch/</guid>
+      <description>Cassie, let’s go for a walk.
+Cassie, our dog responds more slowly than usual. She usually gets to the door first. She&amp;rsquo;s feeling lazy this morning. Finally, at another beckon, she arises. But, as she does, she takes a long, deep stretch. Her body lengthens. She twists like her body is a towel being wrung out. Then, she releases a full-body shake.
+Now, she was ready to go. Our walk could begin.</description>
     </item>
     
   </channel>

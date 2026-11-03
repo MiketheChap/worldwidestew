@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Impermanence on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/impermanence/</link>
+    <link>http://localhost:1313/tags/impermanence/</link>
     <description>Recent content in Impermanence on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/impermanence/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/impermanence/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On impermanance</title>
-      <link>https://worldwidestew.com/blog/2022-03-27-on-impermanence/</link>
+      <link>http://localhost:1313/blog/2022-03-27-on-impermanence/</link>
       <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2022-03-27-on-impermanence/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2022-03-27-on-impermanence/</guid>
       <description>An irrigation repair turns into an exploration on trees, dogs, and&amp;hellip;</description>
     </item>
     

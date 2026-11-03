@@ -2,18 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meditation on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/meditation/</link>
+    <link>http://localhost:1313/tags/meditation/</link>
     <description>Recent content in Meditation on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Tue, 25 Nov 2025 17:28:57 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/meditation/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Tue, 22 Sep 2026 14:07:52 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/meditation/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entering Fall - and other Seasons</title>
+      <link>http://localhost:1313/blog/2026-09-24-entering-fall---and-other-seasons/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-09-24-entering-fall---and-other-seasons/</guid>
+      <description>If it&amp;rsquo;s Tuesday, it&amp;rsquo;s Fall!
+With the conditions of the world (and, at least for me, money being a bit tight), I&amp;rsquo;m feeling some stress.
+With new seasons, we&amp;rsquo;re always trying to make our way through (this seems even more true this year). Maybe you can identify with some of the ways I&amp;rsquo;m trying to make it through this season:
+Here are some of my more recent seasons:
+Not fun seasons.</description>
+    </item>
+    
+    <item>
+      <title>Events and Programs</title>
+      <link>http://localhost:1313/events/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/events/</guid>
+      <description>Opportunities </description>
+    </item>
+    
+    <item>
+      <title>Mindfulness and mindfulness meditation</title>
+      <link>http://localhost:1313/blog/2026-03-05-mindfulness-versus-mindfulness-meditation/</link>
+      <pubDate>Fri, 06 Mar 2026 23:52:46 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-05-mindfulness-versus-mindfulness-meditation/</guid>
+      <description>How much do I need to meditate to be mindful?
+This question lies at a modern fallacy: How little can I do something to enjoy it&amp;rsquo;s benefits? We have become used to getting things for free and as a commodity.
+Alas, mindfulness and meditation are inseparable. You have to meditate to be mindful. And, its not a superpower that comes with a purchase, in an app, or available without practice.</description>
+    </item>
+    
     <item>
       <title>The power of silencing Notifications</title>
-      <link>https://worldwidestew.com/blog/2025-11-24-the-power-of-muting/</link>
+      <link>http://localhost:1313/blog/2025-11-24-the-power-of-muting/</link>
       <pubDate>Tue, 25 Nov 2025 17:28:57 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-11-24-the-power-of-muting/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-11-24-the-power-of-muting/</guid>
       <description>During a meditation today, right when I was getting into my space of mental clarity, a notification came through.
 It&amp;rsquo;s good online meeting etiquette to mute ourselves when we join meetings, unless you&amp;rsquo;re hosting the meeting.
 But, we might also take the next step and turn off our notifications. If you&amp;rsquo;re on iOS (Apple) these are found under your Focus settings.
@@ -21,66 +56,48 @@ Don&amp;rsquo;t be like me. Avoid interruptions right when you get into the Zone
     </item>
     
     <item>
-      <title>Events and Programs</title>
-      <link>https://worldwidestew.com/events/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/events/</guid>
-      <description>🚀 Announcing January 2026 sessions of our new class Collaborating with AI: A Hands-On Workshop for the Cautiously Curious - I&amp;rsquo;ll be hosting new AI for the Rest of Us: Hands-On Workshops on August 2, 9, and 16, from 9:30-11:00 AM (CT). For August only, we are offering them at $50.00 (USD). Please click the link above for more information. 🕯️ 🍃 October-December 2025 - Sign up for the free Positively Mindful Meet-Up sessions: October-December 2025 🕯️ 🍃 A Two-Minute Mindfulness Break: It&amp;rsquo;s a brief reset for your mind and body.</description>
-    </item>
-    
-    <item>
-      <title>Free July-September 2025 Positively Mindful Group Sessions</title>
-      <link>https://worldwidestew.com/events/2024-09-21-just-start-mindfulness/</link>
-      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/events/2024-09-21-just-start-mindfulness/</guid>
-      <description>Information on Mindfulness Meet-Up Sessions: Updated April 11, 2025</description>
-    </item>
-    
-    <item>
       <title>Just sitting there is not meditating</title>
-      <link>https://worldwidestew.com/blog/2025-01-25-just-sitting-there-is-not-meditating/</link>
+      <link>http://localhost:1313/blog/2025-01-25-just-sitting-there-is-not-meditating/</link>
       <pubDate>Sat, 25 Jan 2025 02:30:34 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-01-25-just-sitting-there-is-not-meditating/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-01-25-just-sitting-there-is-not-meditating/</guid>
       <description>&lt;p&gt;Just sitting there is not meditating.&lt;/p&gt;
 &lt;p&gt;I know. I&amp;rsquo;ve excused my sitting there countless times so I could cross off that day&amp;rsquo;s meditation. Our penchant for checking off items from our lists is fascinating. In reality, I could have been excused truly wanting to be with what was real and then whatever happened, happened.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Meditations per Hour (MPH) or Meditation ROI?</title>
-      <link>https://worldwidestew.com/blog/2024-08-05-meditations-chicken-egg-problem/</link>
+      <link>http://localhost:1313/blog/2024-08-05-meditations-chicken-egg-problem/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-08-05-meditations-chicken-egg-problem/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-08-05-meditations-chicken-egg-problem/</guid>
       <description>If you have a goal for meditation, make sure it&amp;rsquo;s &lt;em&gt;not&lt;/em&gt; MPH (Meditations per Hour) but M-ROI.</description>
     </item>
     
     <item>
       <title>Deep Dive: Lots more than I could put in a title</title>
-      <link>https://worldwidestew.com/editorial/2023-03-11_deep_dive/</link>
+      <link>http://localhost:1313/editorial/2023-03-11_deep_dive/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2023-03-11_deep_dive/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2023-03-11_deep_dive/</guid>
       <description>This week we look at psychological well-being - including from the U.S. Surgeon General, paying attention to the experience of detransitioners, exposomics, silence and epigenetics, Buddhism (religion or not), and my bone to pick with the &lt;em&gt;Humanist Chaplaincy Network&lt;/em&gt; (I&amp;rsquo;m not picking any bones with humanist chaplains).</description>
     </item>
     
     <item>
       <title>Deep Dive: Articles on contemplative practices and near death experiences</title>
-      <link>https://worldwidestew.com/editorial/2023-02-17_deepdive/</link>
+      <link>http://localhost:1313/editorial/2023-02-17_deepdive/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2023-02-17_deepdive/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2023-02-17_deepdive/</guid>
       <description>This week we consider recent research on mindfulness showing distinct patterns of contemplative practive help well-being. We also look at an article on the death experience during CPR. Maybe we shouldn&amp;rsquo;t blow off those near-death experiences so quickly.</description>
     </item>
     
     <item>
       <title>Deep Dive: PTSD; nature; wanting; meditation; COVID impact; expensive cars</title>
-      <link>https://worldwidestew.com/editorial/2022-12-12-deep-dive/</link>
+      <link>http://localhost:1313/editorial/2022-12-12-deep-dive/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2022-12-12-deep-dive/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2022-12-12-deep-dive/</guid>
       <description>Nurses protest use of AI; the importance of personal and cultural reconsideration on the importance of sleep; prosecution of medical errors; and Zionism and the Passover.</description>
     </item>
     

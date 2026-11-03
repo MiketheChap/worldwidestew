@@ -2,28 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buddhism on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/buddhism/</link>
+    <link>http://localhost:1313/tags/buddhism/</link>
     <description>Recent content in Buddhism on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sat, 27 Dec 2025 03:52:54 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/buddhism/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sat, 27 Dec 2025 03:52:54 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/buddhism/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wait before you make any resolutions</title>
-      <link>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</link>
+      <link>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</link>
       <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</guid>
       <description>Wait before you make any resolutions. If you don&amp;rsquo;t, your resolutions make may cost you time, vital energy, money, and hope about your ability to change.
 The making of resolutions is a time-worn transition marking the beginning of a new year. Usually, we focus on our deficits, and then create a grocery list of needed changes. If we listen to advertisers, it almost literally turns into a shopping list. Who we are wasn’t good enough.</description>
     </item>
     
     <item>
       <title>Deep Dive: Lots more than I could put in a title</title>
-      <link>https://worldwidestew.com/editorial/2023-03-11_deep_dive/</link>
+      <link>http://localhost:1313/editorial/2023-03-11_deep_dive/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2023-03-11_deep_dive/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2023-03-11_deep_dive/</guid>
       <description>This week we look at psychological well-being - including from the U.S. Surgeon General, paying attention to the experience of detransitioners, exposomics, silence and epigenetics, Buddhism (religion or not), and my bone to pick with the &lt;em&gt;Humanist Chaplaincy Network&lt;/em&gt; (I&amp;rsquo;m not picking any bones with humanist chaplains).</description>
     </item>
     

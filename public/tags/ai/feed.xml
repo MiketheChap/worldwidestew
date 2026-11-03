@@ -2,27 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ai on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/ai/</link>
+    <link>http://localhost:1313/tags/ai/</link>
     <description>Recent content in Ai on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sat, 22 Nov 2025 21:59:45 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/ai/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sun, 20 Sep 2026 03:24:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events and Programs</title>
-      <link>https://worldwidestew.com/events/</link>
-      <pubDate>Sat, 22 Nov 2025 21:59:45 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/events/</guid>
-      <description>🚀 Announcing January 2026 sessions of our new class Collaborating with AI: A Hands-On Workshop for the Cautiously Curious - I&amp;rsquo;ll be hosting new AI for the Rest of Us: Hands-On Workshops on August 2, 9, and 16, from 9:30-11:00 AM (CT). For August only, we are offering them at $50.00 (USD). Please click the link above for more information. 🕯️ 🍃 October-December 2025 - Sign up for the free Positively Mindful Meet-Up sessions: October-December 2025 🕯️ 🍃 A Two-Minute Mindfulness Break: It&amp;rsquo;s a brief reset for your mind and body.</description>
+      <link>http://localhost:1313/events/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/events/</guid>
+      <description>Opportunities </description>
+    </item>
+    
+    <item>
+      <title>New Class! AI for the Rest of Us - Using (and Refusing)</title>
+      <link>http://localhost:1313/events/2026-10-17_ai-for-the-rest-of-us-using-refusingmd/</link>
+      <pubDate>Sun, 20 Sep 2026 03:24:43 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/events/2026-10-17_ai-for-the-rest-of-us-using-refusingmd/</guid>
+      <description>A live, online workshop for people who are curious about AI — but have legitimate concerns about using it safely and selectively.
+📅 October 17, 2026 | 9:00–10:30 AM Central Time 💻 Online via Zoom | Small group, max 25 participants 💲 $75 per person
+You&amp;rsquo;ve heard the alarming news. Now what? AI isn&amp;rsquo;t one-size-fits-all. Recent months have brought real, well-documented cases of AI systems acting in unexpected — even unauthorized — ways.</description>
+    </item>
+    
+    <item>
+      <title>How an AI Conversation Taught Me About Caring for Patients</title>
+      <link>http://localhost:1313/blog/2026-02-22-how-a-conversation-with-ai-taught-me-something-new-about-caring-for-patients/</link>
+      <pubDate>Sun, 01 Feb 2026 13:33:19 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-02-22-how-a-conversation-with-ai-taught-me-something-new-about-caring-for-patients/</guid>
+      <description>I&amp;rsquo;ve been using Claude.ai (an AI by Anthropic) as a thinking partner for a couple of years now. I&amp;rsquo;m transparent about this collaboration in my work, partly because arthritis makes extended typing difficult, but more importantly because something genuinely interesting emerges in our conversations that I couldn&amp;rsquo;t access alone.
+Yesterday, we were discussing Schrödinger&amp;rsquo;s cat, and Claude offered an insight that stopped me in my tracks.
+You probably know the physics thought experiment: a cat in a sealed box exists in quantum superposition—simultaneously alive and dead—until someone opens the box and observes.</description>
     </item>
     
     <item>
       <title>My AI Partnership: why and how</title>
-      <link>https://worldwidestew.com/about/2025-09-25-my-ai-partnership-why-and-how/</link>
+      <link>http://localhost:1313/about/2025-09-25-my-ai-partnership-why-and-how/</link>
       <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/about/2025-09-25-my-ai-partnership-why-and-how/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/about/2025-09-25-my-ai-partnership-why-and-how/</guid>
       <description>About my use of AI:
 ❌ I usually use AI to improve my writing process: to check spelling, accuracy, flow, grammar, and tone. 🧐 Even where other sources are quoted, I cross-check with Claude.ai and other secondary sources for validation. 💡 My writing process usually involves finding something inspiring, interesting, coincidental, absurd, or odd. Then, I work collaboratively with my preferred AI, Claude.ai. Why? My fingers don&amp;rsquo;t work like they did.</description>
     </item>

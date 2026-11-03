@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cognitive Distortions on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/cognitive-distortions/</link>
+    <link>http://localhost:1313/tags/cognitive-distortions/</link>
     <description>Recent content in Cognitive Distortions on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/cognitive-distortions/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cognitive-distortions/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Dunning-Kruger Effect</title>
-      <link>https://worldwidestew.com/blog/2022-04-05-the-dunning-kruger-effect-certainty/</link>
+      <link>http://localhost:1313/blog/2022-04-05-the-dunning-kruger-effect-certainty/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2022-04-05-the-dunning-kruger-effect-certainty/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2022-04-05-the-dunning-kruger-effect-certainty/</guid>
       <description>We all want to believe in the impossible. We, you and me, will never die. Or, at best, it&amp;rsquo;s will be far into the future: we don&amp;rsquo;t need to worry about it now. Nothing could be farther from the truth. This true story tells how wrogn our assumptions can be.</description>
     </item>
     

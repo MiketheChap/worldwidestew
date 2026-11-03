@@ -2,36 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/podcast/</link>
+    <link>http://localhost:1313/tags/podcast/</link>
     <description>Recent content in Podcast on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Wed, 04 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Mon, 12 Jan 2026 13:17:11 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolutions and the Hungry Ghost Podcast Transcript</title>
+      <link>http://localhost:1313/media/2026-01-12-resolutions-and-the-hungry-ghost-podcast-transcript/</link>
+      <pubDate>Mon, 12 Jan 2026 13:17:11 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/media/2026-01-12-resolutions-and-the-hungry-ghost-podcast-transcript/</guid>
+      <description>Resolutions and The Hungry Ghost This is the transcript first of a three part podcast of a series on Resolutions, Intentions, and serious behavior change. There are some edits (not enough, I fea). Lead in I have a jaded relationship with resolutions, which I guess means I have a jaded relationship with January, [chuckles] and upcoming to January every year. It&amp;rsquo;s because of the idea of resolutions, like this is something we&amp;rsquo;re supposed to do, that we have to do.</description>
+    </item>
+    
     <item>
       <title>About Worldwide Stew</title>
-      <link>https://worldwidestew.com/about/about-worldwide-stew/</link>
+      <link>http://localhost:1313/about/about-worldwide-stew/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/about/about-worldwide-stew/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/about/about-worldwide-stew/</guid>
       <description>Why does this site exist?</description>
     </item>
     
     <item>
       <title>My story</title>
-      <link>https://worldwidestew.com/about/mikes-story/</link>
+      <link>http://localhost:1313/about/mikes-story/</link>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/about/mikes-story/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/about/mikes-story/</guid>
       <description>MIke&amp;rsquo;s story</description>
     </item>
     
     <item>
       <title>Here are just a few of my resources</title>
-      <link>https://worldwidestew.com/about/my-resources/</link>
+      <link>http://localhost:1313/about/my-resources/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/about/my-resources/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/about/my-resources/</guid>
       <description>These are the (continuously updated) resources and people that have helped me produce this website, do my podcast, and be a better person.</description>
     </item>
     

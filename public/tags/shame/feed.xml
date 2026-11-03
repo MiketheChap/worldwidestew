@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shame on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/shame/</link>
+    <link>http://localhost:1313/tags/shame/</link>
     <description>Recent content in Shame on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sun, 28 Dec 2025 16:44:56 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/shame/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sun, 28 Dec 2025 16:44:56 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/shame/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When industry focuses on human inadequacies</title>
-      <link>https://worldwidestew.com/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</link>
+      <link>http://localhost:1313/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</link>
       <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</guid>
       <description>This post originated with the creation of a blog post on New Year&amp;rsquo;s Resolutions. I&amp;rsquo;m trying to keep my blog area focused on inspiration. So, instead of posting this in that area, I&amp;rsquo;m adding it to my website&amp;rsquo;s opinion section.
 Yesterday, on my blog, I suggested some reasons that resolution brain lets us down:
 It fixates on our failures, deficits, and weaknesses It promotes suffering by triggering loss of hope and depression when resolutions fail It highlights our sense of not enough: we don&amp;rsquo;t have enough, we aren&amp;rsquo;t enough, and incites the Hungry Ghost of wanting more.</description>
@@ -21,28 +23,28 @@ It fixates on our failures, deficits, and weaknesses It promotes suffering by tr
     
     <item>
       <title>Soft Landings</title>
-      <link>https://worldwidestew.com/blog/2023-06-03-soft-landings/</link>
+      <link>http://localhost:1313/blog/2023-06-03-soft-landings/</link>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2023-06-03-soft-landings/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2023-06-03-soft-landings/</guid>
       <description>Sometimes our beliefs - our certainties - come crashing down around us. How we weather those storms is dependent on the people&amp;hellip;</description>
     </item>
     
     <item>
       <title>Deep Dives: shame, smells, and shaming people</title>
-      <link>https://worldwidestew.com/editorial/2023-03-19-shame-smell/</link>
+      <link>http://localhost:1313/editorial/2023-03-19-shame-smell/</link>
       <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2023-03-19-shame-smell/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2023-03-19-shame-smell/</guid>
       <description>Shame drives us to great self-harm. Media is shame&amp;rsquo;s sledge hammer. Also, pay attention to the sense of smell!</description>
     </item>
     
     <item>
       <title>Deep Dive: emotional PPE; stressors and suicide; pain and mindfulness; kindness; COVID</title>
-      <link>https://worldwidestew.com/editorial/2022-10-30-deep-dive/</link>
+      <link>http://localhost:1313/editorial/2022-10-30-deep-dive/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2022-10-30-deep-dive/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2022-10-30-deep-dive/</guid>
       <description>In this week&amp;rsquo;s Deep Dive, we talk about emotional PPE; stressors and suicide; pain and mindfulness; kindness; and, COVID</description>
     </item>
     

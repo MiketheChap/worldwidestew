@@ -2,18 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psychology on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/psychology/</link>
+    <link>http://localhost:1313/tags/psychology/</link>
     <description>Recent content in Psychology on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sun, 28 Dec 2025 16:44:56 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/psychology/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sun, 15 Mar 2026 02:14:23 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/psychology/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go sit in the corner</title>
+      <link>http://localhost:1313/blog/2026-03-15-go-sit-in-the-corner/</link>
+      <pubDate>Sun, 15 Mar 2026 02:14:23 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-15-go-sit-in-the-corner/</guid>
+      <description>Time out. Go sit in the corner.
+I still feel the sting of hearing my Mom say that.
+I don&amp;rsquo;t need to sit in any corner.
+Time out was a punishment. It&amp;rsquo;s no wonder we try to push through everything: we don&amp;rsquo;t have time for time out. Time out suggests we&amp;rsquo;re not in control.
+Sitting in the corner is good medicine for the insanity of our lives and world. Our negative reaction to it is a hand-me-down from our past.</description>
+    </item>
+    
+    <item>
+      <title>Do we ever really say goodbye? On grief and spores.</title>
+      <link>http://localhost:1313/blog/2026-03-05-do-we-ever-really-say-goodbye/</link>
+      <pubDate>Thu, 05 Mar 2026 16:32:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-05-do-we-ever-really-say-goodbye/</guid>
+      <description>As a youngster, I used to enjoy stomping down on mushrooms growing in our yard. Sometimes, when I jumped on them particularly ferociously, I could see some sort of powder fly out.
+Years later, I learned that the flying powder was spores. Spores are one way that nature keeps things alive. It&amp;rsquo;s like Nature&amp;rsquo;s filing system. When I stomped on those mushrooms, the powder from under the mushroom&amp;rsquo;s head and gills generated those puff-clouds, which were then carried off by the breeze into the world.</description>
+    </item>
+    
+    <item>
+      <title>I am not so special</title>
+      <link>http://localhost:1313/blog/2026-02-03-i-am-not-so-special/</link>
+      <pubDate>Wed, 04 Feb 2026 12:42:28 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-02-03-i-am-not-so-special/</guid>
+      <description>Guru (noun) 1: a personal religious teacher and spiritual guide in Hinduis 2a: a teacher and especially intellectual guide in matters of fundamental concern has been a guru to many young writers b: one who is an acknowledged leader or chief proponent became the guru of the movement c: a person with knowledge or expertise : expert a computer guru
+This is a continuing riff on gurus and specialness. Today, I wanted to write about the personal specialness we sometimes attribute to ourselves.</description>
+    </item>
+    
     <item>
       <title>When industry focuses on human inadequacies</title>
-      <link>https://worldwidestew.com/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</link>
+      <link>http://localhost:1313/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</link>
       <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</guid>
       <description>This post originated with the creation of a blog post on New Year&amp;rsquo;s Resolutions. I&amp;rsquo;m trying to keep my blog area focused on inspiration. So, instead of posting this in that area, I&amp;rsquo;m adding it to my website&amp;rsquo;s opinion section.
 Yesterday, on my blog, I suggested some reasons that resolution brain lets us down:
 It fixates on our failures, deficits, and weaknesses It promotes suffering by triggering loss of hope and depression when resolutions fail It highlights our sense of not enough: we don&amp;rsquo;t have enough, we aren&amp;rsquo;t enough, and incites the Hungry Ghost of wanting more.</description>
@@ -21,19 +56,19 @@ It fixates on our failures, deficits, and weaknesses It promotes suffering by tr
     
     <item>
       <title>Deep Dive: Lots more than I could put in a title</title>
-      <link>https://worldwidestew.com/editorial/2023-03-11_deep_dive/</link>
+      <link>http://localhost:1313/editorial/2023-03-11_deep_dive/</link>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2023-03-11_deep_dive/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2023-03-11_deep_dive/</guid>
       <description>This week we look at psychological well-being - including from the U.S. Surgeon General, paying attention to the experience of detransitioners, exposomics, silence and epigenetics, Buddhism (religion or not), and my bone to pick with the &lt;em&gt;Humanist Chaplaincy Network&lt;/em&gt; (I&amp;rsquo;m not picking any bones with humanist chaplains).</description>
     </item>
     
     <item>
       <title>The Dunning-Kruger Effect</title>
-      <link>https://worldwidestew.com/blog/2022-04-05-the-dunning-kruger-effect-certainty/</link>
+      <link>http://localhost:1313/blog/2022-04-05-the-dunning-kruger-effect-certainty/</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2022-04-05-the-dunning-kruger-effect-certainty/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2022-04-05-the-dunning-kruger-effect-certainty/</guid>
       <description>We all want to believe in the impossible. We, you and me, will never die. Or, at best, it&amp;rsquo;s will be far into the future: we don&amp;rsquo;t need to worry about it now. Nothing could be farther from the truth. This true story tells how wrogn our assumptions can be.</description>
     </item>
     

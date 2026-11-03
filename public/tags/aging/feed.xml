@@ -2,28 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aging on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/aging/</link>
+    <link>http://localhost:1313/tags/aging/</link>
     <description>Recent content in Aging on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/aging/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Thu, 12 Mar 2026 22:49:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/aging/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Periodic Table of Birthday Elements</title>
+      <link>http://localhost:1313/blog/2026-03-12-the-periodic-table-of-birthday-elements/</link>
+      <pubDate>Thu, 12 Mar 2026 22:49:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-12-the-periodic-table-of-birthday-elements/</guid>
+      <description>This was for my brother&amp;rsquo;s Birthday. It was created by Claude.ai based on my original idea. I wanted to share it with readers.</description>
+    </item>
+    
     <item>
       <title>Bright Lights</title>
-      <link>https://worldwidestew.com/blog/2024-08-12-bright-lights/</link>
+      <link>http://localhost:1313/blog/2024-08-12-bright-lights/</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-08-12-bright-lights/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-08-12-bright-lights/</guid>
       <description>One strikingly positive way elders are lucky is it is possible to see with greater clarity. But only if we want.</description>
     </item>
     
     <item>
       <title>Travel, health, and generations with Anthony Nguyen</title>
-      <link>https://worldwidestew.com/media/2024-08-27-anthony-nguyen/</link>
+      <link>http://localhost:1313/media/2024-08-27-anthony-nguyen/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/media/2024-08-27-anthony-nguyen/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/media/2024-08-27-anthony-nguyen/</guid>
       <description>In this first interview epidode of the Worldwide Stew podcast, I interviewed my friend, Anthony Nguyen, BSN, RN. He talks about travel (joys and travails), children, aging, the elderly, how to look at travel, and the role of chaaplains in acute pain.</description>
+    </item>
+    
+    <item>
+      <title>On propagation</title>
+      <link>http://localhost:1313/blog/2026-04-18-on-propagation/</link>
+      <pubDate>Sat, 26 Nov 2022 16:49:39 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-04-18-on-propagation/</guid>
+      <description>Around April of each year, I order praying mantis egg pods, also called an ootheca.
+About a month to eight weeks after their arrival around a hundred and fifty baby praying mantises are ready, chipper, and anxious to get out into the garden. It&amp;rsquo;s one of the happiest days of my year: baby release day.
+But, I rarely see them after that. Then last week, Barb saw one on a decorative light out front.</description>
     </item>
     
   </channel>

@@ -2,18 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attention on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/attention/</link>
+    <link>http://localhost:1313/tags/attention/</link>
     <description>Recent content in Attention on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Thu, 15 May 2025 01:51:12 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/attention/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Mon, 26 Oct 2026 17:28:10 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/attention/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replay Versus Reality</title>
+      <link>http://localhost:1313/blog/2026-10-26-replay-versus-reality/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-10-26-replay-versus-reality/</guid>
+      <description>When Referees Can Hit Rewind Though I&amp;rsquo;ve never been much interested in sports, I recollect the early days of instant replay. When a disputed play occurred, referees could review what happened and, sometimes, revise a call.
+Was there a foul? Did the basketball shot leave the air in time to be counted? Did the baseball player&amp;rsquo;s foot actually touch home plate?
+Instead of debating it in circles, instant replay offered something unprecedented: the option of seeing what really happened.</description>
+    </item>
+    
+    <item>
+      <title>Reclaiming our Attention (and our Inbox)</title>
+      <link>http://localhost:1313/blog/2026-03-31-centering-our-attention/</link>
+      <pubDate>Tue, 31 Mar 2026 13:26:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-31-centering-our-attention/</guid>
+      <description>In recent news, Meta and YouTube were found guilty of designing addictive products that harmed young people. There&amp;rsquo;s no doubt of the validity of that claim. However, they aren&amp;rsquo;t the only organizations responsible for co-opting attention.
+My own attention deficit journey began this morning. I had nearly 3,000 unread emails in my inbox. What to do?
+I looked at them the way you might look at a crime scene: who were the potential suspects?</description>
+    </item>
+    
     <item>
       <title>Distractions, attention, and focus</title>
-      <link>https://worldwidestew.com/blog/2025-05-15-distractions-attention-and-focus/</link>
+      <link>http://localhost:1313/blog/2025-05-15-distractions-attention-and-focus/</link>
       <pubDate>Thu, 15 May 2025 01:51:12 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-05-15-distractions-attention-and-focus/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-05-15-distractions-attention-and-focus/</guid>
       <description>It was a beautiful winter night to take our dog out for a walk. Looking toward the west I saw the planetary alignment my wife had told me about earlier that day. I immediately pulled out my phone to capture a picture. But, the picture didn&amp;rsquo;t look just right. So, I opened a browser window to see what settings to adjust for night shots. I must have messed with my phone settings for ten minutes before the ridiculousness of the situation dawned on me.</description>
     </item>
     

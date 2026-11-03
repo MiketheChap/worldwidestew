@@ -2,18 +2,146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inspiration on Worldwide Stew</title>
-    <link>https://worldwidestew.com/categories/inspiration/</link>
+    <link>http://localhost:1313/categories/inspiration/</link>
     <description>Recent content in Inspiration on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 14:44:21 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/categories/inspiration/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Mon, 26 Oct 2026 17:28:10 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/inspiration/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replay Versus Reality</title>
+      <link>http://localhost:1313/blog/2026-10-26-replay-versus-reality/</link>
+      <pubDate>Mon, 26 Oct 2026 17:28:10 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-10-26-replay-versus-reality/</guid>
+      <description>When Referees Can Hit Rewind Though I&amp;rsquo;ve never been much interested in sports, I recollect the early days of instant replay. When a disputed play occurred, referees could review what happened and, sometimes, revise a call.
+Was there a foul? Did the basketball shot leave the air in time to be counted? Did the baseball player&amp;rsquo;s foot actually touch home plate?
+Instead of debating it in circles, instant replay offered something unprecedented: the option of seeing what really happened.</description>
+    </item>
+    
+    <item>
+      <title>Entering Fall - and other Seasons</title>
+      <link>http://localhost:1313/blog/2026-09-24-entering-fall---and-other-seasons/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-09-24-entering-fall---and-other-seasons/</guid>
+      <description>If it&amp;rsquo;s Tuesday, it&amp;rsquo;s Fall!
+With the conditions of the world (and, at least for me, money being a bit tight), I&amp;rsquo;m feeling some stress.
+With new seasons, we&amp;rsquo;re always trying to make our way through (this seems even more true this year). Maybe you can identify with some of the ways I&amp;rsquo;m trying to make it through this season:
+Here are some of my more recent seasons:
+Not fun seasons.</description>
+    </item>
+    
+    <item>
+      <title>Scratch My Ears</title>
+      <link>http://localhost:1313/blog/2026-05-15-scratch-my-ears/</link>
+      <pubDate>Fri, 15 May 2026 11:22:18 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-05-15-scratch-my-ears/</guid>
+      <description>I hear the rustle of movement at the foot of the bed.
+I swing my legs over the side of the bed.
+As I do, the white ball of fur waits patiently.
+She can&amp;rsquo;t risk my big legs hitting her head
+As I swing sideways.
+There. Now I&amp;rsquo;m sitting up.
+She siddles close to me, head between my legs.
+Flopped ears awaiting their morning grace
+A kiss just above her eyes, between her ears.</description>
+    </item>
+    
+    <item>
+      <title>New Episode - Death and my poem, Mom Unfinished</title>
+      <link>http://localhost:1313/media/2026-04-15-new-episode-mom-unfinished/</link>
+      <pubDate>Wed, 15 Apr 2026 21:51:59 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/media/2026-04-15-new-episode-mom-unfinished/</guid>
+      <description>I just published my latest podcast episode. In it, I tell a little about my background in working with death, dying, and grief. I recite a poem I just wrote, Mom, Unfinished.
+You can listen to all the WorldwideStew podcasts wherever you get your podcasts. Here&amp;rsquo;s a direct link to the most recent episode.
+I hope you like it!
+Hi, it&amp;rsquo;s Mike. It&amp;rsquo;s good to see you. I wrote a poem for you, and I&amp;rsquo;ll read it shortly.</description>
+    </item>
+    
+    <item>
+      <title>The Periodic Table of Birthday Elements</title>
+      <link>http://localhost:1313/blog/2026-03-12-the-periodic-table-of-birthday-elements/</link>
+      <pubDate>Thu, 12 Mar 2026 22:49:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-12-the-periodic-table-of-birthday-elements/</guid>
+      <description>This was for my brother&amp;rsquo;s Birthday. It was created by Claude.ai based on my original idea. I wanted to share it with readers.</description>
+    </item>
+    
+    <item>
+      <title>Mindfulness and mindfulness meditation</title>
+      <link>http://localhost:1313/blog/2026-03-05-mindfulness-versus-mindfulness-meditation/</link>
+      <pubDate>Fri, 06 Mar 2026 23:52:46 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-05-mindfulness-versus-mindfulness-meditation/</guid>
+      <description>How much do I need to meditate to be mindful?
+This question lies at a modern fallacy: How little can I do something to enjoy it&amp;rsquo;s benefits? We have become used to getting things for free and as a commodity.
+Alas, mindfulness and meditation are inseparable. You have to meditate to be mindful. And, its not a superpower that comes with a purchase, in an app, or available without practice.</description>
+    </item>
+    
+    <item>
+      <title>Do we ever really say goodbye? On grief and spores.</title>
+      <link>http://localhost:1313/blog/2026-03-05-do-we-ever-really-say-goodbye/</link>
+      <pubDate>Thu, 05 Mar 2026 16:32:04 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-05-do-we-ever-really-say-goodbye/</guid>
+      <description>As a youngster, I used to enjoy stomping down on mushrooms growing in our yard. Sometimes, when I jumped on them particularly ferociously, I could see some sort of powder fly out.
+Years later, I learned that the flying powder was spores. Spores are one way that nature keeps things alive. It&amp;rsquo;s like Nature&amp;rsquo;s filing system. When I stomped on those mushrooms, the powder from under the mushroom&amp;rsquo;s head and gills generated those puff-clouds, which were then carried off by the breeze into the world.</description>
+    </item>
+    
+    <item>
+      <title>I am not so special</title>
+      <link>http://localhost:1313/blog/2026-02-03-i-am-not-so-special/</link>
+      <pubDate>Wed, 04 Feb 2026 12:42:28 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-02-03-i-am-not-so-special/</guid>
+      <description>Guru (noun) 1: a personal religious teacher and spiritual guide in Hinduis 2a: a teacher and especially intellectual guide in matters of fundamental concern has been a guru to many young writers b: one who is an acknowledged leader or chief proponent became the guru of the movement c: a person with knowledge or expertise : expert a computer guru
+This is a continuing riff on gurus and specialness. Today, I wanted to write about the personal specialness we sometimes attribute to ourselves.</description>
+    </item>
+    
+    <item>
+      <title>Just Fly</title>
+      <link>http://localhost:1313/blog/2026-01-15-just-fly/</link>
+      <pubDate>Thu, 15 Jan 2026 02:12:20 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-01-15-just-fly/</guid>
+      <description>Just Fly
+by Mike Davis
+Padding along the trail,
+We ambled toward the car,
+Dog&amp;rsquo;s nose pressed to ground,
+Human noses pressed forward,
+Next stop, the car.
+My mind focused on that next thing.
+Then, the screech of a red-tailed hawk,
+My eyes peered around me.
+Where does that clear,
+Piercing, cry come from?
+And there, off to the right
+Riding the air currents
+Along the length of the creekbed</description>
+    </item>
+    
+    <item>
+      <title>Verbal Order Read Back</title>
+      <link>http://localhost:1313/blog/2026-01-08-verbal-order-read-back/</link>
+      <pubDate>Thu, 08 Jan 2026 21:20:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-01-08-verbal-order-read-back/</guid>
+      <description>When a doctor or Advance Practice Provider (like a Physician Assitant or Nurse Practitioner)issues a verbal order, the person taking the order is usually supposed to read it back to confirm understanding. Clinicians often feel its unncessary: We&amp;rsquo;re in a hurry.We&amp;rsquo;ve got things to do.
+Verbal order readback (VORB) is an invitation. It’s an invitation to reduce confusion or dispel doubts. With VORB, the person receiving the order and the person giving the order have the opportunity to dance.</description>
+    </item>
+    
     <item>
       <title>Stretch</title>
-      <link>https://worldwidestew.com/blog/2026-01-05-stretch/</link>
+      <link>http://localhost:1313/blog/2026-01-05-stretch/</link>
       <pubDate>Mon, 05 Jan 2026 14:44:21 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2026-01-05-stretch/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-01-05-stretch/</guid>
       <description>Cassie, let’s go for a walk.
 Cassie, our dog responds more slowly than usual. She usually gets to the door first. She&amp;rsquo;s feeling lazy this morning. Finally, at another beckon, she arises. But, as she does, she takes a long, deep stretch. Her body lengthens. She twists like her body is a towel being wrung out. Then, she releases a full-body shake.
 Now, she was ready to go. Our walk could begin.</description>
@@ -21,10 +149,10 @@ Now, she was ready to go. Our walk could begin.</description>
     
     <item>
       <title>When industry focuses on human inadequacies</title>
-      <link>https://worldwidestew.com/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</link>
+      <link>http://localhost:1313/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</link>
       <pubDate>Sun, 28 Dec 2025 16:44:56 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/editorial/2025-12-28-when-industry-focuses-on-human-inadequacies/</guid>
       <description>This post originated with the creation of a blog post on New Year&amp;rsquo;s Resolutions. I&amp;rsquo;m trying to keep my blog area focused on inspiration. So, instead of posting this in that area, I&amp;rsquo;m adding it to my website&amp;rsquo;s opinion section.
 Yesterday, on my blog, I suggested some reasons that resolution brain lets us down:
 It fixates on our failures, deficits, and weaknesses It promotes suffering by triggering loss of hope and depression when resolutions fail It highlights our sense of not enough: we don&amp;rsquo;t have enough, we aren&amp;rsquo;t enough, and incites the Hungry Ghost of wanting more.</description>
@@ -32,20 +160,20 @@ It fixates on our failures, deficits, and weaknesses It promotes suffering by tr
     
     <item>
       <title>Wait before you make any resolutions</title>
-      <link>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</link>
+      <link>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</link>
       <pubDate>Sat, 27 Dec 2025 03:52:54 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-12-27-wait-before-you-make-any-resolutions/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-12-27-wait-before-you-make-any-resolutions/</guid>
       <description>Wait before you make any resolutions. If you don&amp;rsquo;t, your resolutions make may cost you time, vital energy, money, and hope about your ability to change.
 The making of resolutions is a time-worn transition marking the beginning of a new year. Usually, we focus on our deficits, and then create a grocery list of needed changes. If we listen to advertisers, it almost literally turns into a shopping list. Who we are wasn’t good enough.</description>
     </item>
     
     <item>
       <title>Make do with what you have</title>
-      <link>https://worldwidestew.com/blog/2025-12-19-making-do-with-what-you-have/</link>
+      <link>http://localhost:1313/blog/2025-12-19-making-do-with-what-you-have/</link>
       <pubDate>Fri, 19 Dec 2025 23:36:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-12-19-making-do-with-what-you-have/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-12-19-making-do-with-what-you-have/</guid>
       <description>Imagine you&amp;rsquo;re asked to fetch a ball. Without arms or legs. I&amp;rsquo;m sorry. I can&amp;rsquo;t. In fact, the very fact that you ask is is insulting and cruel.
 But, is it possible we could, at the very least, contemplate working it out: how could I fetch a ball without arms or legs?
 We&amp;rsquo;ll come back to that in a second.
@@ -54,19 +182,19 @@ Do animals play? Yes, it seems some do. But, you have to take into account the d
     
     <item>
       <title>Having Teeth</title>
-      <link>https://worldwidestew.com/blog/2025-11-28-having-teeth/</link>
+      <link>http://localhost:1313/blog/2025-11-28-having-teeth/</link>
       <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-11-28-having-teeth/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-11-28-having-teeth/</guid>
       <description>I think I was unfailingly gentle with patients, let them rant, and tolerated their abuses. Eventually, their rant lost steam and we started to get to the core of their often legitimate frustrations. They might be directed at an unrealized hope for a dreamed of healing. Or, they might feel they weren&amp;rsquo;t understood. A pinhole in a balloon release pressurized air madly at first out of a pricked balloon. Then, the balloon eventually loses pressure and falls to the floor.</description>
     </item>
     
     <item>
       <title>The power of silencing Notifications</title>
-      <link>https://worldwidestew.com/blog/2025-11-24-the-power-of-muting/</link>
+      <link>http://localhost:1313/blog/2025-11-24-the-power-of-muting/</link>
       <pubDate>Tue, 25 Nov 2025 17:28:57 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-11-24-the-power-of-muting/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-11-24-the-power-of-muting/</guid>
       <description>During a meditation today, right when I was getting into my space of mental clarity, a notification came through.
 It&amp;rsquo;s good online meeting etiquette to mute ourselves when we join meetings, unless you&amp;rsquo;re hosting the meeting.
 But, we might also take the next step and turn off our notifications. If you&amp;rsquo;re on iOS (Apple) these are found under your Focus settings.
@@ -75,10 +203,10 @@ Don&amp;rsquo;t be like me. Avoid interruptions right when you get into the Zone
     
     <item>
       <title>Listening to your own Deep Space</title>
-      <link>https://worldwidestew.com/media/2025-10-07-listening-to-your-own-deep-space/</link>
+      <link>http://localhost:1313/media/2025-10-07-listening-to-your-own-deep-space/</link>
       <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/media/2025-10-07-listening-to-your-own-deep-space/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/media/2025-10-07-listening-to-your-own-deep-space/</guid>
       <description>We just added a new podcast episode, Listening to Your Own Deep Space. This episode is available on Apple podcasts.
 If you prefer to read my blog post that came out before the podcast, you can check it out here.
 I like taking quizzes to see what I&amp;rsquo;ve learned. If you enjoy taking easy quizzes (which can also do something for your self-esteem), the blog post or listening to the podcast episode, check out what you learned here.</description>
@@ -86,29 +214,29 @@ I like taking quizzes to see what I&amp;rsquo;ve learned. If you enjoy taking ea
     
     <item>
       <title>The Gossamer Cloak</title>
-      <link>https://worldwidestew.com/blog/2025-09-20-the-gossamer-cloak/</link>
+      <link>http://localhost:1313/blog/2025-09-20-the-gossamer-cloak/</link>
       <pubDate>Sat, 20 Sep 2025 20:15:26 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-09-20-the-gossamer-cloak/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-09-20-the-gossamer-cloak/</guid>
       <description>I beg you tp keep reading for just a minute.
 This coming week NASA plans to send three projects into space. One of them is the Carruthers Geocorona Observatory. This mission wants to better understand our outer atmosphere. This knowledge will help us understand changes that occur in the area just before we get to &amp;ldquo;outer space.&amp;rdquo; Scientists call this the geocorona. Scientists love big words. And, Of course, they need a very specific definition they all know and understand.</description>
     </item>
     
     <item>
       <title>Your ego is essential</title>
-      <link>https://worldwidestew.com/blog/2025-09-03-your-ego-is-essential/</link>
+      <link>http://localhost:1313/blog/2025-09-03-your-ego-is-essential/</link>
       <pubDate>Wed, 03 Sep 2025 20:43:20 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-09-03-your-ego-is-essential/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-09-03-your-ego-is-essential/</guid>
       <description>Don&amp;rsquo;t be afraid of your ego The ego is something we can&amp;rsquo;t see. But, even though we can&amp;rsquo;t see it, we can observe it in our own lives every day. Our fears, awareness of self, concerns about what the future holds, and what other people are getting are all evidence of our egos at work. We are defensive, afraid to apologize, and afraid to speak up because of our egos. That doesn&amp;rsquo;t mean the ego is bad.</description>
     </item>
     
     <item>
       <title>Be kind to yourself first</title>
-      <link>https://worldwidestew.com/blog/2025-08-23-be-kind-to-yourself-first/</link>
+      <link>http://localhost:1313/blog/2025-08-23-be-kind-to-yourself-first/</link>
       <pubDate>Sat, 23 Aug 2025 19:14:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-08-23-be-kind-to-yourself-first/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-08-23-be-kind-to-yourself-first/</guid>
       <description>The first person to whom you should be kind is yourself.
 You might think I&amp;rsquo;m talking about narcissism. I&amp;rsquo;m not. A narcissist is an extremely self-centered person who has an exaggerated sense of self-importance. By definition, they don&amp;rsquo;t find it hard to be unkind to themselves.
 It&amp;rsquo;s hard for me to write about this because I often feel unkind to myself. I&amp;rsquo;m learning, though, that a lack of self-compassion is harmful to everyone who surrounds the self-judgemental person.</description>
@@ -116,20 +244,20 @@ It&amp;rsquo;s hard for me to write about this because I often feel unkind to my
     
     <item>
       <title>A brief meditation for Parkinsons Disease</title>
-      <link>https://worldwidestew.com/media/2025-08-19-a-brief-meditation-for-parkinsons-disease/</link>
+      <link>http://localhost:1313/media/2025-08-19-a-brief-meditation-for-parkinsons-disease/</link>
       <pubDate>Tue, 19 Aug 2025 20:55:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/media/2025-08-19-a-brief-meditation-for-parkinsons-disease/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/media/2025-08-19-a-brief-meditation-for-parkinsons-disease/</guid>
       <description>This is a transcript of my Self-Acceptance Meditation This meditation is a collaboration with Claude.ai.
 Hi, this is Mike Davis. I am the host of the Worldwide Stew podcast and WorldwideStew.com. This is a focused effort to try to provide some hopefully helpful meditation, brief ones, for those with Parkinson&amp;rsquo;s disease. I hope this helps. Thanks for listening. So I want to welcome you to this gentle meditation for self-acceptance. However you arrived here today, at this moment, sitting, lying down, in a wheelchair, you&amp;rsquo;ve made it to this moment and that takes incredible courage.</description>
     </item>
     
     <item>
       <title>Never waste an elevator trip</title>
-      <link>https://worldwidestew.com/blog/2025-07-20-never-waste-an-elevator-trip/</link>
+      <link>http://localhost:1313/blog/2025-07-20-never-waste-an-elevator-trip/</link>
       <pubDate>Sun, 20 Jul 2025 12:41:29 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-07-20-never-waste-an-elevator-trip/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-07-20-never-waste-an-elevator-trip/</guid>
       <description>There&amp;rsquo;s a reason they ask entrepreneurs, what is your elevator speech?
 It&amp;rsquo;s because a lot can happen in an elevator. Two or more people meet. There are limmited distractions. You have an opportunity to share messages. You might make a transaction.
 Anyway, that&amp;rsquo;s the logic of it.
@@ -139,20 +267,20 @@ You&amp;rsquo;re making a mad dash to decent coffee. Your hair may or may not be
     
     <item>
       <title>Nothing else matters</title>
-      <link>https://worldwidestew.com/blog/2025-07-07-nothing-else-matters/</link>
+      <link>http://localhost:1313/blog/2025-07-07-nothing-else-matters/</link>
       <pubDate>Mon, 07 Jul 2025 17:11:42 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-07-07-nothing-else-matters/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-07-07-nothing-else-matters/</guid>
       <description>Nothing else matters By Mike Davis, Th.M.
 Yesterday... After the dog&#39;s bath. My wife ambled her way to the garage door. I let our dog down her ramp And out of the car. I watched our dog Follow her Momma To the door. While my wife unlocked the door I watched them both From the car. Both my girls. The Beauties I live for. My feelings in that moment Were all gratitude For it&#39;s simplicity Nothing else mattered.</description>
     </item>
     
     <item>
       <title>Go to Your Room</title>
-      <link>https://worldwidestew.com/blog/2025-06-16-go-to-your-room/</link>
+      <link>http://localhost:1313/blog/2025-06-16-go-to-your-room/</link>
       <pubDate>Tue, 17 Jun 2025 00:15:53 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-06-16-go-to-your-room/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-06-16-go-to-your-room/</guid>
       <description>I suspect my Mom wasn&amp;rsquo;t the only parent who responded to her children&amp;rsquo;s loud disagreements and fighting by telling us to go to our rooms.
 It was good advice. When we get caught up in fight (part of the fight, flight, faint network), the chemicals coursing through our bodies want to defend ourselves from fear of shame, embarrassment, and , occasionally, physical injury.
 Often, the most mindful way of navigating our fear, anger, and doubt is to separate ourselves from the circumstances.</description>
@@ -160,19 +288,19 @@ Often, the most mindful way of navigating our fear, anger, and doubt is to separ
     
     <item>
       <title>Distractions, attention, and focus</title>
-      <link>https://worldwidestew.com/blog/2025-05-15-distractions-attention-and-focus/</link>
+      <link>http://localhost:1313/blog/2025-05-15-distractions-attention-and-focus/</link>
       <pubDate>Thu, 15 May 2025 01:51:12 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-05-15-distractions-attention-and-focus/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-05-15-distractions-attention-and-focus/</guid>
       <description>It was a beautiful winter night to take our dog out for a walk. Looking toward the west I saw the planetary alignment my wife had told me about earlier that day. I immediately pulled out my phone to capture a picture. But, the picture didn&amp;rsquo;t look just right. So, I opened a browser window to see what settings to adjust for night shots. I must have messed with my phone settings for ten minutes before the ridiculousness of the situation dawned on me.</description>
     </item>
     
     <item>
       <title>What matters to me?</title>
-      <link>https://worldwidestew.com/blog/2025-04-02-what-is-your-work/</link>
+      <link>http://localhost:1313/blog/2025-04-02-what-is-your-work/</link>
       <pubDate>Wed, 02 Apr 2025 19:22:49 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-04-02-what-is-your-work/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-04-02-what-is-your-work/</guid>
       <description>Asking Why am I here? is probably wasting time. It&amp;rsquo;s like a termite trying to eat a sequoia. It&amp;rsquo;s too big and carries little action.
 You&amp;rsquo;re probably better off asking two other questions:
 What things matter to me? What things matter to the people I care about? There&amp;rsquo;s a host of other questions you can (and should) ask. But these are awesome places to start or reset. Begin with either one, then tackle the other one.</description>
@@ -180,30 +308,30 @@ What things matter to me? What things matter to the people I care about? There&a
     
     <item>
       <title>Being conscientious isn&#39;t a moral virtue.</title>
-      <link>https://worldwidestew.com/blog/2025-03-10-being-conscientious-isnt-a-moral-virtue/</link>
+      <link>http://localhost:1313/blog/2025-03-10-being-conscientious-isnt-a-moral-virtue/</link>
       <pubDate>Thu, 20 Mar 2025 16:19:44 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-03-10-being-conscientious-isnt-a-moral-virtue/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-03-10-being-conscientious-isnt-a-moral-virtue/</guid>
       <description>Working hard - being conscientious - is not a moral virtue. It&amp;rsquo;s not enough.
 The grade on your assignment has nothing to do with how hard you worked on it. You get a grade dependent on your answers being correct. If we didn&amp;rsquo;t answer the questions, show our work, or do the work, the teacher won&amp;rsquo;t care. The point wasn&amp;rsquo;t to work hard. The point of the assignment is to get the correct answer and show your work.</description>
     </item>
     
     <item>
       <title>Deputized on Ash Wednesday</title>
-      <link>https://worldwidestew.com/blog/2025-03-05-deputized-to-impose-ashes/</link>
+      <link>http://localhost:1313/blog/2025-03-05-deputized-to-impose-ashes/</link>
       <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-03-05-deputized-to-impose-ashes/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-03-05-deputized-to-impose-ashes/</guid>
       <description>It&amp;rsquo;s Ash Wednesday. I feel a little sad about that. Why? When I think of Ash Wednesday, here&amp;rsquo;s the thing I remember most.
 I was a chaplain at Baylor Scott &amp;amp; White Heart and Vascular Hospital in Dallas. Even though I wasn&amp;rsquo;t Catholic, each Ash Wednesday I was deputized to impose Ashes on the foreheads of anyone who wanted them. I received Ashes and then was deputized to impose them on others.</description>
     </item>
     
     <item>
       <title>Finding Wisdom Beyond Desperation</title>
-      <link>https://worldwidestew.com/blog/2025-02-25-finding-wisdom-beyond-desperation/</link>
+      <link>http://localhost:1313/blog/2025-02-25-finding-wisdom-beyond-desperation/</link>
       <pubDate>Tue, 25 Feb 2025 13:06:18 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-02-25-finding-wisdom-beyond-desperation/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-02-25-finding-wisdom-beyond-desperation/</guid>
       <description>When we lead from wisdom, we must first recognize when desire transforms into craving.
 My vision for creating meaningful mindfulness opportunities keeps me motivated, but I&amp;rsquo;ve noticed how easily genuine passion can transform into an anxious urgency—a shift that rarely allows for clear discernment or thoughtful decision-making.
 Operating from desperation narrows our vision. It tempts us toward shortcuts, clouds our understanding, and blinds us to others&amp;rsquo; authentic motives and needs.</description>
@@ -211,20 +339,20 @@ Operating from desperation narrows our vision. It tempts us toward shortcuts, cl
     
     <item>
       <title>Veni Vidi Vici</title>
-      <link>https://worldwidestew.com/blog/2025-02-02-veni-vidi-vici/</link>
+      <link>http://localhost:1313/blog/2025-02-02-veni-vidi-vici/</link>
       <pubDate>Sun, 02 Feb 2025 03:28:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-02-02-veni-vidi-vici/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-02-02-veni-vidi-vici/</guid>
       <description>&lt;p&gt;&lt;em&gt;Veni, Vidi, Vici&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This phrase, Latin for &lt;em&gt;I came, I saw, I conquered&lt;/em&gt;, was reportedly uttered by Julius Caesar. At least that&amp;rsquo;s what my high school Latin teacher and &lt;a href=&#34;https://en.m.wikipedia.org/wiki/Veni,_vidi,_vici&#34;&gt;Wikipedia say&lt;/a&gt;. Wikipedia says it refers to a &lt;em&gt;swift, decisive victory.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Saturday Night Monster</title>
-      <link>https://worldwidestew.com/blog/2025-01-22-the-saturday-night-fridge-raid/</link>
+      <link>http://localhost:1313/blog/2025-01-22-the-saturday-night-fridge-raid/</link>
       <pubDate>Wed, 22 Jan 2025 22:29:11 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-01-22-the-saturday-night-fridge-raid/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-01-22-the-saturday-night-fridge-raid/</guid>
       <description>The Saturday Night Monster Late on Saturday nights, the most frightening monster of all enters our home. It drags me to the fridge, seizing my hands and coercing them into into the freezer section. Resistance, as they say, is futile. Before I know it, I&amp;rsquo;ve succumbed to it&amp;rsquo;s cruel overtures.
 If I were more mindful about the Saturday Night Monster,
 Or, if I wanted to be more mindful about the Saturday Night Monster,</description>
@@ -232,10 +360,10 @@ Or, if I wanted to be more mindful about the Saturday Night Monster,</descriptio
     
     <item>
       <title>You are beautiful</title>
-      <link>https://worldwidestew.com/blog/2025-01-20-you-are-beautiful/</link>
+      <link>http://localhost:1313/blog/2025-01-20-you-are-beautiful/</link>
       <pubDate>Sun, 19 Jan 2025 02:15:01 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-01-20-you-are-beautiful/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-01-20-you-are-beautiful/</guid>
       <description>I was passing through the living room. An advertisement was on the television. I feel a special contempt for these kinds of ads. A woman had used some kind of special formula.&amp;quot; As a result os using the preparation she said, I was beautiful.&amp;quot;
 No, dear lady. To the extent you&amp;rsquo;re beautiful, it comes from the inside.
 In the many years I cared for very sick people, I saw many of them when they regarded themselves as ugly.</description>
@@ -243,11 +371,22 @@ In the many years I cared for very sick people, I saw many of them when they reg
     
     <item>
       <title>This is a test</title>
-      <link>https://worldwidestew.com/blog/2025-01-17-this-is-a-test/</link>
+      <link>http://localhost:1313/blog/2025-01-17-this-is-a-test/</link>
       <pubDate>Fri, 17 Jan 2025 21:41:46 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-01-17-this-is-a-test/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-01-17-this-is-a-test/</guid>
       <description>We all need to try new things. And, make mistakes. Then, try again.</description>
+    </item>
+    
+    <item>
+      <title>On propagation</title>
+      <link>http://localhost:1313/blog/2026-04-18-on-propagation/</link>
+      <pubDate>Sat, 26 Nov 2022 16:49:39 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-04-18-on-propagation/</guid>
+      <description>Around April of each year, I order praying mantis egg pods, also called an ootheca.
+About a month to eight weeks after their arrival around a hundred and fifty baby praying mantises are ready, chipper, and anxious to get out into the garden. It&amp;rsquo;s one of the happiest days of my year: baby release day.
+But, I rarely see them after that. Then last week, Barb saw one on a decorative light out front.</description>
     </item>
     
   </channel>

@@ -2,28 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cooperation on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/cooperation/</link>
+    <link>http://localhost:1313/tags/cooperation/</link>
     <description>Recent content in Cooperation on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 21:18:04 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/cooperation/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Thu, 25 Sep 2025 21:18:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cooperation/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My AI Partnership: why and how</title>
-      <link>https://worldwidestew.com/about/2025-09-25-my-ai-partnership-why-and-how/</link>
+      <link>http://localhost:1313/about/2025-09-25-my-ai-partnership-why-and-how/</link>
       <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/about/2025-09-25-my-ai-partnership-why-and-how/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/about/2025-09-25-my-ai-partnership-why-and-how/</guid>
       <description>About my use of AI:
 ❌ I usually use AI to improve my writing process: to check spelling, accuracy, flow, grammar, and tone. 🧐 Even where other sources are quoted, I cross-check with Claude.ai and other secondary sources for validation. 💡 My writing process usually involves finding something inspiring, interesting, coincidental, absurd, or odd. Then, I work collaboratively with my preferred AI, Claude.ai. Why? My fingers don&amp;rsquo;t work like they did.</description>
     </item>
     
     <item>
       <title>Finding Wisdom Beyond Desperation</title>
-      <link>https://worldwidestew.com/blog/2025-02-25-finding-wisdom-beyond-desperation/</link>
+      <link>http://localhost:1313/blog/2025-02-25-finding-wisdom-beyond-desperation/</link>
       <pubDate>Tue, 25 Feb 2025 13:06:18 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-02-25-finding-wisdom-beyond-desperation/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-02-25-finding-wisdom-beyond-desperation/</guid>
       <description>When we lead from wisdom, we must first recognize when desire transforms into craving.
 My vision for creating meaningful mindfulness opportunities keeps me motivated, but I&amp;rsquo;ve noticed how easily genuine passion can transform into an anxious urgency—a shift that rarely allows for clear discernment or thoughtful decision-making.
 Operating from desperation narrows our vision. It tempts us toward shortcuts, clouds our understanding, and blinds us to others&amp;rsquo; authentic motives and needs.</description>
@@ -31,20 +33,20 @@ Operating from desperation narrows our vision. It tempts us toward shortcuts, cl
     
     <item>
       <title>Why can&#39;t we be friends?</title>
-      <link>https://worldwidestew.com/blog/2025-02-04-why-cant-we-be-friends/</link>
+      <link>http://localhost:1313/blog/2025-02-04-why-cant-we-be-friends/</link>
       <pubDate>Tue, 04 Feb 2025 22:18:27 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-02-04-why-cant-we-be-friends/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-02-04-why-cant-we-be-friends/</guid>
       <description>&lt;p&gt;If canines and apes can cooperate, why can&amp;rsquo;t humans?&lt;/p&gt;
 &lt;p&gt;The excellent documentary, &lt;a href=&#34;https://www.imdb.com/title/tt32907397/&#34;&gt;Inside the Mind of a Dog&lt;/a&gt; on Netflix makes the case that dogs relate to humans because they are creatures that value cooperation. In fact, this was a surprising evolutionary development. The dogs we have come to know, value, and love, have done so as a result of their desire to cooperate. They long for connection and cooperation.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Rise and Fall of Rugged Individualism</title>
-      <link>https://worldwidestew.com/blog/2024-11-09-the-rise-and-fall-of-rugged-individualism/</link>
+      <link>http://localhost:1313/blog/2024-11-09-the-rise-and-fall-of-rugged-individualism/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-11-09-the-rise-and-fall-of-rugged-individualism/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-11-09-the-rise-and-fall-of-rugged-individualism/</guid>
       <description>Rugged Individualism taught us to ignore experience. For the good of everything and everyone else, keep going full bore.</description>
     </item>
     

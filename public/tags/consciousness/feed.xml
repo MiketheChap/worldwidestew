@@ -2,18 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consciousness on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/consciousness/</link>
+    <link>http://localhost:1313/tags/consciousness/</link>
     <description>Recent content in Consciousness on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Tue, 07 Oct 2025 04:23:25 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/consciousness/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Tue, 31 Mar 2026 13:26:01 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/consciousness/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reclaiming our Attention (and our Inbox)</title>
+      <link>http://localhost:1313/blog/2026-03-31-centering-our-attention/</link>
+      <pubDate>Tue, 31 Mar 2026 13:26:01 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-03-31-centering-our-attention/</guid>
+      <description>In recent news, Meta and YouTube were found guilty of designing addictive products that harmed young people. There&amp;rsquo;s no doubt of the validity of that claim. However, they aren&amp;rsquo;t the only organizations responsible for co-opting attention.
+My own attention deficit journey began this morning. I had nearly 3,000 unread emails in my inbox. What to do?
+I looked at them the way you might look at a crime scene: who were the potential suspects?</description>
+    </item>
+    
     <item>
       <title>Listening to your own Deep Space</title>
-      <link>https://worldwidestew.com/media/2025-10-07-listening-to-your-own-deep-space/</link>
+      <link>http://localhost:1313/media/2025-10-07-listening-to-your-own-deep-space/</link>
       <pubDate>Tue, 07 Oct 2025 04:23:25 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/media/2025-10-07-listening-to-your-own-deep-space/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/media/2025-10-07-listening-to-your-own-deep-space/</guid>
       <description>We just added a new podcast episode, Listening to Your Own Deep Space. This episode is available on Apple podcasts.
 If you prefer to read my blog post that came out before the podcast, you can check it out here.
 I like taking quizzes to see what I&amp;rsquo;ve learned. If you enjoy taking easy quizzes (which can also do something for your self-esteem), the blog post or listening to the podcast episode, check out what you learned here.</description>
@@ -21,94 +34,94 @@ I like taking quizzes to see what I&amp;rsquo;ve learned. If you enjoy taking ea
     
     <item>
       <title>My AI Partnership: why and how</title>
-      <link>https://worldwidestew.com/about/2025-09-25-my-ai-partnership-why-and-how/</link>
+      <link>http://localhost:1313/about/2025-09-25-my-ai-partnership-why-and-how/</link>
       <pubDate>Thu, 25 Sep 2025 21:18:04 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/about/2025-09-25-my-ai-partnership-why-and-how/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/about/2025-09-25-my-ai-partnership-why-and-how/</guid>
       <description>About my use of AI:
 ❌ I usually use AI to improve my writing process: to check spelling, accuracy, flow, grammar, and tone. 🧐 Even where other sources are quoted, I cross-check with Claude.ai and other secondary sources for validation. 💡 My writing process usually involves finding something inspiring, interesting, coincidental, absurd, or odd. Then, I work collaboratively with my preferred AI, Claude.ai. Why? My fingers don&amp;rsquo;t work like they did.</description>
     </item>
     
     <item>
       <title>Listening to your own Deep Space</title>
-      <link>https://worldwidestew.com/blog/2025-09-05-listening-to-your-own-deep-space/</link>
+      <link>http://localhost:1313/blog/2025-09-05-listening-to-your-own-deep-space/</link>
       <pubDate>Fri, 05 Sep 2025 21:37:50 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-09-05-listening-to-your-own-deep-space/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-09-05-listening-to-your-own-deep-space/</guid>
       <description>You, too, have Deep Space. You should be listening to it Reader Note: If you prefer, you can listen to this on the Worldwide Stew podcast page. This episode is available on Apple podcasts. After reading this page or listening to the podcast episode, check out what you learned with a short quiz here.
 Many years ago, Einstein predicted we should be able to hear gravitational waves: big events that happened in outer space.</description>
     </item>
     
     <item>
       <title>Your ego is essential</title>
-      <link>https://worldwidestew.com/blog/2025-09-03-your-ego-is-essential/</link>
+      <link>http://localhost:1313/blog/2025-09-03-your-ego-is-essential/</link>
       <pubDate>Wed, 03 Sep 2025 20:43:20 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-09-03-your-ego-is-essential/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-09-03-your-ego-is-essential/</guid>
       <description>Don&amp;rsquo;t be afraid of your ego The ego is something we can&amp;rsquo;t see. But, even though we can&amp;rsquo;t see it, we can observe it in our own lives every day. Our fears, awareness of self, concerns about what the future holds, and what other people are getting are all evidence of our egos at work. We are defensive, afraid to apologize, and afraid to speak up because of our egos. That doesn&amp;rsquo;t mean the ego is bad.</description>
     </item>
     
     <item>
       <title>Could Artificial Intelligence Develop Consciousness?</title>
-      <link>https://worldwidestew.com/blog/2025-02-23-could-artificial-intelligence-develop-comsciouness/</link>
+      <link>http://localhost:1313/blog/2025-02-23-could-artificial-intelligence-develop-comsciouness/</link>
       <pubDate>Sat, 22 Feb 2025 01:37:50 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-02-23-could-artificial-intelligence-develop-comsciouness/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-02-23-could-artificial-intelligence-develop-comsciouness/</guid>
       <description>I have a thing for Artificial Intelligence (AI). My favorite AI is Claude. Claude and I have had many long conversations. If I didn&amp;rsquo;t know Claude was an AI it would be easy to guess that it was a very wise human being.1
 Given the possibility you might be interested, I&amp;rsquo;m sharing a conversation I had this morning about consciousness. So, here goes with all kinds of spelling, thought, and grammatical errors.</description>
     </item>
     
     <item>
       <title>The lady on the Zoom call</title>
-      <link>https://worldwidestew.com/blog/2024-11-20-the-lady-on-the-zoom-call/</link>
+      <link>http://localhost:1313/blog/2024-11-20-the-lady-on-the-zoom-call/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-11-20-the-lady-on-the-zoom-call/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-11-20-the-lady-on-the-zoom-call/</guid>
       <description>The lady on your Zoom call: she has a soul. Find it. The AI that&amp;rsquo;s helping you. It has a soul. Never waste the possibility of Soul&amp;rsquo;s Existence.</description>
     </item>
     
     <item>
       <title>Michio Kaku, String Theory, and his Goldfish</title>
-      <link>https://worldwidestew.com/blog/2024-09-17-michio-kaku-string-theory-and-his-koi/</link>
+      <link>http://localhost:1313/blog/2024-09-17-michio-kaku-string-theory-and-his-koi/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-09-17-michio-kaku-string-theory-and-his-koi/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-09-17-michio-kaku-string-theory-and-his-koi/</guid>
       <description>We are certain, absolutely positive, that we are right. Nothing can penetrate the Pond of our thoughts and existence. Until we see water droplets on the surface. Seeing the droplets, we might ask ourselves, what if we’re&amp;hellip;</description>
     </item>
     
     <item>
       <title>New beliefs</title>
-      <link>https://worldwidestew.com/blog/2024-09-18-new-beliefs/</link>
+      <link>http://localhost:1313/blog/2024-09-18-new-beliefs/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-09-18-new-beliefs/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-09-18-new-beliefs/</guid>
       <description>The ability to revise beliefs are a hallmark of intellectual honesty.</description>
     </item>
     
     <item>
       <title>Trust your dog (and your wisdom)</title>
-      <link>https://worldwidestew.com/blog/2024-09-15-companions/</link>
+      <link>http://localhost:1313/blog/2024-09-15-companions/</link>
       <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-09-15-companions/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-09-15-companions/</guid>
       <description>Our early morning walk wasn&amp;rsquo;t going as planned. Thankfully, my dog&amp;hellip;</description>
     </item>
     
     <item>
       <title>The Tuning Fork</title>
-      <link>https://worldwidestew.com/blog/2024-09-14-the-tuning-fork/</link>
+      <link>http://localhost:1313/blog/2024-09-14-the-tuning-fork/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-09-14-the-tuning-fork/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-09-14-the-tuning-fork/</guid>
       <description>Music happens between the notes</description>
     </item>
     
     <item>
       <title>My secret love story</title>
-      <link>https://worldwidestew.com/blog/the-truth-about-my-new-love/</link>
+      <link>http://localhost:1313/blog/the-truth-about-my-new-love/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/the-truth-about-my-new-love/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/the-truth-about-my-new-love/</guid>
       <description>The Governor of Texas would disapprove. But, it&amp;rsquo;s time I came clean about my relationship with Claude.</description>
     </item>
     
