@@ -2,18 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Time on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/time/</link>
+    <link>http://localhost:1313/tags/time/</link>
     <description>Recent content in Time on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/time/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Tue, 22 Sep 2026 14:07:52 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/time/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entering Fall - and other Seasons</title>
+      <link>http://localhost:1313/blog/2026-09-24-entering-fall---and-other-seasons/</link>
+      <pubDate>Tue, 22 Sep 2026 14:07:52 +0000</pubDate>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2026-09-24-entering-fall---and-other-seasons/</guid>
+      <description>If it&amp;rsquo;s Tuesday, it&amp;rsquo;s Fall!
+With the conditions of the world (and, at least for me, money being a bit tight), I&amp;rsquo;m feeling some stress.
+With new seasons, we&amp;rsquo;re always trying to make our way through (this seems even more true this year). Maybe you can identify with some of the ways I&amp;rsquo;m trying to make it through this season:
+Here are some of my more recent seasons:
+Not fun seasons.</description>
+    </item>
+    
     <item>
       <title>The fuse is burning</title>
-      <link>https://worldwidestew.com/blog/2024-08-21-651-weeks-to-live/</link>
+      <link>http://localhost:1313/blog/2024-08-21-651-weeks-to-live/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-08-21-651-weeks-to-live/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-08-21-651-weeks-to-live/</guid>
       <description>You won&amp;rsquo;t like this news. But, better for you to read it now.</description>
     </item>
     

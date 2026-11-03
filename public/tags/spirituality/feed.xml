@@ -2,38 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spirituality on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/spirituality/</link>
+    <link>http://localhost:1313/tags/spirituality/</link>
     <description>Recent content in Spirituality on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Sat, 10 May 2025 13:36:24 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/spirituality/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Sat, 10 May 2025 13:36:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/spirituality/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beliefs Worth Examining</title>
-      <link>https://worldwidestew.com/blog/2025-05-10-beliefs-worth-examining/</link>
+      <link>http://localhost:1313/blog/2025-05-10-beliefs-worth-examining/</link>
       <pubDate>Sat, 10 May 2025 13:36:24 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-05-10-beliefs-worth-examining/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-05-10-beliefs-worth-examining/</guid>
       <description>What would your belief system - your religion and politics, for example - have to do to cause you to reject it? It&amp;rsquo;s a question for our ideology-driven times.
 Decades ago I believed in almost every facet of the Christian Nationalist dream, including their beliefs about sexuality. I ignored the human experience, following ideology instead. Then, as a chaplain in training, I sat by a gay man who lost his partner moments before.</description>
     </item>
     
     <item>
       <title>Deputized on Ash Wednesday</title>
-      <link>https://worldwidestew.com/blog/2025-03-05-deputized-to-impose-ashes/</link>
+      <link>http://localhost:1313/blog/2025-03-05-deputized-to-impose-ashes/</link>
       <pubDate>Wed, 05 Mar 2025 22:11:41 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-03-05-deputized-to-impose-ashes/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-03-05-deputized-to-impose-ashes/</guid>
       <description>It&amp;rsquo;s Ash Wednesday. I feel a little sad about that. Why? When I think of Ash Wednesday, here&amp;rsquo;s the thing I remember most.
 I was a chaplain at Baylor Scott &amp;amp; White Heart and Vascular Hospital in Dallas. Even though I wasn&amp;rsquo;t Catholic, each Ash Wednesday I was deputized to impose Ashes on the foreheads of anyone who wanted them. I received Ashes and then was deputized to impose them on others.</description>
     </item>
     
     <item>
       <title>Something Spiritual</title>
-      <link>https://worldwidestew.com/blog/2024-08-13-something-spiritual/</link>
+      <link>http://localhost:1313/blog/2024-08-13-something-spiritual/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2024-08-13-something-spiritual/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2024-08-13-something-spiritual/</guid>
       <description>Philosophers have argued over religion and spirituality for aeons, it seems. As the saying goes, are we cutting off our noses to spite our faces?</description>
     </item>
     

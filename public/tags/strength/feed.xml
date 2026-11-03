@@ -2,27 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strength on Worldwide Stew</title>
-    <link>https://worldwidestew.com/tags/strength/</link>
+    <link>http://localhost:1313/tags/strength/</link>
     <description>Recent content in Strength on Worldwide Stew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2024 Worldwide Stew, aka Michael Davis.</copyright>
-    <lastBuildDate>Fri, 28 Nov 2025 15:45:08 +0000</lastBuildDate><atom:link href="https://worldwidestew.com/tags/strength/feed.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>worldwide@worldwidestew.com (Michael Davis)</managingEditor>
+    <webMaster>worldwide@worldwidestew.com (Michael Davis)</webMaster>
+    <copyright>© 2026 Worldwide Stew, aka Michael Davis.</copyright>
+    <lastBuildDate>Fri, 28 Nov 2025 15:45:08 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/strength/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Having Teeth</title>
-      <link>https://worldwidestew.com/blog/2025-11-28-having-teeth/</link>
+      <link>http://localhost:1313/blog/2025-11-28-having-teeth/</link>
       <pubDate>Fri, 28 Nov 2025 15:45:08 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-11-28-having-teeth/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-11-28-having-teeth/</guid>
       <description>I think I was unfailingly gentle with patients, let them rant, and tolerated their abuses. Eventually, their rant lost steam and we started to get to the core of their often legitimate frustrations. They might be directed at an unrealized hope for a dreamed of healing. Or, they might feel they weren&amp;rsquo;t understood. A pinhole in a balloon release pressurized air madly at first out of a pricked balloon. Then, the balloon eventually loses pressure and falls to the floor.</description>
     </item>
     
     <item>
       <title>The Saturday Night Monster</title>
-      <link>https://worldwidestew.com/blog/2025-01-22-the-saturday-night-fridge-raid/</link>
+      <link>http://localhost:1313/blog/2025-01-22-the-saturday-night-fridge-raid/</link>
       <pubDate>Wed, 22 Jan 2025 22:29:11 +0000</pubDate>
-      
-      <guid>https://worldwidestew.com/blog/2025-01-22-the-saturday-night-fridge-raid/</guid>
+      <author>worldwide@worldwidestew.com (Michael Davis)</author>
+      <guid>http://localhost:1313/blog/2025-01-22-the-saturday-night-fridge-raid/</guid>
       <description>The Saturday Night Monster Late on Saturday nights, the most frightening monster of all enters our home. It drags me to the fridge, seizing my hands and coercing them into into the freezer section. Resistance, as they say, is futile. Before I know it, I&amp;rsquo;ve succumbed to it&amp;rsquo;s cruel overtures.
 If I were more mindful about the Saturday Night Monster,
 Or, if I wanted to be more mindful about the Saturday Night Monster,</description>
