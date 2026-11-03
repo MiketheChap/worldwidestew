@@ -60,12 +60,15 @@ paginate = 5 # This will show 5 posts per page
 # I removed the paginate 
 
 
-# Availability banner (added Nov 2026): shows a "meet with me" link on the site.
+# Availability banner (added Nov 2026): there are twwo switches:
+# Both on: the banner shows two lines, “available now” and “book a time.”
+# availableNow = false: the live Proton Meet line disappears, but the booking line stays. This is your “I’m away” setting.
+# Hide everything: set availableNow = false and put a # in front of the scheduleUrl line.
 [params.availability]
-  availableNow = true
+  availableNow = false
   message = "I'm available to meet with you right now on end-to-end encrypted Proton Meet."
   linkText = "Join me on Proton Meet"
   url = "https://meet.proton.me/join/id-4JMMPJFH48#pwd-VW49SieAY3rp"
   scheduleMessage = "Prefer a time that suits you?"
   scheduleText = "Book a time with me"
-  scheduleUrl = "https://cal.com/mikethechap"
+  # scheduleUrl = "https://cal.com/mikethechap"
