@@ -63,7 +63,7 @@ paginate = 5 # This will show 5 posts per page
 # Availability banner (added Nov 2026): shows a "meet with me" link on the site.
 # Set enabled = false to hide it AND then Refresh the page on GitHub.
 [params.availability]
-  enabled = false
+  enabled = true
   message = "I'm available to meet with you right now on end-to-end encrypted Proton Meet."
   linkText = "Join me on Proton Meet"
   lobbyNote = "You'll wait in the Lobby until I let you in."
