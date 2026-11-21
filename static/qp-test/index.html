@@ -1,0 +1,1836 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--
+  A Quiet Place: A Private Grief Journal
+  Copyright (c) 2026 Barbara Davis and Michael Davis. All rights reserved.
+  Licensed, not sold, for the personal use of the person named on the license.
+  Do not copy, share, resell, or distribute this file or its license code,
+  and do not remove this notice.
+-->
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A Quiet Place — A Private Grief Journal</title>
+<style>
+:root{
+  --bg:#faf6f0; --card:#ffffff; --ink:#2b2622; --muted:#5f564e;
+  --accent:#3f6b63; --accent-d:#2d4f49; --soft:#e6efec; --line:#d9d0c4;
+  --warn:#fff3d6; --warnline:#e0b94f;
+}
+html{font-size:20px}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:system-ui,-apple-system,"Segoe UI",Roboto,Ubuntu,sans-serif;line-height:1.6}
+h1,h2,h3{font-family:Georgia,"Times New Roman",serif;line-height:1.25;margin:.2em 0 .5em}
+h1{font-size:1.7rem} h2{font-size:1.4rem} h3{font-size:1.15rem}
+p{margin:.5em 0 .9em}
+.app{max-width:860px;margin:0 auto;padding:1rem}
+.crisis{background:var(--warn);border:2px solid var(--warnline);border-radius:.7rem;padding:.45rem .8rem;font-size:.85rem;margin:0 0 .9rem}
+.crisis button{min-height:0;border:none;background:none;text-decoration:underline;padding:0 .2rem;color:var(--accent-d);font-size:inherit;cursor:pointer}
+header.top{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem;flex-wrap:wrap}
+header.top .sub{color:var(--muted);margin:0}
+header.top .tools{display:flex;gap:.6rem;align-items:center;flex-wrap:wrap}
+.memline{font-family:Georgia,serif;font-style:italic;font-size:1rem;color:var(--muted,#5f564e);margin:0 0 .2rem}
+.owner{font-family:Georgia,serif;font-size:1.25rem;color:var(--accent-d);margin:.1rem 0 .2rem}
+.sizer{display:flex;gap:.4rem;align-items:center}
+.sizer span{color:var(--muted);font-size:.8rem}
+nav{display:flex;flex-wrap:wrap;gap:.5rem;margin:1rem 0 1.2rem;padding-bottom:1rem;border-bottom:2px solid var(--line)}
+#menuBtn{display:none;width:100%;margin:.9rem 0 0;text-align:left}
+button{font:inherit;min-height:2.8rem;padding:.4rem 1rem;border-radius:.65rem;
+  border:2px solid var(--accent);background:#fff;color:var(--accent-d);cursor:pointer}
+button:hover{background:var(--soft)}
+button.primary{background:var(--accent);color:#fff}
+button.primary:hover{background:var(--accent-d)}
+button.danger{border-color:#9b3d3d;color:#7a2b2b}
+button.small{min-height:2.3rem;font-size:.85rem;padding:.2rem .7rem}
+nav button[aria-current="page"],#settingsBtn[aria-current="page"]{background:var(--accent);color:#fff}
+button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible,summary:focus-visible{
+  outline:3px solid #e8962a;outline-offset:2px}
+.card{background:var(--card);border:2px solid var(--line);border-radius:.9rem;padding:1.1rem 1.2rem;margin:0 0 1.1rem}
+.card.soft{background:var(--soft);border-color:#c5d9d3}
+.card.warn{background:var(--warn);border-color:var(--warnline)}
+label{display:block;font-weight:600;margin:.9rem 0 .3rem}
+input[type=text],input[type=password],input[type=date],textarea,select{width:100%;font:inherit;padding:.6rem .75rem;border:2px solid var(--line);
+  border-radius:.6rem;background:#fff;color:var(--ink)}
+input[type=date]{max-width:16rem}
+input[type=checkbox],input[type=radio]{width:1.4rem;height:1.4rem;flex:none;margin:0}
+textarea{min-height:9rem;resize:vertical}
+textarea.tall{min-height:15rem}
+textarea.mid{min-height:11rem}
+.chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:.4rem 0 .4rem}
+.chip{min-height:2.6rem;border-radius:2rem;padding:.25rem 1rem}
+.chip[aria-pressed="true"]{background:var(--accent);color:#fff}
+.moreRow{margin:.1rem 0 .6rem}
+.row{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center}
+.muted{color:var(--muted)}
+.tag{display:inline-block;background:var(--soft);border-radius:1rem;padding:0 .7rem;margin:0 .3rem .3rem 0;font-size:.8rem}
+.prompt{font-family:Georgia,serif;font-size:1.2rem;font-style:italic}
+details{border:2px solid var(--line);border-radius:.8rem;background:#fff;margin:.6rem 0;padding:.2rem 1rem}
+summary{cursor:pointer;font-weight:600;padding:.6rem 0;font-family:Georgia,serif;font-size:1.05rem}
+input[type=range]{width:100%;height:2rem}
+.entry .meta{color:var(--muted);font-size:.85rem}
+.entry .body{white-space:pre-wrap;margin:.6rem 0}
+.entry label.sel{display:inline-flex;gap:.5rem;align-items:center;font-weight:400;margin:0}
+.opt{display:flex;gap:.7rem;align-items:flex-start;margin:.6rem 0}
+.opt input{margin-top:.2rem}
+.opt label{margin:0;font-weight:400}
+.optrow{display:flex;gap:.6rem;align-items:center;margin:.4rem 0}
+.optrow label{margin:0;font-weight:400}
+.overlay{position:fixed;inset:0;background:var(--bg);z-index:20;display:flex;align-items:center;justify-content:center;padding:1rem;overflow:auto}
+.overlay.dim{background:rgba(43,38,34,.55);z-index:25}
+.overlay .card{max-width:34rem;width:100%;margin:0}
+.hidden{display:none!important}
+.meaningOnly,.faithOnly{display:none}
+body.sp-meaning .meaningOnly,body.sp-faith .meaningOnly,body.sp-faith .faithOnly{display:block}
+.err{color:#8a2b2b;font-weight:600;min-height:1.4rem}
+.qcard h3{font-size:1.25rem}
+.qcard ul,.learn ul{margin:.3rem 0 .8rem;padding-left:1.3rem}
+.qcard li,.learn li{margin:.25rem 0}
+.meter{height:1.2rem;border-radius:.7rem;background:#e8e1d6;overflow:hidden;border:2px solid var(--line)}
+.meter>div{height:100%;background:var(--accent);width:0}
+.meter.mid>div{background:#c58a1a}
+.meter.high>div{background:#a33b3b}
+.calbox{margin-top:.6rem}
+#toast{position:fixed;left:50%;bottom:1.5rem;transform:translateX(-50%);background:var(--accent-d);color:#fff;
+  padding:.7rem 1.2rem;border-radius:.7rem;max-width:90%;opacity:0;pointer-events:none;transition:opacity .25s;z-index:40}
+#toast.show{opacity:1}
+footer{color:var(--muted);font-size:.8rem;border-top:2px solid var(--line);margin-top:1.5rem;padding-top:1rem}
+big.phone{font-size:1.3rem;font-weight:700}
+#printArea{display:none}
+.crisis .short{display:none}
+@media (max-width:640px){
+  #menuBtn{display:block;margin-top:.6rem}
+  nav{display:none;margin-top:.6rem}
+  nav.open{display:flex}
+  .app{padding:.7rem}
+  header.top{gap:.4rem}
+  header.top .sub,.sizer span{display:none}
+  h1{font-size:1.45rem;margin-bottom:.1rem}
+  .crisis{margin-bottom:.6rem;padding:.35rem .7rem}
+  .crisis .long{display:none}
+  .crisis .short{display:inline}
+}
+@media print{
+  html{font-size:12pt}
+  body{background:#fff}
+  .app,#toast,.overlay{display:none!important}
+  #printArea{display:block!important;font-family:Georgia,serif;color:#000}
+  #printArea h1{font-size:20pt} #printArea h2{font-size:15pt;margin-top:1.2em}
+  .pentry{page-break-inside:avoid;border-top:1px solid #999;padding-top:.6em;margin-top:1em}
+  .pentry .body{white-space:pre-wrap}
+  .pmeta{color:#444;font-size:10pt}
+  table.ptab{border-collapse:collapse;width:100%;font-size:10pt}
+  table.ptab td,table.ptab th{border:1px solid #999;padding:3pt 5pt;text-align:left;vertical-align:top}
+}
+</style>
+</head>
+<body>
+
+<!-- Lock screen (only shown if a password has been set) -->
+<div id="lockScreen" class="overlay hidden" role="dialog" aria-modal="true" aria-labelledby="lockTitle">
+  <div class="card">
+    <h2 id="lockTitle">Welcome back</h2>
+    <p>This journal is protected with a password. Please type it to open your journal.</p>
+    <label for="lockPw">Password</label>
+    <input type="password" id="lockPw" autocomplete="current-password">
+    <div class="optrow"><input type="checkbox" id="lockShow"><label for="lockShow">Show what I am typing</label></div>
+    <p class="err" id="lockErr" role="alert"></p>
+    <p class="row"><button class="primary" id="lockBtn">Open my journal</button></p>
+    <details>
+      <summary>I can't remember my password</summary>
+      <p>I'm sorry. Because your words are locked so that no one else can read them, there is no way for anyone, including the person who made this journal, to recover a forgotten password.</p>
+      <p>If you saved a backup before you set the password, that backup is not locked, and you can start fresh and restore it. If the backup was made after you set the password, it uses the same password.</p>
+      <p><button class="danger small" id="lockReset">Erase this journal and start fresh</button></p>
+    </details>
+    <p class="muted" style="font-size:.85rem">If you are in crisis or need to talk to someone right now, call or text <strong>988</strong> (U.S.).</p>
+  </div>
+</div>
+
+<!-- Password dialog (used for set / change / remove / restore) -->
+<div id="pwModal" class="overlay dim hidden" role="dialog" aria-modal="true" aria-labelledby="pwTitle">
+  <div class="card">
+    <h2 id="pwTitle"></h2>
+    <p id="pwMsg"></p>
+    <label for="pwInput">Password</label>
+    <input type="password" id="pwInput" autocomplete="new-password">
+    <div id="pwConfirmWrap">
+      <label for="pwInput2">Type it once more</label>
+      <input type="password" id="pwInput2" autocomplete="new-password">
+    </div>
+    <div class="optrow"><input type="checkbox" id="pwShow"><label for="pwShow">Show what I am typing</label></div>
+    <p class="err" id="pwErr" role="alert"></p>
+    <p class="row"><button class="primary" id="pwOk">OK</button> <button id="pwCancel">Cancel</button></p>
+  </div>
+</div>
+
+<div class="app" id="appRoot">
+
+<div class="crisis" id="crisisStrip"><span class="long">If you are in crisis or need to talk to someone right now, call or text <strong>988</strong> (U.S.).</span><span class="short">In crisis? Call or text <strong>988</strong> (U.S.).</span> <button type="button" data-go="reach">More help</button></div>
+<div id="globalBanners"></div>
+
+<header class="top">
+  <div>
+    <h1 id="appTitle">A Quiet Place</h1>
+    <p class="owner hidden" id="ownerLine"></p>
+    <p class="memline hidden" id="memLine"></p>
+    <p class="sub">A private journal for grief and loss</p>
+  </div>
+  <div class="tools">
+    <div class="sizer" role="group" aria-label="Text size">
+      <span>Text size</span>
+      <button class="small js-smaller" aria-label="Make text smaller">A−</button>
+      <button class="small js-bigger" aria-label="Make text larger">A+</button>
+    </div>
+    <button id="settingsBtn" data-go="settings">Settings</button>
+  </div>
+</header>
+
+<button id="menuBtn" type="button" aria-expanded="false" aria-controls="nav"><span id="menuLabel">Menu</span> ▾</button>
+<nav id="nav" aria-label="Main">
+  <button data-tab="home">Welcome</button>
+  <button data-tab="checkin">Today's Check-In</button>
+  <button data-tab="write">Write</button>
+  <button data-tab="questions">Four Questions</button>
+  <button data-tab="remember">Remember Someone</button>
+  <button data-tab="understand">Learning About Grief</button>
+  <button data-tab="reach">Reaching Out</button>
+  <button data-tab="journal">My Journal</button>
+</nav>
+
+<main id="main" tabindex="-1">
+
+<!-- WELCOME -->
+<section id="tab-home" data-section>
+  <h2>Welcome</h2>
+  <div id="banners"></div>
+
+  <div class="card warn hidden" id="licenseCard">
+    <h3>Unlock your journal</h3>
+    <p id="licenseIntro">You are using the preview, which lets you save a few entries so you can try it. To keep writing, please enter your name and the license code that came with your purchase.</p>
+    <label for="licName">Your name, exactly as it appears on your receipt</label>
+    <input type="text" id="licName" autocomplete="name">
+    <label for="licCode">License code (you can paste it)</label>
+    <textarea id="licCode" style="min-height:5rem" spellcheck="false"></textarea>
+    <p class="err" id="licMsg" role="alert"></p>
+    <p class="row"><button class="primary" id="licBtn">Unlock</button></p>
+    <p class="muted" id="licHelp"></p>
+  </div>
+
+  <div class="card soft">
+    <p>Grief is one of the most human things there is, and it rarely follows a map. This is a quiet place to put down some of what you are carrying: your thoughts, your memories, the heavy days and the lighter ones.</p>
+    <p>Grief is unique. Grief is work. Grief is a process. There is no right way to do it, and nothing here that you have to finish. Come when you want. Leave when you need to. You are welcome here exactly as you are, whatever you believe and however you are grieving.</p>
+    <p>You may be grieving more than one person, or more than one loss. You can keep a page for each person you miss, and say who each entry is about. Nothing has to be sorted out now.</p>
+  </div>
+  <div class="card">
+    <h3>Your words stay with you</h3>
+    <p>Everything you write here is kept <strong>on this computer, in this browser</strong>. Nothing is sent anywhere. There is no account and no one else can read it. If you ever choose to share something, that is always your decision, and nothing happens unless you ask for it.</p>
+    <p class="muted">Because it is stored in your browser, please save a backup once in a while. Clearing your browser's data would erase the journal, and a backup file is your safety net.</p>
+  </div>
+  <div class="card">
+    <h3>What place, if any, would you like faith or spirituality to have here?</h3>
+    <p class="muted">People come to grief from very different places. Choose whatever fits you. No choice is better than another.</p>
+    <div id="spiritWelcome"></div>
+  </div>
+  <div class="card">
+    <h3>Make this journal yours</h3>
+    <p><strong>Settings</strong> (at the top right of every page) is where you change anything about the journal itself: text size, faith and spirituality, a password, backups, and how full your journal is.</p>
+    <p><button data-go="settings">Open Settings</button></p>
+  </div>
+  <div class="card">
+    <h3>Where would you like to begin?</h3>
+    <div class="row">
+      <button class="primary" data-go="checkin">How am I today?</button>
+      <button data-go="write">Write something</button>
+      <button data-go="questions">The four questions</button>
+      <button data-go="remember">Remember someone</button>
+      <button data-go="understand">Is this normal?</button>
+    </div>
+  </div>
+</section>
+
+<!-- CHECK-IN -->
+<section id="tab-checkin" data-section class="hidden">
+  <h2>Today's Check-In</h2>
+  <p class="muted">No right answers. Tap whatever is true right now, and skip anything that isn't.</p>
+  <div class="card">
+    <div id="cDate"></div>
+    <div id="cWho"></div>
+    <h3>What am I feeling?</h3>
+    <div class="chips" id="feelChips"></div>
+    <p class="moreRow"><button type="button" class="small" id="feelMore"></button></p>
+    <h3>What is my mind doing?</h3>
+    <div class="chips" id="mindChips"></div>
+    <p class="moreRow"><button type="button" class="small" id="mindMore"></button></p>
+    <h3>What is my body telling me?</h3>
+    <div class="chips" id="bodyChips"></div>
+    <p class="moreRow"><button type="button" class="small" id="bodyMore"></button></p>
+    <div class="card warn hidden" id="bodyAlert" role="alert">
+      <strong>Please take your heart seriously.</strong> Chest tightness, a racing heart, or trouble breathing can be part of grief, but they can also be signs of a heart problem. <strong>If you have chest pain or pressure, or trouble breathing, call emergency medical services now (911 in the U.S.).</strong> Don't wait to see if it passes.
+    </div>
+    <div id="spiritGroup" class="hidden">
+      <h3>Spirit and meaning</h3>
+      <div class="chips" id="spiritChips"></div>
+    </div>
+    <h3>How heavy is today?</h3>
+    <input type="range" id="intensity" min="1" max="5" value="3" aria-describedby="intLabel">
+    <p id="intLabel"><strong>Heavy</strong></p>
+    <details id="signsBox">
+      <summary>Signs worth noticing (optional)</summary>
+      <p class="muted">Doctors and counselors often ask about these. Tick any that have been troubling you lately. A checklist cannot diagnose anything. It simply starts a conversation, and having dates on it can help that conversation.</p>
+      <div id="signsList"></div>
+      <p class="muted" style="font-size:.8rem">These nine questions are from the PHQ-9, developed by Drs. R. L. Spitzer, J. B. W. Williams, K. Kroenke and colleagues. The wording here is lightly adapted.</p>
+    </details>
+    <label for="checkNote">Anything else you want to say? (optional)</label>
+    <textarea id="checkNote"></textarea>
+    <p><button class="primary" id="saveCheck">Save this check-in</button></p>
+  </div>
+  <div id="checkResponse"></div>
+</section>
+
+<!-- WRITE -->
+<section id="tab-write" data-section class="hidden">
+  <h2>Write</h2>
+  <div class="card soft">
+    <p class="muted" style="margin-top:0">A gentle prompt, if you'd like one:</p>
+    <p class="prompt" id="promptText"></p>
+    <button class="small" id="newPrompt">Another prompt</button>
+  </div>
+  <div class="card">
+    <div id="wDate"></div>
+    <div id="wWho"></div>
+    <label for="wTitle">Title (optional)</label>
+    <input type="text" id="wTitle">
+    <label for="wText">Your words</label>
+    <textarea id="wText" class="tall"></textarea>
+    <p><button class="primary" id="saveWrite">Save to my journal</button></p>
+  </div>
+</section>
+
+<!-- FOUR QUESTIONS -->
+<section id="tab-questions" data-section class="hidden">
+  <h2>The Four Questions</h2>
+  <div class="card soft">
+    <p>After a death, much of the world has to be learned again: who you are, who they are to you now, how you stand with the people you shared, and how you live in the wider world. The philosopher Thomas Attig, in <em>How We Grieve: Relearning the World</em>, describes grieving in just this way. These four questions mark the main places where that relearning happens.</p>
+    <p>They are not steps or stages, and you do not have to answer them in order or finish any of them. They come around again and again, like a spiral staircase that brings you back to the same view from a different height.</p>
+    <p><strong>The answers will not come all at once. That's okay.</strong> Some may take months or years. What helps is often not the answer but the asking: writing a few honest lines, coming back later, and noticing how your answer changes.</p>
+    <p class="muted">How to use this page: choose who you are thinking of (or type a name), read a question and the prompts under it, write whatever comes (one sentence is enough), and save. Your earlier writing stays under each question, so you can see how your thinking changes.</p>
+  </div>
+  <div class="card">
+    <div id="qDate"></div>
+    <div id="qWho"></div>
+  </div>
+  <div id="qCards"></div>
+</section>
+
+<!-- REMEMBER -->
+<section id="tab-remember" data-section class="hidden">
+  <h2>Remember Someone</h2>
+  <p class="muted">A keepsake page for someone you love and miss. Fill in as much or as little as you like. You can come back and add more at any time. Your memories and your connection with them are your true North Star.</p>
+  <p class="muted"><strong>More than one person?</strong> Make a page for each person you miss. Each is saved on its own and appears in the list below. When you check in or write, you can choose who your words are about.</p>
+  <div class="card">
+    <label for="kName">Their name</label>
+    <input type="text" id="kName">
+    <label for="kRel">Who they were to me</label>
+    <input type="text" id="kRel" placeholder="mother, husband, friend, neighbor, my dog...">
+    <label for="kBorn">Date of birth (optional)</label>
+    <input type="date" id="kBorn">
+    <label for="kDied">Date of death</label>
+    <input type="date" id="kDied">
+    <p class="muted" style="margin:.3rem 0 0">Having the date lets the journal gently notice anniversaries with you, show how much time has passed, and help you add a yearly reminder to your calendar.</p>
+    <label for="kVoice">Things they used to say</label>
+    <textarea id="kVoice"></textarea>
+    <label for="kMem">Memories I want to keep</label>
+    <textarea id="kMem"></textarea>
+    <label for="kTaught">What they taught me</label>
+    <textarea id="kTaught"></textarea>
+    <label for="kUnsaid">What I wish I had said (or heard)</label>
+    <textarea id="kUnsaid"></textarea>
+    <label for="kDetails">Small details: a smell, a song, a place, a habit</label>
+    <textarea id="kDetails"></textarea>
+    <div class="meaningOnly">
+      <label for="kPrayer" id="kPrayerLabel">A wish, poem, or blessing for them</label>
+      <textarea id="kPrayer"></textarea>
+    </div>
+    <p class="row">
+      <button class="primary" id="saveKeep">Save this keepsake</button>
+      <button id="clearKeep">Start a blank page</button>
+    </p>
+  </div>
+  <h3>My keepsakes</h3>
+  <div id="keepList"></div>
+</section>
+
+<!-- LEARNING -->
+<section id="tab-understand" data-section class="hidden learn">
+  <h2>Learning About Grief</h2>
+  <div class="card warn">
+    <h3>Please don't ignore your body, especially your heart</h3>
+    <p>Deep grief can have big, and sometimes serious, effects on how the heart works. Bereavement carries real cardiovascular risks, and they should not be ignored. In the first days and weeks after a loss, the risk of a heart attack is higher than usual, and a stress-related heart condition sometimes called "broken heart syndrome" is real.</p>
+    <p><strong>Whenever you have chest pain, call emergency medical services (911 in the U.S.).</strong> Don't wait to see if it passes. Tell your doctor that you are grieving, and keep up with your checkups.</p>
+  </div>
+  <p class="muted">Grief is unique, grief is work, and grief is a process. Many people wonder, quietly, whether what they're going through is normal. Here are some of the most common experiences. Open whichever ones speak to you.</p>
+
+  <details><summary>Grief lives in the body</summary>
+  <p>Grief is not only emotional. Your whole body mourns along with you. Common body reactions include:</p>
+  <ul>
+    <li><strong>Chest pain or pressure, or trouble breathing: call emergency medical services. Don't wait.</strong> Bereavement has distinct cardiovascular risks.</li>
+    <li>Exhaustion, trouble sleeping, or sleeping too much.</li>
+    <li>Changes in appetite, an upset stomach, or nausea.</li>
+    <li>Headaches, backaches, muscle aches, or a tight jaw and shoulders.</li>
+    <li>A lump in the throat, sighing, or a heavy feeling in the chest.</li>
+    <li>Dizziness, weakness, or feeling shaky; sometimes even rashes.</li>
+    <li>Catching every cold going around, because stress and poor sleep affect the immune system.</li>
+    <li>Restlessness, a surprising rush of energy, or tears that come without warning.</li>
+  </ul>
+  <p>Not every symptom is "just grief." When something is new, severe, or worrying, please ask a doctor. In the meantime, be gentle with yourself: eat and drink regularly, move a little, let others help, and set limits you can keep. You do not have to do all of it at once.</p>
+  </details>
+  <details><summary>There is no timeline</summary>
+    <p>Grief does not follow a schedule. Some people feel steadier in a few months; many find that the second year is harder than the first, because the world has moved on while they are still missing someone. If you are still hurting long after others expect you to be "over it," that is not a failing. Love does not have an expiration date.</p>
+  </details>
+  <details><summary>Grief is a spiral, not a straight line</summary>
+    <p>Grief is a verb, not a noun. It is active, fluid, and involves your whole being. Many people picture it as a spiral staircase: some days you move up a few stairs, and other days you slip down a few. You may pass the same landing more than once, and that is not going backward. It is how the work is done.</p>
+    <p>It also comes in waves. A song, a smell, or a grocery aisle can lift a wave out of nowhere. Waves tend to come further apart and soften over time, but they can still surprise you years later.</p>
+  </details>
+  <details><summary>The fog: forgetting, distraction, feeling "off"</summary>
+  <p>Many grieving people lose their keys, forget appointments, read the same paragraph four times, or feel as though they are moving through fog. Your mind is doing enormous work in the background. It usually lifts gradually. In the meantime, write things down and lower your expectations of yourself.</p>
+  </details>
+  <details><summary>Numbness, or feeling nothing at all</summary>
+  <p>Numbness is one of the mind's ways of protecting you when a loss is too big to take in all at once. It can show up at the funeral, weeks later, or in the middle of an ordinary Tuesday. It does not mean you didn't love them. Feeling often returns on its own schedule.</p>
+  </details>
+  <details><summary>Anger, guilt, and the "if only"s</summary>
+  <p>Anger at the person who died, at doctors, at family, or at yourself is very common, and so is guilt. "If only I had called more, noticed sooner, said that one thing." These thoughts are part of the mind trying to find some control in something that could not be controlled.</p>
+  <p>Almost always, the reason we made the choices we did was love. We do the best we can with the information we have and the pressure of the moment. It can help to remember the circumstances more accurately, to learn what there is to learn, and to bless and forgive ourselves. Saying these thoughts aloud or writing them down can take some of the weight out of them.</p>
+  </details>
+  <details><summary>Unfinished business and things left unsaid</summary>
+  <p>After a death, many people regret things they said, or didn't say. Some write a letter to the person as if they could read it. Some speak aloud to an empty chair, saying everything they still want to say. Both are well-worn paths for working through unresolved feelings, and you can do either one here, in the Write page.</p>
+  <p>It also helps to remember the person as they really were: fully human, both the beautiful and the difficult. That is how we honor, and grieve, the real person.</p>
+  </details>
+  <details><summary>Relief mixed with sadness</summary>
+  <p>After a long illness or a hard relationship, some people feel relief alongside the grief and then feel ashamed of the relief. Relief and sorrow can sit side by side. Both can be true, and neither cancels the love.</p>
+  </details>
+  <details><summary>Grieving before the death (anticipatory grief)</summary>
+  <p>When someone is dying, or slowly changing through illness, many people begin to grieve long before the death. This can go on for days, weeks, months, or even years. With a slow decline such as dementia, you may say goodbye in small pieces: a name that is forgotten, a role that changes, a conversation that no longer comes.</p>
+  <p>It is real grief. It often brings tiredness, tears, guilt, and mixed feelings, including wishing it were over and then feeling ashamed of wishing. You are not wrong or disloyal for feeling any of it, and caregivers in particular carry a heavy load.</p>
+  <p>Grieving ahead of time does not necessarily make the grief afterward smaller. For some people it is softer, and for others it still arrives with full force. Both are ordinary. If you are caring for someone now, the Write page is a good place to put some of this down, and it is fine to ask others for help.</p>
+  </details>
+  <details><summary>When a child dies</summary>
+  <p>The death of a child turns the natural order upside down. Many parents say it is the hardest loss there is, whatever their child's age. (Losing a grown child is described in the next topic.)</p>
+  <ul>
+    <li><strong>There is no "getting over it."</strong> Many parents describe learning to carry the loss rather than leaving it behind.</li>
+    <li><strong>Parents grieve differently,</strong> and at different speeds. Different is not the same as not caring. Strain between partners is common and understandable. Patience, honest talk, and sometimes a counselor can help.</li>
+    <li><strong>Guilt is almost universal,</strong> even when nothing could have been done. Parents are meant to protect their children, and it can feel like failing at that. Often the guilt is love looking for something to do.</li>
+    <li><strong>Other children are grieving too,</strong> in their own ways, and may be quietly trying to protect you. They need honest words ("died," not "lost" or "gone") and permission to ask questions.</li>
+    <li><strong>Everyday moments can hurt:</strong> "How many children do you have?", other families' milestones, a school year that begins without them, birthdays, and the date of the death. It helps to plan ahead for the hard days.</li>
+    <li><strong>Other people may say the wrong thing.</strong> You get to choose who you lean on, and you can tell them what actually helps.</li>
+  </ul>
+  <p>The Compassionate Friends offers support groups for families after the death of a child, sibling, or grandchild, at any age and from any cause. Hospice and hospital bereavement programs can also point you to groups near you.</p>
+  </details>
+  <details><summary>When an adult child dies</summary>
+  <p>Parents of grown children are sometimes overlooked, as if the loss belonged mostly to the child's partner and children. But a parent has lost the child they raised, along with the future they pictured, and often a friend and helper in their own later years.</p>
+  <ul>
+    <li><strong>Your grief is real,</strong> and it is not smaller because your child was grown.</li>
+    <li><strong>It can be hard to find room for it.</strong> Attention often goes to the child's partner and children, and parents may feel they must be strong for them, or for each other. Outliving a child can feel deeply wrong.</li>
+    <li><strong>You may be worrying about grandchildren or a daughter- or son-in-law</strong> while barely holding yourself together. It's fine to ask for help too.</li>
+    <li><strong>Practical losses can pile up:</strong> the person you called every Sunday, who drove you to appointments, or looked in on you. Naming those losses one at a time can make them easier to carry.</li>
+    <li><strong>Family tensions can surface</strong> over the funeral, belongings, or your place in the grandchildren's lives. Patience, and a trusted person to talk to, help.</li>
+    <li><strong>In later life, health and loneliness add weight.</strong> Keep up with your doctor, and reach out to people.</li>
+  </ul>
+  <p>The Compassionate Friends welcomes parents of children of any age, and hospice and hospital bereavement programs often welcome the whole community.</p>
+  </details>
+  <details><summary>Anniversaries, holidays, and "ordinary" hard days</summary>
+  <p>Birthdays, anniversaries, holidays, and even a certain time of year can bring grief rushing back, sometimes before you realize why. It is a normal part of remembering. It helps to plan ahead: some people light a candle and share memories with family, visit a special place, write a letter, or create a simple ritual of their own. Others need to do something completely different that day. Either is fine. Decide ahead of time what you will keep, what you will change, and who you might lean on. On a keepsake page, you can add a yearly reminder to your own calendar.</p>
+  </details>
+  <details><summary>People grieve differently</summary>
+  <p>Within the same family, one person may cry openly, another may throw themselves into tasks, and another may go quiet. None of these is the "right" way, and they are easy to misread as not caring. Many people find it helps to say aloud, "I grieve differently than you do, and I still love you."</p>
+  </details>
+  <details><summary>Losing more than one person</summary>
+  <p>One person plays many roles in a lifetime. When a husband dies, so do a best friend, a confidant, a co-parent, a handyman, a gardener, a trusted advisor. It can take months to realize all that was lost, and grief can seem to strike anew with each realization. Naming the roles you miss, one at a time, can make the loss more understandable.</p>
+  </details>
+  <details><summary>When the loss was sudden</summary>
+  <p>An unexpected death changes a person's world in an instant, and there may have been no chance for goodbyes. Repeated "what ifs," vivid replays, disturbing dreams, anxiety, and a loss of the feeling of safety are all common after a sudden death. All grief deserves support, and sudden loss especially deserves it. Please consider reaching out for help from someone trained to walk with you through it.</p>
+  </details>
+  <details><summary>Grief and depression: neighbors, not strangers</summary>
+  <p>Picture a weight on a string, swinging freely. That is usual life: a wide swing of joy and sadness, laughter and worry. In grief, it is as if a magnet sits slightly below. The swing narrows and leans low, but it still swings. A song, a memory, or a grandchild's laugh can still push it up.</p>
+  <p>If the magnet gets very close, the swing nearly disappears. That is more like depression, where the low mood becomes constant, joy and interest fade, feelings of worthlessness or guilt grow, and everything feels gray. In grief, by contrast, the longing is for the person you lost, self-worth is usually intact, and humor and warmth can still break through.</p>
+  <p>Grief can slide toward depression when the mind keeps replaying the same loop, when we pull away from people, when sleep and eating suffer, when we have had depression before or many losses have piled up, or when we cared for someone for a long time before they died.</p>
+  <p>One helpful difference: <em>brooding</em> circles ("Why me? What if?" over and over), while <em>reflecting</em> moves ("What am I learning? What do I need?"). Writing here can help turn brooding into reflecting. And the magnet can ease back. Recovery is rarely a trumpet. It is usually a glimpse: a morning you tasted your coffee, a laugh that surprised you. If you want to keep an eye on the signs, the Check-In page has a list, and you can bring it to your doctor.</p>
+  </details>
+  <details><summary>Meaning, faith, and questions without answers</summary>
+  <p>Loss often stirs deep questions: Why did this happen? Where are they now? What is my life for, now? Some people find comfort in their faith, some find it shaken, some find new spiritual or philosophical ground, and some find that the questions simply stay open. All of these are normal parts of grieving. You do not need to settle the big questions to get through today. Often, the significance lies in giving yourself permission to ask.</p>
+  </details>
+  <details class="meaningOnly"><summary>Awe, beauty, and moments that feel like signs</summary>
+  <p>Many bereaved people describe moments that feel like a presence, a vivid dream, a song at exactly the right time, a bird that lingers, or a coincidence too well-timed to ignore. These experiences are very common and, for most people, comforting. Some understand them as spiritual, some as the mind's way of staying connected, and some leave the question open. You do not have to decide what they mean, and they are not a sign that something is wrong with you.</p>
+  <p>Beauty can also reach us in grief: a sky, a piece of music, a stranger's kindness. Being moved by it does not mean you have stopped grieving. It can be one of the ways love keeps reaching you.</p>
+  </details>
+  <details class="faithOnly"><summary>When faith is part of your grief</summary>
+  <p>For many people, faith is a real comfort in loss. Prayer, sacred reading, ritual, music, and the company of a faith community can carry you when your own strength runs low.</p>
+  <p>For others, loss shakes their faith, and that can feel frightening or lonely. Anger, doubt, and silence toward God or the Divine are very old companions of grief, and many traditions make room for them. The Psalms, for example, are full of honest lament. You can bring your whole self, questions included, to whatever you hold sacred.</p>
+  <p>It is also fine if your faith comforts you one day and feels distant the next. A chaplain, pastor, priest, rabbi, imam, or other spiritual guide can sit with you without needing you to have it all figured out.</p>
+  </details>
+  <details><summary>What tends to help</summary>
+  <p>The single most effective thing for many people is to give expression to their feelings: talking, writing, praying, singing, painting, exercising, even a good cry. Other things many people find helpful, in small doses: telling the story of the loss to someone who will really listen; time outdoors; simple routines for sleep and meals; spending time with people who do not rush you; and naming a few things that still bring even a flicker of comfort. Be gentle with yourself. You do not have to do all of them.</p>
+  <p>Laughter belongs too. Tears of laughter can be as healing as tears of grief, and enjoying a calm moment is not a betrayal of the one you miss. It is part of how you keep going.</p>
+  </details>
+  <details><summary>When grief needs more than time</summary>
+  <p>Most grief, however painful, gradually softens with time and support. But if you find yourself unable to manage ordinary daily tasks, or you are withdrawing from others, or the pain stays at full intensity for many months, or you have thoughts of not wanting to live, it may be time to bring in a professional. That is a sign of strength, not weakness. See the <button class="small" data-go="reach">Reaching Out</button> page.</p>
+  </details>
+</section>
+
+<!-- REACH OUT -->
+<section id="tab-reach" data-section class="hidden">
+  <h2>Reaching Out</h2>
+  <div class="card warn">
+    <h3>If you are in crisis or thinking of ending your life</h3>
+    <p>These thoughts are more common than people say, especially after a loss. They do not mean you are weak. They mean you are in pain and need support. You do not have to carry this alone.</p>
+    <p>In the United States, call or text <big class="phone">988</big> (Suicide &amp; Crisis Lifeline) at any hour, day or night. You can also text <strong>HOME to 741741</strong> (Crisis Text Line). If you are in immediate danger, call <strong>911</strong>.</p>
+    <p class="muted">Outside the U.S., please contact your local emergency number or crisis line.</p>
+  </div>
+  <div class="card warn">
+    <h3>Don't ignore body symptoms, especially your heart</h3>
+    <p>Deep grief can have big, and sometimes serious, effects on how the heart works. Bereavement has distinct cardiovascular risks that should not be ignored.</p>
+    <p><strong>Whenever you have chest pain, call emergency medical services (911 in the U.S.).</strong> Don't wait to see if it passes, and don't drive yourself.</p>
+    <p>Other warning signs include pressure or squeezing in the chest; pain spreading to the arm, shoulder, neck, jaw, or back; trouble breathing; a cold sweat; nausea; or feeling faint. In women and older adults the signs can be less obvious. When in doubt, call.</p>
+  </div>
+  <div class="card">
+    <h3>Signs it may be time to talk with someone</h3>
+    <ul>
+      <li>You can't take care of the basics: eating, sleeping, hygiene, work, or caring for others.</li>
+      <li>Your pain feels just as intense after many months, with no softening at all.</li>
+      <li>You are using alcohol, pills, or other substances to get through the day.</li>
+      <li>You feel you can't go on without them, or you wish you could join them.</li>
+      <li>You feel stuck in guilt, self-blame, or anger that will not ease.</li>
+      <li>You have lost interest in nearly everything for weeks at a time.</li>
+      <li>The people around you are worried about you.</li>
+    </ul>
+    <p>Any one of these is a good reason to reach out. You do not have to be "bad enough." If you tell your doctor, mention your mood and sleep. Counseling, and sometimes medicine, help many people, and your Check-In dates can help them see the whole picture.</p>
+  </div>
+  <div class="card">
+    <h3>Where to find support</h3>
+    <ul>
+      <li><strong>Hospice bereavement programs.</strong> Many hospices offer grief support to the whole community, often free, even if your loved one was not in their care. Call the one nearest you and ask.</li>
+      <li><strong>Your doctor or a licensed counselor or therapist.</strong> Ask specifically for someone experienced with grief and loss.</li>
+      <li><strong>Support groups.</strong> Hospitals, community centers, and funeral homes often host them. If your child has died, The Compassionate Friends offers groups for parents, siblings, and grandparents, at any age and from any cause.</li>
+      <li><strong>Trusted people.</strong> Tell one person how you are really doing this week.</li>
+      <li><strong>SAMHSA National Helpline:</strong> 1-800-662-4357, free and confidential, 24/7, for help finding mental health or substance use treatment.</li>
+    </ul>
+  </div>
+  <div class="card faithOnly">
+    <h3>Spiritual care</h3>
+    <p>Hospital and hospice chaplains, clergy, spiritual directors, and members of your faith community can offer confidential listening, and prayer or ritual if you wish. You usually do not need to be a member of a congregation. Many are glad simply to sit with you.</p>
+  </div>
+  <div class="card soft">
+    <p><strong>A note about this journal:</strong> It is a companion for reflection and understanding. It is not therapy, medical care, or emergency help, and it can't replace a real person who knows you.</p>
+    <p id="authorContact"></p>
+  </div>
+</section>
+
+<!-- JOURNAL -->
+<section id="tab-journal" data-section class="hidden">
+  <h2>My Journal</h2>
+  <div class="card soft">
+    <p>Looking for a backup, a password, the faith setting, or how full your journal is? Those are all in <strong>Settings</strong>.</p>
+    <p><button data-go="settings">Open Settings</button></p>
+  </div>
+  <div class="card">
+    <h3>Save or print as PDF</h3>
+    <p>Tick the boxes beside the entries you want. If you tick none, everything shown below is included.</p>
+    <div class="optrow"><input type="checkbox" id="incKeep" checked><label for="incKeep">Include my keepsake pages</label></div>
+    <div class="optrow"><input type="checkbox" id="incSummary"><label for="incSummary">Include a summary of my check-ins, to share with a doctor or counselor</label></div>
+    <p class="row">
+      <button class="primary" id="doPrint">Print / Save as PDF</button>
+      <button class="small" id="selAll">Tick all</button>
+      <button class="small" id="selNone">Clear ticks</button>
+    </p>
+    <p class="muted">In the print window, change the destination to <strong>Save as PDF</strong>.</p>
+  </div>
+  <div class="row" role="group" aria-label="Filter entries" style="margin-bottom:1rem">
+    <span>Show:</span>
+    <button class="small chip" data-filter="all" aria-pressed="true">Everything</button>
+    <button class="small chip" data-filter="reflection" aria-pressed="false">Writing</button>
+    <button class="small chip" data-filter="q" aria-pressed="false">Four Questions</button>
+    <button class="small chip" data-filter="checkin" aria-pressed="false">Check-ins</button>
+  </div>
+  <div class="row hidden" id="personFilterRow" style="margin-bottom:1rem">
+    <label for="personFilter" style="margin:0;font-weight:400">Entries about:</label>
+    <select id="personFilter"></select>
+  </div>
+  <div id="entryList"></div>
+</section>
+
+<!-- SETTINGS -->
+<section id="tab-settings" data-section class="hidden">
+  <h2>Settings</h2>
+  <p class="muted">Everything you can change about the journal itself is on this page.</p>
+  <div class="card">
+    <h3>Whose journal is this?</h3>
+    <p class="muted">This is the name shown at the top of your journal and on anything you print. It starts out as the name your journal is licensed to. You can change it, for example to just your first name or &ldquo;The Smith Family.&rdquo;</p>
+    <label for="jTitle">Name shown at the top</label>
+    <input type="text" id="jTitle" maxlength="80" placeholder="Leave empty to use the licensed name">
+    <label for="jMemory" style="margin-top:1rem">A line in memory of someone <span class="muted" style="font-weight:400">(optional)</span></label>
+    <input type="text" id="jMemory" maxlength="100" placeholder="For example: In loving memory of Robert">
+    <p class="muted">If you add this, it appears in smaller type under the name. Both stay on your own device.</p>
+  </div>
+  <div class="card">
+    <h3>Text size</h3>
+    <div class="row"><button class="js-smaller">Smaller text</button> <button class="js-bigger">Larger text</button></div>
+    <p class="muted">These buttons are also at the top right of every page.</p>
+  </div>
+  <div class="card">
+    <h3>Faith and spirituality</h3>
+    <p class="muted">Choose what fits you. You can change this at any time.</p>
+    <div id="spiritSettings"></div>
+  </div>
+  <div class="card" id="lockCard"></div>
+  <div class="card">
+    <h3>Save a backup</h3>
+    <div class="row">
+      <button class="primary" id="doBackup">Save a backup</button>
+      <button id="doRestoreBtn">Restore from a backup</button>
+      <input type="file" id="restoreFile" accept=".json,application/json" class="hidden">
+    </div>
+    <p class="muted" id="backupInfo"></p>
+    <p class="muted">Your backup is a small file that goes to your Downloads folder. Move it somewhere you'll find it again, such as Documents. If you have turned on a password, your backup is locked with it too.</p>
+  </div>
+  <div class="card">
+    <h3>How full is my journal?</h3>
+    <div class="meter" id="meter" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="How full the journal is"><div id="meterFill"></div></div>
+    <p id="meterText" style="margin-bottom:.2rem"></p>
+    <p class="muted" id="meterRoom"></p>
+  </div>
+  <div class="card">
+    <h3>License</h3>
+    <p id="licStatus"></p>
+    <p><button class="hidden" id="goUnlock">Go to the unlock box</button></p>
+    <p><button class="hidden" id="changeLic">Use a different name or code</button></p>
+    <p class="muted hidden" id="changeLicNote">This only changes the license. Your writing stays exactly as it is.</p>
+  </div>
+  <div class="card">
+    <h3>About and license</h3>
+    <p><strong>&copy; 2026 Barbara Davis and Michael Davis. All rights reserved.</strong></p>
+    <p>A Quiet Place is licensed, not sold, for the personal use of the person named on the license. Please don&rsquo;t copy, share, resell, or distribute this file or your license code, and don&rsquo;t remove this notice. It is a tool for reflection and is not a substitute for counseling or medical care. It is provided &ldquo;as is.&rdquo; It was created by the authors with help from Claude, an AI assistant.</p>
+    <p class="muted">Questions about your license? <span id="aboutContact"></span></p>
+  </div>
+  <details>
+    <summary>Credits and sources</summary>
+    <ul>
+      <li>The nine "signs" in Today's Check-In are from the PHQ-9, developed by Drs. R. L. Spitzer, J. B. W. Williams, K. Kroenke and colleagues with an educational grant from Pfizer Inc. It may be reproduced without permission. It is not a diagnosis.</li>
+      <li>Based in part on the book <em>Healing Passage: Charting paths for your course through grief</em> by Barbara Davis and Michael Davis.</li>
+      <li>The Four Questions are inspired by the work of Thomas Attig, <em>How We Grieve: Relearning the World</em>.</li>
+      <li>The heart guidance draws on research by Mostofsky and colleagues at Beth Israel Deaconess Medical Center (<em>Circulation</em>, 2012), which found a sharply higher risk of heart attack in the first days after the death of a loved one.</li>
+      <li>This journal is a companion for reflection and education. It is not therapy, medical care, or emergency help.</li>
+    </ul>
+    <p id="extraCredits" class="muted"></p>
+    <p class="muted">Version 13 · November 2026</p>
+  </details>
+</section>
+
+</main>
+
+<footer>
+  This journal stores everything privately in your browser on this computer. It offers companionship and education, not therapy or emergency care.
+  <span id="footAuthor"></span> <span id="footLic"></span>
+  <div style="margin-top:.4rem">&copy; 2026 Barbara Davis and Michael Davis. All rights reserved.</div>
+</footer>
+</div>
+
+<div id="printArea"></div>
+<div id="toast" role="status" aria-live="polite"></div>
+
+<script>
+(function(){
+'use strict';
+
+/* ====== EDIT THESE TO MAKE IT YOURS ====== */
+var CONFIG = {
+  title: 'A Quiet Place',
+  author: 'Michael Davis, Th.M., BCC; Barb Davis, MA.',            // e.g. 'Created by Rev. Name, hospice chaplain'
+  contact: 'mikethechap@gmail.com or worldwidestew.com',           // e.g. 'You can reach me at ...'
+  getCodeHelp: 'If you purchased this journal, your license code was sent to you by email.',
+  extraCredits: 'Built with the help of Claude, an AI assistant made by Anthropic. Claude wrote the software and helped draft and organize the journal\'s wording and flow. The ideas, framework, and source material come from the authors\' own writing, and the authors reviewed the content. Not affiliated with or endorsed by Anthropic.'       // e.g. a credit line for any booklet or source you have permission to cite
+};
+var PREVIEW_LIMIT = 3;   // how many entries/keepsakes can be saved before a license is needed
+/* ========================================= */
+
+/* The license_maker tool fills this in. While it is null, this is a development copy and everything is unlocked. */
+var QP_PUBLIC_KEY = /*QP_PUBLIC_KEY*/{"kty":"EC","crv":"P-256","x":"5QNAWKURHUHUQRTg39nJuHz0BTra1tQLSsleLNgby8s","y":"iE-6syWbzdyjT8j0_DfL_TIFdO6afqjQnNuwPOHa-6Y"}/*END_QP_PUBLIC_KEY*/;
+
+var KEY='quietPlaceGriefJournal.v1', LIC_KEY='quietPlaceLicense.v1', ITER=250000, CAP=5000000;
+var cryptoOK = !!(window.crypto && window.crypto.subtle && window.isSecureContext!==false);
+
+var FEEL_BASE=['Sad','Missing them','Lonely','Numb','Angry','Guilty','Anxious','Overwhelmed','Aching','Relieved','Grateful','Peaceful','Hopeful','Lightness','Okay'];
+var MIND=['Foggy','Forgetful',"Can't concentrate",'Confused','Clarity','Purpose','Meaning'];
+var BODY=['Tired','Heavy','Trouble sleeping','Appetite changes','Tight chest','Upset tummy','Headache','Tearful','Restless','Stuck','Nausea','Dizzy','Short of breath or sighing','Racing heart','Aches and pains','Tight jaw or shoulders','Weak','Lump in throat','Getting sick more','Energized','Alert'];
+var CARDIAC=['Tight chest','Racing heart','Short of breath or sighing'];
+var MEANING_FEELS=['Moved by beauty','Felt close to them','A meaningful coincidence','Questioning meaning'];
+var INTENSITY=['Lighter','Manageable','Heavy','Very heavy','Too heavy to carry alone'];
+var SIGNS=[
+  'Little interest or pleasure in doing things',
+  'Feeling down, depressed, or hopeless',
+  'Trouble falling or staying asleep, or sleeping too much',
+  'Feeling tired or having little energy',
+  'Poor appetite or overeating',
+  'Feeling bad about yourself, or that you are a failure or have let yourself or your family down',
+  'Trouble concentrating, such as reading or watching TV',
+  'Moving or speaking so slowly that others notice, or being so restless that you move around much more than usual',
+  'Thoughts that you would be better off dead, or of hurting yourself'
+];
+var NORMAL={
+  'Sad':'Sadness is a natural part of grief, and it reflects how much they mattered. It deserves room.',
+  'Aching':'That ache is real. Grief is felt in the heart and in the body, and it deserves gentleness.',
+  'Numb':'Numbness is common. The mind sometimes shields you when a loss is too big to feel all at once.',
+  'Angry':'Anger is a very common part of grief. It often sits on top of hurt, and it does not make you a bad person.',
+  'Guilty':'Guilt and "if only" thoughts are among the most common experiences in grief. They usually say more about how much you cared than about anything you did wrong.',
+  'Anxious':'Anxiety often travels with grief. Your world has been shaken, and your body is on alert.',
+  'Lonely':'Loneliness is one of grief\'s hardest companions. Even in a crowd, missing someone can feel isolating.',
+  'Overwhelmed':'Feeling overwhelmed is understandable. You do not have to handle everything today.',
+  'Missing them':'Missing them is part of still loving them. It is allowed to be here.',
+  'Relieved':'Relief and grief can live together, especially after a long illness or a hard relationship. It does not cancel your love.',
+  'Grateful':'Gratitude and sorrow can sit side by side. Both are part of loving someone.',
+  'Peaceful':'A moment of peace is not forgetting or betraying them. Let yourself have it.',
+  'Hopeful':'A glimmer of hope is welcome. It can come and go, and that is fine.',
+  'Lightness':'A lighter moment is not a betrayal. It is part of how grief changes over time.',
+  'Okay':'Having an okay day is not a betrayal. Grief often takes breaks, and you are allowed to rest in them.',
+  'Foggy':'Grief fog is common. Your mind is doing enormous work in the background. Write things down and be patient with yourself.',
+  'Forgetful':'Forgetfulness is very common in grief and usually eases gradually. Lists and reminders can help.',
+  "Can't concentrate":'Trouble concentrating is a common part of grief. Short tasks and frequent breaks help.',
+  'Confused':'Confusion and a sense of unreality are common. Your mind is still catching up with what has happened.',
+  'Clarity':'Moments of clarity can arrive even in grief. Notice them. They can be a guide.',
+  'Purpose':'A sense of purpose returning is worth noticing. It can sit alongside sorrow.',
+  'Meaning':'Finding a thread of meaning does not mean the grief is finished. Both can be true.'
+};
+var MEANING_NORMAL={
+  'Moved by beauty':'Beauty can reach us even in grief. Being moved by a sky, a song, or a kindness does not mean you are done grieving. It can be one of the ways love keeps reaching you.',
+  'Felt close to them':'Many bereaved people feel the presence of the one they lost, in a dream, a place, or a sudden certainty. It is very common and, for most people, comforting. You do not have to explain it.',
+  'A meaningful coincidence':'Many people notice moments that feel like a message: a song at just the right time, a bird, a timely word. Whatever you make of them, they are a common part of grief and not a sign that something is wrong with you.',
+  'Questioning meaning':'When someone dies, questions about meaning and purpose often rise up: why, what for, what now? You do not have to answer them today. Asking is part of the work.'
+};
+var FAITH_NORMAL={
+  'Held by something larger':'Feeling held, comforted, or accompanied by something larger than yourself is a real gift in grief. Let it hold you.',
+  'Faith feels shaken':'Many people find their faith shaken by loss. Doubt does not mean your faith has failed, and many traditions make room for honest questions.',
+  'Wanting to pray':'Turning toward prayer, in any words or none, is a natural thing to do in grief. You are welcome to.',
+  'Too tired to pray':'Many people find prayer hard in grief. Sitting quietly, or letting others hold you in their prayers, can be enough for now.',
+  'angry':'Being angry at God, or at whatever you hold sacred, is very common. Many traditions welcome honest lament, and you can bring your anger along with you.'
+};
+var PROMPTS=[
+  'Tell me about a moment this week when you felt close to them.',
+  'What is something they said that you can still hear?',
+  'What do you miss most today?',
+  'Describe a small, ordinary moment with them that you would love to relive.',
+  'What has surprised you about your grief?',
+  'What do you wish other people understood about what you are going through?',
+  'Is there something you wish you had said, or heard? Say it here.',
+  'What helped, even a little, today?',
+  'What did they teach you, perhaps without meaning to?',
+  'Where in your body do you feel this loss right now?',
+  'Write about a place, a smell, or a song that brings them back.',
+  'What are you carrying that you have not told anyone?',
+  'If they could see you today, what do you think they would say?',
+  'What is one small thing you did today to care for yourself?',
+  'If your grief could speak, what would it say?',
+  'What are you grateful for about having known them?',
+  'What part of the day is hardest for you, and why?',
+  'What qualities or values of theirs do you want to carry forward?',
+  'Write a letter to them, as if they could read it. Tell them what has happened since.',
+  'What unexpected thing about them do you miss most?',
+  'What is an adage, proverb, or bit of wisdom they gave you that often comes to mind?',
+];
+var MEANING_PROMPTS=[
+  'Have you noticed anything since their death that felt like a sign, a gift, or a meaningful coincidence, whether or not you know what to make of it?',
+  'Where have you found beauty or awe lately: a sky, a song, a stranger\'s kindness? What did it stir in you?',
+  'When do you feel most connected to them, to nature, or to something larger than yourself?',
+  'What do you believe, or wonder, about where they are now? It is fine to write "I don\'t know."'
+];
+var FAITH_WORDS=['God','a Higher Power','the Spirit','the Divine','the Universe','something larger'];
+var FAITH_PROMPTS=[
+  'Where do you sense {W} in all of this, or where does {W} feel far away?',
+  'What would you like to say to {W} today, in prayer or in plain words?',
+  'Write a prayer, a blessing, or a few honest words for the one you miss.',
+  'What from your faith or beliefs has comforted you? What has felt empty?',
+  'What ritual, song, or quiet practice helps you feel held?',
+  'What do you hope for them? What do you hope for yourself?'
+];
+var QUESTIONS=[
+  {n:1, title:function(nm){ return nm?'Who am I without '+nm+'?':'Who am I without them?'; },
+   intro:'This is often the hardest question to look at. Daily life, habits, roles, and parts of ourselves were woven together with theirs. Many people find they have lost not only a person but a daily rhythm, a role (spouse, caregiver, parent, friend), and sometimes a piece of their own sense of who they are. This question asks, gently: who am I when I wake up tomorrow?',
+   bullets:['What did I do, say, or feel because of them that I now have to do alone?',
+            'Many people lose not one person but many roles: companion, confidant, cook, co-parent, handyman. Which roles do I miss most?',
+            'Which parts of me feel lost? Which parts are still here, or surprising me?',
+            'What is hardest about an ordinary day right now?']},
+  {n:2, title:function(nm){ return nm?'Who is '+nm+' to me now?':'Who are they to me now?'; },
+   intro:'The relationship has changed, but it has not ended. Love, and sometimes anger or regret, remain. Many people find a lasting bond through memory, through stories, and through what the person taught them. This question asks what they mean to you now, and how you want to carry them with you.',
+   bullets:['How do I carry them with me? Where do I feel them?',
+            'What would they say to me today?',
+            'Can I picture them as they really were, fully human, both the beautiful and the difficult?',
+            'Is there unfinished business, something unsaid, that I would like to say here?']},
+  {n:3, title:function(){ return 'Who am I now to the people who were a shared part of our lives?'; },
+   intro:'Family, friends, neighbors, coworkers, a faith or community group. Seats at the table change, invitations slow, some people draw closer, and some drift away. This question is about how you stand with these people now, and what you may need to say or ask.',
+   bullets:['Who has drawn closer since the death? Who has pulled away?',
+            'What role did I play with these people that has changed?',
+            'Who do I want to stay connected with, and how?',
+            'What do I need from them that I have not yet asked for?']},
+  {n:4, title:function(){ return 'Who am I to the rest of the world?'; },
+   intro:'Work, community, the wider world. After a loss we often feel out of step with everyone else, and slowly we find our place again, sometimes in familiar ways and sometimes in new ones. This question is about what you want your life to stand for now.',
+   bullets:['How do I want to show up in my work, my community, my world?',
+            'What have I learned that I might one day offer to others?',
+            'What matters to me now that mattered less before?',
+            'What is one small step toward living in this changed world?']}
+];
+
+/* ---------- small helpers ---------- */
+function $(id){ return document.getElementById(id); }
+function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); }
+function uid(){ return Date.now().toString(36)+Math.random().toString(36).slice(2,7); }
+function ymd(d){ d=d||new Date(); return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
+function todayYMD(){ return ymd(new Date()); }
+function parseYMD(s){ var p=String(s).split('-').map(Number); return new Date(p[0],p[1]-1,p[2]); }
+function dayLong(s){ return parseYMD(s).toLocaleDateString(undefined,{weekday:'long',year:'numeric',month:'long',day:'numeric'}); }
+function dayMed(s){ return parseYMD(s).toLocaleDateString(undefined,{year:'numeric',month:'long',day:'numeric'}); }
+function normName(n){ return String(n).normalize('NFKC').trim().replace(/\s+/g,' ').toLowerCase(); }
+var toastTimer;
+function toast(msg){
+  var t=$('toast'); t.textContent=msg; t.classList.add('show');
+  clearTimeout(toastTimer); toastTimer=setTimeout(function(){t.classList.remove('show');},4800);
+}
+function diffText(from,to){
+  var a=parseYMD(from), b=parseYMD(to);
+  if(b<a) return '';
+  var y=b.getFullYear()-a.getFullYear(), m=b.getMonth()-a.getMonth(), d=b.getDate()-a.getDate();
+  if(d<0){ m--; d+=new Date(b.getFullYear(),b.getMonth(),0).getDate(); }
+  if(m<0){ y--; m+=12; }
+  function u(n,w){ return n+' '+w+(n===1?'':'s'); }
+  if(y>0) return u(y,'year')+(m?', '+u(m,'month'):'');
+  if(m>0) return u(m,'month')+(d?', '+u(d,'day'):'');
+  return d===0?'today':u(d,'day');
+}
+
+/* ---------- state ---------- */
+function blank(){ return {version:3,fontScale:1,lastBackup:null,spirit:'plain',faithWord:'God',journalTitle:'',memoryLine:'',entries:[],keepsakes:[]}; }
+var state=blank();
+var storageOK=true, storageFull=false, sessionKey=null, sessionSalt=null, lockedBlob=null;
+function adopt(obj){
+  obj=obj||{};
+  var s=Object.assign(blank(),obj);
+  if(obj.faith===true && !obj.spirit) s.spirit='faith';
+  delete s.faith;
+  s.version=3;
+  if(!Array.isArray(s.entries)) s.entries=[];
+  if(!Array.isArray(s.keepsakes)) s.keepsakes=[];
+  if(['plain','meaning','faith'].indexOf(s.spirit)<0) s.spirit='plain';
+  s.journalTitle=(typeof s.journalTitle==='string')?s.journalTitle.slice(0,80):'';
+  s.memoryLine=(typeof s.memoryLine==='string')?s.memoryLine.slice(0,100):'';
+  return s;
+}
+function readStored(){
+  try{ var r=localStorage.getItem(KEY); return r?JSON.parse(r):null; }
+  catch(e){ storageOK=false; return null; }
+}
+
+/* ---------- encryption helpers ---------- */
+var enc=new TextEncoder(), dec=new TextDecoder();
+function b64(u8){ var s=''; for(var i=0;i<u8.length;i++) s+=String.fromCharCode(u8[i]); return btoa(s); }
+function unb64(s){ var b=atob(s), u=new Uint8Array(b.length); for(var i=0;i<b.length;i++) u[i]=b.charCodeAt(i); return u; }
+function unb64u(s){ s=s.replace(/-/g,'+').replace(/_/g,'/'); while(s.length%4) s+='='; return unb64(s); }
+async function deriveKey(pw,salt,iter){
+  var km=await crypto.subtle.importKey('raw',enc.encode(pw),'PBKDF2',false,['deriveKey']);
+  return crypto.subtle.deriveKey({name:'PBKDF2',salt:salt,iterations:iter,hash:'SHA-256'},km,{name:'AES-GCM',length:256},false,['encrypt','decrypt']);
+}
+async function encryptObj(key,obj){
+  var iv=crypto.getRandomValues(new Uint8Array(12));
+  var ct=await crypto.subtle.encrypt({name:'AES-GCM',iv:iv},key,enc.encode(JSON.stringify(obj)));
+  return {iv:b64(iv),ct:b64(new Uint8Array(ct))};
+}
+async function decryptObj(key,iv,ct){
+  var pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:unb64(iv)},key,unb64(ct));
+  return JSON.parse(dec.decode(pt));
+}
+
+/* ---------- saving (serialised, reports success or failure) ---------- */
+var saveChain=Promise.resolve();
+function isQuota(e){ return !!e && (e.name==='QuotaExceededError'||e.name==='NS_ERROR_DOM_QUOTA_REACHED'||e.code===22||e.code===1014); }
+async function writeState(){
+  var ok=true;
+  try{
+    if(sessionKey){
+      var e=await encryptObj(sessionKey,state);
+      localStorage.setItem(KEY,JSON.stringify({locked:true,v:2,salt:b64(sessionSalt),iter:ITER,iv:e.iv,ct:e.ct}));
+    } else {
+      localStorage.setItem(KEY,JSON.stringify(state));
+    }
+    storageOK=true; storageFull=false;
+  }catch(err){
+    ok=false;
+    if(isQuota(err)) storageFull=true; else storageOK=false;
+  }
+  renderBanners(); updateStorageUI();
+  return ok;
+}
+function save(){ saveChain=saveChain.then(writeState); return saveChain; }
+var SAVE_FAIL='That could not be saved, because there is no room left. Your words are still here on the page. Please save a backup in Settings, then make room.';
+async function commitAdd(list,item,created){
+  list.push(item);
+  var ok=await save();
+  if(!ok){
+    var i=list.indexOf(item); if(i>-1) list.splice(i,1);
+    if(created){ var j=state.keepsakes.indexOf(created); if(j>-1) state.keepsakes.splice(j,1); }
+  }
+  return ok;
+}
+
+/* ---------- storage meter ---------- */
+function storageUsed(){
+  var n=0;
+  try{ for(var i=0;i<localStorage.length;i++){ var k=localStorage.key(i); n+=k.length+(localStorage.getItem(k)||'').length; } }catch(e){}
+  return n;
+}
+function storagePct(){ return Math.min(100,Math.round(storageUsed()/CAP*100)); }
+function updateStorageUI(){
+  var f=$('meterFill'); if(!f) return;
+  var used=storageUsed(), pct=Math.min(100,Math.round(used/CAP*100));
+  f.style.width=pct+'%';
+  var m=$('meter'); m.className='meter'+(pct>=90?' high':pct>=60?' mid':'');
+  m.setAttribute('aria-valuenow',String(pct));
+  var t;
+  if(pct>=90) t='Almost completely full ('+pct+'%). Please save a backup now.';
+  else if(pct>=60) t='About '+pct+'% full. There is still room, and this is a good time to save a backup.';
+  else t='About '+pct+'% full. Plenty of room.';
+  $('meterText').textContent=t;
+  var left=Math.max(0,Math.floor((CAP-used)/1700));
+  $('meterRoom').textContent=pct<90?'Room for roughly '+left.toLocaleString()+' more typical entries (about 250 words each).':'';
+}
+
+/* ---------- license ---------- */
+var licensed=!QP_PUBLIC_KEY, licenseName='';
+async function verifyLicense(name,code){
+  var m=/^QP1\.([A-Za-z0-9]{6})\.([A-Za-z0-9_-]{86})$/.exec(String(code).replace(/\s+/g,''));
+  if(!m || !normName(name)) return false;
+  try{
+    var key=await crypto.subtle.importKey('jwk',QP_PUBLIC_KEY,{name:'ECDSA',namedCurve:'P-256'},false,['verify']);
+    return await crypto.subtle.verify({name:'ECDSA',hash:'SHA-256'},key,unb64u(m[2]),enc.encode('QP1|'+normName(name)+'|'+m[1]));
+  }catch(e){ return false; }
+}
+async function loadLicense(){
+  if(!QP_PUBLIC_KEY){ licensed=true; return; }
+  try{
+    var r=JSON.parse(localStorage.getItem(LIC_KEY)||'null');
+    if(r && cryptoOK && await verifyLicense(r.name,r.code)){ licensed=true; licenseName=String(r.name).trim().replace(/\s+/g,' '); }
+  }catch(e){}
+}
+function updateLicenseUI(){
+  var showCard=!!QP_PUBLIC_KEY && !licensed;
+  $('licenseCard').classList.toggle('hidden',!showCard);
+  $('licHelp').textContent=CONFIG.getCodeHelp||'';
+  if(showCard && !cryptoOK){
+    $('licenseIntro').textContent='This browser cannot check license codes from a saved file. Please open this file in Firefox, Chrome, Opera, or Edge to unlock it.';
+  }
+  var f='', st='';
+  if(!QP_PUBLIC_KEY){ f='Development copy (no license check).'; st='This is a development copy, so there is no license check.'; }
+  else if(licensed){ f='Licensed to '+licenseName+'.'; st='Licensed to '+licenseName+'. Thank you.'; }
+  else { f='Preview copy.'; st='This is a preview copy. Please enter your name and license code in the unlock box on the Welcome page.'; }
+  $('footLic').textContent=f;
+  $('licStatus').textContent=st;
+  $('goUnlock').classList.toggle('hidden',licensed);
+  $('changeLic').classList.toggle('hidden',!(QP_PUBLIC_KEY&&licensed));
+  $('changeLicNote').classList.toggle('hidden',!(QP_PUBLIC_KEY&&licensed));
+  var jt=$('jTitle'); if(jt && document.activeElement!==jt) jt.value=state.journalTitle||'';
+  var jm=$('jMemory'); if(jm && document.activeElement!==jm) jm.value=state.memoryLine||'';
+  updateOwner();
+}
+function ownerText(){
+  var t=String(state.journalTitle||'').trim();
+  if(t) return t;
+  return (licensed && licenseName)?licenseName+'\u2019s Journal':'';
+}
+function updateOwner(){
+  var o=$('ownerLine'), t=ownerText();
+  if(t){ o.textContent=t; o.classList.remove('hidden'); }
+  else { o.textContent=''; o.classList.add('hidden'); }
+  var m=$('memLine'), ml=String(state.memoryLine||'').trim();
+  if(ml){ m.textContent=ml; m.classList.remove('hidden'); }
+  else { m.textContent=''; m.classList.add('hidden'); }
+}
+$('jTitle').oninput=function(){ state.journalTitle=this.value.slice(0,80); updateOwner(); };
+$('jTitle').onchange=function(){ state.journalTitle=this.value.trim().slice(0,80); updateOwner(); save(); };
+$('jMemory').oninput=function(){ state.memoryLine=this.value.slice(0,100); updateOwner(); };
+$('jMemory').onchange=function(){ state.memoryLine=this.value.trim().slice(0,100); updateOwner(); save(); };
+$('goUnlock').onclick=function(){ show('home'); };
+$('changeLic').onclick=function(){
+  if(!confirm('Remove the current license from this browser so you can enter a different name and code? Your writing will not be touched.')) return;
+  try{ localStorage.removeItem(LIC_KEY); }catch(e){}
+  licensed=false; licenseName='';
+  updateLicenseUI(); updateStorageUI(); renderKeeps(); show('home');
+  toast('Okay. Please enter the name and code in the unlock box.');
+};
+function canAdd(){
+  if(licensed) return true;
+  var count=state.entries.length+state.keepsakes.filter(function(k){return !k.auto;}).length;
+  if(count<PREVIEW_LIMIT) return true;
+  toast('You have reached the preview limit. Please enter your license code on the Welcome page to keep writing. Your words are safe, and you can still save a backup.');
+  show('home');
+  return false;
+}
+$('licBtn').onclick=async function(){
+  var name=$('licName').value, code=$('licCode').value;
+  $('licMsg').textContent='';
+  if(!cryptoOK){ $('licMsg').textContent='This browser cannot check license codes. Please open the file in Firefox, Chrome, Opera, or Edge.'; return; }
+  if(!name.trim()||!code.trim()){ $('licMsg').textContent='Please enter both your name and your license code.'; return; }
+  var ok=await verifyLicense(name,code);
+  if(!ok){ $('licMsg').textContent='That name and code do not match. Please check that the name is spelled exactly as on your receipt, and that the whole code was pasted.'; return; }
+  try{ localStorage.setItem(LIC_KEY,JSON.stringify({name:name.trim(),code:code.replace(/\s+/g,'')})); }catch(e){}
+  licensed=true; licenseName=name.trim().replace(/\s+/g,' ');
+  updateLicenseUI(); updateStorageUI(); renderKeeps(); toast('Thank you. Your journal is unlocked.');
+};
+
+/* ---------- text size ---------- */
+function applyScale(){ document.documentElement.style.fontSize=(20*state.fontScale)+'px'; }
+Array.prototype.forEach.call(document.querySelectorAll('.js-smaller'),function(b){ b.onclick=function(){ state.fontScale=Math.max(0.85,Math.round((state.fontScale-0.1)*10)/10); applyScale(); save(); }; });
+Array.prototype.forEach.call(document.querySelectorAll('.js-bigger'),function(b){ b.onclick=function(){ state.fontScale=Math.min(1.7,Math.round((state.fontScale+0.1)*10)/10); applyScale(); save(); }; });
+
+/* ---------- faith / meaning setting (shown on Welcome and in Settings) ---------- */
+function fillW(s){ return s.replace(/\{W\}/g,state.faithWord||'God'); }
+function faithFeels(){ return ['Held by something larger','Faith feels shaken','Wanting to pray','Too tired to pray','Angry at '+(state.faithWord||'God')]; }
+function spiritList(){
+  if(state.spirit==='plain') return [];
+  return MEANING_FEELS.concat(state.spirit==='faith'?faithFeels():[]);
+}
+function normalFor(f){
+  if(NORMAL[f]) return NORMAL[f];
+  if(MEANING_NORMAL[f]) return MEANING_NORMAL[f];
+  if(FAITH_NORMAL[f]) return FAITH_NORMAL[f];
+  if(f.indexOf('Angry at ')===0) return FAITH_NORMAL.angry;
+  return '';
+}
+function promptPool(){
+  var p=PROMPTS.slice();
+  if(state.spirit!=='plain') p=p.concat(MEANING_PROMPTS);
+  if(state.spirit==='faith') p=p.concat(FAITH_PROMPTS.map(fillW));
+  return p;
+}
+function prayerLabel(){ return state.spirit==='faith'?'A prayer, blessing, or verse for them':'A wish, poem, or blessing for them'; }
+function renderSpirit(containerId,pfx){
+  $(containerId).innerHTML=
+   '<div role="radiogroup" aria-label="Faith and spirituality">'+
+   '<div class="opt"><input type="radio" name="spirit-'+pfx+'" id="sp-'+pfx+'-plain" value="plain"><label for="sp-'+pfx+'-plain"><strong>Keep it plain.</strong> Feelings, memories, and what helps, with no spiritual language.</label></div>'+
+   '<div class="opt"><input type="radio" name="spirit-'+pfx+'" id="sp-'+pfx+'-meaning" value="meaning"><label for="sp-'+pfx+'-meaning"><strong>Awe, beauty, and meaning.</strong> A sense of connection, wonder, or something larger, without religious language.</label></div>'+
+   '<div class="opt"><input type="radio" name="spirit-'+pfx+'" id="sp-'+pfx+'-faith" value="faith"><label for="sp-'+pfx+'-faith"><strong>Faith and prayer.</strong> Prayer, blessings, and the language of faith.</label></div>'+
+   '</div>'+
+   '<div id="fw-'+pfx+'-wrap" style="display:none"><label for="fw-'+pfx+'">The words that feel right to me for the sacred</label><select id="fw-'+pfx+'"></select></div>';
+  var sel=$('fw-'+pfx);
+  FAITH_WORDS.forEach(function(w){ var o=document.createElement('option'); o.value=w; o.textContent=w; sel.appendChild(o); });
+  ['plain','meaning','faith'].forEach(function(v){
+    $('sp-'+pfx+'-'+v).onchange=function(){ if(this.checked) setSpirit(v); };
+  });
+  sel.onchange=function(){ state.faithWord=this.value; save(); applyMode(); rebuildChips(); pickPrompt(); };
+}
+function setSpirit(v){
+  state.spirit=v; save(); applyMode(); rebuildChips(); pickPrompt(); renderKeeps();
+  toast(v==='plain'?'Kept plain, with no spiritual language.':v==='meaning'?'Awe, beauty, and meaning are now included.':'Faith and prayer are now included.');
+}
+function applyMode(){
+  var b=document.body;
+  b.classList.remove('sp-plain','sp-meaning','sp-faith'); b.classList.add('sp-'+state.spirit);
+  ['w','s'].forEach(function(p){
+    var r=$('sp-'+p+'-'+state.spirit); if(r) r.checked=true;
+    var s=$('fw-'+p); if(s) s.value=state.faithWord||'God';
+    var w=$('fw-'+p+'-wrap'); if(w) w.style.display=state.spirit==='faith'?'block':'none';
+  });
+  $('kPrayerLabel').textContent=prayerLabel();
+}
+
+/* ---------- date control (Check-In, Write, Four Questions) ---------- */
+var dateDirty={};
+function buildDate(prefix){
+  $(prefix+'Date').innerHTML=
+   '<div class="card soft"><div class="optrow"><input type="checkbox" id="'+prefix+'UseDay" checked><label for="'+prefix+'UseDay"><strong>Include a date</strong></label></div>'+
+   '<div id="'+prefix+'DayWrap"><label for="'+prefix+'Day" style="margin-top:.2rem">Date</label><input type="date" id="'+prefix+'Day"></div>'+
+   '<p class="muted" style="margin:.5rem 0 0">Keeping track of what you are experiencing over time can be helpful in your recovery. It also gives a doctor or counselor a clearer picture if you ever want their help. You can change the date to record something from an earlier day.</p></div>';
+  $(prefix+'UseDay').onchange=function(){ $(prefix+'DayWrap').style.display=this.checked?'block':'none'; };
+  $(prefix+'Day').oninput=function(){ dateDirty[prefix]=true; };
+  refreshDate(prefix,true);
+}
+function refreshDate(prefix,force){
+  var i=$(prefix+'Day'); if(!i) return;
+  var t=todayYMD(); i.max=t;
+  if(force||!dateDirty[prefix]) i.value=t;
+}
+function getDay(prefix){
+  if(!$(prefix+'UseDay').checked) return '';
+  return $(prefix+'Day').value||todayYMD();
+}
+function resetDate(prefix){
+  dateDirty[prefix]=false; $(prefix+'UseDay').checked=true; $(prefix+'DayWrap').style.display='block'; refreshDate(prefix,true);
+}
+function entryDay(e){ if(e.day!==undefined) return e.day; return e.date?ymd(new Date(e.date)):''; }
+function entryStamp(e){ return e.created||e.date||''; }
+function sortKey(e){ var st=entryStamp(e); return (entryDay(e)||(st?ymd(new Date(st)):''))+'|'+st; }
+
+/* ---------- people ("Who are you thinking of?") ---------- */
+var whoState={c:{sel:'',name:''},w:{sel:'',name:''},q:{sel:'',name:''}};
+function personById(id){ return state.keepsakes.filter(function(x){return x.id===id;})[0]||null; }
+function personName(id){ var k=personById(id); return k?k.name:''; }
+function renderWho(p){
+  var el=$(p+'Who'), st=whoState[p], people=state.keepsakes;
+  var h='<label for="'+(people.length?p+'Sel':p+'New')+'">Who are you thinking of? <span class="muted" style="font-weight:400">(optional)</span></label>';
+  if(people.length){
+    h+='<select id="'+p+'Sel"><option value="">No one in particular</option>';
+    people.forEach(function(k){ h+='<option value="'+esc(k.id)+'">'+esc(k.name||'(unnamed)')+'</option>'; });
+    h+='<option value="__new__">Someone new: I\u2019ll type a name</option></select>';
+    h+='<div id="'+p+'NewWrap" class="hidden"><label for="'+p+'New">Their name</label><input type="text" id="'+p+'New" autocomplete="off"></div>';
+  } else {
+    h+='<input type="text" id="'+p+'New" autocomplete="off" placeholder="Type a name, or leave this blank">';
+    h+='<p class="muted" style="margin:.3rem 0 .6rem">Naming them lets the journal keep their story together. You can add more about them later under Remember Someone.</p>';
+  }
+  el.innerHTML=h;
+  var sel=$(p+'Sel'), nw=$(p+'New');
+  if(sel){
+    var ok=st.sel==='__new__'||people.some(function(k){return k.id===st.sel;});
+    sel.value=ok?st.sel:''; st.sel=sel.value;
+    if(sel.value==='__new__') $(p+'NewWrap').classList.remove('hidden');
+    sel.onchange=function(){ st.sel=sel.value; $(p+'NewWrap').classList.toggle('hidden',sel.value!=='__new__'); if(p==='q') refreshQuestions(); };
+  }
+  if(nw){ nw.value=st.name||''; nw.oninput=function(){ st.name=nw.value; if(p==='q') refreshQuestions(); }; }
+}
+function whoPick(p){
+  var sel=$(p+'Sel'), nw=$(p+'New');
+  var typed=nw?nw.value.trim().replace(/\s+/g,' '):'';
+  if(sel && sel.value && sel.value!=='__new__') return {id:sel.value,newName:''};
+  if(typed){
+    var m=state.keepsakes.filter(function(k){return normName(k.name)===normName(typed);})[0];
+    if(m) return {id:m.id,newName:''};
+    return {id:'',newName:typed};
+  }
+  return {id:'',newName:''};
+}
+function makePerson(name){
+  var k={id:uid(),name:name,created:new Date().toISOString(),auto:true};
+  state.keepsakes.push(k); return k;
+}
+function whoLabel(p){ var w=whoPick(p); return w.id?personName(w.id):w.newName; }
+function renderAllWho(){ ['c','w','q'].forEach(renderWho); }
+
+/* ---------- navigation ---------- */
+var PAGE_NAMES={home:'Welcome',checkin:"Today's Check-In",write:'Write',questions:'Four Questions',remember:'Remember Someone',understand:'Learning About Grief',reach:'Reaching Out',journal:'My Journal',settings:'Settings'};
+function show(tab){
+  document.querySelectorAll('[data-section]').forEach(function(s){ s.classList.add('hidden'); });
+  $('tab-'+tab).classList.remove('hidden');
+  document.querySelectorAll('#nav button').forEach(function(b){
+    if(b.dataset.tab===tab) b.setAttribute('aria-current','page'); else b.removeAttribute('aria-current');
+  });
+  if(tab==='settings') $('settingsBtn').setAttribute('aria-current','page'); else $('settingsBtn').removeAttribute('aria-current');
+  $('menuLabel').textContent='Menu: '+(PAGE_NAMES[tab]||'');
+  $('nav').classList.remove('open'); $('menuBtn').setAttribute('aria-expanded','false');
+  renderAllWho();
+  ['c','w','q'].forEach(function(p){ refreshDate(p,false); });
+  if(tab==='journal') renderJournal();
+  if(tab==='remember') renderKeeps();
+  if(tab==='questions') refreshQuestions();
+  if(tab==='home'){ renderBanners(); updateLicenseUI(); }
+  if(tab==='settings'){ renderLockCard(); updateStorageUI(); updateLicenseUI(); renderBackupInfo(); }
+  window.scrollTo(0,0);
+  $('main').focus();
+}
+$('menuBtn').onclick=function(){
+  var open=$('nav').classList.toggle('open');
+  this.setAttribute('aria-expanded',open?'true':'false');
+};
+document.addEventListener('click',function(e){
+  var t=e.target.closest('[data-tab],[data-go]'); if(!t) return;
+  show(t.dataset.tab||t.dataset.go);
+});
+
+/* ---------- banners ---------- */
+function daysSince(iso){ return (Date.now()-new Date(iso).getTime())/86400000; }
+function markerBanner(label,dateStr,name,mustBeAfterYear){
+  if(!dateStr) return '';
+  var p=dateStr.split('-').map(Number), now=new Date();
+  var today=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  for(var y=now.getFullYear();y<=now.getFullYear()+1;y++){
+    if(mustBeAfterYear && y<=p[0]) continue;
+    var dt=new Date(y,p[1]-1,p[2]);
+    var diff=Math.round((dt-today)/86400000);
+    if(diff>=-3 && diff<=30){
+      var when=diff===0?'is today':diff>0?'is in '+diff+(diff===1?' day':' days'):'was '+(-diff)+(diff===-1?' day':' days')+' ago';
+      return '<div class="card soft"><strong>'+esc(name)+'\u2019s '+esc(label)+' '+when+'.</strong> '+
+        'Special dates can bring grief rushing back, sometimes before we realize why. Some people plan a way to honor the day, such as a candle, a visit, a letter, or a meal with memories. Others do something completely different. Either is fine. '+
+        '<button class="small" data-go="write">Write about it</button></div>';
+    }
+  }
+  return '';
+}
+function renderBanners(){
+  var g='';
+  if(storageFull){
+    g+='<div class="card warn" role="alert"><strong>Your journal\u2019s space is full, so your newest writing could not be saved.</strong> Your words are still on the page. Please <button class="small" data-go="settings">save a backup in Settings</button>. Then make room: print older entries to PDF (in My Journal) and delete the ones you no longer need here.</div>';
+  } else if(!storageOK){
+    g+='<div class="card warn" role="alert"><strong>Heads up:</strong> your browser is not letting this journal save automatically (this can happen in a private or incognito window). Please save a backup in <button class="small" data-go="settings">Settings</button> before you close this page.</div>';
+  } else if(storagePct()>=90){
+    g+='<div class="card warn"><strong>Your journal is almost completely full.</strong> Please <button class="small" data-go="settings">save a backup</button> now. To make room, print older entries to PDF (in My Journal) and delete them from here.</div>';
+  }
+  $('globalBanners').innerHTML=g;
+  var h='';
+  state.keepsakes.forEach(function(k){
+    h+=markerBanner('death anniversary',k.died,k.name,true);
+    h+=markerBanner('birthday',k.born,k.name,false);
+  });
+  var pct=storagePct();
+  if(pct>=60 && pct<90) h+='<div class="card soft">Your journal is about '+pct+'% full. There is still room, and this is a good time to save a backup. <button class="small" data-go="settings">Open Settings</button></div>';
+  var has=state.entries.length+state.keepsakes.length>0;
+  if(has && (!state.lastBackup || daysSince(state.lastBackup)>30)){
+    h+='<div class="card warn">It has been a while since you saved a backup of your journal. A backup is a small file that keeps your writing safe. <button class="small" data-go="settings">Go to Settings</button></div>';
+  }
+  $('banners').innerHTML=h;
+}
+
+/* ---------- check-in ---------- */
+var feelSel=new Set(), mindSel=new Set(), bodySel=new Set(), spiritSel=new Set();
+var expanded={};
+function buildChips(container,list,set,visible,moreBtn,label){
+  container.innerHTML='';
+  var ex=!!expanded[container.id];
+  list.forEach(function(name,i){
+    var b=document.createElement('button'); b.type='button'; b.className='chip'; b.textContent=name;
+    b.setAttribute('aria-pressed',set.has(name)?'true':'false');
+    if(i>=visible && !ex && !set.has(name)) b.classList.add('hidden');
+    b.onclick=function(){
+      if(set.has(name)){ set.delete(name); b.setAttribute('aria-pressed','false'); }
+      else { set.add(name); b.setAttribute('aria-pressed','true'); }
+      if(container.id==='bodyChips') updateBodyAlert();
+    };
+    container.appendChild(b);
+  });
+  if(moreBtn){
+    if(list.length<=visible){ moreBtn.classList.add('hidden'); }
+    else {
+      moreBtn.classList.remove('hidden'); moreBtn.textContent=ex?'Show fewer':label;
+      moreBtn.onclick=function(){ expanded[container.id]=!expanded[container.id]; buildChips(container,list,set,visible,moreBtn,label); };
+    }
+  }
+}
+function updateBodyAlert(){
+  var hit=CARDIAC.some(function(c){ return bodySel.has(c); });
+  $('bodyAlert').classList.toggle('hidden',!hit);
+}
+function rebuildChips(){
+  var sl=spiritList();
+  Array.from(spiritSel).forEach(function(f){ if(sl.indexOf(f)<0) spiritSel.delete(f); });
+  buildChips($('feelChips'),FEEL_BASE,feelSel,8,$('feelMore'),'Show more feelings');
+  buildChips($('mindChips'),MIND,mindSel,4,$('mindMore'),'Show more');
+  buildChips($('bodyChips'),BODY,bodySel,8,$('bodyMore'),'Show more body sensations');
+  $('spiritGroup').classList.toggle('hidden',!sl.length);
+  buildChips($('spiritChips'),sl,spiritSel,99,null,'');
+  updateBodyAlert();
+}
+function buildSigns(){
+  var h='';
+  SIGNS.forEach(function(s,i){
+    h+='<div class="optrow"><input type="checkbox" id="sign'+i+'"><label for="sign'+i+'">'+esc(s)+'</label></div>';
+  });
+  $('signsList').innerHTML=h;
+}
+function checkedSigns(){
+  var out=[]; SIGNS.forEach(function(s,i){ if($('sign'+i).checked) out.push(s); }); return out;
+}
+$('intensity').oninput=function(){ $('intLabel').innerHTML='<strong>'+INTENSITY[this.value-1]+'</strong>'; };
+var busy={};
+$('saveCheck').onclick=async function(){
+  if(busy.c) return;
+  var note=$('checkNote').value.trim(), signs=checkedSigns();
+  if(!feelSel.size && !mindSel.size && !bodySel.size && !spiritSel.size && !signs.length && !note){ toast('Tap a feeling or write a few words first.'); return; }
+  if(!canAdd()) return;
+  busy.c=true;
+  try{
+    var w=whoPick('c'), created=null;
+    if(w.newName){ created=makePerson(w.newName); w.id=created.id; }
+    var entry={id:uid(),type:'checkin',day:getDay('c'),created:new Date().toISOString(),personId:w.id,
+      feelings:Array.from(feelSel).concat(Array.from(spiritSel)),mind:Array.from(mindSel),body:Array.from(bodySel),signs:signs,
+      intensity:parseInt($('intensity').value,10),text:note};
+    var ok=await commitAdd(state.entries,entry,created);
+    if(!ok){ toast(SAVE_FAIL); return; }
+    var html='';
+    var cardiac=entry.body.some(function(b){ return CARDIAC.indexOf(b)>-1; });
+    if(signs.indexOf(SIGNS[8])>-1){
+      html+='<div class="card warn"><h3>Thank you for telling the truth about this</h3>'+
+        '<p>You do not have to carry these thoughts alone. Please call or text <big class="phone">988</big> now, any hour of the day or night. If you are in immediate danger, call <strong>911</strong>. And please tell someone near you today: a doctor, a friend, a family member, a pastor.</p></div>';
+    }
+    if(cardiac){
+      html+='<div class="card warn"><h3>Please take your heart seriously</h3>'+
+        '<p>Chest tightness, a racing heart, or trouble breathing can be part of grief, but they can also be signs of a heart problem. Bereavement carries real cardiovascular risks. <strong>If you have chest pain or pressure, or trouble breathing, call emergency medical services now (911 in the U.S.).</strong> Don\u2019t wait to see if it passes, and please mention it to your doctor.</p></div>';
+    }
+    var msgs=entry.feelings.concat(entry.mind).map(normalFor).filter(Boolean).slice(0,3);
+    html+='<div class="card soft"><h3>Thank you for checking in</h3>';
+    msgs.forEach(function(m){ html+='<p>'+esc(m)+'</p>'; });
+    if(!msgs.length) html+='<p>Whatever you are feeling is welcome here.</p>';
+    if(entry.body.length && !cardiac) html+='<p>Your body is mourning along with you. Be gentle with it, and mention any symptom that worries you to your doctor.</p>';
+    if(signs.length>=3 && signs.indexOf(SIGNS[8])<0){
+      html+='<p><strong>Several of the signs you ticked are with you.</strong> If they have been present most days for two weeks or more, that is a good reason to talk with your doctor or a counselor. <button class="small" data-go="reach">Open Reaching Out</button></p>';
+    }
+    if(entry.intensity>=5 || entry.feelings.indexOf('Overwhelmed')>-1){
+      html+='<p><strong>If today feels too heavy to carry alone, please consider reaching out to someone.</strong> <button class="small" data-go="reach">Open Reaching Out</button></p>';
+    }
+    html+='<p class="muted">Saved to your journal'+(entry.day?' for '+esc(dayLong(entry.day)):' (without a date)')+'.</p></div>';
+    $('checkResponse').innerHTML=html;
+    feelSel.clear(); mindSel.clear(); bodySel.clear(); spiritSel.clear(); rebuildChips();
+    buildSigns(); $('signsBox').open=false;
+    $('intensity').value=3; $('intLabel').innerHTML='<strong>Heavy</strong>'; $('checkNote').value='';
+    resetDate('c');
+    whoState.c={sel:w.id||'',name:''}; renderWho('c');
+    $('checkResponse').scrollIntoView({behavior:'smooth',block:'center'});
+  } finally { busy.c=false; }
+};
+
+/* ---------- write ---------- */
+var currentPrompt='';
+function pickPrompt(){
+  var pool=promptPool(), n;
+  do{ n=pool[Math.floor(Math.random()*pool.length)]; }while(n===currentPrompt && pool.length>1);
+  currentPrompt=n; $('promptText').textContent=n;
+}
+$('newPrompt').onclick=pickPrompt;
+$('saveWrite').onclick=async function(){
+  if(busy.w) return;
+  var text=$('wText').value.trim();
+  if(!text){ toast('Write a few words first.'); return; }
+  if(!canAdd()) return;
+  busy.w=true;
+  try{
+    var w=whoPick('w'), created=null;
+    if(w.newName){ created=makePerson(w.newName); w.id=created.id; }
+    var ok=await commitAdd(state.entries,{id:uid(),type:'reflection',day:getDay('w'),created:new Date().toISOString(),
+      title:$('wTitle').value.trim(),personId:w.id,prompt:currentPrompt,text:text},created);
+    if(!ok){ toast(SAVE_FAIL); return; }
+    $('wTitle').value=''; $('wText').value=''; resetDate('w');
+    whoState.w={sel:w.id||'',name:''}; renderWho('w');
+    toast('Saved. Thank you for putting this into words.');
+  } finally { busy.w=false; }
+};
+
+/* ---------- four questions ---------- */
+function qName(){ return whoLabel('q'); }
+function buildQuestions(){
+  var h='';
+  QUESTIONS.forEach(function(q){
+    h+='<div class="card qcard"><h3 id="qTitle'+q.n+'"></h3><p>'+esc(q.intro)+'</p>'+
+      '<p class="muted" style="margin-bottom:.2rem">Some things you might explore:</p><ul>'+
+      q.bullets.map(function(b){ return '<li>'+esc(b)+'</li>'; }).join('')+'</ul>'+
+      '<label for="qText'+q.n+'">Your thoughts on this question</label>'+
+      '<textarea id="qText'+q.n+'" class="mid"></textarea>'+
+      '<p><button class="primary" data-qsave="'+q.n+'">Save my thoughts on this question</button></p>'+
+      '<div id="qPast'+q.n+'"></div></div>';
+  });
+  $('qCards').innerHTML=h;
+  Array.prototype.forEach.call($('qCards').querySelectorAll('[data-qsave]'),function(b){
+    b.onclick=function(){ saveQuestion(parseInt(b.getAttribute('data-qsave'),10)); };
+  });
+}
+function refreshQuestions(){
+  var nm=qName();
+  QUESTIONS.forEach(function(q){
+    $('qTitle'+q.n).textContent=q.n+'. '+q.title(nm);
+    var past=state.entries.filter(function(e){ return e.q===q.n; }).sort(function(a,b){ return sortKey(a)<sortKey(b)?1:-1; });
+    var h='';
+    if(past.length){
+      h='<details><summary>My earlier writing on this question ('+past.length+')</summary>'+
+        past.map(function(e){
+          var d=entryDay(e);
+          return '<div style="margin:.6rem 0;padding-bottom:.4rem;border-bottom:1px solid var(--line)"><div class="muted" style="font-size:.85rem">'+
+            esc(d?dayLong(d):'No date')+(e.personId&&personName(e.personId)?' · about '+esc(personName(e.personId)):'')+'</div>'+
+            '<div style="white-space:pre-wrap">'+esc(e.text)+'</div></div>';
+        }).join('')+'</details>';
+    }
+    $('qPast'+q.n).innerHTML=h;
+  });
+}
+async function saveQuestion(n){
+  if(busy.q) return;
+  var ta=$('qText'+n), text=ta.value.trim();
+  if(!text){ toast('Write a few words first.'); return; }
+  if(!canAdd()) return;
+  busy.q=true;
+  try{
+    var w=whoPick('q'), created=null, q=QUESTIONS[n-1];
+    var nm=w.id?personName(w.id):w.newName;
+    if(w.newName){ created=makePerson(w.newName); w.id=created.id; }
+    var ok=await commitAdd(state.entries,{id:uid(),type:'reflection',q:n,qText:q.title(nm),day:getDay('q'),created:new Date().toISOString(),
+      title:'',personId:w.id,text:text},created);
+    if(!ok){ toast(SAVE_FAIL); return; }
+    ta.value=''; whoState.q={sel:w.id||'',name:''}; renderWho('q'); refreshQuestions();
+    toast('Saved. These questions will be here whenever you want to return to them.');
+  } finally { busy.q=false; }
+}
+
+/* ---------- keepsakes ---------- */
+var editingKeep=null;
+var KFIELDS=[['kName','name'],['kRel','rel'],['kBorn','born'],['kDied','died'],['kVoice','voice'],['kMem','mem'],['kTaught','taught'],['kUnsaid','unsaid'],['kDetails','details'],['kPrayer','prayer']];
+function clearKeepForm(){ editingKeep=null; KFIELDS.forEach(function(f){ $(f[0]).value=''; }); }
+$('clearKeep').onclick=clearKeepForm;
+$('kBorn').max=todayYMD(); $('kDied').max=todayYMD();
+$('saveKeep').onclick=async function(){
+  if(busy.k) return;
+  var obj={}; KFIELDS.forEach(function(f){ obj[f[1]]=$(f[0]).value.trim(); });
+  if(!obj.name){ toast('Please add their name first.'); return; }
+  if(obj.born && obj.died && obj.born>obj.died){ toast('The date of birth is after the date of death. Please check the dates.'); return; }
+  busy.k=true;
+  try{
+    var target=editingKeep?personById(editingKeep):null;
+    if(!target){
+      var same=state.keepsakes.filter(function(k){ return normName(k.name)===normName(obj.name); })[0];
+      if(same && same.auto) target=same;
+      else if(same){ toast('You already have a keepsake page for '+same.name+'. Use Edit on that page to add to it.'); return; }
+    }
+    var ok;
+    if(target){
+      Object.assign(target,obj); target.auto=false;
+      ok=await save();
+    } else {
+      if(!canAdd()) return;
+      obj.id=uid(); obj.created=new Date().toISOString(); obj.auto=false;
+      ok=await commitAdd(state.keepsakes,obj,null);
+    }
+    if(!ok){ toast(SAVE_FAIL); return; }
+    clearKeepForm(); renderKeeps(); renderAllWho(); toast('Keepsake saved.');
+  } finally { busy.k=false; }
+};
+function keepHTML(k){
+  var h='<h3>'+esc(k.name)+'</h3>';
+  var lines=[];
+  if(k.rel) lines.push(esc(k.rel));
+  if(k.born) lines.push('Born '+esc(dayMed(k.born)));
+  if(k.died){
+    var ago=diffText(k.died,todayYMD());
+    lines.push('Died '+esc(dayMed(k.died))+(ago&&ago!=='today'?' ('+esc(ago)+' ago)':''));
+  } else if(k.dates) lines.push(esc(k.dates));
+  if(lines.length) h+='<p class="muted">'+lines.join(' · ')+'</p>';
+  [['voice','Things they used to say'],['mem','Memories I want to keep'],['taught','What they taught me'],['unsaid','What I wish I had said (or heard)'],['details','Small details'],['prayer',prayerLabel()]].forEach(function(p){
+    if(k[p[0]]) h+='<p><strong>'+esc(p[1])+'</strong><br><span style="white-space:pre-wrap">'+esc(k[p[0]])+'</span></p>';
+  });
+  return h;
+}
+function calHTML(k){
+  if(!k.died && !k.born) return '';
+  var id=esc(k.id);
+  var h='<details class="calbox"><summary>Calendar reminders</summary>'+
+    '<p class="muted">Add a yearly reminder to your own calendar. The calendar file stays on your computer.'+(licensed?' The Google option opens Google Calendar in a new tab, and Google will see the title.':' The Google Calendar link is not turned on in this preview copy. It is part of the full version, and it turns on when you enter your license code.')+'</p>'+
+    '<div class="optrow"><input type="checkbox" id="priv-'+id+'"><label for="priv-'+id+'">Leave their name out of the calendar entry</label></div>';
+  function line(kind,label,dateStr){
+    var md=parseYMD(dateStr).toLocaleDateString(undefined,{month:'long',day:'numeric'});
+    return '<p><strong>'+label+'</strong> (every year on '+esc(md)+')<br>'+
+      '<button class="small" data-act="ics" data-kind="'+kind+'" data-id="'+id+'">Calendar file</button> '+
+      (licensed
+        ? '<button class="small" data-act="gcal" data-kind="'+kind+'" data-id="'+id+'">Google Calendar</button></p>'
+        : '<button class="small" data-act="gcal" data-kind="'+kind+'" data-id="'+id+'" aria-disabled="true" style="opacity:.5">Google Calendar (full version)</button></p>');
+  }
+  if(k.died) h+=line('died','Anniversary of death',k.died);
+  if(k.born) h+=line('born','Birthday',k.born);
+  return h+'</details>';
+}
+function renderKeeps(){
+  var el=$('keepList');
+  if(!state.keepsakes.length){ el.innerHTML='<p class="muted">No keepsakes yet. When you are ready, the page above is waiting.</p>'; return; }
+  el.innerHTML=state.keepsakes.map(function(k){
+    var auto=k.auto?'<p class="muted">So far this is just a name. Tap Edit to add their dates, memories, and more.</p>':'';
+    return '<div class="card">'+keepHTML(k)+auto+calHTML(k)+'<div class="row" style="margin-top:.6rem"><button class="small" data-act="editKeep" data-id="'+esc(k.id)+'">Edit</button> <button class="small danger" data-act="delKeep" data-id="'+esc(k.id)+'">Delete</button></div></div>';
+  }).join('');
+}
+
+/* ---------- calendar reminders ---------- */
+function nextOccurrence(dateStr){
+  var p=dateStr.split('-').map(Number), now=new Date();
+  var t=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  var m=p[1], d=p[2]; if(m===2 && d===29) d=28;
+  var dt=new Date(now.getFullYear(),m-1,d);
+  if(dt<t) dt=new Date(now.getFullYear()+1,m-1,d);
+  return dt;
+}
+function d8(dt){ return dt.getFullYear()+String(dt.getMonth()+1).padStart(2,'0')+String(dt.getDate()).padStart(2,'0'); }
+function calInfo(k,kind,priv){
+  var dt=nextOccurrence(kind==='died'?k.died:k.born);
+  var end=new Date(dt.getFullYear(),dt.getMonth(),dt.getDate()+1);
+  var nm=k.name||'someone I love', title;
+  if(priv) title=kind==='died'?'A day to remember':'A special day to remember';
+  else title=kind==='died'?'Remembering '+nm:nm+'\u2019s birthday (remembering)';
+  return {start:d8(dt),end:d8(end),title:title,
+    desc:'A quiet reminder from my journal. Be gentle with yourself today. You might light a candle, write a few words, visit a special place, or reach out to someone.'};
+}
+function icsEscape(s){ return String(s).replace(/\\/g,'\\\\').replace(/;/g,'\\;').replace(/,/g,'\\,').replace(/\n/g,'\\n'); }
+function buildICS(k,kind,priv){
+  var c=calInfo(k,kind,priv), stamp=new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d+/,'');
+  return ['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//A Quiet Place//Journal//EN','CALSCALE:GREGORIAN','METHOD:PUBLISH',
+    'BEGIN:VEVENT','UID:'+uid()+'-'+kind+'@quietplace.local','DTSTAMP:'+stamp,
+    'DTSTART;VALUE=DATE:'+c.start,'DTEND;VALUE=DATE:'+c.end,'RRULE:FREQ=YEARLY',
+    'SUMMARY:'+icsEscape(c.title),'DESCRIPTION:'+icsEscape(c.desc),'TRANSP:TRANSPARENT',
+    'BEGIN:VALARM','ACTION:DISPLAY','DESCRIPTION:'+icsEscape(c.title),'TRIGGER:-P6DT15H','END:VALARM',
+    'BEGIN:VALARM','ACTION:DISPLAY','DESCRIPTION:'+icsEscape(c.title),'TRIGGER:PT9H','END:VALARM',
+    'END:VEVENT','END:VCALENDAR'].join('\r\n')+'\r\n';
+}
+function downloadICS(k,kind,priv){
+  var blob=new Blob([buildICS(k,kind,priv)],{type:'text/calendar'});
+  var safe=priv?'reminder':String(k.name||'reminder').replace(/[^A-Za-z0-9]+/g,'_').replace(/^_+|_+$/g,'')||'reminder';
+  var a=document.createElement('a'); a.href=URL.createObjectURL(blob);
+  a.download='remembering_'+safe+'_'+(kind==='died'?'anniversary':'birthday')+'.ics';
+  document.body.appendChild(a); a.click();
+  setTimeout(function(){ URL.revokeObjectURL(a.href); document.body.removeChild(a); },500);
+  toast('Calendar file saved to your Downloads folder. Open it to add the yearly reminder to your calendar.');
+}
+function openGcal(k,kind,priv){
+  if(!licensed){ toast('The Google Calendar link is part of the full version. Please enter your license code on the Welcome page to turn it on.'); return; }
+  var c=calInfo(k,kind,priv);
+  var url='https://calendar.google.com/calendar/render?action=TEMPLATE&text='+encodeURIComponent(c.title)+
+    '&dates='+c.start+'/'+c.end+'&details='+encodeURIComponent(c.desc)+'&recur='+encodeURIComponent('RRULE:FREQ=YEARLY');
+  window.open(url,'_blank','noopener');
+}
+
+/* ---------- journal list ---------- */
+var filter='all', personFilter='', selected=new Set();
+Array.prototype.forEach.call(document.querySelectorAll('[data-filter]'),function(b){
+  b.onclick=function(){
+    filter=b.dataset.filter;
+    document.querySelectorAll('[data-filter]').forEach(function(x){ x.setAttribute('aria-pressed',x===b?'true':'false'); });
+    renderJournal();
+  };
+});
+function visibleEntries(){
+  return state.entries.filter(function(e){
+    if(personFilter && e.personId!==personFilter) return false;
+    if(filter==='all') return true;
+    if(filter==='q') return !!e.q;
+    return e.type===filter;
+  }).sort(function(a,b){ return sortKey(a)<sortKey(b)?1:-1; });
+}
+function entryLabel(e){ return e.type==='checkin'?'Check-in':(e.q?'Question '+e.q:'Writing'); }
+function feelAll(e){ return (e.feelings||[]).concat(e.mind||[]); }
+function metaLine(e){
+  var d=entryDay(e), bits=[d?dayLong(d):'No date'];
+  if(e.personId&&personName(e.personId)) bits.push('about '+personName(e.personId));
+  var k=e.personId?personById(e.personId):null;
+  if(k && k.died && d){ var t=diffText(k.died,d); if(t) bits.push(t==='today'?'the day '+k.name+' died':t+' after '+k.name+' died'); }
+  return bits.join(' · ');
+}
+function renderBackupInfo(){
+  $('backupInfo').textContent=state.lastBackup?'Last backup: '+new Date(state.lastBackup).toLocaleDateString(undefined,{year:'numeric',month:'long',day:'numeric'}):'You have not saved a backup yet.';
+}
+function renderPersonFilter(){
+  var row=$('personFilterRow'), sel=$('personFilter'), people=state.keepsakes;
+  if(personFilter && !personById(personFilter)) personFilter='';
+  if(people.length<2){ personFilter=''; row.classList.add('hidden'); return; }
+  var h='<option value="">Everyone</option>'+people.map(function(k){ return '<option value="'+esc(k.id)+'">'+esc(k.name||'Someone')+'</option>'; }).join('');
+  if(sel.getAttribute('data-sig')!==h){ sel.innerHTML=h; sel.setAttribute('data-sig',h); }
+  sel.value=personFilter;
+  row.classList.remove('hidden');
+}
+$('personFilter').onchange=function(){ personFilter=this.value; renderJournal(); };
+function renderJournal(){
+  renderPersonFilter();
+  var list=visibleEntries();
+  var el=$('entryList');
+  if(!list.length){ el.innerHTML='<p class="muted">Nothing here yet. Your check-ins and writing will appear here.</p>'; return; }
+  el.innerHTML=list.map(function(e){
+    var h='<div class="card entry"><div class="row" style="justify-content:space-between">'+
+      '<label class="sel"><input type="checkbox" data-sel="'+esc(e.id)+'"'+(selected.has(e.id)?' checked':'')+'> Include in PDF</label>'+
+      '<span class="tag">'+esc(entryLabel(e))+'</span></div>'+
+      '<div class="meta">'+esc(metaLine(e))+'</div>';
+    if(e.q&&e.qText) h+='<h3>'+esc(e.qText)+'</h3>';
+    if(e.title) h+='<h3>'+esc(e.title)+'</h3>';
+    if(e.type==='checkin'){
+      h+='<div>'+feelAll(e).map(function(f){return '<span class="tag">'+esc(f)+'</span>';}).join('')+
+         (e.body||[]).map(function(f){return '<span class="tag">Body: '+esc(f)+'</span>';}).join('')+'</div>';
+      h+='<p class="meta">How heavy: '+esc(INTENSITY[(e.intensity||3)-1])+'</p>';
+      if(e.signs&&e.signs.length) h+='<p class="meta">Signs noted ('+e.signs.length+' of 9): '+esc(e.signs.join('; '))+'</p>';
+    } else if(e.prompt && !e.q){ h+='<p class="meta"><em>Prompt: '+esc(e.prompt)+'</em></p>'; }
+    if(e.text) h+='<div class="body">'+esc(e.text)+'</div>';
+    h+='<div class="row"><button class="small" data-act="copy" data-id="'+esc(e.id)+'">Copy to share</button> '+
+       '<button class="small danger" data-act="del" data-id="'+esc(e.id)+'">Delete</button></div></div>';
+    return h;
+  }).join('');
+}
+document.addEventListener('change',function(e){
+  var id=e.target.getAttribute&&e.target.getAttribute('data-sel');
+  if(id){ if(e.target.checked) selected.add(id); else selected.delete(id); }
+});
+$('selAll').onclick=function(){ visibleEntries().forEach(function(e){selected.add(e.id);}); renderJournal(); };
+$('selNone').onclick=function(){ selected.clear(); renderJournal(); };
+document.addEventListener('click',function(e){
+  var b=e.target.closest('[data-act]'); if(!b) return;
+  var id=b.dataset.id, act=b.dataset.act;
+  if(act==='del'){
+    if(confirm('Delete this entry? This cannot be undone.')){
+      state.entries=state.entries.filter(function(x){return x.id!==id;}); selected.delete(id); save(); renderJournal();
+    }
+  } else if(act==='delKeep'){
+    if(confirm('Delete this keepsake page? This cannot be undone.')){
+      state.keepsakes=state.keepsakes.filter(function(x){return x.id!==id;}); save(); renderKeeps(); renderAllWho();
+    }
+  } else if(act==='editKeep'){
+    var k=personById(id); if(!k) return;
+    KFIELDS.forEach(function(f){ $(f[0]).value=k[f[1]]||''; });
+    editingKeep=id; window.scrollTo(0,0); toast('Editing '+(k.name||'keepsake')+'. Save when you are done.');
+  } else if(act==='ics'||act==='gcal'){
+    var kk=personById(id); if(!kk) return;
+    var kind=b.dataset.kind, pv=$('priv-'+id), priv=!!(pv&&pv.checked);
+    if(act==='ics') downloadICS(kk,kind,priv); else openGcal(kk,kind,priv);
+  } else if(act==='copy'){
+    var en=state.entries.filter(function(x){return x.id===id;})[0]; if(!en) return;
+    if(!confirm('Before you share: this copies only the words of this entry. Please take a moment to remove any names or details you want to keep private once you paste it. Copy now?')) return;
+    var txt=(en.qText?en.qText+'\n\n':'')+(en.title?en.title+'\n\n':'');
+    if(en.type==='checkin') txt+='Feeling: '+feelAll(en).join(', ')+'\n\n';
+    txt+=(en.text||'');
+    copyText(txt.trim());
+  }
+});
+function copyText(txt){
+  function fallback(){
+    var ta=document.createElement('textarea'); ta.value=txt; ta.style.position='fixed'; ta.style.opacity='0';
+    document.body.appendChild(ta); ta.select();
+    var ok=false; try{ ok=document.execCommand('copy'); }catch(e){}
+    document.body.removeChild(ta);
+    toast(ok?'Copied. You can now paste it where you choose.':'Could not copy automatically. Please select and copy the text by hand.');
+  }
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(txt).then(function(){ toast('Copied. You can now paste it where you choose.'); },fallback);
+  } else fallback();
+}
+
+/* ---------- password dialog ---------- */
+function askPassword(title,msg,needConfirm){
+  return new Promise(function(resolve){
+    var m=$('pwModal');
+    $('pwTitle').textContent=title; $('pwMsg').textContent=msg;
+    $('pwConfirmWrap').style.display=needConfirm?'block':'none';
+    $('pwInput').value=''; $('pwInput2').value=''; $('pwErr').textContent='';
+    $('pwShow').checked=false; $('pwInput').type='password'; $('pwInput2').type='password';
+    m.classList.remove('hidden'); $('pwInput').focus();
+    function done(v){ m.classList.add('hidden'); $('pwOk').onclick=null; $('pwCancel').onclick=null; m.onkeydown=null; resolve(v); }
+    function ok(){
+      var a=$('pwInput').value;
+      if(needConfirm){
+        if(a.length<8){ $('pwErr').textContent='Please use at least 8 characters. A short phrase you will remember works well.'; return; }
+        if(a!==$('pwInput2').value){ $('pwErr').textContent='The two entries do not match. Please try again.'; return; }
+      } else if(!a){ $('pwErr').textContent='Please type your password.'; return; }
+      done(a);
+    }
+    $('pwOk').onclick=ok; $('pwCancel').onclick=function(){ done(null); };
+    m.onkeydown=function(ev){ if(ev.key==='Enter'){ ev.preventDefault(); ok(); } else if(ev.key==='Escape'){ done(null); } };
+  });
+}
+$('pwShow').onchange=function(){ var t=this.checked?'text':'password'; $('pwInput').type=t; $('pwInput2').type=t; };
+$('lockShow').onchange=function(){ $('lockPw').type=this.checked?'text':'password'; };
+
+/* ---------- password protection ---------- */
+async function currentPasswordOK(pw){
+  try{
+    await saveChain;
+    var stored=readStored();
+    var key=await deriveKey(pw,sessionSalt,ITER);
+    await decryptObj(key,stored.iv,stored.ct);
+    return true;
+  }catch(e){ return false; }
+}
+async function turnOnPassword(){
+  var pw=await askPassword('Protect my journal','Choose a password. Use at least 8 characters. A short phrase you will remember works well.',true);
+  if(!pw) return;
+  var salt=crypto.getRandomValues(new Uint8Array(16));
+  sessionKey=await deriveKey(pw,salt,ITER); sessionSalt=salt;
+  await save(); renderLockCard();
+  toast('Password protection is on. Please keep your password somewhere safe.');
+}
+async function changePassword(){
+  var old=await askPassword('Change my password','First, please type your current password.',false);
+  if(!old) return;
+  if(!(await currentPasswordOK(old))){ toast('That is not your current password. Nothing was changed.'); return; }
+  var pw=await askPassword('Choose a new password','Use at least 8 characters.',true);
+  if(!pw) return;
+  var salt=crypto.getRandomValues(new Uint8Array(16));
+  sessionKey=await deriveKey(pw,salt,ITER); sessionSalt=salt;
+  await save(); toast('Your password has been changed.');
+}
+async function turnOffPassword(){
+  var old=await askPassword('Turn off password protection','Please type your password to confirm. Your journal will no longer be locked.',false);
+  if(!old) return;
+  if(!(await currentPasswordOK(old))){ toast('That is not your password. Nothing was changed.'); return; }
+  sessionKey=null; sessionSalt=null;
+  await save(); renderLockCard(); toast('Password protection is off.');
+}
+function renderLockCard(){
+  var el=$('lockCard'), h='<h3>Protect with a password</h3>';
+  if(!cryptoOK){
+    h+='<p class="muted">Password protection is not available in this browser when opening a saved file. Firefox, Chrome, Opera, and Edge all support it.</p>';
+    el.innerHTML=h; return;
+  }
+  if(!sessionKey){
+    h+='<p>If other people use this computer, you can lock your journal so that it needs a password to open. Your words are scrambled on the computer itself, so they cannot be read without it.</p>'+
+       '<p class="muted"><strong>Please note:</strong> if you forget the password, no one can recover your journal, not even the person who made it. Write the password somewhere safe, and keep a backup.</p>'+
+       '<p><button class="primary" id="lockOn">Set a password</button></p>';
+  } else {
+    h+='<p><strong>Password protection is on.</strong> Your journal is locked each time you open this page.</p>'+
+       '<p class="row"><button id="lockNow" class="primary">Lock now</button> <button id="lockChange">Change password</button> <button id="lockOff">Turn off</button></p>';
+  }
+  el.innerHTML=h;
+  if($('lockOn')) $('lockOn').onclick=turnOnPassword;
+  if($('lockNow')) $('lockNow').onclick=function(){ saveChain.then(function(){ location.reload(); }); };
+  if($('lockChange')) $('lockChange').onclick=changePassword;
+  if($('lockOff')) $('lockOff').onclick=turnOffPassword;
+}
+
+/* ---------- lock screen ---------- */
+$('lockBtn').onclick=async function(){
+  var pw=$('lockPw').value; if(!pw||!lockedBlob) return;
+  $('lockErr').textContent='';
+  var obj=null, key=null, salt=null;
+  try{
+    salt=unb64(lockedBlob.salt); key=await deriveKey(pw,salt,lockedBlob.iter||ITER);
+    obj=await decryptObj(key,lockedBlob.iv,lockedBlob.ct);
+  }catch(e){ obj=null; }
+  if(!obj){ $('lockErr').textContent='That password did not work. Please check it and try again. Capital letters matter.'; return; }
+  state=adopt(obj); sessionKey=key; sessionSalt=salt; lockedBlob=null;
+  $('lockScreen').classList.add('hidden'); $('lockPw').value='';
+  await loadLicense(); startApp();
+};
+$('lockPw').onkeydown=function(e){ if(e.key==='Enter') $('lockBtn').click(); };
+$('lockReset').onclick=function(){
+  if(confirm('This will erase the locked journal stored in this browser, and it cannot be undone. Only do this if you have a backup or truly want to start over. Erase it now?')){
+    try{ localStorage.removeItem(KEY); }catch(e){}
+    location.reload();
+  }
+};
+
+/* ---------- backup / restore ---------- */
+$('doBackup').onclick=async function(){
+  state.lastBackup=new Date().toISOString(); await save();
+  var payload;
+  if(sessionKey){
+    var e=await encryptObj(sessionKey,state);
+    payload={locked:true,v:2,salt:b64(sessionSalt),iter:ITER,iv:e.iv,ct:e.ct};
+  } else payload=state;
+  var blob=new Blob([JSON.stringify(payload,null,2)],{type:'application/json'});
+  var a=document.createElement('a'); a.href=URL.createObjectURL(blob);
+  a.download='grief_journal_backup_'+todayYMD()+'.json';
+  document.body.appendChild(a); a.click();
+  setTimeout(function(){ URL.revokeObjectURL(a.href); document.body.removeChild(a); },500);
+  renderBackupInfo(); renderBanners(); toast('Backup saved to your Downloads folder.');
+};
+$('doRestoreBtn').onclick=function(){ $('restoreFile').click(); };
+$('restoreFile').onchange=function(){
+  var f=this.files[0], input=this; if(!f) return;
+  var r=new FileReader();
+  r.onload=async function(){
+    try{
+      var d=JSON.parse(r.result);
+      if(d && d.locked){
+        if(!cryptoOK) throw new Error('nocrypto');
+        var pw=await askPassword('Open this backup','This backup is locked. Please type the password it was saved with.',false);
+        if(!pw) return;
+        try{
+          var key=await deriveKey(pw,unb64(d.salt),d.iter||ITER);
+          d=await decryptObj(key,d.iv,d.ct);
+        }catch(e){ alert('That password did not open the backup. Nothing was changed.'); return; }
+      }
+      if(!d || !Array.isArray(d.entries) || !Array.isArray(d.keepsakes)) throw new Error('bad');
+      var have={}; state.entries.forEach(function(x){have[x.id]=1;});
+      var haveK={}; state.keepsakes.forEach(function(x){haveK[x.id]=1;});
+      var addE=0, addK=0;
+      d.entries.forEach(function(x){ if(x && x.id && !have[x.id]){ state.entries.push(x); addE++; } });
+      d.keepsakes.forEach(function(x){ if(x && x.id && !haveK[x.id]){ state.keepsakes.push(x); addK++; } });
+      var ok=await save();
+      renderJournal(); renderKeeps(); renderAllWho();
+      toast(ok?'Restored '+addE+' entries and '+addK+' keepsakes. Nothing was overwritten.':SAVE_FAIL);
+    }catch(e){ alert('That file does not look like a journal backup, or this browser cannot open it. Nothing was changed.'); }
+  };
+  r.readAsText(f); input.value='';
+};
+
+/* ---------- print / PDF ---------- */
+function summaryHTML(checkins){
+  if(!checkins.length) return '';
+  var dated=checkins.filter(function(e){return entryDay(e);});
+  var first=dated.length?entryDay(dated[0]):'', last=dated.length?entryDay(dated[dated.length-1]):'';
+  var h='<h2>Summary of my check-ins</h2><p class="pmeta">'+checkins.length+' check-in'+(checkins.length===1?'':'s')+
+        (first?', from '+esc(dayMed(first))+' to '+esc(dayMed(last)):'')+'. This is my own personal record. It is not a diagnosis.</p>';
+  h+='<table class="ptab"><tr><th>Date</th><th>How heavy</th><th>Feelings and thoughts</th><th>Body</th><th>Signs noted</th></tr>';
+  checkins.forEach(function(e){
+    var d=entryDay(e);
+    h+='<tr><td>'+esc(d?dayMed(d):'No date')+'</td><td>'+esc(INTENSITY[(e.intensity||3)-1])+'</td><td>'+esc(feelAll(e).join(', '))+'</td><td>'+esc((e.body||[]).join(', '))+'</td><td>'+esc(((e.signs||[]).length)+' of 9')+'</td></tr>';
+  });
+  h+='</table>';
+  var tally=SIGNS.map(function(s){
+    var n=checkins.filter(function(e){ return (e.signs||[]).indexOf(s)>-1; }).length;
+    return {s:s,n:n};
+  }).filter(function(x){return x.n>0;});
+  if(tally.length){
+    h+='<p class="pmeta" style="margin-top:.8em"><strong>How often each sign was noted:</strong></p><ul>'+
+      tally.map(function(x){ return '<li>'+esc(x.s)+': '+x.n+' of '+checkins.length+' check-ins</li>'; }).join('')+'</ul>';
+  }
+  h+='<p class="pmeta">The nine signs are from the PHQ-9 (Spitzer, Williams, Kroenke and colleagues). A checklist cannot diagnose anything. It is a starting point for a conversation.</p>';
+  return h;
+}
+$('doPrint').onclick=function(){
+  var chosen=state.entries.filter(function(e){ return selected.has(e.id); });
+  if(!chosen.length) chosen=visibleEntries();
+  chosen=chosen.slice().sort(function(a,b){ return sortKey(a)<sortKey(b)?-1:1; });
+  var incKeep=$('incKeep').checked && state.keepsakes.length>0;
+  var incSum=$('incSummary').checked;
+  if(!chosen.length && !incKeep){ toast('There is nothing to print yet.'); return; }
+  var heading=esc(ownerText()||'My Journal');
+  var memP=String(state.memoryLine||'').trim();
+  var h='<h1>'+heading+'</h1>'+(memP?'<p class="pmeta" style="font-style:italic">'+esc(memP)+'</p>':'')+'<p class="pmeta">Printed '+esc(dayMed(todayYMD()))+' · Written privately on my own computer'+((licensed&&licenseName)?' · Licensed to '+esc(licenseName):'')+'</p>';
+  if(incSum) h+=summaryHTML(chosen.filter(function(e){return e.type==='checkin';}));
+  if(incKeep){
+    h+='<h2>Remembering</h2>';
+    state.keepsakes.forEach(function(k){ h+='<div class="pentry">'+keepHTML(k)+'</div>'; });
+  }
+  if(chosen.length){
+    h+='<h2>Entries</h2>';
+    chosen.forEach(function(e){
+      h+='<div class="pentry"><div class="pmeta">'+esc(metaLine(e))+(e.type==='checkin'?' · Check-in':'')+'</div>';
+      if(e.q&&e.qText) h+='<h3>'+esc(e.qText)+'</h3>';
+      if(e.title) h+='<h3>'+esc(e.title)+'</h3>';
+      if(e.type==='checkin'){
+        var bits=[]; if(feelAll(e).length) bits.push('Feeling: '+feelAll(e).join(', '));
+        if(e.body&&e.body.length) bits.push('Body: '+e.body.join(', '));
+        bits.push('How heavy: '+INTENSITY[(e.intensity||3)-1]);
+        h+='<p class="pmeta">'+esc(bits.join(' · '))+'</p>';
+        if(e.signs&&e.signs.length) h+='<p class="pmeta">Signs noted: '+esc(e.signs.join('; '))+'</p>';
+      }
+      if(e.text) h+='<div class="body">'+esc(e.text)+'</div>';
+      h+='</div>';
+    });
+  }
+  $('printArea').innerHTML=h;
+  setTimeout(function(){ window.print(); },100);
+};
+
+/* ---------- start-up ---------- */
+function startApp(){
+  CONFIG.title && ($('appTitle').textContent=CONFIG.title);
+  if(CONFIG.contact){ $('authorContact').textContent=CONFIG.contact; $('aboutContact').textContent=CONFIG.contact; }
+  if(CONFIG.author) $('footAuthor').textContent=' '+CONFIG.author;
+  if(CONFIG.extraCredits) $('extraCredits').textContent=CONFIG.extraCredits;
+  applyScale(); applyMode(); rebuildChips(); pickPrompt(); renderAllWho(); refreshQuestions(); renderKeeps();
+  updateLicenseUI(); renderLockCard(); updateStorageUI(); renderBackupInfo();
+  show('home');
+}
+renderSpirit('spiritWelcome','w'); renderSpirit('spiritSettings','s');
+buildDate('c'); buildDate('w'); buildDate('q');
+buildSigns(); buildQuestions(); rebuildChips();
+
+(async function boot(){
+  var stored=readStored();
+  if(stored && stored.locked){
+    lockedBlob=stored;
+    if(!cryptoOK){
+      $('lockTitle').textContent='This browser cannot open your journal';
+      $('lockPw').disabled=true; $('lockBtn').disabled=true;
+      $('lockErr').textContent='Your journal is password protected, and this browser cannot unlock a saved file. Please open it in Firefox, Chrome, Opera, or Edge, the same one you used before.';
+    }
+    $('lockScreen').classList.remove('hidden');
+    try{ $('lockPw').focus(); }catch(e){}
+    return;
+  }
+  if(stored) state=adopt(stored);
+  await loadLicense();
+  startApp();
+})();
+
+})();
+</script>
+</body>
+</html>
