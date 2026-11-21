@@ -69,11 +69,11 @@ Honest feedback is the whole point. If something is confusing, hard to read, or 
 
 ## Please read before you start
 
-- **Use the same browser every time.** Your writing is saved in the browser you use. A different browser will show an empty journal.
-- **Browsers:** Firefox, Chrome, Opera, and Edge work well. Safari may not.
+- **Use the same device and browser every time.** Your writing is saved in the browser you use, so a different browser or device will show an empty journal. This one-device, one browser approach is intentional. Grief deserves your full attention, and phones don't invite that. So set aside a (non-spillable) cup of coffee, sit down at a computer, and write. Your attention, and your recovery, will thank you.
+- **Browsers:** Firefox, Chrome, Safari, Opera, and Edge work well on a laptop or desktop.
 - **Your entries stay in your own browser.** If you clear your browser's data, they can disappear.
 - **Back up your writing.** The full-access version lets you save a small backup file that keeps your writing safe and lets you move it to another browser.
-- **Optional password.** If you set a password and forget it, no one can recover your journal, including me.
+- **Optional password.** Some grief experiences are deeply private, and a password keeps sensitive writing to yourself. If you forget it, no one can recover your journal, including me, so please keep it somewhere safe.
 - **Test entries on the test page:** you can make up to 3.
 
 ------
