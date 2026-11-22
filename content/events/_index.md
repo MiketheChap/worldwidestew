@@ -13,7 +13,6 @@ categories:
     - psychology
 ---
 
-#### Opportunity to Test 
 # A Quiet Place
 
 **A private journal for grief and loss. Now looking for 25 testers.**
@@ -22,7 +21,7 @@ Grief is one of the most human things there is, and it rarely follows a map. *A 
 
 There is no right way to use it, and nothing in it you have to finish. Come when you want. Leave when you need to.
 
-I am looking for **up to 25 testers** to try it and tell me, honestly, what works and what doesn't.
+I am looking for **up to 25 testers** to try it and tell me, honestly, what works and what doesn't. Honest comments may save me countless hours.
 
 ------
 
@@ -30,9 +29,9 @@ I am looking for **up to 25 testers** to try it and tell me, honestly, what work
 
 **1. Try it now (no request needed)** You can make up to **3 entries** on the test page: https://worldwidestew.com/qp-test/
 
-**2. Request free full access** Full access includes backups, choosing your religious or spiritual preferences, and more. It is free to the first 25 testers who agree to complete a brief, honest survey: https://forms.gle/WyZZ7DiFusv5vRwx5
+**2. Request free full access** Full access includes backups, choosing your religious or spiritual preferences, and more. It is free to the first 25 testers who agree to complete a brief, honest survey: https://forms.gle/WyZZ7DiFusv5vRwx5 The journal is your's to keep and your code does not expire with future editions of *this* tool. 
 
-When I have gathered enough feedback, I will announce here that free access has closed. After that, the journal will be available for purchase.
+When I have gathered enough feedback, I will announce here that free access has closed. After that, the journal will be available for purchase. But, your kind review entitles you to keep this journal. Your code does not expire with future editions of *this* tool. 
 
 ------
 
@@ -53,7 +52,7 @@ You can make the text larger or smaller at any time. In the full-access version,
 
 ## Who can test
 
-You do not need to be grieving right now. If you are, you are welcome. If you are a caregiver, counselor, chaplain, hospice or healthcare worker, or someone who supports people through loss, your feedback is just as valuable.
+You do not need to be grieving right now. If you are experiencing, you should not use this tool at this times. If you are, you are welcome. If you are a caregiver, counselor, chaplain, hospice or healthcare worker, or someone who supports people through loss, your feedback is just as valuable.
 
 ------
 
@@ -69,11 +68,11 @@ Honest feedback is the whole point. If something is confusing, hard to read, or 
 
 ## Please read before you start
 
-- **Use the same device and browser every time.** Your writing is saved in the browser you use, so a different browser or device will show an empty journal. This one-device, one browser approach is intentional. Grief deserves your full attention, and phones don't invite that. So set aside a (non-spillable) cup of coffee, sit down at a computer, and write. Your attention, and your recovery, will thank you.
-- **Browsers:** Firefox, Chrome, Safari, Opera, and Edge work well on a laptop or desktop.
+- **Use the same browser and same device (a desktop) every time.** Your writing is saved in the browser you use. A different browser will show an empty journal.
+- **Browsers:** Firefox, Chrome, Opera, and Edge work well. Safari may not.
 - **Your entries stay in your own browser.** If you clear your browser's data, they can disappear.
 - **Back up your writing.** The full-access version lets you save a small backup file that keeps your writing safe and lets you move it to another browser.
-- **Optional password.** Some grief experiences are deeply private, and a password keeps sensitive writing to yourself. If you forget it, no one can recover your journal, including me, so please keep it somewhere safe.
+- **Optional password.** If you set a password and forget it, no one can recover your journal, including me.
 - **Test entries on the test page:** you can make up to 3.
 
 ------
