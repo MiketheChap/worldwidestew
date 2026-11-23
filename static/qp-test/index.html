@@ -6,7 +6,7 @@
   Copyright (c) 2026 Barbara Davis and Michael Davis. All rights reserved.
   Licensed, not sold, for the personal use of the person named on the license.
   Do not copy, share, resell, or distribute this file or its license code,
-  and do not remove this notice. This is version 14. 
+  and do not remove this notice.
 -->
 <meta charset="utf-8">
 <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
@@ -71,6 +71,9 @@ details{border:2px solid var(--line);border-radius:.8rem;background:#fff;margin:
 summary{cursor:pointer;font-weight:600;padding:.6rem 0;font-family:Georgia,serif;font-size:1.05rem}
 input[type=range]{width:100%;height:2rem}
 .entry .meta{color:var(--muted);font-size:.85rem}
+.entry.t-checkin{border-left:6px solid #7fa597}
+.entry.t-write{border-left:6px solid #6b79a6}
+.entry.t-q{border-left:6px solid #b8955a}
 .entry .body{white-space:pre-wrap;margin:.6rem 0}
 .entry label.sel{display:inline-flex;gap:.5rem;align-items:center;font-weight:400;margin:0}
 .opt{display:flex;gap:.7rem;align-items:flex-start;margin:.6rem 0}
@@ -100,6 +103,13 @@ footer{color:var(--muted);font-size:.8rem;border-top:2px solid var(--line);margi
 big.phone{font-size:1.3rem;font-weight:700}
 #printArea{display:none}
 .crisis .short{display:none}
+code{background:#f1ece4;padding:0 .3rem;border-radius:.3rem}
+details ol{margin:.3rem 0 .8rem;padding-left:1.4rem}
+details li{margin:.25rem 0}
+.nextcard h3{margin-top:0}
+.navbottomwrap{margin-top:1.6rem;padding-top:.6rem;border-top:2px solid var(--line)}
+.nextTitle{margin:.6rem 0 .6rem}
+#navBottom{display:flex;flex-wrap:wrap;gap:.5rem;margin:0;padding:0;border-bottom:none}
 @media (max-width:640px){
   #menuBtn{display:block;margin-top:.6rem}
   nav{display:none;margin-top:.6rem}
@@ -121,6 +131,26 @@ big.phone{font-size:1.3rem;font-weight:700}
   .pentry{page-break-inside:avoid;border-top:1px solid #999;padding-top:.6em;margin-top:1em}
   .pentry .body{white-space:pre-wrap}
   .pmeta{color:#444;font-size:10pt}
+  #printArea .pday h2{font-size:14pt;border-bottom:1.5pt solid #000;padding-bottom:.15em;margin:1.7em 0 .5em;page-break-after:avoid}
+  .pblock{margin:.8em 0;padding:.5em .9em}
+  .plabel{font-variant:small-caps;letter-spacing:.07em;font-size:10pt;color:#333;margin-bottom:.35em}
+  .pcheck{background:#eee;border-left:4pt solid #777;font-size:11pt;page-break-inside:avoid}
+  .pwrite{border-left:4pt solid #000;page-break-inside:avoid}
+  .pqs{border-left:4pt double #000}
+  .pqitem{page-break-inside:avoid;margin-top:1em}
+  #printArea h3.pwho{font-size:15pt;margin:1.2em 0 .2em;border-bottom:1pt solid #999;padding-bottom:.1em}
+  #printArea h3.pq{border-left:4pt double #000;padding-left:.6em}
+  .pans{margin:.4em 0 .6em 1.1em}
+  #printArea h3.pq{font-style:italic;font-weight:bold;font-size:12pt;margin:.2em 0 .2em}
+  .pblock .body{white-space:pre-wrap}
+  .pend{page-break-before:always}
+  #printArea .pentry{border-top:0;margin-top:1.5em;padding-top:0;page-break-inside:avoid}
+  #printArea .pentry h3{font-size:16pt;margin:0 0 .4em;padding-bottom:.15em;border-bottom:1.25pt solid #000}
+  #printArea .pentry > p{margin:.5em 0 .5em 1.4em;padding-left:.7em;border-left:1.5pt solid #bbb;font-size:11.5pt}
+  #printArea .pentry > p strong{font-variant:small-caps;letter-spacing:.05em;font-size:10.5pt;color:#333}
+  #printArea h3.pwt{font-size:1em;font-weight:normal;margin:.1em 0 .5em;padding-bottom:.25em;border-bottom:.75pt solid #999}
+  .pcheck .body{font-size:12pt}
+  #printArea h2.psection{font-size:22pt;font-weight:normal;font-variant:small-caps;letter-spacing:.08em;text-align:center;border-top:2pt solid #000;border-bottom:2pt solid #000;padding:.3em 0;margin:1.6em 0 .8em;page-break-after:avoid}
   table.ptab{border-collapse:collapse;width:100%;font-size:10pt}
   table.ptab td,table.ptab th{border:1px solid #999;padding:3pt 5pt;text-align:left;vertical-align:top}
 }
@@ -206,15 +236,20 @@ big.phone{font-size:1.3rem;font-weight:700}
   <h2>Welcome</h2>
   <div id="banners"></div>
 
-  <div class="card warn hidden" id="licenseCard">
-    <h3>Unlock your journal</h3>
-    <p id="licenseIntro">You are using the preview, which lets you save a few entries so you can try it. To keep writing, please enter your name and the license code that came with your purchase.</p>
-    <label for="licName">Your name, exactly as it appears on your receipt</label>
-    <input type="text" id="licName" autocomplete="name">
-    <label for="licCode">License code (you can paste it)</label>
-    <textarea id="licCode" style="min-height:5rem" spellcheck="false"></textarea>
-    <p class="err" id="licMsg" role="alert"></p>
-    <p class="row"><button class="primary" id="licBtn">Unlock</button></p>
+  <div class="card soft hidden" id="licenseCard">
+    <h3 id="licenseHead">You are using the free preview</h3>
+    <p id="licenseIntro"></p>
+    <p id="testerNote" class="hidden"></p>
+    <details id="licenseBox">
+      <summary>I have a license code: unlock my journal</summary>
+      <p class="muted">Your name and license code came in an email from the author. Type your name exactly as it is written in that email, then paste the whole code.</p>
+      <label for="licName">Your name, exactly as it appears in the email or on your receipt</label>
+      <input type="text" id="licName" autocomplete="name">
+      <label for="licCode">License code (you can paste it)</label>
+      <textarea id="licCode" style="min-height:5rem" spellcheck="false"></textarea>
+      <p class="err" id="licMsg" role="alert"></p>
+      <p class="row"><button class="primary" id="licBtn">Unlock</button></p>
+    </details>
     <p class="muted" id="licHelp"></p>
   </div>
 
@@ -226,7 +261,7 @@ big.phone{font-size:1.3rem;font-weight:700}
   <div class="card">
     <h3>Your words stay with you</h3>
     <p>Everything you write here is kept <strong>on this computer, in this browser</strong>. Nothing is sent anywhere. There is no account and no one else can read it. If you ever choose to share something, that is always your decision, and nothing happens unless you ask for it.</p>
-    <p class="muted">Because it is stored in your browser, please save a backup once in a while. Clearing your browser's data would erase the journal, and a backup file is your safety net.</p>
+    <p class="muted">Please use the same browser, on the same device, each time you come back. A different browser or computer will show an empty journal, and so will clearing your browser's data. Your safety net is a <strong>backup</strong>: a copy of your writing, saved as a small file. <button type="button" class="small" data-go="settings" data-scroll="backupCard">What is a backup?</button></p>
   </div>
   <div class="card">
     <h3>What place, if any, would you like faith or spirituality to have here?</h3>
@@ -306,6 +341,7 @@ big.phone{font-size:1.3rem;font-weight:700}
     <textarea id="wText" class="tall"></textarea>
     <p><button class="primary" id="saveWrite">Save to my journal</button></p>
   </div>
+  <div id="writeResponse"></div>
 </section>
 
 <!-- FOUR QUESTIONS -->
@@ -358,6 +394,7 @@ big.phone{font-size:1.3rem;font-weight:700}
       <button id="clearKeep">Start a blank page</button>
     </p>
   </div>
+  <div id="keepResponse"></div>
   <h3>My keepsakes</h3>
   <div id="keepList"></div>
 </section>
@@ -583,15 +620,35 @@ big.phone{font-size:1.3rem;font-weight:700}
     <div id="spiritSettings"></div>
   </div>
   <div class="card" id="lockCard"></div>
-  <div class="card">
+  <div class="card" id="backupCard">
     <h3>Save a backup</h3>
+    <p><strong>What is a backup?</strong> A backup is a copy of everything you have written, saved as a small file. Think of it as a photocopy of your journal, kept in a safe drawer.</p>
+    <p><strong>Why make one?</strong> Your journal lives only in this browser, on this computer. If the browser's data is cleared, or the computer is replaced or breaks, the writing would be gone. A backup file lets you bring it back, or move it to another computer.</p>
     <div class="row">
       <button class="primary" id="doBackup">Save a backup</button>
       <button id="doRestoreBtn">Restore from a backup</button>
       <input type="file" id="restoreFile" accept=".json,application/json" class="hidden">
     </div>
     <p class="muted" id="backupInfo"></p>
-    <p class="muted">Your backup is a small file that goes to your Downloads folder. Move it somewhere you'll find it again, such as Documents. If you have turned on a password, your backup is locked with it too.</p>
+    <details>
+      <summary>Step by step: saving and restoring a backup</summary>
+      <p><strong>To save a backup</strong></p>
+      <ol>
+        <li>Press <strong>Save a backup</strong>.</li>
+        <li>A small file with a name like <code>grief_journal_backup_2026-11-22.json</code> goes to your <strong>Downloads</strong> folder (or wherever your browser keeps downloads). Your browser may show a small message or arrow when it is done.</li>
+        <li>Open your Downloads folder and move or copy that file somewhere safe: your Documents folder, a USB stick, or a cloud folder you already use. That is all there is to it.</li>
+      </ol>
+      <p>A good habit is to save a backup once a month, or any time you have written something you would hate to lose. The journal will remind you when it has been a while. Each backup holds everything, so you only need to keep the newest one.</p>
+      <p><strong>To restore a backup</strong> (for example, on a new computer, or if your journal looks empty)</p>
+      <ol>
+        <li>Open the journal in the browser you want to use.</li>
+        <li>Press <strong>Restore from a backup</strong>.</li>
+        <li>Choose your backup file. If the backup is locked with a password, you will be asked for it.</li>
+      </ol>
+      <p>Restoring only adds what is missing. It never erases or overwrites what is already in the journal, so it is safe to try.</p>
+      <p class="muted">If you can't find your file, look in your Downloads folder for a name that starts with <code>grief_journal_backup</code>.</p>
+    </details>
+    <p class="muted">If you have turned on a password, your backup is locked with it too.</p>
   </div>
   <div class="card">
     <h3>How full is my journal?</h3>
@@ -622,11 +679,16 @@ big.phone{font-size:1.3rem;font-weight:700}
       <li>This journal is a companion for reflection and education. It is not therapy, medical care, or emergency help.</li>
     </ul>
     <p id="extraCredits" class="muted"></p>
-    <p class="muted">Version 13 · November 2026</p>
+    <p class="muted">Version 14 · November 2026</p>
   </details>
 </section>
 
 </main>
+
+<div class="navbottomwrap" id="navBottomWrap">
+  <h3 class="nextTitle">Where would you like to go next?</h3>
+  <nav id="navBottom" aria-label="Where to next"></nav>
+</div>
 
 <footer>
   This journal stores everything privately in your browser on this computer. It offers companionship and education, not therapy or emergency care.
@@ -648,6 +710,7 @@ var CONFIG = {
   author: 'Michael Davis, Th.M., BCC; Barb Davis, MA.',            // e.g. 'Created by Rev. Name, hospice chaplain'
   contact: 'mikethechap@gmail.com or worldwidestew.com',           // e.g. 'You can reach me at ...'
   getCodeHelp: 'If you purchased this journal, your license code was sent to you by email.',
+  testerFormUrl: 'https://forms.gle/gTYn71roENdo9YED7',   // leave '' to hide the free-tester offer when free access closes
   extraCredits: 'Built with the help of Claude, an AI assistant made by Anthropic. Claude wrote the software and helped draft and organize the journal\'s wording and flow. The ideas, framework, and source material come from the authors\' own writing, and the authors reviewed the content. Not affiliated with or endorsed by Anthropic.'       // e.g. a credit line for any booklet or source you have permission to cite
 };
 var PREVIEW_LIMIT = 3;   // how many entries/keepsakes can be saved before a license is needed
@@ -791,7 +854,7 @@ function normName(n){ return String(n).normalize('NFKC').trim().replace(/\s+/g,'
 var toastTimer;
 function toast(msg){
   var t=$('toast'); t.textContent=msg; t.classList.add('show');
-  clearTimeout(toastTimer); toastTimer=setTimeout(function(){t.classList.remove('show');},4800);
+  clearTimeout(toastTimer); toastTimer=setTimeout(function(){t.classList.remove('show');},Math.min(12000,Math.max(4800,msg.length*60)));
 }
 function diffText(from,to){
   var a=parseYMD(from), b=parseYMD(to);
@@ -803,6 +866,17 @@ function diffText(from,to){
   if(y>0) return u(y,'year')+(m?', '+u(m,'month'):'');
   if(m>0) return u(m,'month')+(d?', '+u(d,'day'):'');
   return d===0?'today':u(d,'day');
+}
+
+function nextButtons(items){
+  return '<div class="row">'+items.map(function(i){
+    return '<button type="button"'+(i[2]?' class="primary"':'')+' data-go="'+i[0]+'">'+esc(i[1])+'</button>';
+  }).join('')+'</div><p class="muted" style="margin-top:.9rem">Or, if you are done for now: <button type="button" class="small" data-rest="1">That is enough for today</button></p>';
+}
+var curTab='home';
+function syncBottomNav(){
+  var hide=(curTab==='home')||!!document.querySelector('#tab-'+curTab+' .nextcard');
+  $('navBottomWrap').classList.toggle('hidden',hide);
 }
 
 /* ---------- state ---------- */
@@ -917,12 +991,34 @@ async function loadLicense(){
     if(r && cryptoOK && await verifyLicense(r.name,r.code)){ licensed=true; licenseName=String(r.name).trim().replace(/\s+/g,' '); }
   }catch(e){}
 }
+function previewCount(){ return state.entries.length+state.keepsakes.filter(function(k){return !k.auto;}).length; }
 function updateLicenseUI(){
   var showCard=!!QP_PUBLIC_KEY && !licensed;
-  $('licenseCard').classList.toggle('hidden',!showCard);
-  $('licHelp').textContent=CONFIG.getCodeHelp||'';
-  if(showCard && !cryptoOK){
-    $('licenseIntro').textContent='This browser cannot check license codes from a saved file. Please open this file in Firefox, Chrome, Opera, or Edge to unlock it.';
+  var card=$('licenseCard');
+  card.classList.toggle('hidden',!showCard);
+  $('licHelp').textContent=(CONFIG.getCodeHelp||'')+(CONFIG.contact?' Questions? '+CONFIG.contact+'.':'');
+  (function(){
+    var tn=$('testerNote'); if(!tn) return;
+    tn.textContent='';
+    if(CONFIG.testerFormUrl && showCard){
+      tn.appendChild(document.createTextNode('Would you like to try the full journal, with as many entries as you like? Free access is offered to testers who complete a brief, honest survey: '));
+      var a=document.createElement('a'); a.href=CONFIG.testerFormUrl; a.target='_blank'; a.rel='noopener'; a.textContent='request your free tester access here';
+      tn.appendChild(a);
+      tn.appendChild(document.createTextNode('. You will be sent your name, an unlock code, and a link by email, and you can keep that access as long as you like.'));
+      tn.classList.remove('hidden');
+    } else tn.classList.add('hidden');
+  })();
+  if(showCard){
+    var used=previewCount(), atLimit=used>=PREVIEW_LIMIT;
+    card.classList.toggle('warn',atLimit); card.classList.toggle('soft',!atLimit);
+    $('licenseHead').textContent=atLimit?'Your preview entries are used up':'You are using the free preview';
+    $('licenseIntro').textContent=atLimit
+      ? 'You have saved the '+PREVIEW_LIMIT+' entries the preview allows. To keep writing, please unlock your journal with the name and license code that came from the author. Your words are safe. You can still save a backup, read Learning About Grief, and use Reaching Out.'
+      : 'You can save up to '+PREVIEW_LIMIT+' entries to see whether this journal suits you ('+used+' saved so far). Look around and write whenever you are ready. There is nothing you need to do about this box yet. If you already have a license code, open the box below.';
+    if(atLimit) $('licenseBox').open=true;
+    if(!cryptoOK){
+      $('licenseIntro').textContent='This browser cannot check license codes from a saved file. Please use the web page, or open the file in Firefox, Chrome, Opera, or Edge, to unlock it.';
+    }
   }
   var f='', st='';
   if(!QP_PUBLIC_KEY){ f='Development copy (no license check).'; st='This is a development copy, so there is no license check.'; }
@@ -964,10 +1060,9 @@ $('changeLic').onclick=function(){
 };
 function canAdd(){
   if(licensed) return true;
-  var count=state.entries.length+state.keepsakes.filter(function(k){return !k.auto;}).length;
-  if(count<PREVIEW_LIMIT) return true;
-  toast('You have reached the preview limit. Please enter your license code on the Welcome page to keep writing. Your words are safe, and you can still save a backup.');
+  if(previewCount()<PREVIEW_LIMIT) return true;
   show('home');
+  toast('You have saved the '+PREVIEW_LIMIT+' entries the preview allows. To keep writing, please open the box called "I have a license code" and enter your name and code. Your words are safe, and you can still save a backup.');
   return false;
 }
 $('licBtn').onclick=async function(){
@@ -976,10 +1071,10 @@ $('licBtn').onclick=async function(){
   if(!cryptoOK){ $('licMsg').textContent='This browser cannot check license codes. Please open the file in Firefox, Chrome, Opera, or Edge.'; return; }
   if(!name.trim()||!code.trim()){ $('licMsg').textContent='Please enter both your name and your license code.'; return; }
   var ok=await verifyLicense(name,code);
-  if(!ok){ $('licMsg').textContent='That name and code do not match. Please check that the name is spelled exactly as on your receipt, and that the whole code was pasted.'; return; }
+  if(!ok){ $('licMsg').textContent='That name and code do not match. Please check that the name is spelled exactly as in the email or on your receipt, and that the whole code was pasted.'; return; }
   try{ localStorage.setItem(LIC_KEY,JSON.stringify({name:name.trim(),code:code.replace(/\s+/g,'')})); }catch(e){}
   licensed=true; licenseName=name.trim().replace(/\s+/g,' ');
-  updateLicenseUI(); updateStorageUI(); renderKeeps(); toast('Thank you. Your journal is unlocked.');
+  updateLicenseUI(); updateStorageUI(); renderKeeps(); toast('Thank you. Your journal is unlocked, and you can write as much as you like.');
 };
 
 /* ---------- text size ---------- */
@@ -1112,11 +1207,17 @@ function renderAllWho(){ ['c','w','q'].forEach(renderWho); }
 /* ---------- navigation ---------- */
 var PAGE_NAMES={home:'Welcome',checkin:"Today's Check-In",write:'Write',questions:'Four Questions',remember:'Remember Someone',understand:'Learning About Grief',reach:'Reaching Out',journal:'My Journal',settings:'Settings'};
 function show(tab){
+  curTab=tab;
   document.querySelectorAll('[data-section]').forEach(function(s){ s.classList.add('hidden'); });
   $('tab-'+tab).classList.remove('hidden');
   document.querySelectorAll('#nav button').forEach(function(b){
     if(b.dataset.tab===tab) b.setAttribute('aria-current','page'); else b.removeAttribute('aria-current');
   });
+  document.querySelectorAll('#navBottom button').forEach(function(b){
+    if((b.dataset.tab||b.dataset.go)===tab) b.setAttribute('aria-current','page'); else b.removeAttribute('aria-current');
+  });
+  syncBottomNav();
+  ['checkResponse','writeResponse','keepResponse','qDone1','qDone2','qDone3','qDone4'].forEach(function(id){ var e=$(id); if(e) e.innerHTML=''; });
   if(tab==='settings') $('settingsBtn').setAttribute('aria-current','page'); else $('settingsBtn').removeAttribute('aria-current');
   $('menuLabel').textContent='Menu: '+(PAGE_NAMES[tab]||'');
   $('nav').classList.remove('open'); $('menuBtn').setAttribute('aria-expanded','false');
@@ -1130,13 +1231,24 @@ function show(tab){
   window.scrollTo(0,0);
   $('main').focus();
 }
+
+['checkResponse','writeResponse','keepResponse','qDone1','qDone2','qDone3','qDone4'].forEach(function(id){
+  var e=$(id); if(e && window.MutationObserver) new MutationObserver(syncBottomNav).observe(e,{childList:true});
+});
 $('menuBtn').onclick=function(){
   var open=$('nav').classList.toggle('open');
   this.setAttribute('aria-expanded',open?'true':'false');
 };
 document.addEventListener('click',function(e){
+  var r=e.target.closest('[data-rest]');
+  if(r){
+    var c=r.closest('.nextcard');
+    if(c){ c.classList.remove('nextcard'); c.innerHTML='<h3>That is enough for today.</h3><p>What you wrote is saved. Be gentle with yourself, and come back whenever you are ready. You can close this page now.</p><p class="muted">Tomorrow, or next week, a check-in is here when you want it.</p>'; syncBottomNav(); }
+    return;
+  }
   var t=e.target.closest('[data-tab],[data-go]'); if(!t) return;
   show(t.dataset.tab||t.dataset.go);
+  if(t.dataset.scroll){ var el=$(t.dataset.scroll); if(el) el.scrollIntoView({block:'start'}); }
 });
 
 /* ---------- banners ---------- */
@@ -1177,7 +1289,7 @@ function renderBanners(){
   if(pct>=60 && pct<90) h+='<div class="card soft">Your journal is about '+pct+'% full. There is still room, and this is a good time to save a backup. <button class="small" data-go="settings">Open Settings</button></div>';
   var has=state.entries.length+state.keepsakes.length>0;
   if(has && (!state.lastBackup || daysSince(state.lastBackup)>30)){
-    h+='<div class="card warn">It has been a while since you saved a backup of your journal. A backup is a small file that keeps your writing safe. <button class="small" data-go="settings">Go to Settings</button></div>';
+    h+='<div class="card warn">It has been a while since you saved a backup of your journal. A backup is a copy of your writing, saved as a small file, like a photocopy kept in a safe drawer. It only takes a minute. <button class="small" data-go="settings" data-scroll="backupCard">Show me how</button></div>';
   }
   $('banners').innerHTML=h;
 }
@@ -1258,7 +1370,7 @@ $('saveCheck').onclick=async function(){
         '<p>Chest tightness, a racing heart, or trouble breathing can be part of grief, but they can also be signs of a heart problem. Bereavement carries real cardiovascular risks. <strong>If you have chest pain or pressure, or trouble breathing, call emergency medical services now (911 in the U.S.).</strong> Don\u2019t wait to see if it passes, and please mention it to your doctor.</p></div>';
     }
     var msgs=entry.feelings.concat(entry.mind).map(normalFor).filter(Boolean).slice(0,3);
-    html+='<div class="card soft"><h3>Thank you for checking in</h3>';
+    html+='<div class="card soft nextcard"><h3>Thank you for checking in</h3>';
     msgs.forEach(function(m){ html+='<p>'+esc(m)+'</p>'; });
     if(!msgs.length) html+='<p>Whatever you are feeling is welcome here.</p>';
     if(entry.body.length && !cardiac) html+='<p>Your body is mourning along with you. Be gentle with it, and mention any symptom that worries you to your doctor.</p>';
@@ -1268,7 +1380,9 @@ $('saveCheck').onclick=async function(){
     if(entry.intensity>=5 || entry.feelings.indexOf('Overwhelmed')>-1){
       html+='<p><strong>If today feels too heavy to carry alone, please consider reaching out to someone.</strong> <button class="small" data-go="reach">Open Reaching Out</button></p>';
     }
-    html+='<p class="muted">Saved to your journal'+(entry.day?' for '+esc(dayLong(entry.day)):' (without a date)')+'.</p></div>';
+    html+='<p class="muted">Saved to your journal'+(entry.day?' for '+esc(dayLong(entry.day)):' (without a date)')+'.</p>'+
+      '<p><strong>Where would you like to go next?</strong></p>'+
+      nextButtons([['write','Write about today',true],['questions','The four questions'],['remember','Remember someone'],['journal','See my journal'],['understand','Learning About Grief']])+'</div>';
     $('checkResponse').innerHTML=html;
     feelSel.clear(); mindSel.clear(); bodySel.clear(); spiritSel.clear(); rebuildChips();
     buildSigns(); $('signsBox').open=false;
@@ -1302,6 +1416,9 @@ $('saveWrite').onclick=async function(){
     $('wTitle').value=''; $('wText').value=''; resetDate('w');
     whoState.w={sel:w.id||'',name:''}; renderWho('w');
     toast('Saved. Thank you for putting this into words.');
+    $('writeResponse').innerHTML='<div class="card soft nextcard"><h3>Saved. Thank you for putting this into words.</h3><p>It is in <strong>My Journal</strong> whenever you want to read it again.</p><p><strong>Where would you like to go next?</strong></p>'+
+      nextButtons([['journal','See my journal',true],['checkin',"Today's check-in"],['questions','The four questions'],['remember','Remember someone'],['understand','Learning About Grief']])+'</div>';
+    $('writeResponse').scrollIntoView({behavior:'smooth',block:'nearest'});
   } finally { busy.w=false; }
 };
 
@@ -1316,6 +1433,7 @@ function buildQuestions(){
       '<label for="qText'+q.n+'">Your thoughts on this question</label>'+
       '<textarea id="qText'+q.n+'" class="mid"></textarea>'+
       '<p><button class="primary" data-qsave="'+q.n+'">Save my thoughts on this question</button></p>'+
+      '<div id="qDone'+q.n+'"></div>'+
       '<div id="qPast'+q.n+'"></div></div>';
   });
   $('qCards').innerHTML=h;
@@ -1356,6 +1474,8 @@ async function saveQuestion(n){
     if(!ok){ toast(SAVE_FAIL); return; }
     ta.value=''; whoState.q={sel:w.id||'',name:''}; renderWho('q'); refreshQuestions();
     toast('Saved. These questions will be here whenever you want to return to them.');
+    $('qDone'+n).innerHTML='<div class="card soft nextcard"><p><strong>Saved.</strong> These questions will be here whenever you want to return to them.</p><p><strong>Where would you like to go next?</strong></p>'+
+      nextButtons([['journal','See my journal',true],['write','Write'],['checkin',"Today's check-in"],['remember','Remember someone'],['understand','Learning About Grief']])+'</div>';
   } finally { busy.q=false; }
 }
 
@@ -1389,6 +1509,8 @@ $('saveKeep').onclick=async function(){
     }
     if(!ok){ toast(SAVE_FAIL); return; }
     clearKeepForm(); renderKeeps(); renderAllWho(); toast('Keepsake saved.');
+    $('keepResponse').innerHTML='<div class="card soft nextcard"><p><strong>Saved.</strong> '+esc(obj.name)+'’s page is in the list below, and you can come back to add more at any time.</p><p><strong>Where would you like to go next?</strong></p>'+
+      nextButtons([['write','Write about them',true],['checkin',"Today's check-in"],['questions','The four questions'],['journal','See my journal'],['understand','Learning About Grief']])+'</div>';
   } finally { busy.k=false; }
 };
 function keepHTML(k){
@@ -1497,7 +1619,7 @@ function visibleEntries(){
     return e.type===filter;
   }).sort(function(a,b){ return sortKey(a)<sortKey(b)?1:-1; });
 }
-function entryLabel(e){ return e.type==='checkin'?'Check-in':(e.q?'Question '+e.q:'Writing'); }
+function entryLabel(e){ return e.type==='checkin'?'Check-in':(e.q?'Four Questions · '+e.q+' of 4':'Writing'); }
 function feelAll(e){ return (e.feelings||[]).concat(e.mind||[]); }
 function metaLine(e){
   var d=entryDay(e), bits=[d?dayLong(d):'No date'];
@@ -1525,7 +1647,7 @@ function renderJournal(){
   var el=$('entryList');
   if(!list.length){ el.innerHTML='<p class="muted">Nothing here yet. Your check-ins and writing will appear here.</p>'; return; }
   el.innerHTML=list.map(function(e){
-    var h='<div class="card entry"><div class="row" style="justify-content:space-between">'+
+    var h='<div class="card entry t-'+(e.type==='checkin'?'checkin':(e.q?'q':'write'))+'"><div class="row" style="justify-content:space-between">'+
       '<label class="sel"><input type="checkbox" data-sel="'+esc(e.id)+'"'+(selected.has(e.id)?' checked':'')+'> Include in PDF</label>'+
       '<span class="tag">'+esc(entryLabel(e))+'</span></div>'+
       '<div class="meta">'+esc(metaLine(e))+'</div>';
@@ -1732,7 +1854,9 @@ $('restoreFile').onchange=function(){
       d.keepsakes.forEach(function(x){ if(x && x.id && !haveK[x.id]){ state.keepsakes.push(x); addK++; } });
       var ok=await save();
       renderJournal(); renderKeeps(); renderAllWho();
-      toast(ok?'Restored '+addE+' entries and '+addK+' keepsakes. Nothing was overwritten.':SAVE_FAIL);
+      toast(!ok?SAVE_FAIL:(addE+addK===0
+        ?'Everything in that backup is already in this journal, so nothing needed to be added. Your journal is unchanged.'
+        :'Restored '+addE+' '+(addE===1?'entry':'entries')+' and '+addK+' '+(addK===1?'keepsake':'keepsakes')+'. Nothing was overwritten.'));
     }catch(e){ alert('That file does not look like a journal backup, or this browser cannot open it. Nothing was changed.'); }
   };
   r.readAsText(f); input.value='';
@@ -1772,27 +1896,72 @@ $('doPrint').onclick=function(){
   var heading=esc(ownerText()||'My Journal');
   var memP=String(state.memoryLine||'').trim();
   var h='<h1>'+heading+'</h1>'+(memP?'<p class="pmeta" style="font-style:italic">'+esc(memP)+'</p>':'')+'<p class="pmeta">Printed '+esc(dayMed(todayYMD()))+' · Written privately on my own computer'+((licensed&&licenseName)?' · Licensed to '+esc(licenseName):'')+'</p>';
-  if(incSum) h+=summaryHTML(chosen.filter(function(e){return e.type==='checkin';}));
   if(incKeep){
-    h+='<h2>Remembering</h2>';
+    h+='<h2 class="psection">Those I&rsquo;m remembering</h2>';
     state.keepsakes.forEach(function(k){ h+='<div class="pentry">'+keepHTML(k)+'</div>'; });
   }
-  if(chosen.length){
-    h+='<h2>Entries</h2>';
-    chosen.forEach(function(e){
-      h+='<div class="pentry"><div class="pmeta">'+esc(metaLine(e))+(e.type==='checkin'?' · Check-in':'')+'</div>';
-      if(e.q&&e.qText) h+='<h3>'+esc(e.qText)+'</h3>';
-      if(e.title) h+='<h3>'+esc(e.title)+'</h3>';
-      if(e.type==='checkin'){
-        var bits=[]; if(feelAll(e).length) bits.push('Feeling: '+feelAll(e).join(', '));
-        if(e.body&&e.body.length) bits.push('Body: '+e.body.join(', '));
-        bits.push('How heavy: '+INTENSITY[(e.intensity||3)-1]);
-        h+='<p class="pmeta">'+esc(bits.join(' · '))+'</p>';
-        if(e.signs&&e.signs.length) h+='<p class="pmeta">Signs noted: '+esc(e.signs.join('; '))+'</p>';
-      }
-      if(e.text) h+='<div class="body">'+esc(e.text)+'</div>';
+  function whoBit(e){
+    var n=e.personId?personName(e.personId):'';
+    return n?' · about '+esc(n):'';
+  }
+  var qEntries=chosen.filter(function(e){return !!e.q;});
+  var diaryEntries=chosen.filter(function(e){return !e.q;});
+  if(diaryEntries.length){
+    h+='<h2 class="psection">My entries</h2>';
+    var days=[], dayMap={};
+    diaryEntries.forEach(function(e){
+      var d=entryDay(e)||'';
+      if(!dayMap.hasOwnProperty(d)){ dayMap[d]={day:d,blocks:[]}; days.push(dayMap[d]); }
+      dayMap[d].blocks.push({kind:e.type==='checkin'?'checkin':'write',e:e});
+    });
+    days.forEach(function(day){
+      h+='<div class="pday"><h2>'+esc(day.day?dayLong(day.day):'No date')+'</h2>';
+      day.blocks.forEach(function(bl){
+        if(bl.kind==='checkin'){
+          var e=bl.e, bits=[];
+          if(feelAll(e).length) bits.push('Feeling: '+feelAll(e).join(', '));
+          if(e.body&&e.body.length) bits.push('Body: '+e.body.join(', '));
+          bits.push('Today felt: '+INTENSITY[(e.intensity||3)-1]);
+          h+='<div class="pblock pcheck"><div class="plabel">Check-in'+whoBit(e)+'</div><div>'+esc(bits.join('  ·  '))+'</div>';
+          if(e.signs&&e.signs.length) h+='<div class="pmeta" style="margin-top:.3em">Signs noted: '+esc(e.signs.join('; '))+'</div>';
+          if(e.text) h+='<div class="body" style="margin-top:.5em">'+esc(e.text)+'</div>';
+          h+='</div>';
+        } else {
+          var w=bl.e;
+          h+='<div class="pblock pwrite"><div class="plabel">Writing'+whoBit(w)+'</div>'+
+             (w.title?'<h3 class="pwt">'+esc(w.title)+'</h3>':'')+
+             (w.prompt?'<div class="pmeta"><em>'+esc(w.prompt)+'</em></div>':'')+
+             (w.text?'<div class="body">'+esc(w.text)+'</div>':'')+'</div>';
+        }
+      });
       h+='</div>';
     });
+  }
+  if(qEntries.length){
+    h+='<h2 class="psection">Four Questions</h2>';
+    var groups=[], gMap={};
+    qEntries.forEach(function(e){
+      var k=e.personId||'';
+      if(!gMap.hasOwnProperty(k)){ gMap[k]={pid:k,items:[]}; groups.push(gMap[k]); }
+      gMap[k].items.push(e);
+    });
+    groups.forEach(function(g){
+      var nm=g.pid?personName(g.pid):'';
+      if(nm) h+='<h3 class="pwho">About '+esc(nm)+'</h3>';
+      for(var qn=1;qn<=4;qn++){
+        var its=g.items.filter(function(e){return Number(e.q)===qn;});
+        if(!its.length) continue;
+        var qt=''; its.forEach(function(e){ if(!qt && e.qText) qt=e.qText; });
+        h+='<div class="pqitem"><h3 class="pq">'+esc(qt||('Question '+qn))+'</h3>';
+        its.forEach(function(e){
+          h+='<div class="pans"><div class="pmeta">'+esc(entryDay(e)?dayMed(entryDay(e)):'No date')+'</div>'+(e.text?'<div class="body">'+esc(e.text)+'</div>':'')+'</div>';
+        });
+        h+='</div>';
+      }
+    });
+  }
+  if(incSum){
+    h+='<div class="pend">'+summaryHTML(chosen.filter(function(e){return e.type==='checkin';})).replace('<h2>Summary of my check-ins</h2>','<h2>A summary to share with my doctor or counselor</h2>')+'</div>';
   }
   $('printArea').innerHTML=h;
   setTimeout(function(){ window.print(); },100);
@@ -1808,6 +1977,13 @@ function startApp(){
   updateLicenseUI(); renderLockCard(); updateStorageUI(); renderBackupInfo();
   show('home');
 }
+(function(){
+  var nb=$('navBottom');
+  Array.prototype.forEach.call(document.querySelectorAll('#nav button'),function(b){
+    var c=document.createElement('button'); c.type='button'; c.setAttribute('data-tab',b.dataset.tab); c.textContent=b.textContent; nb.appendChild(c);
+  });
+  var s=document.createElement('button'); s.type='button'; s.setAttribute('data-go','settings'); s.textContent='Settings'; nb.appendChild(s);
+})();
 renderSpirit('spiritWelcome','w'); renderSpirit('spiritSettings','s');
 buildDate('c'); buildDate('w'); buildDate('q');
 buildSigns(); buildQuestions(); rebuildChips();
