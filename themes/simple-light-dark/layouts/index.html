@@ -23,6 +23,16 @@
     {{ end }}
 </ul>
 
+<h2>Resources</h2>
+<ul>
+    {{ range first 5 (where .Site.RegularPages "Type" "resources").ByDate.Reverse }}
+    <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+    </li>
+    {{ end }}
+</ul>
+
 <h2>Topics</h2>
     {{ partial "tag-cloud.html" . }}
 
