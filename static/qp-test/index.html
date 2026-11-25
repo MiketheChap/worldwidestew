@@ -708,7 +708,8 @@ details li{margin:.25rem 0}
 var CONFIG = {
   title: 'A Quiet Place',
   author: 'Michael Davis, Th.M., BCC; Barb Davis, MA.',            // e.g. 'Created by Rev. Name, hospice chaplain'
-  contact: 'mikethechap@gmail.com or worldwidestew.com',           // e.g. 'You can reach me at ...'
+  faqUrl: 'https://worldwidestew.com/resources/2026-11-23-2026-11-22-a-quiet-place-faq/',
+  contactFormUrl: 'https://forms.gle/8MX4gZrjAHpVposR8',      // questions go to the FAQ page or this form (no email address is shown, to avoid spam and phishing)
   getCodeHelp: 'If you purchased this journal, your license code was sent to you by email.',
   testerFormUrl: 'https://forms.gle/gTYn71roENdo9YED7',   // leave '' to hide the free-tester offer when free access closes
   extraCredits: 'Built with the help of Claude, an AI assistant made by Anthropic. Claude wrote the software and helped draft and organize the journal\'s wording and flow. The ideas, framework, and source material come from the authors\' own writing, and the authors reviewed the content. Not affiliated with or endorsed by Anthropic.'       // e.g. a credit line for any booklet or source you have permission to cite
@@ -717,7 +718,7 @@ var PREVIEW_LIMIT = 3;   // how many entries/keepsakes can be saved before a lic
 /* ========================================= */
 
 /* The license_maker tool fills this in. While it is null, this is a development copy and everything is unlocked. */
-var QP_PUBLIC_KEY = /*QP_PUBLIC_KEY*/{"kty":"EC","crv":"P-256","x":"5QNAWKURHUHUQRTg39nJuHz0BTra1tQLSsleLNgby8s","y":"iE-6syWbzdyjT8j0_DfL_TIFdO6afqjQnNuwPOHa-6Y"}/*END_QP_PUBLIC_KEY*/;
+var QP_PUBLIC_KEY = /*QP_PUBLIC_KEY*/null/*END_QP_PUBLIC_KEY*/;
 
 var KEY='quietPlaceGriefJournal.v1', LIC_KEY='quietPlaceLicense.v1', ITER=250000, CAP=5000000;
 var cryptoOK = !!(window.crypto && window.crypto.subtle && window.isSecureContext!==false);
@@ -992,11 +993,19 @@ async function loadLicense(){
   }catch(e){}
 }
 function previewCount(){ return state.entries.length+state.keepsakes.filter(function(k){return !k.auto;}).length; }
+function contactInto(el,lead){
+  el.textContent=lead||'';
+  function t(x){ el.appendChild(document.createTextNode(x)); }
+  function a(h,x){ var n=document.createElement('a'); n.href=h; n.target='_blank'; n.rel='noopener'; n.textContent=x; el.appendChild(n); }
+  if(CONFIG.faqUrl && CONFIG.contactFormUrl){ t('Please see the '); a(CONFIG.faqUrl,'A Quiet Place FAQ page'); t(' or use the '); a(CONFIG.contactFormUrl,'Contact Mike form'); t('.'); }
+  else if(CONFIG.faqUrl){ t('Please see the '); a(CONFIG.faqUrl,'A Quiet Place FAQ page'); t('.'); }
+  else if(CONFIG.contactFormUrl){ t('Please use the '); a(CONFIG.contactFormUrl,'Contact Mike form'); t('.'); }
+}
 function updateLicenseUI(){
   var showCard=!!QP_PUBLIC_KEY && !licensed;
   var card=$('licenseCard');
   card.classList.toggle('hidden',!showCard);
-  $('licHelp').textContent=(CONFIG.getCodeHelp||'')+(CONFIG.contact?' Questions? '+CONFIG.contact+'.':'');
+  contactInto($('licHelp'),(CONFIG.getCodeHelp||'')+' Questions? ');
   (function(){
     var tn=$('testerNote'); if(!tn) return;
     tn.textContent='';
@@ -1229,7 +1238,7 @@ function show(tab){
   if(tab==='home'){ renderBanners(); updateLicenseUI(); }
   if(tab==='settings'){ renderLockCard(); updateStorageUI(); updateLicenseUI(); renderBackupInfo(); }
   window.scrollTo(0,0);
-  $('main').focus();
+  try{ $('main').focus({preventScroll:true}); }catch(e){ $('main').focus(); }
 }
 
 ['checkResponse','writeResponse','keepResponse','qDone1','qDone2','qDone3','qDone4'].forEach(function(id){
@@ -1970,7 +1979,8 @@ $('doPrint').onclick=function(){
 /* ---------- start-up ---------- */
 function startApp(){
   CONFIG.title && ($('appTitle').textContent=CONFIG.title);
-  if(CONFIG.contact){ $('authorContact').textContent=CONFIG.contact; $('aboutContact').textContent=CONFIG.contact; }
+  contactInto($('authorContact'),'Questions about this journal? ');
+  contactInto($('aboutContact'),'');
   if(CONFIG.author) $('footAuthor').textContent=' '+CONFIG.author;
   if(CONFIG.extraCredits) $('extraCredits').textContent=CONFIG.extraCredits;
   applyScale(); applyMode(); rebuildChips(); pickPrompt(); renderAllWho(); refreshQuestions(); renderKeeps();
