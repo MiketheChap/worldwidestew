@@ -1,5 +1,5 @@
 ---
-title: Events and Programs and Opportunities
+title: Classes, Resources, and Opportunities
 tags:
     - classes
     - learning

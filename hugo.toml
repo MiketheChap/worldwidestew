@@ -24,8 +24,8 @@ paginate = 5 # This will show 5 posts per page
     url = "/editorial/"
     weight = 3
   [[menu.main]]
-    name = "Events"
-    url = "/events/"
+    name = "Resources"
+    url = "/resources/"
     weight = 4
   [[menu.main]]
     name = "About"
