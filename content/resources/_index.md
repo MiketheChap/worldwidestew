@@ -15,7 +15,7 @@ categories:
 
 # A Quiet Place
 
-**A private journal for grief and loss. Now looking for 25 testers.**
+** A private journal for grief and loss. Now looking for 25 testers.**
 
 Grief is one of the most human things there is, and it rarely follows a map. *A Quiet Place* is a gentle, private online journal where you can put down some of what you are carrying: your thoughts, your memories, the heavy days and the lighter ones.
 
