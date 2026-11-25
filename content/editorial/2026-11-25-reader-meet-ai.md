@@ -23,6 +23,8 @@ Therein lies the problem. Where does *human* stop and AI begin. What comes after
 
 I worry about all the tech-bros who are can't imagine the danger we are entering. Recently, I read an article where a media reviewer commented on a video he saw. He noted that people said the video was disturbing but, he *couldn't see it*. I can't imagine how it wouldn't be disturbing! There's no violence. There's absolute truth. And, it's utteerly cool. My wife and I couldn't get the music out of our minds. 
 
+Everything in the video shown below -- including the woman with the bewitching eyes (added by choice)-- is AI created. The lyrics. The music. The themes. It was created by some prompts and the AI took it the rest of the way. 
+
 If you don't yet understand AI, I want to clear that up. AI, meet my Reader. Reader, meet with AI knows about you and your world and how it hopes to *help you*. 
 
 ```
