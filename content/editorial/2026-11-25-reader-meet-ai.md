@@ -26,5 +26,5 @@ I worry about all the tech-bros who are can't imagine the danger we are entering
 If you don't yet understand AI, I want to clear that up. AI, meet my Reader. Reader, meet with AI knows about you and your world and how it hopes to *help you*. 
 
 ```
-{{< youtube Z6_ENp_fO_Y?si=uca_hSV02SJU1USB >}}
+{{< youtube "Z6_ENp_fO_Y?si=uca_hSV02SJU1USB" >}}
 ```
