@@ -14,7 +14,6 @@ categories:
     - inspiration
     - humanity
 ---
-**Cold, wet or both**
 
 There’s a picnic table in a tiny park down at the end of the street. Underneath the full moon with Venus, looking out toward the east, it’s all dark, except for these generous gifts of light from the sky. But even with that, it’s still dark. It’s the seat on this picnic table, where I often sit and meditate with my dog at my feet. The thing is, when it’s really cold, it’s hard to tell if the seat plank is cold, or wet with dew / irrigation spray or both cold and wet.
 
